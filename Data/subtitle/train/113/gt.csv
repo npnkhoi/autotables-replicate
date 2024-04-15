@@ -1,0 +1,27 @@
+Subtitle,Activities,Y/N
+3. Project Dependent,Change in Technology Architecture,
+2. Usually Required,Test Cases,Y
+2. Usually Required,Issues Log,Y
+3. Project Dependent,Software Upgrade,
+3. Project Dependent,New contract(s),
+2. Usually Required,Business Requirements,Y
+3. Project Dependent,Modify contract(s),
+3. Project Dependent,New Business Processes,
+3. Project Dependent,Communications to Clients,
+2. Usually Required,Project Plan,Y
+3. Project Dependent,Implement new online service,
+3. Project Dependent,Modify packaged solution,
+3. Project Dependent,New Vendor(s) involved,
+1. Approvals,Project Plan,
+3. Project Dependent,Modify SLA,
+3. Project Dependent,New database,
+3. Project Dependent,Implement new non-IT service,
+3. Project Dependent,Modify non-IT service,
+3. Project Dependent,Hardware Upgrade,
+3. Project Dependent,Update Disaster Recovery Plan,
+1. Approvals,Database Design shanges,
+2. Usually Required,Implementation Plan,Y
+3. Project Dependent,New Software,
+3. Project Dependent,French Translation,
+3. Project Dependent,Change to database design,
+2. Usually Required,Test Plan,Y

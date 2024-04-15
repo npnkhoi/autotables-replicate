@@ -1,0 +1,14 @@
+Group of benefits,English name,Funding,Branch,Means-test,Notes on units
+Unemployment benefits,Unemployment Compensation for Ex-Service Members,0,3,0,0
+"Old-age, Survivors & Early retirement",Railroad Survivor Benefits (All categories),0,1,0,1
+"Old-age, Survivors & Early retirement","Old-Age Insurance_Children (minor, disabled and student)",0,0,0,0
+"Old-age, Survivors & Early retirement","Survivors Insurance_Children (Minor, Disabled and Student)",0,1,0,0
+Unemployment benefits,Trade Readjustment Allowances,0,3,0,0
+"Old-age, Survivors & Early retirement",Railroad Retirement Benefits (All categories),0,0,0,1
+"Old-age, Survivors & Early retirement",Old-Age Insurance_Retired workers,0,0,0,0
+"Old-age, Survivors & Early retirement",Old-Age Insurance_Spouses,0,0,0,0
+Unemployment benefits,Railroad Unemployment Insurance,0,3,0,1
+Unemployment benefits,State Additional Benefits (AB),0,3,0,0
+Unemployment benefits,Unemployment Insurance benefits,0,3,0,0
+Unemployment benefits,Unemployment Compensation for Federal Employees,0,3,0,0
+"Old-age, Survivors & Early retirement",Supplemental Security Income (SSI) - Aged,0,0,1,1

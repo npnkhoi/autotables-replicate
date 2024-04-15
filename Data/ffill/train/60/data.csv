@@ -1,0 +1,20 @@
+Group of benefits,Funding,Branch,Sub-branch,Means-test,Notes on units
+Unemployment benefits,0,3,3,0,0
+Disability benefits,0,2,2,0,1
+"Old-age, Survivors & Early retirement",0,0,0,0,1
+Unemployment benefits,0,3,3,0,0
+"Old-age, Survivors & Early retirement",0,0,0,1,1
+,0,0,0,0,0
+,0,1,1,0,1
+,0,1,1,0,0
+Disability benefits,0,2,2,0,0
+Unemployment benefits,0,3,3,0,0
+"Social assistance, Lone parents & Housing",0,Family,"Other (Lone Parent Benefits, etc.)",1,0
+"Old-age, Survivors & Early retirement",0,0,0,0,1
+,0,0,0,0,0
+Unemployment benefits,0,3,3,0,0
+"Old-age, Survivors & Early retirement",0,1,1,0,0
+Unemployment benefits,0,3,3,0,0
+"Old-age, Survivors & Early retirement",0,1,1,0,0
+,0,0,0,0,0
+"Social assistance, Lone parents & Housing",0,Other-Social,"Other (Food Subsidies, Education, etc.)",1,"recipient households, average or point-in-time"

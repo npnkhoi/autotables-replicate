@@ -1,0 +1,14 @@
+Demographics,Total Number of Deaths ,Percent of Deaths,Crude Death Rate ,Age-adjusted Death Rate
+Age,,,,
+Less than 5,437.0,0.009000000000000001,142.5,0.0
+5 to 17,157.0,0.003,20.6,0.0
+18 to 25,487.0,0.01,77.2,0.0
+26 to 64,10358.0,0.207,327.9,0.0
+Sex,,,,
+Female,25437.0,0.51,879.2,614.4
+Race/Ethnicity,,,,
+White,45929.0,0.916069968,916.2,696.6
+Black/African American,2377.0,0.047410096,586.3,960.3
+American Indian,400.0,0.00797814,653.6,1028.5
+Asian,304.0,0.006063386,199.2,416.9
+Hispanic,711.0,0.014181144,161.3,467.3

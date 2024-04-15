@@ -1,0 +1,7919 @@
+Index,genres,imdb_score
+57, Thriller,7.5
+2768, Drama,7.2
+2305,Action,5.6
+2690, Sport,6.9
+339, Adventure,8.9
+1122, Sci-Fi,7.1
+63, Romance,6.6
+1063, Horror,5.8
+848, Thriller,7.2
+2785,Comedy,4.5
+615,Action,5.4
+1897,Adventure,7.2
+2230, Comedy,5.8
+4851, Crime,6.4
+236, Sci-Fi,7.6
+2404,Comedy,6.1
+1436, Drama,7.8
+4258, Horror,5.3
+3923,Documentary,2.7
+4742, Romance,6.0
+3466,Crime,9.2
+2920,Action,5.9
+4283, Drama,6.5
+973, Thriller,6.7
+1830, Thriller,6.2
+573, Drama,8.4
+3444, Romance,6.0
+3477, History,7.5
+2807, Horror,3.9
+4783,Comedy,7.1
+4601, Thriller,6.1
+4175, Sci-Fi,7.2
+620, Sci-Fi,3.0
+360, Crime,5.5
+1235, Comedy,5.9
+933, Comedy,6.7
+2045, Romance,5.1
+1531, Thriller,5.3
+1660, Thriller,3.7
+824,Action,5.9
+3729, Thriller,6.2
+4534, Mystery,5.7
+2223, Fantasy,8.3
+971, Fantasy,7.3
+110, Family,6.3
+3156, Crime,6.8
+1371, Drama,7.0
+1687, Horror,5.4
+3411, Drama,6.4
+1562, Thriller,6.8
+2092, Drama,5.6
+2340, Thriller,5.1
+2364, Mystery,5.6
+4284, War,8.0
+2090, Mystery,5.8
+1758, Drama,7.5
+3228, Thriller,6.3
+373,Adventure,7.1
+1822,Crime,5.9
+820, Sport,6.0
+2847, Crime,6.1
+960, Thriller,8.2
+2829, Drama,8.3
+2229, Romance,6.4
+3118,Horror,5.4
+1993, Sport,7.9
+388, War,6.7
+1542, Family,5.1
+4086,Comedy,7.0
+1975,Biography,6.9
+850, War,7.3
+3460, Thriller,7.2
+3593, Romance,5.1
+3363,Drama,7.6
+2592, Western,6.6
+3403,Comedy,7.2
+234, Romance,6.3
+3102,Comedy,6.4
+1896, Romance,6.5
+3123, Thriller,6.5
+1249, Drama,6.0
+1840, Western,7.5
+1271, Music,5.0
+318, Sport,5.3
+4303,Drama,4.5
+1925,Drama,7.6
+167, Sci-Fi,5.7
+4855, Drama,7.2
+4955, Sport,6.7
+4384, Romance,6.8
+3889, Romance,8.1
+2424,Action,5.8
+2025, Music,6.5
+2931,Adventure,6.6
+4254, Sci-Fi,7.6
+1721,Action,4.8
+2546, Horror,4.8
+175, Musical,5.9
+2168, Thriller,5.8
+3284, Thriller,6.8
+1432, Sci-Fi,6.6
+2854, Drama,5.9
+2064,Comedy,5.6
+2558, Mystery,7.9
+2479, Family,6.5
+3192, Drama,7.1
+115, Fantasy,7.6
+1621, Thriller,6.9
+1291,Action,5.9
+3998,Comedy,6.1
+2525, Thriller,6.9
+3388, Drama,7.1
+4259, Thriller,8.5
+3772,Drama,7.2
+79, Fantasy,7.8
+2694, Drama,6.6
+341,Action,5.5
+2331,Crime,6.4
+3901, Drama,7.1
+121, Animation,6.7
+246, Sci-Fi,7.8
+2119,Drama,7.8
+1232, Mystery,6.9
+2363,Adventure,8.5
+4631, Thriller,7.0
+3343, Drama,7.0
+2975,Drama,6.6
+862, Adventure,6.4
+3940, Thriller,5.9
+4449, Family,7.7
+737,Action,5.5
+973,Action,6.7
+5033, Thriller,7.0
+661,Action,6.7
+956,Biography,7.6
+1506, War,6.8
+3131, Thriller,5.2
+1300, Romance,6.2
+3345, Romance,6.5
+2341,Crime,5.5
+3114,Comedy,5.8
+111, War,6.1
+1231, Thriller,7.3
+876,Adventure,6.7
+3861,Comedy,6.5
+2395,Comedy,6.2
+3500,Drama,7.6
+1293,Drama,7.6
+2127,Crime,7.3
+1915,Comedy,6.6
+2960, Horror,6.7
+2230,Adventure,5.8
+4189,Comedy,7.6
+2121, Thriller,5.8
+2007, Drama,7.1
+1861,Comedy,6.8
+3621, Drama,6.7
+1494,Action,6.0
+1126, Thriller,7.2
+25, Romance,7.2
+4962, Horror,7.0
+1208,Adventure,7.3
+1963, Romance,6.8
+3262,Action,6.9
+1405, Sci-Fi,5.4
+723, Family,5.2
+3469,Drama,7.6
+807, Mystery,5.5
+1976, Adventure,7.3
+1934, Music,3.3
+1317, Crime,5.8
+652, Sci-Fi,5.5
+1475,Action,6.5
+2986,Drama,7.1
+2820, Adventure,5.9
+2820, Comedy,5.9
+568, Thriller,5.6
+1986, Thriller,5.8
+2951,Horror,7.0
+1375,Action,5.6
+1750,Adventure,5.9
+1645,Drama,7.5
+2227, Thriller,5.9
+885,Comedy,5.6
+2059,Biography,7.5
+2663, Thriller,6.2
+2557, Crime,5.5
+614, Horror,5.2
+4346, Mystery,7.0
+1456,Action,6.2
+516, Fantasy,7.8
+4047, Thriller,7.8
+1870,Biography,6.4
+1895,Horror,5.8
+197, Sci-Fi,4.9
+2660, Crime,7.4
+2926, Thriller,7.4
+10, Adventure,6.9
+629,Action,4.2
+41, Animation,6.3
+4737, Music,6.5
+499,Action,6.0
+4203,Comedy,5.7
+2858, Sci-Fi,7.7
+1859, Thriller,6.1
+2928,Crime,6.5
+1296,Comedy,5.8
+1962, Mystery,4.8
+3729,Drama,6.2
+1933, Drama,7.5
+1567, Family,6.9
+930,Comedy,7.3
+456,Comedy,6.1
+1551,Action,4.4
+678,Action,5.4
+4283,Comedy,6.5
+3398, Drama,7.3
+1198, Drama,6.4
+143, Comedy,5.4
+3927,Comedy,6.5
+2158, Drama,8.6
+4144,Drama,8.0
+1611, War,7.5
+123, Sci-Fi,6.7
+3776,Drama,4.6
+1713, War,7.9
+2254,Animation,6.4
+2436,Comedy,5.3
+1949,Action,6.4
+2996,Crime,6.3
+2414, Drama,7.8
+989, Adventure,3.5
+646, Thriller,7.0
+277,Animation,7.1
+3029, Drama,7.9
+1498,Comedy,6.9
+1695,Adventure,5.1
+2655,Comedy,6.0
+3121, Drama,5.6
+3950, Horror,6.5
+2333,Drama,5.3
+1315,Comedy,5.9
+1097,Action,5.4
+188, Sci-Fi,6.7
+297, Family,6.9
+18, Adventure,6.7
+4050,Drama,8.2
+1284,Adventure,6.2
+173, Drama,7.4
+967,Drama,6.7
+2423, Drama,5.8
+884, Thriller,4.7
+2032, War,6.2
+3516, Thriller,7.5
+3652, Drama,7.3
+584,Comedy,5.5
+2281, Crime,5.6
+1311,Drama,6.2
+157, Crime,6.1
+196, Drama,6.6
+722,Action,6.7
+7, Romance,7.8
+3042,Drama,7.3
+219,Action,6.4
+1100, Sport,5.6
+475, Adventure,5.1
+3856, Drama,7.8
+3479, Crime,7.2
+170, Adventure,6.4
+1036, Mystery,6.3
+263, Music,5.4
+957, Drama,6.6
+2269, Thriller,5.7
+3280, Musical,8.0
+1571,Drama,8.5
+2199, Drama,6.2
+2000,Crime,6.5
+4546, Drama,6.2
+1572,Comedy,6.3
+2119, War,7.8
+2456, Thriller,6.7
+703, Drama,6.8
+71, Western,4.8
+330, History,7.7
+3198,Comedy,6.5
+1715, Drama,6.5
+3278, Thriller,7.5
+1267,Comedy,6.1
+4353, Crime,7.8
+1143, Musical,7.5
+1313,Comedy,5.8
+1065,Comedy,5.7
+4419,Crime,6.5
+4381, Drama,7.5
+2331, Drama,6.4
+1120, Mystery,6.8
+2815, Drama,7.0
+706, Drama,7.9
+2099, Horror,6.0
+580,Comedy,5.3
+3262, Thriller,6.9
+3038,Crime,7.6
+667, Family,6.1
+1549, Thriller,6.2
+4361, Fantasy,7.3
+209,Adventure,6.4
+2850,Adventure,4.9
+2973, Romance,7.8
+1574, Drama,6.3
+4248, Horror,5.1
+4399,Drama,5.4
+3154, Family,5.9
+2367,Comedy,6.1
+4240, Drama,7.6
+82, Family,7.0
+793,Horror,6.7
+438, Adventure,7.1
+1503, Mystery,6.3
+3305, Drama,6.2
+2788,Comedy,4.6
+232, Sport,6.1
+2890, War,4.3
+287,Action,5.7
+1111, Comedy,5.9
+238, Fantasy,8.1
+462, History,7.2
+1216, Romance,5.9
+3465, Adventure,6.7
+2319,Biography,7.0
+413,Adventure,6.7
+271,Action,5.8
+2244, Romance,6.3
+288, Sci-Fi,8.5
+950,Drama,6.2
+1078,Comedy,5.7
+1829,Comedy,5.7
+2826,Comedy,7.2
+3511,Drama,6.8
+2493, Adventure,7.9
+698,Adventure,6.6
+2527, Sci-Fi,5.5
+3398,Animation,7.3
+421, Thriller,5.5
+4230,Drama,5.9
+3784, Thriller,7.1
+1367,Action,5.2
+2371,Adventure,3.6
+2274, Crime,6.2
+916, Adventure,5.1
+509,Adventure,8.5
+2588, Fantasy,7.3
+4631,Crime,7.0
+3723, Family,5.0
+2222,Crime,7.3
+2665, Family,6.7
+1083, Romance,5.5
+4891,Drama,7.0
+1182,Action,6.6
+824, Adventure,5.9
+3236, Romance,5.9
+4684, Drama,5.2
+1898, Drama,7.8
+710,Comedy,6.3
+2544, Romance,6.4
+141, Adventure,6.9
+4542, Thriller,6.0
+1084, Drama,8.1
+4563,Comedy,5.6
+533, Family,4.1
+1191, Comedy,4.1
+2660, Romance,7.4
+1142,Drama,5.6
+348, War,6.0
+1750, Animation,5.9
+3355, Drama,8.9
+1405, Comedy,5.4
+1098,Comedy,6.3
+1095, Fantasy,7.2
+1348, Drama,7.6
+2842, Crime,6.8
+432, Thriller,6.1
+22, Drama,6.7
+1849, Romance,6.5
+358, Comedy,7.0
+1735,Biography,7.9
+2441,Action,4.4
+1676, Romance,5.1
+1368,Drama,7.7
+930, Romance,7.3
+995, Crime,4.3
+310, War,7.2
+893,Drama,7.7
+968, Sci-Fi,6.1
+2263, Romance,5.6
+3525,Comedy,2.3
+485, Fantasy,7.0
+596, Sci-Fi,5.6
+3970, War,8.2
+1045, War,7.1
+4376,Drama,6.7
+886, Family,6.4
+2597,Drama,5.9
+1151, Mystery,6.8
+3767, Drama,6.4
+2105, Sci-Fi,6.9
+2463, Drama,7.2
+2047, Fantasy,8.2
+1268, Crime,6.0
+2515,Horror,6.5
+7,Adventure,7.8
+2746,Action,4.5
+3310, Music,5.4
+4268,Drama,6.8
+936, Sci-Fi,7.1
+467, Comedy,5.6
+3710, Crime,7.3
+103,Adventure,6.6
+2154, Sci-Fi,7.7
+706, Thriller,7.9
+1581, Thriller,7.3
+318, Thriller,5.3
+1874,Biography,8.9
+2810,Action,6.5
+522, Adventure,6.9
+3865, Thriller,5.9
+1311, Mystery,6.2
+1290, Romance,6.4
+1791, Drama,6.5
+1138, Mystery,7.8
+201, Comedy,7.3
+1667, Mystery,7.1
+3659, Crime,7.1
+1646, Thriller,6.6
+1847,Action,5.2
+3697,Horror,6.6
+4984,Comedy,6.6
+3401, Comedy,6.0
+3704, Thriller,7.1
+1787, Sci-Fi,4.9
+4328, Thriller,7.7
+214, Sci-Fi,7.5
+79, Drama,7.8
+1921, Romance,5.8
+1084,Crime,8.1
+2787, Mystery,5.0
+668, History,6.0
+3299, Drama,6.7
+1608, Romance,4.2
+2946, Music,5.9
+2256,Action,7.8
+1584,Comedy,6.9
+565,Crime,5.9
+1284, Comedy,6.2
+3972,Adventure,6.8
+1750, Drama,5.9
+2079, Comedy,7.1
+1911,Drama,8.1
+3362, Drama,8.1
+516, Family,7.8
+2227, Romance,5.9
+4499, Drama,7.9
+2471,Action,6.7
+1647, Fantasy,7.2
+1196, Thriller,7.8
+2093, Thriller,7.0
+1745, Horror,4.9
+2169,Drama,7.0
+373, Sci-Fi,7.1
+1013,Action,6.6
+4830, Drama,7.1
+3365, Crime,7.6
+3622, Romance,5.3
+1829, Drama,5.7
+7, Family,7.8
+938, Romance,6.4
+2399, Fantasy,3.1
+1914,Action,5.8
+1503, Drama,6.3
+4541, Mystery,5.9
+1467,Comedy,6.3
+4928,Crime,5.5
+1615, Crime,7.4
+76,Action,6.1
+1100, Romance,5.6
+2867,Comedy,6.4
+1366, Sport,7.3
+2923, Sci-Fi,7.7
+1515, Adventure,5.2
+1854, Romance,5.7
+3363, Horror,7.6
+56, Animation,7.2
+2185, Family,5.4
+592,Action,6.0
+3704,Mystery,7.1
+1670, Comedy,7.3
+5042,Documentary,6.6
+2147, Thriller,7.1
+1748, Crime,7.9
+3483,Action,6.8
+3128,Crime,7.2
+2312, Sport,7.2
+1503, Thriller,6.3
+4537, Adventure,7.3
+1771,Comedy,6.3
+2059, Comedy,7.5
+368, Fantasy,6.8
+1760, Romance,5.2
+2525,Biography,6.9
+958, Thriller,7.0
+605,Drama,6.1
+4043, Drama,7.5
+752, Family,7.0
+2628,Adventure,5.4
+603, Thriller,6.2
+4594,Horror,6.4
+2886, Drama,7.1
+4195, Drama,7.1
+2501,Drama,5.6
+4489, Sci-Fi,5.5
+1, Fantasy,7.1
+202,Adventure,7.5
+2174, History,8.1
+1338, Drama,7.4
+4008, Romance,6.5
+4406,Comedy,7.4
+4858, Romance,6.7
+2270, Comedy,6.6
+812, Comedy,8.1
+680, Drama,6.7
+2688, Romance,6.2
+4754,Drama,6.1
+1334, Sci-Fi,8.0
+654, Sci-Fi,8.7
+4747, Adventure,8.7
+989, Family,3.5
+1814, Thriller,6.9
+2237,Comedy,6.8
+2703, Crime,8.2
+3634, Sci-Fi,3.8
+2040,Comedy,4.9
+3185, Romance,4.1
+146,Adventure,6.9
+1291, Crime,5.9
+1330, Romance,7.1
+328, Comedy,6.8
+2770,Horror,5.5
+3434,Comedy,7.4
+1088, Comedy,7.1
+1369, Thriller,7.6
+3696, Thriller,6.6
+3750,Action,6.8
+327, History,7.6
+2547,Adventure,7.8
+472, Family,4.6
+1140,Crime,7.5
+2558, Comedy,7.9
+1648, Drama,7.6
+3360, Fantasy,6.2
+1194, Thriller,7.6
+1857, Romance,5.2
+1086, Comedy,7.3
+964, Family,4.7
+2764, Romance,6.9
+2728,Crime,6.7
+578,Adventure,7.1
+3244,Comedy,6.7
+365, Thriller,7.6
+3784, Horror,7.1
+3355,Crime,8.9
+797,Action,6.6
+889, Romance,7.7
+984, Thriller,5.9
+270,Action,8.8
+4301,Comedy,5.8
+2048, Comedy,7.7
+1343, Mystery,6.6
+86,Action,7.8
+1492, Drama,5.7
+1980, History,7.7
+1920, Sci-Fi,6.5
+506,Action,5.6
+5011, Drama,7.3
+3418,Crime,6.0
+2832, Comedy,7.3
+2766,Action,5.5
+140, Adventure,4.2
+2449, Drama,7.9
+2763, Thriller,6.9
+100, Thriller,6.7
+2228, Horror,6.5
+4987, Romance,6.3
+1531, Horror,5.3
+576,Drama,6.9
+546, Drama,6.6
+945, Musical,6.0
+2103,Crime,6.6
+1097, Thriller,5.4
+3935,Drama,7.0
+823,Comedy,6.3
+183, Thriller,8.1
+2167,Comedy,7.1
+2026,Comedy,7.2
+675, Horror,5.9
+4723,Drama,6.5
+3143, Family,5.5
+2371, Comedy,3.6
+1857,Comedy,5.2
+139, Comedy,7.3
+2099, Sci-Fi,6.0
+2638, Thriller,7.7
+4280,Horror,5.7
+241,Adventure,7.3
+1239, Crime,5.9
+4758,Comedy,4.6
+1606,Drama,7.9
+3659, Drama,7.1
+1020, Drama,5.9
+1461,Action,5.1
+3037, Romance,7.4
+1612, Romance,7.4
+2358,Crime,6.8
+746, Drama,7.7
+2917, Drama,8.0
+2166,Drama,6.9
+822,Comedy,4.7
+3340, Music,2.1
+653, History,7.4
+1170,Crime,7.6
+2924,Comedy,6.9
+193, Drama,5.8
+2375, Romance,7.0
+1627, Fantasy,7.7
+2417, Music,5.3
+1758, Sport,7.5
+1558,Crime,7.5
+1952, Drama,7.3
+469, Romance,6.7
+60, Adventure,5.8
+1441, Thriller,6.7
+1421, Thriller,6.3
+1424, Comedy,6.3
+1138, Adventure,7.8
+2508,Comedy,4.9
+2330, War,7.1
+4344, Fantasy,6.4
+3087,Drama,6.6
+2102,Comedy,6.4
+1457, Drama,6.2
+815, Comedy,6.4
+2925, Thriller,7.1
+2861, Sci-Fi,5.8
+2209, Drama,6.6
+113, War,5.5
+358, Animation,7.0
+1397,Comedy,7.8
+4383,Comedy,6.3
+40, Adventure,6.8
+2253, Horror,7.3
+1765, Adventure,6.8
+3131, Mystery,5.2
+402, Fantasy,7.1
+326,Crime,7.5
+165, Mystery,7.7
+1876, Drama,6.2
+728, Drama,5.9
+41,Adventure,6.3
+3677,Drama,7.9
+1229,Action,5.2
+2301, Animation,2.8
+1541, Romance,6.4
+2737,Action,6.4
+2779, Drama,6.7
+1954,Action,4.6
+872, Thriller,6.0
+1529, Music,6.5
+3698, Mystery,7.3
+908, Horror,7.6
+4781,Drama,7.7
+2948,Crime,7.4
+986, Romance,5.9
+1882, Adventure,7.0
+2448, Romance,7.0
+1074, Crime,6.3
+1580, Fantasy,6.3
+986, Drama,5.9
+2829, History,8.3
+1988,Action,5.9
+1221,Comedy,6.4
+2373,Adventure,8.6
+1339,Comedy,6.1
+3271, War,7.5
+3908,Action,5.7
+1162, Thriller,6.3
+1837,Action,6.0
+604,Drama,7.2
+2909, Drama,6.6
+3154, Animation,5.9
+667, Fantasy,6.1
+4649, Drama,6.5
+1262, Crime,5.8
+646, Mystery,7.0
+1900, Drama,6.8
+1194, War,7.6
+2947, Romance,7.8
+1592,Biography,7.8
+2340, Crime,5.1
+2446,Drama,5.9
+4498,Western,8.9
+2563, Drama,5.3
+2462,Action,5.9
+503, Fantasy,6.0
+877, Drama,7.8
+4733, Sport,7.6
+4007,Comedy,7.0
+2049, Drama,7.2
+3169,Comedy,4.3
+4412, Romance,7.5
+1139,Action,5.5
+1107, Family,5.9
+1622, Romance,6.0
+2445, Drama,7.1
+798, Thriller,6.9
+3690,Crime,7.6
+882,Action,5.5
+637, Comedy,6.0
+169, Comedy,6.0
+3024, Adventure,8.7
+1039, Fantasy,8.3
+4461,Drama,8.1
+473, Family,7.0
+4411,Drama,7.2
+1401, War,5.9
+1668,Crime,7.1
+1373,Action,8.1
+961,Action,6.2
+1196, Mystery,7.8
+1038, Drama,7.6
+2970, War,8.4
+4863, Thriller,5.5
+415, Comedy,6.7
+3824, Drama,6.8
+2935, Drama,3.3
+3150,Drama,7.4
+4544,Adventure,7.4
+527, Fantasy,6.7
+1540, Family,6.9
+3575, Sci-Fi,8.1
+876, Animation,6.7
+3087, War,6.6
+4674, Music,7.5
+1856, Mystery,6.4
+4930,Comedy,6.3
+1635, Comedy,7.5
+669,Drama,6.4
+2923,Action,7.7
+1498, Romance,6.9
+4122,Horror,4.1
+3146, Sci-Fi,7.1
+814, War,7.3
+93, Fantasy,8.2
+3784, Music,7.1
+1377,Drama,6.9
+196,Adventure,6.6
+4035, Romance,7.4
+759,Action,5.4
+419, Comedy,7.1
+1399, Comedy,6.6
+375, Sci-Fi,7.4
+3311,Action,6.6
+4091, Romance,6.0
+2847,Action,6.1
+1344, Biography,6.5
+2763,Drama,6.9
+516,Adventure,7.8
+1270, Drama,6.5
+1028, Crime,6.4
+3095, Romance,5.8
+679, Thriller,6.4
+2647,Crime,6.6
+1278,Biography,6.7
+948,Action,5.0
+1596,Comedy,6.8
+450,Action,6.5
+3360,Comedy,6.2
+1535, Romance,6.0
+3742, Horror,3.8
+2745, Drama,5.1
+3180,Action,5.6
+3553, Crime,8.1
+2484, Drama,6.0
+4312,Drama,6.6
+2813, Crime,7.3
+617, Musical,5.9
+4642, Thriller,7.1
+552, Romance,5.9
+3952,Biography,5.8
+1758,Biography,7.5
+1131, Thriller,6.5
+1172, Romance,5.3
+491, Sci-Fi,6.3
+2657, Family,6.7
+1000, Thriller,6.2
+1913, Musical,5.6
+988,Action,4.4
+3635,Biography,5.7
+2137, Drama,7.8
+196, War,6.6
+2951, Mystery,7.0
+1423,Biography,7.2
+2254, Mystery,6.4
+2358, Thriller,6.8
+4740,Crime,7.3
+2203,Comedy,3.5
+3521, Romance,6.3
+2399,Action,3.1
+808,Action,3.8
+2701, Romance,5.9
+4567, Drama,7.0
+3622,Comedy,5.3
+516, Animation,7.8
+416, Adventure,6.2
+887, Comedy,4.2
+2569,Drama,7.2
+2222, Thriller,7.3
+2393, Drama,7.3
+1079, Thriller,6.5
+1881,Action,6.0
+3927, Crime,6.5
+1532,Action,6.5
+1429, Romance,7.7
+1077, Adventure,5.8
+97, Adventure,8.8
+104, Adventure,6.1
+423,Adventure,5.6
+3442,Comedy,6.0
+482, Family,5.6
+4449, Fantasy,7.7
+1532, Drama,6.5
+1534, Thriller,6.5
+2212, History,7.6
+1717, Romance,6.6
+72, Thriller,5.2
+1104, Romance,6.5
+1807,Action,7.9
+1928, Adventure,4.6
+3211,Comedy,6.5
+1557, Family,6.9
+315, Family,7.1
+698, Biography,6.6
+1124,Drama,5.8
+531,Comedy,6.7
+1865, Thriller,7.5
+27, Sci-Fi,8.2
+2658, Drama,6.4
+2369,Biography,7.1
+23, Fantasy,7.9
+1712, Crime,6.1
+841, Sci-Fi,5.6
+532, Mystery,5.1
+523,Action,6.5
+617, Romance,5.9
+659, Romance,6.5
+4862, Drama,7.0
+2661, Romance,4.8
+2285, War,7.1
+533, Sci-Fi,4.1
+4009, Sci-Fi,5.7
+412, Comedy,6.2
+217,Action,3.7
+131, Drama,6.9
+2615,Comedy,6.1
+3136,Drama,5.9
+887, Family,4.2
+3031, Crime,7.5
+1756,Biography,7.8
+2707, Drama,5.5
+1435, Romance,5.9
+2219, Drama,7.6
+3299, Thriller,6.7
+3259,Drama,6.7
+2413, Fantasy,6.3
+3618,Drama,7.2
+1274, Horror,5.1
+2832, War,7.3
+4070,Fantasy,4.3
+1097, Romance,5.4
+1987,Comedy,6.7
+1030,Comedy,4.9
+3116,Action,6.9
+1654,Comedy,2.7
+3467, Romance,6.1
+1363, Family,6.5
+699, Crime,6.9
+343, Thriller,6.3
+107, Fantasy,6.1
+1470, Family,5.6
+2300, Drama,6.7
+3569, Thriller,6.9
+1297, Romance,5.9
+2900, Drama,7.8
+1535,Comedy,6.0
+4058, Sci-Fi,5.7
+3456, War,8.0
+2433, Crime,5.2
+2175, Romance,5.7
+4511,Adventure,6.2
+2539,Comedy,8.0
+4147,Comedy,6.5
+1871, Thriller,7.9
+911, Crime,8.0
+1092, Horror,4.6
+375, Thriller,7.4
+1406, Crime,6.9
+1258, Musical,7.2
+2500,Comedy,6.2
+284, Sci-Fi,7.7
+258, Comedy,4.9
+1901, Horror,5.9
+143, Sci-Fi,5.4
+405,Action,6.8
+2215,Adventure,6.3
+1984, Thriller,5.9
+3540,Western,7.3
+3854, Sci-Fi,8.1
+2382, Music,5.7
+4603, Sci-Fi,6.9
+777,Adventure,6.1
+2883,Biography,7.1
+3461,Action,6.2
+3403, Drama,7.2
+3172, Sci-Fi,6.7
+146, Comedy,6.9
+1369, Drama,7.6
+3911,Crime,7.0
+2354, Romance,7.5
+3468, Drama,7.7
+630, Drama,6.4
+2150,Comedy,5.8
+745, Thriller,5.0
+1164,Drama,6.5
+1127, Horror,6.0
+2212, Drama,7.6
+130, Fantasy,7.0
+3767, Crime,6.4
+258, Family,4.9
+3588, Musical,7.6
+818, Romance,3.6
+32, Adventure,7.2
+1746, Mystery,7.1
+1898,Biography,7.8
+729,Adventure,5.4
+1449, Thriller,6.8
+4254, Adventure,7.6
+2939, Thriller,6.0
+550,Animation,6.6
+2769, Comedy,6.9
+360,Action,5.5
+3319, Music,4.2
+2735, Thriller,7.2
+2443,Comedy,5.7
+200,Adventure,6.2
+2049, Adventure,7.2
+1390,Drama,6.7
+2199,Comedy,6.2
+2551,Drama,8.2
+772, History,7.4
+995,Comedy,4.3
+70,Adventure,7.5
+1526, Crime,5.1
+2841,Comedy,5.5
+377,Crime,6.4
+783,Comedy,5.9
+4769,Comedy,3.3
+1824, Adventure,3.6
+735,Drama,6.5
+1873,Action,6.1
+1304, Thriller,5.9
+154, Animation,7.2
+229, Drama,6.6
+3472, Adventure,6.8
+1034, Sci-Fi,5.9
+598,Action,7.1
+133, Fantasy,5.8
+474,Comedy,5.2
+2768,Biography,7.2
+3442, Romance,6.0
+2103, Thriller,6.6
+1046, Drama,6.4
+536,Comedy,7.3
+2448,Biography,7.0
+582,Adventure,7.2
+3748, Thriller,5.2
+1569, Mystery,6.1
+492,Drama,7.3
+2383, Music,6.3
+4066, War,8.2
+1128,Action,6.0
+2021,Horror,6.1
+1203,Fantasy,7.5
+3181,Comedy,6.7
+504, Drama,7.8
+3846,Drama,7.7
+881, War,6.9
+414, History,7.6
+3004,Crime,7.5
+3404, Drama,7.2
+2959, Comedy,7.8
+1123, Fantasy,4.9
+515, Crime,5.9
+725,Comedy,6.1
+2275, Crime,7.5
+3000, Crime,6.4
+3104, Sport,7.0
+4804,Comedy,6.1
+362, Fantasy,7.5
+2661,Comedy,4.8
+2304, Fantasy,4.3
+252, Adventure,6.5
+2602,Comedy,5.9
+3926,Comedy,5.8
+14, Western,6.5
+1442, Romance,5.3
+2116, Thriller,5.1
+2835,Drama,8.0
+1633, Crime,6.4
+583, Sport,7.2
+1213, Thriller,8.1
+1119, Sci-Fi,5.4
+1337, Sport,6.4
+2907,Crime,8.0
+916, Comedy,5.1
+485,Drama,7.0
+201, Sci-Fi,7.3
+2463,Crime,7.2
+1118, Romance,6.0
+4546, Music,6.2
+589,Adventure,6.7
+770, Crime,6.7
+2482, Musical,4.4
+2051, Sci-Fi,8.8
+2614, Drama,8.1
+2163, Thriller,7.5
+3186, War,7.3
+3775, Drama,7.4
+3584, Crime,8.1
+4251,Horror,6.9
+1904, Thriller,5.0
+16, Family,6.6
+595,Drama,5.6
+1143,Animation,7.5
+171, Adventure,6.9
+4645,Biography,7.5
+1214, Mystery,6.6
+2279, Crime,6.1
+3105, Mystery,6.1
+2421, Sport,7.1
+2360, Mystery,7.2
+693, Biography,7.1
+2889, Comedy,6.6
+1513, Romance,7.2
+1455, Fantasy,5.2
+454, Sci-Fi,6.3
+677,Comedy,6.7
+435, Sci-Fi,5.9
+1904, Adventure,5.0
+2498,Comedy,5.6
+1260,Comedy,4.7
+2912, Crime,6.2
+1408, Romance,6.8
+3064, Thriller,6.2
+4599, Fantasy,6.0
+3178, Mystery,7.7
+106, Family,6.4
+4551, Horror,5.4
+3212, Thriller,7.2
+2037,Adventure,5.2
+113,Action,5.5
+1848,Comedy,6.5
+1127,Action,6.0
+3622, Fantasy,5.3
+4091, History,6.0
+924,Animation,5.6
+2919, Crime,7.9
+2634,Horror,6.4
+341, Adventure,5.5
+4542, Drama,6.0
+788, Music,7.9
+1068,Action,4.7
+2497, Mystery,5.6
+3668, Drama,8.3
+53,Action,6.3
+2274,Action,6.2
+1055, Thriller,6.0
+3939, Crime,6.6
+2024,Comedy,6.7
+1217,Drama,8.0
+265,Action,7.1
+3332, Romance,7.3
+2712,Comedy,8.0
+1069, Thriller,6.6
+3911, Fantasy,7.0
+610, Family,7.7
+3142, Family,6.7
+2687,Action,4.6
+22, Adventure,6.7
+280, Adventure,6.9
+4429,Comedy,6.3
+2005,Crime,6.7
+4855, Romance,7.2
+1964, Mystery,5.4
+77, Sci-Fi,5.8
+2308, Drama,7.4
+970, Drama,7.4
+2201,Crime,6.3
+551, Crime,6.6
+3699, Documentary,6.6
+1525,Action,5.5
+2213, Adventure,6.3
+566,Drama,6.0
+3819, Drama,7.4
+2298, Crime,6.3
+3452, Thriller,7.9
+57, Sci-Fi,7.5
+533,Action,4.1
+511, Fantasy,6.5
+4298, Sci-Fi,6.7
+2377, Comedy,6.5
+686, Comedy,5.7
+739, Thriller,7.0
+1372, Comedy,6.0
+1117, Thriller,5.3
+839, Family,6.6
+568, Romance,5.6
+3471,Horror,4.9
+2054,Horror,6.7
+426, Romance,4.3
+3936,Drama,5.4
+2908, Romance,6.7
+110,Adventure,6.3
+873,Drama,6.5
+1617, Drama,6.8
+572, Family,4.6
+1774, Horror,4.9
+2980,Comedy,6.3
+3703, Fantasy,6.6
+1748, Drama,7.9
+1966,Biography,7.0
+778, Thriller,6.4
+200, Fantasy,6.2
+320,Action,7.0
+2757,Drama,6.8
+1213,Crime,8.1
+2883, Comedy,7.1
+595, Fantasy,5.6
+2297, Crime,4.5
+1628, Comedy,5.8
+106,Adventure,6.4
+3669, Sport,7.2
+1376, Romance,6.1
+3892, Romance,7.1
+1033, Thriller,3.7
+3140, Sci-Fi,4.4
+305, Romance,6.0
+2498, Romance,5.6
+119, Fantasy,8.0
+2113, Adventure,4.1
+643,Action,5.9
+2453,Action,3.5
+3917,Comedy,4.7
+2169, Romance,7.0
+148,Adventure,6.9
+1216, Fantasy,5.9
+3987,Comedy,7.3
+1769, Thriller,6.7
+1312, Thriller,4.5
+3944, Thriller,7.0
+1316, Romance,4.4
+2879, Romance,7.3
+135,Action,7.4
+2329, Sci-Fi,7.5
+3624, Drama,7.8
+1228, Adventure,6.1
+341, Fantasy,5.5
+4099,Biography,6.9
+1723, War,6.0
+2846,Comedy,5.9
+1693, Comedy,4.6
+597, Comedy,4.5
+436, Drama,6.7
+2926, Drama,7.4
+720, Drama,7.0
+2777,Drama,7.7
+2256, Fantasy,7.8
+384, Animation,7.0
+1904, Comedy,5.0
+2625, Romance,7.3
+2985, Thriller,5.3
+4804, Romance,6.1
+3908, Thriller,5.7
+3679,Crime,6.6
+3133, Mystery,4.7
+3931, Music,8.5
+4681, Fantasy,4.8
+3098, Horror,5.5
+1689, Drama,5.9
+1916, Drama,6.6
+2872,Drama,5.8
+1418,Comedy,6.3
+3974, Comedy,7.0
+787,Drama,6.7
+125, Musical,7.6
+2245,Comedy,5.9
+670,Comedy,6.4
+192,Action,6.4
+4998,Comedy,7.6
+924, Family,5.6
+2185, Musical,5.4
+4778,Adventure,6.4
+1988, Crime,5.9
+0, Sci-Fi,7.9
+898, Sci-Fi,6.8
+4123, Drama,6.7
+18,Action,6.7
+3383,Crime,7.6
+285, Fantasy,7.4
+2951, Thriller,7.0
+3010, Comedy,6.7
+275, Drama,7.2
+751,Drama,6.5
+630,Action,6.4
+2644, Drama,8.4
+2198, Sci-Fi,6.2
+70, Drama,7.5
+652, Horror,5.5
+819, Adventure,5.7
+3333,Drama,6.9
+2570, Romance,5.7
+1164, Thriller,6.5
+1415, Romance,7.4
+3106, Comedy,6.9
+657,Comedy,5.5
+2512, Family,5.8
+1564, Thriller,3.6
+3491,Comedy,7.3
+291, Comedy,7.2
+361, Thriller,8.5
+2927, Drama,6.5
+1192, Thriller,7.4
+577, Sport,4.5
+574, War,7.1
+4569,Adventure,6.4
+24, Family,6.1
+407,Action,6.2
+4752, Fantasy,6.7
+939, Comedy,7.1
+1008, Family,8.0
+487, Thriller,5.9
+143, Animation,5.4
+4328, Mystery,7.7
+563,Action,6.4
+2662, Mystery,4.0
+4655, Fantasy,5.6
+1642,Animation,7.4
+631, Drama,4.9
+1139, Comedy,5.5
+1676,Comedy,5.1
+370, War,7.1
+1316,Adventure,4.4
+1424,Action,6.3
+1897, Fantasy,7.2
+2172, Comedy,7.1
+1833,Comedy,6.1
+914, Musical,6.3
+1567, Comedy,6.9
+2260,Drama,7.7
+237, Sci-Fi,6.7
+238,Adventure,8.1
+3285, Drama,6.7
+1917,Comedy,5.5
+1073,Comedy,4.8
+1621,Action,6.9
+1113, Romance,7.4
+1371,Comedy,7.0
+1520, Drama,5.6
+1243, Family,6.6
+3971,Biography,6.0
+1076, Romance,6.2
+613, Comedy,5.6
+2160,Action,7.1
+541,Adventure,6.0
+4557,Comedy,7.5
+405, Mystery,6.8
+2954, Drama,6.9
+2747,Comedy,5.9
+2194, History,8.1
+2396, Sci-Fi,6.6
+2158, Thriller,8.6
+3576, Romance,7.7
+926,Adventure,4.6
+209, Animation,6.4
+892,Action,6.7
+1820, Crime,6.0
+3000,Comedy,6.4
+571, Sport,6.6
+3196, Sport,7.3
+623, Animation,6.2
+1467, Fantasy,6.3
+366,Action,7.6
+4415,Crime,7.9
+3941,Comedy,6.3
+1655,Action,7.6
+1959,Drama,5.6
+2568, Fantasy,3.1
+4004, Comedy,5.2
+1751,Crime,6.3
+781,Crime,6.6
+1001, Drama,5.9
+3696,Fantasy,6.6
+2030, Romance,6.6
+731,Drama,5.7
+2142, Thriller,4.6
+1419,Action,5.8
+1233,Drama,8.5
+4398,Crime,7.2
+3292, Drama,7.0
+4708, Music,8.1
+888, Music,6.4
+3132,Drama,5.7
+2788, Romance,4.6
+2669, Family,6.2
+1169, Sci-Fi,4.0
+2731, Horror,6.5
+3306,Comedy,5.7
+4011,Action,5.3
+1932, Fantasy,5.3
+3600,Comedy,2.9
+2636,Crime,6.9
+327, War,7.6
+2530,Horror,4.1
+251, Drama,6.1
+1991, Thriller,4.1
+2243,Comedy,5.9
+2380,Comedy,6.3
+1232, Thriller,6.9
+827,Drama,7.5
+3209, Crime,6.2
+1454, Mystery,6.2
+4212, History,6.8
+717,Action,7.2
+3947,Drama,6.2
+1647,Drama,7.2
+2672, Family,6.7
+2920, Adventure,5.9
+4175,Horror,7.2
+803,Drama,5.6
+176, Sci-Fi,6.8
+2183,Adventure,5.8
+387, Crime,6.1
+1574, Sci-Fi,6.3
+4971,Crime,6.6
+910, Sport,5.9
+520, Fantasy,5.8
+1979, Thriller,7.1
+2998,Drama,6.8
+231,Action,6.2
+250, Fantasy,6.4
+2050, Sport,6.1
+150,Action,5.5
+432,Action,6.1
+4277,Action,7.0
+2785, Fantasy,4.5
+2054, Thriller,6.7
+2263,Comedy,5.6
+1008, Adventure,8.0
+4264, Drama,7.2
+339,Action,8.9
+2721, Crime,7.6
+1670, Family,7.3
+1810, Drama,7.1
+1837, Comedy,6.0
+869, Thriller,6.8
+1342, Adventure,5.1
+4180, Fantasy,5.1
+558,Action,6.0
+1314, Sci-Fi,7.3
+4398, Drama,7.2
+929,Action,6.9
+24, Fantasy,6.1
+1836, Thriller,6.5
+1299, Romance,4.8
+3065, Drama,5.1
+254,Crime,6.4
+3010, Fantasy,6.7
+1000, Drama,6.2
+313, Romance,3.3
+566, Sci-Fi,6.0
+3873,Action,6.1
+609, Thriller,6.3
+3040, Mystery,6.0
+539, Drama,5.9
+1230, Drama,7.7
+3061,Comedy,5.4
+380, Thriller,6.9
+2798,Adventure,5.4
+538,Comedy,5.4
+2044, Animation,7.2
+1617,Comedy,6.8
+86, Adventure,7.8
+1506,Drama,6.8
+577,Action,4.5
+382, Thriller,7.0
+1706, Comedy,4.8
+1946, Drama,6.8
+2668, Thriller,5.5
+4905, Thriller,7.1
+321, Comedy,3.8
+1496, Drama,7.4
+649, Crime,6.5
+2225,Action,6.8
+3068, Music,6.8
+1458, Sci-Fi,6.6
+767, Comedy,7.8
+4723, Romance,6.5
+610,Adventure,7.7
+819, War,5.7
+4799, Documentary,7.2
+680, Mystery,6.7
+244, Adventure,6.1
+2038, Sport,5.3
+4067, Comedy,5.3
+2695, Romance,6.4
+1383,Action,6.9
+2881, Drama,5.9
+1774, Thriller,4.9
+1883,Action,6.0
+461,Action,6.6
+519,Animation,6.8
+3594,Comedy,6.4
+4296, Drama,7.0
+2095, Drama,6.5
+151, Thriller,6.6
+1564, Horror,3.6
+3158, Thriller,7.1
+58, Family,8.4
+2676, Mystery,5.5
+1904, Crime,5.0
+4584, Fantasy,6.7
+3981,Action,6.9
+4466, Thriller,6.1
+191, Adventure,6.7
+1702,Action,2.7
+287, Sci-Fi,5.7
+3168,Crime,7.4
+3119, Romance,6.7
+41, Family,6.3
+1378, Fantasy,5.2
+2020,Action,5.3
+1744,Comedy,6.9
+2871, Thriller,6.0
+2731, Drama,6.5
+1645, Sport,7.5
+2936,Comedy,6.7
+1281, Thriller,7.4
+2956, Romance,5.3
+2105, Thriller,6.9
+4893, Sci-Fi,6.7
+3163, Drama,7.0
+776, Crime,6.1
+1162,Crime,6.3
+3560, Family,6.2
+1657, Sci-Fi,6.9
+73, Sci-Fi,6.9
+1921,Comedy,5.8
+1045, Drama,7.1
+1594,Biography,7.2
+795, Fantasy,6.1
+1565, Fantasy,5.3
+1251,Comedy,5.2
+3142,Drama,6.7
+2112, Thriller,3.9
+4565,Comedy,7.2
+2983,Comedy,2.1
+1913, Fantasy,5.6
+1050,Comedy,6.0
+2762, Romance,8.0
+4010, Drama,6.4
+1466, Mystery,5.9
+1962, Thriller,4.8
+806,Action,4.8
+3094, Thriller,6.1
+1311, Sci-Fi,6.2
+3004, Thriller,7.5
+1237, Thriller,6.7
+3277, Sci-Fi,8.5
+1456, Horror,6.2
+2141,Action,6.6
+433, Adventure,7.0
+1425, Sport,6.9
+149, Adventure,6.1
+4581,Comedy,7.4
+484,Action,5.9
+1019, Drama,6.2
+2584, Drama,7.0
+3494,Horror,6.0
+2187,Drama,5.9
+3044, Drama,6.0
+158, War,7.7
+2692, Thriller,6.7
+2306, Thriller,6.2
+2294, Drama,7.2
+953, Drama,7.4
+2633, Fantasy,6.2
+706,Crime,7.9
+3664,Action,2.1
+1701, Fantasy,5.5
+2842, Thriller,6.8
+904, Mystery,5.5
+434, Mystery,7.7
+1581,Crime,7.3
+4570,Drama,7.2
+3902, Sci-Fi,7.3
+2172, Mystery,7.1
+4025, Drama,7.1
+380, Crime,6.9
+11,Action,6.1
+381, Adventure,6.2
+4106,Drama,6.3
+1240, Thriller,6.6
+4205,Comedy,6.2
+429, Fantasy,6.4
+3549,Drama,5.6
+4830,Comedy,7.1
+2463, Thriller,7.2
+531, Music,6.7
+2815, War,7.0
+1937,Crime,9.3
+3949,Comedy,7.7
+3562, Romance,5.9
+3077,Horror,5.5
+317, Adventure,6.1
+1528, Thriller,4.9
+3634, Fantasy,3.8
+4195,Comedy,7.1
+3036,Crime,7.1
+1959, Mystery,5.6
+312, Fantasy,7.0
+392,Action,4.4
+3857, Crime,6.8
+1117, Comedy,5.3
+1704, Thriller,4.8
+3473, Sport,7.0
+355, Comedy,6.6
+3859,Crime,7.7
+1146,Drama,6.0
+4646,Comedy,6.4
+2508, Romance,4.9
+228,Adventure,5.4
+549, Romance,6.5
+4446, Mystery,7.0
+348, Western,6.0
+1009, Comedy,7.3
+1699, Romance,6.7
+426, Sci-Fi,4.3
+2282, Horror,7.2
+3068,Biography,6.8
+657, Fantasy,5.5
+3607, History,7.7
+1047,Adventure,6.4
+1155,Comedy,7.0
+778, Adventure,6.4
+633, Family,7.7
+2945, Drama,7.4
+520, Adventure,5.8
+44, Sci-Fi,6.6
+3276, Romance,6.9
+1378, Romance,5.2
+2789, Mystery,6.5
+1067,Action,7.6
+335, Animation,6.6
+516, Drama,7.8
+1628, Animation,5.8
+1615,Action,7.4
+2276, Drama,6.3
+625, Mystery,5.4
+338, Animation,8.2
+1711,Crime,5.6
+2556, Drama,5.9
+895, Drama,7.6
+1272, Thriller,5.7
+289, Drama,7.0
+2329, Thriller,7.5
+4333, Musical,5.7
+2555, Horror,4.8
+132, Sci-Fi,5.1
+222, Thriller,5.6
+2495, Drama,6.7
+1988, Thriller,5.9
+3952, Drama,5.8
+1055,Comedy,6.0
+2406, Horror,7.8
+4973, Mystery,7.5
+2808, History,5.7
+3103, Thriller,5.9
+2120, Comedy,6.1
+1051, Music,6.5
+2565, Fantasy,5.1
+3902, Thriller,7.3
+1587,Comedy,6.4
+1334,Action,8.0
+3484, Thriller,5.2
+3624,Comedy,7.8
+1417, Sci-Fi,6.2
+2122, Thriller,6.3
+1871,Action,7.9
+814, History,7.3
+3851,Drama,7.2
+1840,Drama,7.5
+2673, Thriller,4.7
+2481, Drama,6.3
+3927, Romance,6.5
+161, Fantasy,7.3
+1484, Thriller,5.7
+1601, Thriller,8.0
+337, Fantasy,6.7
+1975, Drama,6.9
+846, Romance,6.3
+4403, Drama,6.8
+926, Drama,4.6
+711, Drama,7.1
+4266,Drama,8.0
+845, Thriller,7.9
+47, Thriller,8.0
+3450,Drama,6.3
+1850,Action,5.2
+2335, Sport,6.2
+1882,Action,7.0
+1522, History,7.1
+219, Thriller,6.4
+914, Family,6.3
+394,Action,6.3
+4737,Drama,6.5
+4655, Sci-Fi,5.6
+2835, Thriller,8.0
+3126, Romance,5.5
+491,Action,6.3
+3594, Romance,6.4
+1067, Adventure,7.6
+2062, Drama,6.1
+320, Adventure,7.0
+1762, Drama,7.6
+1852, Thriller,7.1
+1743, History,7.5
+3468, Romance,7.7
+3115, Horror,6.1
+1163,Comedy,6.5
+574, Drama,7.1
+999,Action,6.3
+2527,Comedy,5.5
+989,Action,3.5
+61, Fantasy,6.8
+3775,Biography,7.4
+1171,Action,7.9
+229,Action,6.6
+1936, Comedy,3.5
+3351, Drama,7.2
+2224,Comedy,5.8
+3514,Biography,6.6
+292, Thriller,6.4
+4577,Drama,6.7
+2555, Thriller,4.8
+3974, Musical,7.0
+4684, Horror,5.2
+506, Drama,5.6
+42,Action,5.6
+439, Thriller,7.3
+698, Crime,6.6
+308, Comedy,8.2
+1487, Western,6.0
+2863, War,7.9
+3705, Drama,7.6
+1076, Comedy,6.2
+947,Action,7.1
+2134,Comedy,7.4
+3120, Drama,7.4
+2631, Family,5.3
+4084, Horror,6.5
+3781, Thriller,7.0
+2451, Drama,7.3
+2531, Drama,6.8
+781, Drama,6.6
+187, Fantasy,5.5
+1719, Romance,7.0
+1233, Sci-Fi,8.5
+473, Animation,7.0
+708, Family,5.5
+547, Romance,5.4
+14, Adventure,6.5
+2050,Comedy,6.1
+4229, Mystery,4.7
+6, Romance,6.2
+3277,Horror,8.5
+1103, Sci-Fi,6.3
+1332, Crime,6.7
+752,Adventure,7.0
+3416, Drama,5.5
+3939, Romance,6.6
+2681,Action,6.0
+2068, Sport,5.1
+3892,Drama,7.1
+4599,Action,6.0
+4168,Comedy,7.8
+1106, Crime,6.3
+2868, Thriller,6.7
+4311, Romance,6.6
+3654, Thriller,6.1
+19, Sci-Fi,6.8
+1825,Crime,6.7
+755,Drama,6.1
+4486,Comedy,7.1
+1770, Fantasy,6.7
+48, Sci-Fi,7.8
+626, Sci-Fi,6.1
+2643, Drama,6.8
+1991, Comedy,4.1
+4402, Romance,7.1
+1042, Mystery,6.7
+2149,Drama,6.7
+163, Fantasy,5.5
+528,Action,7.4
+2984, Drama,5.0
+330,Drama,7.7
+168, Thriller,5.8
+2144,Comedy,7.1
+78, Fantasy,8.3
+345, Thriller,7.6
+392, Fantasy,4.4
+266, Family,5.4
+515, Thriller,5.9
+53, Adventure,6.3
+1537,Action,6.0
+4285,Adventure,3.3
+3837,Comedy,7.2
+1074,Action,6.3
+1062, Family,4.5
+475, Family,5.1
+325, Thriller,6.3
+2453, Sci-Fi,3.5
+359, Romance,7.3
+2927,Action,6.5
+2496, Crime,6.7
+3567,Crime,7.4
+1580, Horror,6.3
+2956,Comedy,5.3
+572,Comedy,4.6
+1613, Drama,7.2
+720,Adventure,7.0
+12, Adventure,6.7
+164, Thriller,5.0
+2852, Family,2.5
+2512,Adventure,5.8
+2876,Comedy,7.3
+3944, Drama,7.0
+2988, Sci-Fi,7.0
+3413, Musical,5.6
+323, Animation,7.2
+4401, Horror,7.4
+2082, Romance,7.1
+4386,Drama,6.9
+2439, Thriller,6.1
+1102, Fantasy,4.3
+2084, Family,7.0
+2619,Horror,7.9
+2856, Thriller,5.6
+3715, Sci-Fi,5.2
+3520,Drama,7.2
+4851, Thriller,6.4
+2979,Action,5.9
+2909,Crime,6.6
+3191,Action,6.6
+787, Sport,6.7
+951,Comedy,5.6
+2592,Drama,6.6
+2392,Action,6.9
+2942,Comedy,6.2
+2901,Crime,6.1
+4423, Mystery,6.5
+37, Adventure,5.7
+2182,Comedy,2.7
+3732,Drama,7.3
+1767,Action,5.8
+2082,Comedy,7.1
+2098,Comedy,6.4
+2624, Drama,5.6
+2301, Comedy,2.8
+9, Family,7.5
+1640, Thriller,6.6
+1844,Mystery,6.5
+1528, Sci-Fi,4.9
+930, Drama,7.3
+445, Thriller,6.1
+2391,Comedy,6.4
+2340, Fantasy,5.1
+226, Adventure,4.8
+4383, Romance,6.3
+1632, Family,5.1
+4289,Documentary,8.1
+3970, Romance,8.2
+4060,Biography,5.4
+3672, Romance,6.6
+530, Romance,6.8
+1342, Sci-Fi,5.1
+1892, History,7.8
+3344,Adventure,8.0
+2675,Drama,6.3
+790, Adventure,4.3
+4501, Music,6.1
+1780, Drama,6.9
+2279,Action,6.1
+3198, Drama,6.5
+1082, Thriller,6.9
+162, Fantasy,7.9
+1328, Fantasy,7.6
+3144, Romance,6.5
+1941,Drama,7.3
+298, Comedy,7.3
+2445, Romance,7.1
+2987,Drama,7.0
+2494, Drama,5.1
+3156, Drama,6.8
+462,Adventure,7.2
+1119,Adventure,5.4
+1162, Mystery,6.3
+561, Drama,6.1
+2598, Comedy,6.6
+2223,Drama,8.3
+1048, Sci-Fi,7.4
+979,Action,7.3
+2219, Music,7.6
+235,Action,7.0
+3978, Comedy,7.1
+4466, Drama,6.1
+1025, Thriller,5.1
+1428, Drama,7.5
+870, Family,7.2
+295, Mystery,6.1
+738, Thriller,6.5
+936, Thriller,7.1
+4247, Thriller,7.5
+34,Action,6.8
+1965, Crime,5.1
+2179, Crime,4.8
+487, Adventure,5.9
+3670, Romance,5.6
+2368, Romance,5.4
+2667,Drama,7.9
+1519, Sci-Fi,5.3
+2194, Crime,8.1
+511, Sci-Fi,6.5
+4318,Action,7.8
+112,Action,7.1
+1846, Music,7.8
+1458,Comedy,6.6
+1323, History,7.1
+1081, Comedy,7.4
+1497, Fantasy,4.6
+2052, Thriller,6.8
+2501, Romance,5.6
+1745, Fantasy,4.9
+647,Action,5.4
+1677, Thriller,6.2
+259, Crime,5.8
+1284, Family,6.2
+183, Mystery,8.1
+1626,Comedy,6.1
+4931, Music,7.9
+2051,Action,8.8
+1233, Mystery,8.5
+3333, Romance,6.9
+980, Thriller,5.8
+3328,Crime,6.5
+3723, Comedy,5.0
+1468, Sport,7.1
+1235, Sci-Fi,5.9
+3360, Romance,6.2
+4955,Drama,6.7
+1821, Mystery,6.2
+1169, Comedy,4.0
+570, Drama,7.1
+3065, Romance,5.1
+4962, Sci-Fi,7.0
+863, Family,6.0
+137,Action,6.6
+409, Crime,7.3
+2944, Thriller,8.0
+237, Fantasy,6.7
+3318, War,7.3
+180, Sport,6.5
+1153, Thriller,6.6
+3377, Thriller,6.4
+5, Adventure,6.6
+2804, Mystery,5.9
+3779,Drama,7.7
+268,Action,6.7
+433, Fantasy,7.0
+4543,Drama,7.4
+587,Crime,6.6
+902, Family,7.1
+1052, Crime,7.8
+1156, Family,7.0
+500, Family,5.8
+4742,Comedy,6.0
+3530,Biography,6.5
+809, War,6.5
+3677, Music,7.9
+53, Sci-Fi,6.3
+118, Comedy,6.7
+1928, Horror,4.6
+785, Thriller,6.1
+471, Romance,5.7
+1215, Romance,7.1
+1756, Comedy,7.8
+553,Drama,6.7
+1558, Thriller,7.5
+3010, Sci-Fi,6.7
+2607, History,8.0
+1387, Family,5.7
+4681, Mystery,4.8
+948, Sci-Fi,5.0
+61, Family,6.8
+2302,Drama,5.0
+1614, Romance,6.9
+34, Adventure,6.8
+1029,Comedy,4.8
+3384, Romance,6.5
+1187, Thriller,6.4
+3854,Drama,8.1
+886, Crime,6.4
+2205, Drama,6.6
+632, Thriller,6.8
+2109, Drama,6.5
+785,Action,6.1
+1391,Drama,6.8
+1069, Drama,6.6
+1325, Drama,7.0
+4283, Romance,6.5
+1284, Fantasy,6.2
+3364, Music,3.5
+1415,Drama,7.4
+2390,Comedy,6.4
+2427,Adventure,6.8
+1244,Comedy,5.8
+4490, Drama,7.4
+2618, Horror,6.2
+1868,Drama,8.0
+917,Drama,7.6
+1668, Thriller,7.1
+1515, Drama,5.2
+1976, Fantasy,7.3
+2911, Thriller,6.7
+275, History,7.2
+4386, Romance,6.9
+2589,Comedy,5.1
+1647, Romance,7.2
+48,Action,7.8
+3758, Drama,6.9
+1452,Drama,7.3
+831,Action,4.3
+2504, Sport,7.4
+1000,Crime,6.2
+2027, Drama,7.6
+2227, Family,5.9
+3347,Adventure,7.1
+397, Family,6.5
+1853,Action,4.5
+1588, Fantasy,8.3
+802, Comedy,4.9
+551,Comedy,6.6
+4352,Horror,7.5
+1370, Drama,5.7
+2481, Thriller,6.3
+2236,Comedy,4.9
+699, Drama,6.9
+2248,Comedy,6.9
+5026,Drama,6.9
+1128, Crime,6.0
+1074, Thriller,6.3
+4603,Comedy,6.9
+4793,Horror,6.3
+3421,Comedy,6.6
+1921, Drama,5.8
+2913, Family,7.3
+1540, Romance,6.9
+3459, Thriller,7.0
+1756, History,7.8
+1321, Thriller,6.9
+37,Action,5.7
+3496,Comedy,7.0
+3572, Romance,7.2
+2799, History,7.0
+1314,Adventure,7.3
+2803,Drama,7.6
+1290, History,6.4
+2729, Fantasy,5.3
+2052, Crime,6.8
+2039, Sport,5.4
+1298,Comedy,8.4
+3279,Biography,6.6
+2218, Thriller,6.9
+243,Action,6.0
+2018, Comedy,7.3
+96, Drama,8.6
+628,Action,6.7
+3647,Crime,6.3
+2393, Family,7.3
+1179, Adventure,6.9
+2258, Family,4.0
+1084, Mystery,8.1
+1899,Comedy,4.7
+4631, Drama,7.0
+4523, Crime,7.6
+85,Action,6.3
+4072,Comedy,7.2
+1850, Thriller,5.2
+889, Mystery,7.7
+4154, Music,7.4
+3529,Drama,6.7
+1998, Fantasy,2.9
+4043,Crime,7.5
+474, Romance,5.2
+519, Family,6.8
+709,Action,7.7
+1453,Biography,6.6
+1077, Family,5.8
+253,Action,7.1
+762, Thriller,5.9
+3194, Romance,7.1
+3862, Thriller,7.3
+1814, History,6.9
+894, Thriller,5.7
+1196,Horror,7.8
+2053,Comedy,6.8
+2728, Mystery,6.7
+2481,Action,6.3
+3178,Drama,7.7
+1697, Romance,7.0
+3893,Drama,5.6
+2063, Romance,6.1
+297, Drama,6.9
+1511, Thriller,6.8
+4343, Drama,7.1
+981, Comedy,5.5
+1670, Animation,7.3
+3564, Sci-Fi,3.6
+3124,Action,5.8
+2532, Drama,6.5
+1714,Crime,8.4
+736, Thriller,7.6
+1576, Thriller,7.3
+1073, Family,4.8
+290, Crime,7.8
+922, Comedy,5.5
+2128, Comedy,6.5
+4569, Comedy,6.4
+555, Crime,6.6
+2776, Thriller,5.5
+2953, Drama,7.6
+218,Comedy,6.0
+1923,Comedy,5.6
+932,Comedy,7.7
+403, Romance,7.1
+652,Drama,5.5
+2176, Romance,4.4
+2715, Romance,5.3
+877, Mystery,7.8
+3922, Drama,7.1
+466, Fantasy,6.3
+561, Adventure,6.1
+3191, Drama,6.6
+3399,Comedy,7.3
+2138, Crime,7.5
+981, Thriller,5.5
+2452,Action,7.3
+2696, Family,2.8
+157,Comedy,6.1
+970, War,7.4
+647, Fantasy,5.4
+3289, Drama,4.9
+1715,Action,6.5
+1629, Crime,7.6
+3473, Family,7.0
+2729, Drama,5.3
+35, Animation,7.3
+1220, Sport,7.2
+1555,Action,7.1
+510, Comedy,5.8
+383,Adventure,5.6
+2210,Comedy,3.5
+792,Adventure,6.7
+696, Family,6.3
+527, Crime,6.7
+3340,Drama,2.1
+689,Crime,6.9
+2531, Romance,6.8
+3077, Thriller,5.5
+1651, Fantasy,7.6
+2776, Mystery,5.5
+195, Mystery,7.8
+1349, Drama,5.6
+1447, Comedy,3.8
+1218, Crime,4.6
+4642,Crime,7.1
+235, Sci-Fi,7.0
+349, Animation,8.0
+149,Action,6.1
+2568, Mystery,3.1
+3599, Drama,5.8
+2283,Action,4.3
+3974, Western,7.0
+1867, Drama,6.9
+4862, Comedy,7.0
+0,Action,7.9
+1290,Biography,6.4
+3475,Comedy,5.7
+3463,Comedy,7.5
+31, Adventure,7.3
+4857,Comedy,6.6
+3190,Drama,5.5
+595, Mystery,5.6
+2177, Romance,7.9
+119, Family,8.0
+72, Horror,5.2
+2022,Action,5.8
+3141, Drama,6.6
+3080,Family,7.9
+370, Thriller,7.1
+762, Crime,5.9
+1405, Family,5.4
+558, Drama,6.0
+1066, Thriller,7.2
+3032,Drama,6.8
+2164,Adventure,4.6
+860, Horror,6.4
+3155, Drama,7.0
+4123,Comedy,6.7
+1766,Comedy,6.9
+1577, Thriller,6.3
+2023,Comedy,5.7
+1401, Drama,5.9
+4783, Drama,7.1
+2272, Thriller,6.1
+3176, Horror,6.1
+467,Adventure,5.6
+2399, Drama,3.1
+3136, Thriller,5.9
+4054, Drama,8.0
+797, Adventure,6.6
+2152, Adventure,8.5
+3549, Thriller,5.6
+376, Sci-Fi,5.7
+1017, Comedy,5.6
+4741,Crime,6.5
+2518, Sci-Fi,3.6
+2660,Action,7.4
+2198, Comedy,6.2
+3888,Drama,7.8
+2674,Action,6.4
+3081,Comedy,6.5
+1940, Thriller,6.0
+155, Thriller,7.4
+1994,Action,5.6
+2941,Comedy,4.3
+3759, Crime,7.7
+361, Drama,8.5
+1492,Action,5.7
+1885, Thriller,8.1
+3505,Comedy,2.0
+4726,Adventure,5.7
+2668, Drama,5.5
+3825,Drama,7.4
+920, Crime,8.2
+41, Sport,6.3
+1788, Drama,6.1
+1693, Romance,4.6
+2553, Crime,5.4
+4075, Crime,5.9
+1274, Drama,5.1
+266, Comedy,5.4
+2201, Thriller,6.3
+280,Action,6.9
+2893,Action,5.4
+2283, Comedy,4.3
+306,Action,5.7
+2986, Romance,7.1
+4587, Sport,7.3
+491, Thriller,6.3
+2047, Animation,8.2
+4120,Comedy,7.4
+2407, History,8.3
+1478, Romance,6.2
+1858,Action,4.3
+1247, Thriller,5.8
+88, Mystery,6.5
+4595, Crime,6.8
+162,Action,7.9
+4977, Drama,7.3
+2172,Adventure,7.1
+2018, Sci-Fi,7.3
+946, Mystery,7.6
+3520, Romance,7.2
+807, Romance,5.5
+1583,Adventure,6.1
+4784,Comedy,6.2
+1374,Drama,8.0
+1151,Drama,6.8
+613, Thriller,5.6
+726, Comedy,6.6
+2897,Drama,6.9
+3515, Drama,6.4
+236, Adventure,7.6
+1201,Adventure,7.4
+1161, Comedy,6.5
+3921, Fantasy,6.7
+2659, Sport,7.2
+3406,Biography,6.8
+4541, Thriller,5.9
+973, Drama,6.7
+323, Family,7.2
+1810, Romance,7.1
+1883, Adventure,6.0
+3843,Comedy,7.1
+2378,Comedy,6.4
+1931, Drama,7.5
+695, Comedy,6.2
+3005,Drama,7.1
+160, Sci-Fi,8.0
+1245, Music,6.9
+814, Drama,7.3
+4532,Fantasy,6.8
+3717,Horror,6.5
+2228,Action,6.5
+1973,Crime,7.0
+3119,Comedy,6.7
+113, History,5.5
+1272, Crime,5.7
+4753,Comedy,5.7
+262, Fantasy,5.5
+3639, Romance,6.2
+4419, Drama,6.5
+3498, Fantasy,6.2
+325, Fantasy,6.3
+546,Action,6.6
+2037, Fantasy,5.2
+89, Adventure,7.9
+2829, War,8.3
+2085,Comedy,6.2
+1412, Drama,6.8
+4475,Horror,6.1
+2877, Sport,6.8
+394, Adventure,6.3
+4814, Thriller,6.1
+296,Drama,8.5
+872, Drama,6.0
+3110,Action,6.2
+1516, Drama,5.5
+2671,Horror,4.1
+227,Adventure,7.0
+710, Romance,6.3
+2546, Mystery,4.8
+1585, Crime,7.2
+2960,Action,6.7
+210, Sci-Fi,7.5
+2254, Family,6.4
+245, Sci-Fi,5.9
+2209,Crime,6.6
+1416, Mystery,8.3
+3288,Action,6.5
+4783, Romance,7.1
+601,Action,5.8
+3122, Horror,6.5
+795,Drama,6.1
+777, Comedy,6.1
+1333,Animation,7.0
+333, Romance,4.3
+1096,Horror,6.8
+2113, Thriller,4.1
+1223,Horror,5.2
+2547, Romance,7.8
+2695, Drama,6.4
+1219, Comedy,6.1
+4921,Drama,8.5
+4581, Romance,7.4
+4541,Drama,5.9
+378, Fantasy,5.9
+2129, Thriller,7.2
+362, War,7.5
+1092, Adventure,4.6
+1336, Sci-Fi,4.9
+784, Drama,6.0
+3654, Mystery,6.1
+1937, Drama,9.3
+2544, Drama,6.4
+4719,Comedy,7.7
+3120, Comedy,7.4
+1268,Action,6.0
+433, Horror,7.0
+1872, Romance,6.7
+305,Action,6.0
+3287, Drama,8.0
+854, Romance,6.7
+247, Adventure,5.8
+154, Comedy,7.2
+308, Drama,8.2
+4858, Drama,6.7
+1384, Adventure,6.2
+1425,Biography,6.9
+2480, History,8.1
+262, Comedy,5.5
+3682,Comedy,7.2
+2556, Comedy,5.9
+586, Family,6.0
+3276,Drama,6.9
+3506, Crime,6.2
+830, Crime,6.3
+2914,Action,8.1
+2121,Comedy,5.8
+3010, Animation,6.7
+744, Fantasy,7.7
+2866,Drama,8.3
+4401,Action,7.4
+1085,Crime,7.7
+3757, Family,5.9
+3365, Drama,7.6
+2799,Drama,7.0
+1057, Romance,6.1
+1621, Drama,6.9
+843, Adventure,5.4
+2806,Biography,6.7
+1833, Fantasy,6.1
+1001, Romance,5.9
+4375,Crime,7.8
+192, Thriller,6.4
+1201, Western,7.4
+4643, Thriller,6.4
+3151,Comedy,5.9
+2164, Romance,4.6
+3389,Comedy,7.1
+1431, Family,5.4
+126,Action,7.2
+1470, Comedy,5.6
+2216, Drama,6.5
+1565,Comedy,5.3
+2114, Drama,6.2
+2869,Comedy,6.1
+2773, Music,5.2
+2126, Thriller,6.8
+2679,Drama,4.9
+3737,Comedy,6.6
+2738,Comedy,6.9
+601, Sci-Fi,5.8
+1069, Mystery,6.6
+2207,Action,7.2
+1668, Drama,7.1
+2830,Biography,8.1
+4817, Drama,4.7
+1703, Crime,6.4
+274, Thriller,7.1
+1478, Crime,6.2
+1228, Family,6.1
+3377, Horror,6.4
+3472,Action,6.8
+3063,Drama,7.4
+2747, Drama,5.9
+1323, Drama,7.1
+2560,Drama,7.2
+2462, Thriller,5.9
+1530, Crime,5.6
+49, Fantasy,6.3
+4890,Documentary,7.5
+4964, Crime,6.8
+203,Action,5.6
+2369, Thriller,7.1
+2417, Romance,5.3
+2945, Romance,7.4
+1721, Adventure,4.8
+1005,Action,6.5
+3482, Adventure,6.8
+2061,Adventure,5.4
+3046,Horror,5.5
+2614,Biography,8.1
+3915, Mystery,4.8
+4429, Fantasy,6.3
+2766, Comedy,5.5
+1767, Crime,5.8
+389, Sci-Fi,4.3
+1805, Drama,7.8
+51, Fantasy,6.6
+4583, Drama,6.1
+3491, Drama,7.3
+1109, Thriller,6.5
+2083, Drama,6.4
+1567, Fantasy,6.9
+3567, Drama,7.4
+2284,Comedy,6.4
+4301, Drama,5.8
+209, Comedy,6.4
+208, Thriller,6.6
+1910, Thriller,6.1
+3452,Crime,7.9
+3094, Horror,6.1
+2660, Comedy,7.4
+4566,Documentary,7.7
+164, Sci-Fi,5.0
+2340,Action,5.1
+1100, Family,5.6
+19, Family,6.8
+1313, Sci-Fi,5.8
+2532,Biography,6.5
+1892, Biography,7.8
+350, Adventure,5.6
+462, Drama,7.2
+3678, Drama,6.7
+4642, Drama,7.1
+3944,Crime,7.0
+110, Fantasy,6.3
+374, Family,4.9
+512, Drama,7.2
+571, Comedy,6.6
+1006,Action,5.7
+959, Adventure,5.7
+3625, Drama,6.7
+3873, Drama,6.1
+39,Action,6.7
+4676, Comedy,6.9
+1198,Comedy,6.4
+2933, Musical,6.6
+1867, Family,6.9
+1574, Crime,6.3
+598, History,7.1
+2011, Thriller,5.3
+3058, Romance,7.8
+304, Fantasy,6.7
+3145, Comedy,6.2
+1600, Mystery,8.6
+955, Family,5.2
+720, Animation,7.0
+723, Comedy,5.2
+2701, Music,5.9
+1586,Comedy,6.4
+2769, Sport,6.9
+1703,Action,6.4
+4792, Drama,7.1
+1441, Sci-Fi,6.7
+2441, Crime,4.4
+756, Family,6.1
+3890, Romance,6.7
+845,Biography,7.9
+861, Comedy,6.6
+542, Musical,6.5
+153, Animation,6.3
+539, Adventure,5.9
+562, Sci-Fi,7.2
+3416,Comedy,5.5
+1313, Fantasy,5.8
+1650, Romance,5.6
+3500, Romance,7.6
+282, Thriller,6.5
+594, Thriller,6.9
+932, Romance,7.7
+1455, Horror,5.2
+585, Adventure,5.8
+496, Family,5.7
+2665, Fantasy,6.7
+189, Sci-Fi,6.5
+2025,Drama,6.5
+1609,Adventure,6.1
+1642, Fantasy,7.4
+2074, Romance,6.2
+2074,Comedy,6.2
+536, Drama,7.3
+907,Crime,7.4
+1618, Romance,6.3
+59, Comedy,6.2
+3395,Comedy,5.3
+2500, Music,6.2
+1290, Drama,6.4
+2311, Drama,7.1
+3049,Comedy,6.3
+608, War,6.3
+964, Sport,4.7
+1930,Drama,7.5
+2105, Adventure,6.9
+188, Family,6.7
+3434, Drama,7.4
+2762,Drama,8.0
+1387,Action,5.7
+443, Family,7.2
+1407, Western,7.7
+1759, Thriller,7.4
+435,Action,5.9
+690, Crime,4.8
+3681,Comedy,4.9
+854, Fantasy,6.7
+2, Adventure,6.8
+3698, Horror,7.3
+2064, Crime,5.6
+859, Crime,6.3
+1474, Horror,5.0
+122, Family,5.9
+58, Animation,8.4
+1006, Adventure,5.7
+2103, Romance,6.6
+1124, Western,5.8
+3615,Comedy,7.4
+2428, Musical,5.0
+3479,Action,7.2
+1827,Comedy,6.4
+3135, Drama,6.8
+4585, Crime,8.2
+898, Romance,6.8
+4171,Drama,7.8
+319, Fantasy,2.2
+2644, War,8.4
+2650, Adventure,5.8
+276,Adventure,5.9
+3574, Drama,7.7
+2387,Horror,6.2
+407, Comedy,6.2
+2979, Sci-Fi,5.9
+1920,Drama,6.5
+4864, Romance,6.7
+3039,Drama,6.9
+1148, Drama,6.0
+4587,Documentary,7.3
+1125, Drama,7.1
+2396, Adventure,6.6
+311, Sci-Fi,7.5
+3242,Crime,6.1
+463, Adventure,6.9
+190, Thriller,6.6
+1279,Drama,6.7
+1835, Romance,7.2
+2224, Family,5.8
+4829,Comedy,6.9
+2641,Biography,7.7
+11, Adventure,6.1
+255,Action,6.5
+1410, Crime,5.7
+2306, Sci-Fi,6.2
+4860, Thriller,7.3
+984,Action,5.9
+1,Action,7.1
+1477, Drama,6.5
+3485,Adventure,7.2
+1801,Drama,6.8
+4546,Comedy,6.2
+195,Adventure,7.8
+2503,Comedy,5.6
+1269, Mystery,6.9
+1636, Romance,7.1
+1495,Action,4.2
+2188, Musical,6.3
+558, Sci-Fi,6.0
+819, Thriller,5.7
+1567, Musical,6.9
+1578, Drama,8.1
+1754,Action,8.2
+2282, Mystery,7.2
+1553, Thriller,7.1
+961, Adventure,6.2
+3124, Crime,5.8
+1919,Biography,7.0
+1182, Thriller,6.6
+556, Adventure,6.6
+769, Adventure,6.2
+1864, Mystery,6.5
+2157,Comedy,5.5
+2971, War,6.0
+3559, Romance,7.1
+3052,Comedy,5.3
+1827, Crime,6.4
+1904, Family,5.0
+3271,Drama,7.5
+4728, Sci-Fi,5.9
+1838, Comedy,7.0
+26, Romance,7.7
+909, Horror,5.9
+1850, Comedy,5.2
+1995, Sci-Fi,5.2
+988, Thriller,4.4
+802,Adventure,4.9
+535,Comedy,6.0
+4360, Romance,6.8
+546, Thriller,6.6
+353,Adventure,7.9
+3172, Romance,6.7
+469, Mystery,6.7
+182, Family,6.7
+4931,Drama,7.9
+809,Adventure,6.5
+940, Fantasy,7.6
+1951, Crime,6.3
+2580,Drama,7.2
+2458, War,7.1
+3403, Romance,7.2
+580, Family,5.3
+1095, Animation,7.2
+59,Action,6.2
+1517, Fantasy,7.7
+586,Adventure,6.0
+755, Romance,6.1
+4562, Music,7.4
+1069, War,6.6
+1949, Thriller,6.4
+2092, History,5.6
+693,Adventure,7.1
+2458, Drama,7.1
+3738,Crime,5.3
+3362,Adventure,8.1
+469,Action,6.7
+3504, Drama,7.5
+2151, Sci-Fi,6.8
+794,Action,8.1
+1635,Animation,7.5
+997,Drama,6.5
+3555, Drama,6.3
+4590, Documentary,7.6
+1951, Thriller,6.3
+837,Animation,5.2
+336, Family,7.0
+1206, Thriller,7.3
+1235, Family,5.9
+1070, Romance,6.8
+3218, Sport,7.3
+114, Mystery,7.5
+2389,Adventure,7.7
+3113, Thriller,6.3
+1295, Family,7.8
+396, Romance,7.7
+691, Thriller,6.5
+25, Drama,7.2
+30, Thriller,7.8
+1762,Comedy,7.6
+1986,Action,5.8
+1281, Drama,7.4
+859, Thriller,6.3
+2896, Drama,7.3
+132, Animation,5.1
+2600, Comedy,7.3
+1980,Drama,7.7
+473,Adventure,7.0
+2074, Drama,6.2
+61,Animation,6.8
+3113, Mystery,6.3
+662,Comedy,6.6
+423, Comedy,5.6
+3415, Horror,6.8
+2511, Romance,3.1
+1883, Sci-Fi,6.0
+3069, Horror,7.4
+3778, Drama,7.0
+3480, Western,6.5
+850, Drama,7.3
+843, Romance,5.4
+965, Drama,6.3
+3199, Mystery,4.8
+1387, Drama,5.7
+1593, Adventure,7.6
+724, Crime,7.0
+128,Action,8.1
+1707,Drama,7.0
+1207,Comedy,5.7
+173, Adventure,7.4
+139,Action,7.3
+4063, Sport,5.1
+1574,Action,6.3
+3110, Thriller,6.2
+187, Romance,5.5
+4035,Drama,7.4
+1132,Drama,6.4
+174,Adventure,5.5
+497, Musical,5.8
+3262, Adventure,6.9
+3572, War,7.2
+1828, Horror,6.4
+2279, Sport,6.1
+800, Fantasy,6.2
+3374,Comedy,7.4
+1651, Drama,7.6
+3047, Romance,7.5
+520,Action,5.8
+290,Biography,7.8
+4751,Comedy,5.8
+3460, Drama,7.2
+3444, Sport,6.0
+4082,Drama,7.9
+1128, Thriller,6.0
+142,Action,6.4
+1661, Romance,6.1
+2510, Mystery,4.8
+1424, Adventure,6.3
+1004, Crime,6.4
+4047, Adventure,7.8
+4057,Drama,7.4
+641, Thriller,7.1
+3098, Mystery,5.5
+4640,Drama,7.9
+264, Mystery,5.8
+998, Thriller,6.1
+2837, Drama,9.0
+2081,Drama,7.0
+1495, Sci-Fi,4.2
+4219,Drama,3.9
+628, Mystery,6.7
+2979, Crime,5.9
+2041,Comedy,5.5
+3131,Horror,5.2
+1372, Family,6.0
+3472, Thriller,6.8
+2492, Thriller,7.9
+1098, Drama,6.3
+2373, Fantasy,8.6
+974, Drama,5.8
+3688, Romance,5.0
+1683, Sci-Fi,4.4
+818,Comedy,3.6
+2963, Thriller,7.0
+3162,Comedy,6.5
+1128, War,6.0
+1320, Drama,6.2
+1486,Drama,6.8
+2421, Drama,7.1
+2002,Biography,7.2
+1053,Action,6.0
+307, Thriller,8.0
+3728,Comedy,5.6
+2171, Drama,7.3
+3778, Thriller,7.0
+224,Action,5.2
+302, Fantasy,6.8
+4412,Comedy,7.5
+2300, Crime,6.7
+806, Fantasy,4.8
+2680,Drama,7.6
+4595, Thriller,6.8
+2101,Comedy,5.9
+1034,Action,5.9
+185, Adventure,7.4
+4936, Thriller,7.5
+2421,Biography,7.1
+4075,Action,5.9
+1088, Musical,7.1
+1276,Horror,4.4
+2914, Drama,8.1
+3823,Horror,5.9
+802, Sci-Fi,4.9
+1598, Romance,6.2
+509, Animation,8.5
+2855,Fantasy,5.7
+662, Drama,6.6
+3406, Sport,6.8
+5026, Music,6.9
+3074, Drama,6.4
+42, Sci-Fi,5.6
+1320, Crime,6.2
+2696,Adventure,2.8
+255, Crime,6.5
+188, Animation,6.7
+1837, Crime,6.0
+1321, Comedy,6.9
+5026, Romance,6.9
+2002, Drama,7.2
+1182, Crime,6.6
+1712, Thriller,6.1
+2738, Thriller,6.9
+1430,Comedy,6.2
+345, Drama,7.6
+566, Mystery,6.0
+2022, Western,5.8
+1765, Thriller,6.8
+868, Adventure,7.3
+494,Adventure,5.2
+2320,Action,4.9
+1716,Drama,7.1
+902, Romance,7.1
+1215,Comedy,7.1
+3891, Drama,6.1
+4643,Drama,6.4
+425, Adventure,5.4
+2589, Horror,5.1
+3775, Crime,7.4
+3135, Music,6.8
+859,Action,6.3
+2856,Crime,5.6
+1851, Western,7.2
+849,Comedy,5.1
+2402, Crime,7.1
+4024,Documentary,7.6
+493, Thriller,5.8
+4676, Animation,6.9
+3444,Comedy,6.0
+2713, Romance,5.3
+1185, Drama,7.3
+1907,Action,6.7
+347, Thriller,5.3
+3235, Drama,5.5
+946, Thriller,7.6
+1968,Horror,4.0
+1552,Mystery,7.5
+131, Comedy,6.9
+2766, Adventure,5.5
+3221, Drama,6.6
+3054, History,7.3
+2704,Drama,7.0
+2008,Comedy,5.7
+412, Animation,6.2
+3692, Sport,7.6
+2443, Drama,5.7
+2578,Comedy,6.8
+1530, Adventure,5.6
+1465,Biography,6.6
+3177, Musical,5.8
+107, Family,6.1
+4788, Romance,7.5
+2910,Comedy,6.4
+2780,Comedy,5.0
+265, Sport,7.1
+57,Action,7.5
+1722, Crime,7.5
+503,Adventure,6.0
+175, Family,5.9
+2443, Romance,5.7
+3590, Drama,6.3
+3071, Mystery,5.8
+1022, Drama,6.8
+3152, Music,4.1
+1439,Comedy,6.2
+66, Crime,9.0
+4205, Romance,6.2
+770, Thriller,6.7
+622,Action,5.8
+659, Drama,6.5
+2176,Comedy,4.4
+2880,Drama,6.3
+1703, Thriller,6.4
+3023, Horror,7.2
+677, Drama,6.7
+623,Action,6.2
+1803,Action,7.2
+1068, Fantasy,4.7
+832, War,5.9
+1161,Action,6.5
+1560, Thriller,6.4
+555, Thriller,6.6
+400, Thriller,7.8
+1908, Drama,7.8
+1467, Romance,6.3
+3485, Horror,7.2
+3754,Drama,6.1
+1295, Crime,7.8
+1853, Sci-Fi,4.5
+1936, Music,3.5
+2872, Music,5.8
+1548,Biography,7.2
+2036, Fantasy,6.2
+3595,Drama,7.9
+1577, Sci-Fi,6.3
+2163, Mystery,7.5
+1635, Mystery,7.5
+3674,Comedy,7.4
+1021, Romance,5.1
+3861, Drama,6.5
+1249, Romance,6.0
+3580, Romance,7.2
+1824,Action,3.6
+408, Romance,6.9
+3918, Drama,6.7
+4842, Fantasy,7.4
+2996, Drama,6.3
+3512, Romance,6.3
+881,Biography,6.9
+2830, Romance,8.1
+2493, History,7.9
+694, Fantasy,7.5
+2132,Action,5.9
+568, Comedy,5.6
+2559,Comedy,4.9
+2920, Fantasy,5.9
+2046, Thriller,6.5
+1292, Crime,5.1
+1059, Comedy,6.4
+1833, Family,6.1
+1342, Family,5.1
+2090, Drama,5.8
+2886,Biography,7.1
+1912, Family,5.2
+355, Thriller,6.6
+3775, Thriller,7.4
+3361,Comedy,7.9
+4750,Comedy,6.2
+963, Animation,6.6
+1177,Drama,7.0
+2836, Sci-Fi,6.2
+3894,Drama,7.6
+1230,Action,7.7
+4393, Romance,7.2
+2195, Thriller,6.1
+2607, Drama,8.0
+1002, Thriller,5.9
+1900, Adventure,6.8
+2055,Drama,7.1
+2375, Drama,7.0
+777, Animation,6.1
+3884, Romance,7.3
+1378,Drama,5.2
+3221,Biography,6.6
+1325, Sci-Fi,7.0
+4103, Documentary,6.6
+77, Thriller,5.8
+2975, Thriller,6.6
+595, Thriller,5.6
+3747, Western,6.3
+4446, Crime,7.0
+2218,Drama,6.9
+3534,Drama,6.9
+424,Action,7.5
+3551, Romance,6.5
+480, Fantasy,7.3
+2042, Music,6.7
+541, Comedy,6.0
+3386, Crime,6.3
+2426,Drama,5.6
+3747, Crime,6.3
+4679, Horror,6.3
+3171, Romance,5.2
+840, Adventure,7.3
+1602, Fantasy,7.0
+1893, Thriller,6.1
+388, Thriller,6.7
+4677, Drama,7.0
+2807, Thriller,3.9
+1673, Drama,6.9
+2416,Drama,7.6
+4862, Sci-Fi,7.0
+1189, Sci-Fi,6.4
+985, Horror,6.2
+4755,Drama,6.4
+34, Sci-Fi,6.8
+62, Sci-Fi,5.4
+3663, Romance,6.9
+180, Comedy,6.5
+3889,Comedy,8.1
+238, Family,8.1
+125, Family,7.6
+884,Action,4.7
+112, Adventure,7.1
+4896, Drama,7.4
+2060, Thriller,6.6
+2988, Drama,7.0
+1381, Crime,7.0
+2573, Sci-Fi,7.0
+1403,Biography,7.7
+3374, Drama,7.4
+509, Family,8.5
+3745,Horror,6.2
+3284, Crime,6.8
+3483, Adventure,6.8
+1704, Horror,4.8
+2587, War,6.2
+1340, Romance,6.5
+1140, Thriller,7.5
+540,Biography,7.1
+4930, Drama,6.3
+644, Romance,6.2
+1662, Horror,5.9
+1250, Horror,4.7
+3203, Thriller,6.8
+1462, Mystery,6.6
+4493,Crime,7.8
+2310, Drama,6.5
+16,Action,6.6
+1751, Drama,6.3
+611,Adventure,7.0
+454, Family,6.3
+3242, Mystery,6.1
+510, Family,5.8
+2479,Action,6.5
+1820, Drama,6.0
+1419, Thriller,5.8
+47, Fantasy,8.0
+1769, Romance,6.7
+4010,Comedy,6.4
+1583, Comedy,6.1
+1294, Music,4.2
+448,Adventure,4.4
+912,Drama,7.4
+2321, Drama,6.9
+2397, Horror,6.7
+2178,Drama,7.6
+2671, Mystery,4.1
+3741, Horror,8.0
+3706,Horror,4.6
+4311,Drama,6.6
+765, Animation,6.8
+4586,Crime,7.7
+136, Horror,5.8
+73,Action,6.9
+2166, Mystery,6.9
+672, Drama,5.2
+227, Sci-Fi,7.0
+4247, Adventure,7.5
+4601, Drama,6.1
+4122, Thriller,4.1
+2033, Comedy,5.3
+1338, History,7.4
+1360,Action,6.4
+4576, Drama,7.0
+583, Animation,7.2
+466, Sport,6.3
+220, Thriller,6.1
+2286, Thriller,6.3
+4828, Fantasy,6.6
+1238, Sci-Fi,6.4
+353, Comedy,7.9
+1111,Adventure,5.9
+3941, Horror,6.3
+1248, History,7.2
+3550, War,8.2
+126, Sci-Fi,7.2
+3017, Crime,8.3
+2153,Adventure,6.6
+987, Romance,6.5
+136,Drama,5.8
+1251, Family,5.2
+2363, Sci-Fi,8.5
+2076,Drama,6.2
+3566,Drama,7.3
+495, Sci-Fi,2.4
+2573, Thriller,7.0
+4602,Drama,5.5
+1531,Crime,5.3
+2386, Drama,7.7
+1392,Drama,6.0
+4592,Action,5.6
+1465, Crime,6.6
+771, Comedy,4.9
+90, Family,7.8
+2679, Mystery,4.9
+1514,Drama,7.3
+3740, Romance,7.7
+927, Comedy,7.9
+629, Fantasy,4.2
+1462,Crime,6.6
+89,Action,7.9
+598, Drama,7.1
+1012, Comedy,5.4
+3778, Crime,7.0
+926, Romance,4.6
+791, Sci-Fi,5.7
+251, Adventure,6.1
+636, History,7.2
+2373, Animation,8.6
+505, Thriller,4.2
+1569,Drama,6.1
+1338, Adventure,7.4
+1093, Romance,5.6
+620, Sport,3.0
+1393,Drama,7.8
+1593,Action,7.6
+6, Adventure,6.2
+144, Comedy,6.7
+2523,Drama,7.6
+819,Action,5.7
+1553,Adventure,7.1
+3227, Horror,6.6
+1281,Crime,7.4
+1473,Crime,6.2
+778, Sci-Fi,6.4
+3739,Horror,4.9
+1185,Crime,7.3
+1813,Adventure,7.9
+2630,Comedy,7.1
+1380, Comedy,6.3
+4248, Sci-Fi,5.1
+3483, Thriller,6.8
+1686, Crime,5.3
+1632, Fantasy,5.1
+3941, Mystery,6.3
+3917, Fantasy,4.7
+4141, Family,7.0
+2726, Romance,7.2
+1308,Action,4.7
+245, Adventure,5.9
+2490,Adventure,7.5
+2935,Comedy,3.3
+1303, Horror,3.3
+1874, History,8.9
+2887, Romance,6.5
+289, Crime,7.0
+427, Comedy,4.9
+3076,Comedy,6.9
+2536,Biography,7.1
+3418, Thriller,6.0
+2973, Fantasy,7.8
+202, Fantasy,7.5
+908, Thriller,7.6
+2437, Romance,6.5
+161, Romance,7.3
+4851,Biography,6.4
+483,Action,6.5
+460,Action,6.8
+942, Comedy,6.6
+2099,Drama,6.0
+795, Thriller,6.1
+2162, Romance,3.7
+2337, Drama,6.4
+456, Family,6.1
+2735, Crime,7.2
+3726, Drama,6.4
+1256, Mystery,6.2
+861, Adventure,6.6
+1108, Drama,6.5
+4964, Thriller,6.8
+113, Biography,5.5
+3718,Comedy,7.4
+466, Comedy,6.3
+530,Comedy,6.8
+4263, Drama,7.8
+3837, Romance,7.2
+1498, Drama,6.9
+1039,Action,8.3
+2016, Romance,7.7
+1211, War,7.8
+2329, Drama,7.5
+1696,Comedy,5.6
+405, Thriller,6.8
+1043,Crime,6.8
+756, Fantasy,6.1
+402, Family,7.1
+1798, Drama,5.3
+1832,Action,5.2
+3009,Drama,7.7
+675, Sci-Fi,5.9
+3205,Drama,7.2
+225, Thriller,7.1
+1321,Adventure,6.9
+1154, Crime,7.2
+446, Comedy,6.7
+4298,Action,6.7
+618,Drama,6.3
+570,Action,7.1
+1932, Horror,5.3
+5,Action,6.6
+4403, Sport,6.8
+1681,Comedy,5.5
+1901, Mystery,5.9
+3456,Animation,8.0
+1051, Drama,6.5
+2152,Action,8.5
+1660, Fantasy,3.7
+3839,Drama,5.9
+1912, Animation,5.2
+2577,Comedy,6.6
+1131, Crime,6.5
+1389, Drama,5.4
+4424,Comedy,6.2
+3432,Action,6.5
+87, Fantasy,6.4
+4120, Sport,7.4
+139, Adventure,7.3
+549, Drama,6.5
+1176,Action,7.2
+4104, Drama,5.4
+3274, Sci-Fi,7.1
+2687, Sci-Fi,4.6
+81, Fantasy,6.1
+839, Drama,6.6
+2196, Thriller,5.0
+3343, Romance,7.0
+2768, War,7.2
+3550,Drama,8.2
+1845,Horror,6.2
+525,Drama,7.9
+1913, Comedy,5.6
+46, Sci-Fi,7.0
+3570,Drama,6.8
+1091,Drama,6.5
+550, Mystery,6.6
+270, Adventure,8.8
+650, Fantasy,6.4
+4975,Biography,5.3
+1616, Fantasy,5.4
+78,Adventure,8.3
+4923,Comedy,6.5
+1913, Family,5.6
+4452,Adventure,6.6
+648,Action,8.6
+1836, Drama,6.5
+1711, Thriller,5.6
+1578, Crime,8.1
+1490,Drama,6.7
+1697,Drama,7.0
+814,Action,7.3
+1816, Sci-Fi,7.7
+824, Sci-Fi,5.9
+1439, Thriller,6.2
+1097, Crime,5.4
+1211, Drama,7.8
+625, Drama,5.4
+1089, Horror,7.1
+1228,Action,6.1
+3040,Horror,6.0
+732, Romance,6.7
+3460, Crime,7.2
+2509, Thriller,7.5
+3905, Horror,4.0
+1473, Thriller,6.2
+2829,Biography,8.3
+1536,Action,8.4
+3702,Fantasy,4.4
+521,Animation,7.5
+528, Adventure,7.4
+2571,Comedy,5.2
+3415, Sci-Fi,6.8
+291, Thriller,7.2
+461, Thriller,6.6
+127, Fantasy,7.1
+1195, Drama,7.2
+2375, Adventure,7.0
+2244,Drama,6.3
+2029,Comedy,6.9
+2162, Comedy,3.7
+2900, Mystery,7.8
+2542,Drama,7.8
+690,Action,4.8
+1270,Comedy,6.5
+442,Adventure,6.8
+2183, Animation,5.8
+2475,Comedy,7.6
+1432,Action,6.6
+3913, Thriller,5.9
+3210, Drama,6.7
+3359,Biography,8.0
+2334,Action,6.9
+1891, Romance,6.2
+4027,Comedy,6.5
+1192,Crime,7.4
+1171, History,7.9
+1391, Romance,6.8
+207,Adventure,6.7
+2565, Horror,5.1
+2746, Drama,4.5
+985, Thriller,6.2
+906, History,7.1
+1407,Adventure,7.7
+2644,Adventure,8.4
+4575, Romance,6.9
+510,Action,5.8
+2959, Drama,7.8
+2922,Comedy,6.3
+1325,Action,7.0
+1789,Action,5.8
+4534, Thriller,5.7
+1299, Family,4.8
+794, Sci-Fi,8.1
+1388, Drama,6.1
+667,Comedy,6.1
+581,Drama,6.7
+1301, Drama,6.5
+2323,Adventure,8.4
+3825, Thriller,7.4
+1456, Sci-Fi,6.2
+2289, Drama,6.6
+4412, Drama,7.5
+1343, Adventure,6.6
+4485, Thriller,7.7
+159, Drama,6.1
+3637, Romance,6.7
+2504, Drama,7.4
+356, Thriller,6.6
+3037,Drama,7.4
+1106, Thriller,6.3
+529, Comedy,6.9
+3443, Drama,7.2
+1781,Drama,4.8
+3450, Sci-Fi,6.3
+27, Adventure,8.2
+2977, Music,7.0
+4852, Drama,7.3
+1124, Romance,5.8
+563, Animation,6.4
+763, Horror,6.3
+4208, Drama,6.8
+2712, Drama,8.0
+2122, Mystery,6.3
+3367, Romance,5.6
+1930, Music,7.5
+226, Comedy,4.8
+1633,Comedy,6.4
+2694,Biography,6.6
+454, Comedy,6.3
+143, Adventure,5.4
+707,Comedy,6.3
+1892, Romance,7.8
+3471, Thriller,4.9
+3358, Thriller,5.6
+1113, Fantasy,7.4
+901, Thriller,5.9
+1440, Mystery,5.4
+1324, War,6.0
+3714, Drama,8.0
+1159,Action,6.6
+3218,Action,7.3
+1884, Thriller,7.9
+1145, Sci-Fi,6.8
+3932, Fantasy,4.8
+450, Adventure,6.5
+4840,Drama,6.6
+4712,Drama,6.6
+219, Sci-Fi,6.4
+682, Sci-Fi,6.1
+1554,Mystery,6.4
+3891, Adventure,6.1
+3408, Family,7.7
+4567, Romance,7.0
+3120, Fantasy,7.4
+896,Comedy,6.4
+1236, Adventure,7.8
+1317,Action,5.8
+648, War,8.6
+1130, Thriller,5.4
+1776, Romance,7.8
+39, Fantasy,6.7
+529, Family,6.9
+343,Drama,6.3
+2454,Drama,7.8
+1903, Crime,8.7
+4238, Romance,8.1
+2927, Thriller,6.5
+2784, Crime,5.7
+2826, Crime,7.2
+750, Horror,6.8
+433, Sci-Fi,7.0
+2031,Comedy,6.3
+1858, Fantasy,4.3
+2995, Sci-Fi,7.5
+4905, Drama,7.1
+2655, Romance,6.0
+1316, Comedy,4.4
+544,Comedy,5.7
+481, Adventure,5.9
+1863,Adventure,5.2
+3110, Adventure,6.2
+636,Adventure,7.2
+960,Action,8.2
+1103, Thriller,6.3
+2642, Crime,5.1
+13,Action,7.3
+2394,Comedy,7.3
+460, Thriller,6.8
+619,Action,6.5
+1119, Fantasy,5.4
+865, Family,5.9
+1489,Action,5.5
+1349, Thriller,5.6
+1079,Crime,6.5
+1357,Drama,7.3
+1110, Comedy,6.1
+1534,Action,6.5
+65, Adventure,7.3
+3908, Adventure,5.7
+2705, Drama,6.6
+4208, Crime,6.8
+1355,Crime,6.1
+796, Thriller,5.6
+1851, Drama,7.2
+512, Thriller,7.2
+3463, Romance,7.5
+2640, Thriller,5.6
+594, Mystery,6.9
+871,Action,5.7
+1003, Crime,6.5
+101, Romance,7.8
+3615, Drama,7.4
+1003,Action,6.5
+1475, Crime,6.5
+524, Comedy,6.9
+1961,Comedy,4.7
+2495,Comedy,6.7
+730, Sci-Fi,6.4
+3163, Romance,7.0
+3592, Drama,8.6
+3146, Horror,7.1
+2603, Romance,7.4
+910, Romance,5.9
+1111, Animation,5.9
+4650, Drama,7.2
+1766, Romance,6.9
+3675, Romance,7.1
+2039, Drama,5.4
+2105, Romance,6.9
+2878,Comedy,5.7
+132, Adventure,5.1
+1220, War,7.2
+4205, Drama,6.2
+879,Action,5.8
+1720, Fantasy,5.6
+2953,Biography,7.6
+1191, Sci-Fi,4.1
+463, Thriller,6.9
+140, Fantasy,4.2
+3178, Music,7.7
+784,Action,6.0
+1774,Action,4.9
+156,Adventure,7.3
+3999, Drama,7.5
+525, Sci-Fi,7.9
+583, Family,7.2
+1434,Comedy,5.6
+413, Mystery,6.7
+1057, Crime,6.1
+2604, Romance,6.9
+1679,Comedy,5.2
+4753, Romance,5.7
+695,Action,6.2
+2782, Animation,6.6
+2927, War,6.5
+2070, Crime,6.0
+3663,Drama,6.9
+97,Action,8.8
+1779, Thriller,6.2
+2285, Drama,7.1
+722, Thriller,6.7
+2875,Comedy,5.9
+1148,Comedy,6.0
+3515,Biography,6.4
+356, Horror,6.6
+2017,Adventure,6.1
+2743, Mystery,6.1
+3447, Crime,6.2
+1453, Crime,6.6
+801, Romance,6.0
+1693, Adventure,4.6
+1204, Romance,7.0
+1472, Sci-Fi,4.5
+2760, Western,8.3
+1528, Adventure,4.9
+3977, Drama,6.8
+635,Comedy,6.4
+3988,Crime,7.5
+992, Thriller,6.4
+1224, Thriller,7.6
+1168,Action,6.1
+3582, War,8.1
+753, Crime,6.3
+2836, Thriller,6.2
+750, Sci-Fi,6.8
+1411,Crime,7.3
+4536,Horror,6.6
+1959, Fantasy,5.6
+1755,Comedy,6.9
+954, Family,5.0
+3100, Sport,7.0
+1242, Mystery,6.5
+2522, Romance,3.0
+3627,Drama,7.2
+3947, Romance,6.2
+4747,Action,8.7
+1398, History,7.2
+811,Action,6.7
+4592, Drama,5.6
+1475, Thriller,6.5
+1328,Action,7.6
+3547,Comedy,7.0
+1592, Drama,7.8
+2850, Family,4.9
+1394, Romance,5.3
+674, Comedy,6.3
+996,Comedy,4.2
+841, Romance,5.6
+2873,Adventure,5.6
+1319, Thriller,6.9
+1644, Thriller,7.6
+2769, Family,6.9
+4840, Sport,6.6
+1541, Sci-Fi,6.4
+2539, Drama,8.0
+392, Family,4.4
+1522,Biography,7.1
+2730, Drama,6.3
+1020, Crime,5.9
+4183, Drama,6.9
+907, Thriller,7.4
+2839,Fantasy,5.7
+4581, Drama,7.4
+2887,Drama,6.5
+3703, Horror,6.6
+4280, Mystery,5.7
+306, Mystery,5.7
+3170, Romance,6.0
+1447, Thriller,3.8
+1127, Adventure,6.0
+366, Adventure,7.6
+1009,Adventure,7.3
+1623, Romance,5.9
+905, Drama,7.0
+3606,Comedy,6.1
+1390, History,6.7
+4671,Comedy,6.4
+4649,Action,6.5
+2428, Drama,5.0
+1429, History,7.7
+89, Family,7.9
+2621,Comedy,6.6
+231, Sci-Fi,6.2
+120,Action,8.3
+3927, Thriller,6.5
+1836,Crime,6.5
+3670,Comedy,5.6
+1221, Fantasy,6.4
+834, Thriller,5.5
+738,Action,6.5
+696, Animation,6.3
+1362, Western,5.2
+1884,Crime,7.9
+4437, Horror,5.1
+2756, Drama,5.7
+283, Drama,8.5
+981,Action,5.5
+104,Action,6.1
+766, Romance,6.1
+1296, Romance,5.8
+1420,Horror,7.5
+4489,Drama,5.5
+2376,Drama,7.6
+4284, History,8.0
+4662,Drama,7.2
+938,Comedy,6.4
+2053, Crime,6.8
+1987, Drama,6.7
+4098,Comedy,5.4
+732,Comedy,6.7
+1869,Drama,8.2
+625, Thriller,5.4
+2840,Drama,6.8
+1036, Music,6.3
+3593, Horror,5.1
+160,Action,8.0
+2160, Documentary,7.1
+1134,Action,4.9
+360, Thriller,5.5
+2492,Horror,7.9
+1119, Family,5.4
+784, Mystery,6.0
+2496, Drama,6.7
+2852,Comedy,2.5
+902, Musical,7.1
+501,Action,6.0
+692,Drama,5.1
+2145, Drama,6.1
+3421, Crime,6.6
+2936, Crime,6.7
+1994, Adventure,5.6
+300, Family,6.9
+2602, Drama,5.9
+1949, Drama,6.4
+452,Mystery,8.1
+1590,Drama,6.8
+368, Animation,6.8
+410, Romance,6.6
+2910, Romance,6.4
+2002, Sport,7.2
+3728, Drama,5.6
+3611,Biography,7.0
+3634, Adventure,3.8
+334, Romance,6.9
+1258,Biography,7.2
+3371, Romance,6.1
+1978, Sport,8.2
+2723, Thriller,8.0
+567, Family,6.3
+3383, Drama,7.6
+4413, Horror,6.8
+2917,Adventure,8.0
+1285, Mystery,6.2
+2380, Romance,6.3
+322,Action,6.9
+4897,Action,8.0
+3787, Crime,7.1
+2269,Action,5.7
+2508, Sport,4.9
+1343, Thriller,6.6
+1351, Crime,4.4
+150, Sci-Fi,5.5
+1496, Thriller,7.4
+1224,Drama,7.6
+2432,Comedy,5.7
+169,Action,6.0
+4816,Documentary,7.8
+4564, Romance,6.8
+3559,Mystery,7.1
+2859,Comedy,7.8
+3984,Comedy,7.2
+472, Animation,4.6
+431, Fantasy,4.3
+3260,Comedy,6.1
+2948, Drama,7.4
+249,Action,4.3
+1009, Drama,7.3
+1828, Mystery,6.4
+659,Comedy,6.5
+4213, Mystery,5.1
+3284, Drama,6.8
+1316, Fantasy,4.4
+1753, Crime,6.4
+2004, Mystery,7.8
+934,Comedy,6.3
+2482, Family,4.4
+3865, Horror,5.9
+274, Mystery,7.1
+3593,Fantasy,5.1
+3583,Documentary,7.5
+2578, Music,6.8
+4694, Drama,7.2
+658, Romance,7.6
+4964, Horror,6.8
+633,Animation,7.7
+2956, Fantasy,5.3
+1155, Romance,7.0
+1916,Action,6.6
+2571, Romance,5.2
+425,Action,5.4
+2499,Action,6.8
+2328, Music,2.8
+238, Animation,8.1
+3746,Comedy,7.2
+272, Sport,6.8
+245,Action,5.9
+387, Drama,6.1
+1189,Action,6.4
+4537,Action,7.3
+463, Drama,6.9
+1205,Biography,7.5
+873, Thriller,6.5
+2988,Comedy,7.0
+2838, Romance,6.1
+2056, Sci-Fi,7.1
+733, Comedy,7.1
+95, Sci-Fi,8.1
+31, Romance,7.3
+591,Action,7.1
+496, Animation,5.7
+1488, Drama,7.3
+2148,Comedy,5.8
+3029, Sport,7.9
+2507,Comedy,7.2
+1383, Thriller,6.9
+2608,Comedy,6.0
+2018,Adventure,7.3
+1077, Fantasy,5.8
+1195,Comedy,7.2
+1488,Biography,7.3
+3089,Drama,8.3
+822, Drama,4.7
+282,Action,6.5
+2151,Horror,6.8
+1373, Drama,8.1
+2462, Sci-Fi,5.9
+1773,Action,6.1
+506, History,5.6
+4000, Mystery,8.2
+399, Drama,6.4
+3679, Mystery,6.6
+1717, Crime,6.6
+3160,Comedy,5.8
+1332, Thriller,6.7
+1470, Animation,5.6
+420, Fantasy,7.1
+412,Adventure,6.2
+3408, Animation,7.7
+1611,Drama,7.5
+693, Sport,7.1
+1083,Comedy,5.5
+1255,Comedy,5.8
+1011, Drama,7.5
+705, Thriller,5.9
+2608, Crime,6.0
+3417, Crime,6.9
+2409,Comedy,7.0
+1424, Sci-Fi,6.3
+2188, Drama,6.3
+2319, Drama,7.0
+1564, Fantasy,3.6
+1536, Sci-Fi,8.4
+613, Adventure,5.6
+3998, Romance,6.1
+3296, Biography,7.7
+1719, Drama,7.0
+3418, Horror,6.0
+4679,Crime,6.3
+2893, Comedy,5.4
+2676, Thriller,5.5
+893, Romance,7.7
+1798, Romance,5.3
+1994, Thriller,5.6
+2774, Thriller,7.1
+2720,Drama,6.5
+4680,Horror,5.5
+1152, Romance,6.5
+265, Drama,7.1
+4707,Horror,6.4
+467, Crime,5.6
+703,Comedy,6.8
+2844,Comedy,6.1
+1717,Action,6.6
+4099, Drama,6.9
+1694, Thriller,6.7
+3186, Drama,7.3
+1261,Horror,5.9
+847,Comedy,6.0
+1663,Drama,6.7
+2000, Drama,6.5
+3561,Comedy,7.3
+4213, Horror,5.1
+724,Action,7.0
+1812, Thriller,7.8
+4485,Horror,7.7
+2226,Action,7.0
+4169, Thriller,5.9
+1137,Biography,7.7
+318, Crime,5.3
+1412,Crime,6.8
+2560, Romance,7.2
+4662, Romance,7.2
+70, Mystery,7.5
+1520,Adventure,5.6
+2126, Drama,6.8
+688, Sci-Fi,5.1
+2031, Drama,6.3
+3185,Comedy,4.1
+534,Crime,7.3
+1203, Horror,7.5
+868,Action,7.3
+3668,Comedy,8.3
+3585, Family,7.8
+963,Adventure,6.6
+1469,Action,5.0
+1873, Music,6.1
+2540,Comedy,7.3
+4583, Romance,6.1
+3798, Thriller,6.2
+1745, Thriller,4.9
+3462,Action,3.5
+1398, Drama,7.2
+4466,Action,6.1
+3572,Drama,7.2
+1285, Thriller,6.2
+1753, Thriller,6.4
+3584, Drama,8.1
+4207, Romance,5.9
+3605, Fantasy,6.8
+3109, Sci-Fi,6.5
+1426,Comedy,6.6
+743, Adventure,4.4
+2066,Adventure,2.8
+987, Thriller,6.5
+2431,Drama,6.7
+3079,Adventure,8.3
+12,Action,6.7
+3721, Drama,5.1
+3730, Mystery,6.1
+2821,Comedy,6.8
+3681, Romance,4.9
+355, Crime,6.6
+378,Adventure,5.9
+3165,Comedy,5.3
+466, Family,6.3
+29, Thriller,7.0
+2811,Biography,6.8
+1487,Action,6.0
+3605, Drama,6.8
+2326, Drama,7.4
+182, Comedy,6.7
+844,Comedy,6.3
+4154,Crime,7.4
+1704,Drama,4.8
+1394, Comedy,5.3
+1014,Crime,7.7
+2610,Drama,6.8
+402, Comedy,7.1
+2148, Drama,5.8
+4197, Romance,7.1
+152, Comedy,6.1
+1817, Romance,6.9
+500, Drama,5.8
+568,Action,5.6
+1807, Crime,7.9
+2237, Crime,6.8
+2240, Thriller,6.1
+2213,Action,6.3
+556,Action,6.6
+2898, Romance,8.0
+1380, Crime,6.3
+2460,Drama,7.8
+1738, Fantasy,5.8
+4855,Crime,7.2
+3091, Mystery,6.2
+1126,Mystery,7.2
+93,Adventure,8.2
+3255,Action,7.3
+4973, Thriller,7.5
+1479,Comedy,6.3
+1900,Action,6.8
+1297, Sci-Fi,5.9
+2315, Mystery,6.1
+694,Crime,7.5
+615, Adventure,5.4
+221, Thriller,6.4
+241, Family,7.3
+232,Action,6.1
+104, Family,6.1
+2148, Romance,5.8
+2135, Comedy,4.8
+4054,Crime,8.0
+2057, Romance,6.1
+1682, Thriller,7.4
+1891,Comedy,6.2
+4681, Thriller,4.8
+848, Crime,7.2
+2264, Romance,5.3
+2874, Crime,6.1
+463,Action,6.9
+3744,Horror,5.9
+551, Romance,6.6
+2023, Romance,5.7
+1264, Drama,6.2
+1450, Family,6.8
+2883, Drama,7.1
+1032, Thriller,5.5
+606,Adventure,7.6
+2970,Adventure,8.4
+1821, Thriller,6.2
+2885,Action,5.1
+176,Action,6.8
+3542,Comedy,7.7
+585,Action,5.8
+359,Adventure,7.3
+3620,Comedy,5.1
+2240,Action,6.1
+1763, Thriller,7.3
+1805,Adventure,7.8
+1156, Drama,7.0
+1697, Thriller,7.0
+4933,Documentary,7.4
+3107,Drama,7.5
+1455,Drama,5.2
+258,Adventure,4.9
+4248,Action,5.1
+4213,Drama,5.1
+2194, Drama,8.1
+3748,Horror,5.2
+2449, Comedy,7.9
+3384,Drama,6.5
+610, Romance,7.7
+4987, Drama,6.3
+1336,Action,4.9
+3134, Thriller,5.9
+357, Sci-Fi,7.0
+3227,Comedy,6.6
+1912, Fantasy,5.2
+1450, Fantasy,6.8
+3605,Comedy,6.8
+508, Drama,8.2
+3171, Fantasy,5.2
+3031,Comedy,7.5
+1197,Biography,7.7
+3680,Drama,7.9
+2444,Adventure,5.5
+1016, History,6.4
+564,Action,6.1
+850,Action,7.3
+337,Drama,6.7
+190,Action,6.6
+1318, Adventure,5.1
+970, Thriller,7.4
+1438,Fantasy,7.4
+1578, Comedy,8.1
+608, Drama,6.3
+596, Horror,5.6
+3613, Mystery,7.1
+3185, Family,4.1
+3300,Comedy,7.0
+1825, Drama,6.7
+5015,Comedy,7.1
+728,Action,5.9
+467, Family,5.6
+3288, Sci-Fi,6.5
+1015, Adventure,5.8
+714, Sci-Fi,5.8
+4063, Family,5.1
+1747, Romance,8.0
+4653,Comedy,6.0
+3366, Romance,6.5
+410, Drama,6.6
+2115, Romance,3.8
+4418, Romance,5.8
+750, Fantasy,6.8
+3102, Sport,6.4
+0, Adventure,7.9
+2072,Biography,6.7
+3744, Thriller,5.9
+482,Action,5.6
+314, Adventure,6.0
+2255, Drama,6.6
+2408, Mystery,3.9
+2396,Action,6.6
+1197, Drama,7.7
+80, Adventure,7.0
+2851, Drama,6.1
+1585,Comedy,7.2
+2249,Drama,7.5
+945, Fantasy,6.0
+273, Family,3.8
+2790, Romance,4.9
+3574,Biography,7.7
+2830, Drama,8.1
+237,Action,6.7
+658, Musical,7.6
+3059,Biography,7.7
+657, Family,5.5
+4542, Sci-Fi,6.0
+3721, Romance,5.1
+2179,Comedy,4.8
+1370, Romance,5.7
+4402,Comedy,7.1
+2120, Romance,6.1
+1483, Thriller,6.2
+3631, Romance,7.0
+152, Mystery,6.1
+1317, Drama,5.8
+1900, Thriller,6.8
+886, Musical,6.4
+1304, Adventure,5.9
+419,Adventure,7.1
+1963,Comedy,6.8
+560,Animation,4.7
+551, Drama,6.6
+959, Sci-Fi,5.7
+725, Romance,6.1
+76, Thriller,6.1
+395,Action,6.7
+2145,Comedy,6.1
+3612, Drama,5.9
+1544,Comedy,5.7
+39, Sci-Fi,6.7
+2359, Romance,5.9
+266, Fantasy,5.4
+184,Action,7.6
+531, Family,6.7
+852, Mystery,6.2
+726, Animation,6.6
+3306, Romance,5.7
+2410, Drama,6.7
+2147,Drama,7.1
+105, Drama,5.6
+1788,Comedy,6.1
+1631, Sci-Fi,5.4
+3514, Crime,6.6
+2068, Drama,5.1
+680, Thriller,6.7
+1607,Comedy,6.1
+1933,Action,7.5
+1735, Music,7.9
+532, Thriller,5.1
+488,Action,6.3
+1080,Crime,6.7
+3358, Horror,5.6
+3750, Thriller,6.8
+596, Thriller,5.6
+5035, Drama,6.9
+1861, Romance,6.8
+2266, Drama,6.6
+1516,Action,5.5
+2994, Thriller,6.8
+191, Family,6.7
+353, Fantasy,7.9
+2849,Sci-Fi,7.7
+1886, Romance,6.2
+3392,Comedy,5.4
+2685,Adventure,5.7
+1259,Comedy,5.1
+4534,Horror,5.7
+2478, Romance,6.2
+3560,Adventure,6.2
+1417, Comedy,6.2
+987, Drama,6.5
+1741, Romance,5.3
+1687,Action,5.4
+2785, Romance,4.5
+461, Mystery,6.6
+443, Drama,7.2
+4493, Thriller,7.8
+205,Action,8.1
+2308,Biography,7.4
+3357,Crime,7.9
+2252, Thriller,5.0
+292,Action,6.4
+732, Drama,6.7
+2322,Comedy,7.5
+621, Thriller,3.6
+779, Romance,6.3
+3971, Drama,6.0
+2420, Horror,6.8
+3175, Drama,8.6
+173, War,7.4
+1010, Drama,6.7
+1004, Mystery,6.4
+2889, Thriller,6.6
+734,Drama,6.8
+1790, History,7.0
+1502,Action,6.4
+2413, Drama,6.3
+121,Action,6.7
+913, Drama,5.8
+3216,Comedy,3.6
+2607, Romance,8.0
+1665, Sport,6.9
+197,Action,4.9
+2615, War,6.1
+2933,Drama,6.6
+639, Thriller,7.9
+3198, Music,6.5
+712, Drama,8.5
+1186,Comedy,6.7
+1598, Family,6.2
+1271,Biography,5.0
+3428, Romance,6.9
+795, Mystery,6.1
+545,Drama,7.6
+112, Sci-Fi,7.1
+3410,Drama,6.5
+4004,Action,5.2
+2699, Romance,5.1
+675, Fantasy,5.9
+1841,Drama,6.6
+334, Family,6.9
+2977, Drama,7.0
+1706,Animation,4.8
+1249,Adventure,6.0
+3212, Drama,7.2
+1964, Crime,5.4
+1042, Drama,6.7
+1651, Romance,7.6
+152, Adventure,6.1
+912, Thriller,7.4
+627, Mystery,4.2
+2250,Adventure,8.2
+887, Sci-Fi,4.2
+1075,Comedy,5.5
+1095, Comedy,7.2
+2300, Mystery,6.7
+3696, Horror,6.6
+67, Family,8.3
+1457,Crime,6.2
+3851, Musical,7.2
+114, Family,7.5
+1492, Crime,5.7
+1032, Fantasy,5.5
+1608, Family,4.2
+4009,Action,5.7
+1950, Thriller,5.6
+1063, Thriller,5.8
+2566, Crime,5.6
+2165,Comedy,4.9
+3160, Romance,5.8
+3564, Thriller,3.6
+2932, Sci-Fi,7.1
+1616,Comedy,5.4
+697,Adventure,8.1
+3203,Drama,6.8
+2874,Comedy,6.1
+534, Mystery,7.3
+247,Action,5.8
+2544,Comedy,6.4
+315,Adventure,7.1
+534, Thriller,7.3
+1757,Comedy,6.7
+1445, Comedy,4.8
+83, Adventure,7.6
+1138, Crime,7.8
+2447,Action,6.7
+433,Action,7.0
+3915, Thriller,4.8
+151,Action,6.6
+740, Thriller,5.8
+1180,Action,5.2
+499, Drama,6.0
+708,Adventure,5.5
+1602, Family,7.0
+269,Action,7.2
+1704, Sci-Fi,4.8
+3092,Action,6.9
+4791,Comedy,6.9
+2833,Comedy,3.6
+226, Crime,4.8
+989, Fantasy,3.5
+183,Action,8.1
+2985,Mystery,5.3
+3453,Drama,6.7
+1784, Sport,6.7
+975,Drama,7.8
+3521, War,6.3
+2687, Fantasy,4.6
+817, Fantasy,6.7
+87, Family,6.4
+2407, Drama,8.3
+3351, Family,7.2
+252, Thriller,6.5
+767, Fantasy,7.8
+2825,Biography,7.4
+3478,Biography,7.4
+1789, Romance,5.8
+335, Family,6.6
+390, Fantasy,6.9
+2190, Family,6.8
+971, Comedy,7.3
+297, Romance,6.9
+1112, Sci-Fi,6.6
+1628,Adventure,5.8
+1980, War,7.7
+760, Thriller,6.2
+3237, Drama,4.7
+2383,Crime,6.3
+4821,Horror,7.9
+3484,Action,5.2
+94,Action,6.4
+294, Crime,6.7
+159, Adventure,6.1
+3114, Drama,5.8
+1805, Family,7.8
+1855, Thriller,6.0
+1541, Fantasy,6.4
+2930,Crime,7.5
+2278,Comedy,6.6
+3480,Drama,6.5
+553, History,6.7
+3155,Biography,7.0
+3147,Horror,6.1
+9,Adventure,7.5
+455, Crime,7.3
+2956, Family,5.3
+2614, Thriller,8.1
+2822,Drama,7.4
+2058, Sci-Fi,8.0
+2202, Drama,6.7
+3916, Mystery,7.5
+4287, Romance,6.9
+2135, Sci-Fi,4.8
+3265,Horror,4.5
+342, Thriller,5.7
+1912, Comedy,5.2
+2290, Crime,6.0
+783, Crime,5.9
+381, Romance,6.2
+2272, Adventure,6.1
+3883, Thriller,6.5
+2974, Drama,7.6
+1713, History,7.9
+1896,Drama,6.5
+1417,Adventure,6.2
+146, Sci-Fi,6.9
+948, Mystery,5.0
+4207,Drama,5.9
+264,Action,5.8
+4564,Comedy,6.8
+2133,Animation,7.8
+0, Fantasy,7.9
+907, Drama,7.4
+4057, Romance,7.4
+563, Sci-Fi,6.4
+3841,Comedy,6.7
+814, Biography,7.3
+52, Adventure,7.0
+226,Action,4.8
+1386,Drama,6.4
+3504, History,7.5
+503, Family,6.0
+54, Fantasy,6.2
+1135, Crime,6.3
+359, Fantasy,7.3
+1398,Action,7.2
+3940,Crime,5.9
+2046, Crime,6.5
+671,Drama,7.3
+3773,Comedy,6.8
+722, Crime,6.7
+1826, Crime,6.3
+4853,Comedy,6.9
+1291, Thriller,5.9
+4977, Documentary,7.3
+347,Action,5.3
+2864, Drama,6.3
+1812, Drama,7.8
+647, War,5.4
+1566,Comedy,5.9
+1118, Sci-Fi,6.0
+4827,Comedy,6.7
+3504,Adventure,7.5
+617, Drama,5.9
+2406,Action,7.8
+205, Adventure,8.1
+4175, Thriller,7.2
+156, Animation,7.3
+3,Action,8.5
+1518,Drama,7.1
+1847, Horror,5.2
+1611, Romance,7.5
+572, Fantasy,4.6
+2144, Drama,7.1
+375,Drama,7.4
+3843, Drama,7.1
+2390, Romance,6.4
+275, War,7.2
+2177,Fantasy,7.9
+1691,Comedy,5.5
+276, Comedy,5.9
+2532, Romance,6.5
+1228, Comedy,6.1
+2990,Fantasy,7.1
+3237,Comedy,4.7
+1465, Drama,6.6
+2922, Drama,6.3
+44,Action,6.6
+627, Thriller,4.2
+1734,Comedy,6.5
+4645, Drama,7.5
+2707, Romance,5.5
+4203, Family,5.7
+4676, Sci-Fi,6.9
+456, Fantasy,6.1
+836, Drama,8.8
+1855,Drama,6.0
+752, Fantasy,7.0
+2090, Crime,5.8
+954, Comedy,5.0
+3013, Drama,5.6
+2961,Comedy,5.3
+2557,Action,5.5
+1626, Fantasy,6.1
+3367,Comedy,5.6
+2706,Biography,6.7
+3831,Crime,5.7
+87,Adventure,6.4
+2212,Biography,7.6
+2197, Drama,5.5
+1957, Family,5.3
+2066, Thriller,2.8
+2653,Crime,7.8
+1472,Action,4.5
+1905, Fantasy,6.6
+2326, Western,7.4
+3168, Drama,7.4
+974, War,5.8
+631, Fantasy,4.9
+3115,Fantasy,6.1
+1149, Drama,7.0
+988, Adventure,4.4
+1203, Romance,7.5
+3167,Action,5.5
+2882, Thriller,7.1
+2836, Crime,6.2
+4206, Thriller,6.1
+2308, Musical,7.4
+750,Action,6.8
+259, Sci-Fi,5.8
+864, Fantasy,6.6
+4511, Sport,6.2
+179, Thriller,8.1
+376, Thriller,5.7
+46, Thriller,7.0
+280, Romance,6.9
+1461, Thriller,5.1
+796,Crime,5.6
+3267,Action,7.6
+2876, Drama,7.3
+2277, Mystery,7.1
+664,Action,6.4
+150, Comedy,5.5
+154, Adventure,7.2
+3567, Thriller,7.4
+3612, Romance,5.9
+4564, Drama,6.8
+3909,Comedy,4.6
+4161,Drama,7.1
+3002,Drama,6.4
+3345, Music,6.5
+1650, Sport,5.6
+2705,Crime,6.6
+1107, Fantasy,5.9
+3981, Mystery,6.9
+3783, Thriller,6.3
+1330,Drama,7.1
+561,Action,6.1
+2685, Animation,5.7
+3498,Action,6.2
+880, Romance,7.4
+767, Adventure,7.8
+1122,Action,7.1
+3406, Drama,6.8
+3592, Thriller,8.6
+2331, Thriller,6.4
+649,Action,6.5
+384, Comedy,7.0
+2911, Crime,6.7
+2169, Thriller,7.0
+1319, Mystery,6.9
+4856, Romance,6.5
+3328, Mystery,6.5
+634, Crime,5.6
+2158,Crime,8.6
+3205, Romance,7.2
+4228,Horror,5.7
+3344, Drama,8.0
+1250, Thriller,4.7
+1305, Thriller,6.0
+2025, Romance,6.5
+2133, Comedy,7.8
+2647, Thriller,6.6
+1559,Action,6.3
+81,Action,6.1
+2256, Comedy,7.8
+758,Action,5.3
+1146, Sci-Fi,6.0
+2105,Action,6.9
+2355, Drama,7.4
+1181, Thriller,8.1
+906, War,7.1
+2343,Comedy,5.4
+298,Adventure,7.3
+2449,Biography,7.9
+390,Adventure,6.9
+3095,Comedy,5.8
+22, History,6.7
+70, Family,7.5
+1295, Animation,7.8
+3219,Drama,5.0
+1068, Western,4.7
+1123, Adventure,4.9
+1064,Comedy,6.3
+2080,Drama,7.1
+997, Fantasy,6.5
+1377, Family,6.9
+1635, Family,7.5
+590, Adventure,6.0
+806, Crime,4.8
+22,Action,6.7
+3589,Comedy,7.4
+2981,Comedy,6.3
+692, Mystery,5.1
+145, Fantasy,5.8
+488, Comedy,6.3
+3757, Sci-Fi,5.9
+3368,Comedy,7.7
+4206,Horror,6.1
+4606, Drama,4.1
+448, Family,4.4
+3107, Musical,7.5
+1478, Thriller,6.2
+1581, Mystery,7.3
+1682,Crime,7.4
+1443,Comedy,5.9
+2293, Crime,6.8
+1867,Comedy,6.9
+1403, Sport,7.7
+3318, History,7.3
+2122,Drama,6.3
+1944,Biography,7.5
+59, Thriller,6.2
+1135, Adventure,6.3
+4238,Drama,8.1
+1303, Thriller,3.3
+2627,Horror,5.0
+979, Crime,7.3
+3127, Romance,6.5
+2551, Fantasy,8.2
+395, Crime,6.7
+47, Adventure,8.0
+1573, Music,7.3
+719,Comedy,8.1
+1968, Thriller,4.0
+2478, Music,6.2
+228, Family,5.4
+953, Romance,7.4
+2682,Crime,6.2
+761, Comedy,6.6
+4833,Drama,7.1
+4499,Comedy,7.9
+170, Animation,6.4
+849, Romance,5.1
+3161,Comedy,7.8
+356, Mystery,6.6
+954,Animation,5.0
+4569, Family,6.4
+991,Comedy,6.0
+4743,Crime,5.3
+4333, Sci-Fi,5.7
+7, Musical,7.8
+1189, Thriller,6.4
+4383, Crime,6.3
+3671, Romance,7.7
+3999,Biography,7.5
+1262, Romance,5.8
+88, Adventure,6.5
+2405, Family,6.6
+3353,Horror,6.7
+1125,Biography,7.1
+21, Adventure,7.0
+3463, Drama,7.5
+1953,Comedy,6.6
+2996, Romance,6.3
+2688, Musical,6.2
+567,Action,6.3
+3280, Romance,8.0
+1764,Comedy,6.6
+566, Thriller,6.0
+2067,Drama,6.7
+1310,Action,6.8
+3984, Music,7.2
+1790, War,7.0
+2593, Drama,4.5
+1294, Adventure,4.2
+267, Romance,3.7
+2337, Romance,6.4
+3347, Drama,7.1
+145, Family,5.8
+1912,Adventure,5.2
+1057, Thriller,6.1
+372, Animation,5.6
+3078,Horror,5.4
+2818, Drama,7.7
+3204, Crime,5.7
+4437,Drama,5.1
+4639,Comedy,5.7
+2163,Horror,7.5
+1546, Fantasy,6.7
+3010,Adventure,6.7
+958,Action,7.0
+768, Crime,5.0
+1689,Crime,5.9
+3280, Family,8.0
+124,Action,6.7
+2863, History,7.9
+2607,Biography,8.0
+3669,Biography,7.2
+313, Crime,3.3
+1131,Comedy,6.5
+472, Comedy,4.6
+1050, Fantasy,6.0
+3100,Drama,7.0
+2133, Fantasy,7.8
+4646, Fantasy,6.4
+2723, Mystery,8.0
+5035,Action,6.9
+181,Adventure,7.2
+3259, Romance,6.7
+3134,Mystery,5.9
+533, Comedy,4.1
+2659, Romance,7.2
+17, Adventure,8.1
+623, Adventure,6.2
+481, Sci-Fi,5.9
+1176, Crime,7.2
+338, Comedy,8.2
+241, Fantasy,7.3
+1058, Thriller,6.8
+3503,Comedy,6.2
+1673,Biography,6.9
+3122, Sci-Fi,6.5
+3781, Drama,7.0
+1843, History,7.4
+2331, Romance,6.4
+65, Sci-Fi,7.3
+1955, Romance,5.1
+2718, Mystery,4.6
+675,Action,5.9
+2093,Action,7.0
+1806,Crime,6.6
+320, History,7.0
+3057, Romance,5.3
+2146,Drama,6.7
+1805, Fantasy,7.8
+575,Adventure,7.4
+3420,Crime,6.4
+1294,Action,4.2
+1981,Drama,6.5
+504,Documentary,7.8
+1841, Horror,6.6
+1513,Drama,7.2
+1141, Thriller,6.4
+2719, Crime,7.5
+769, Fantasy,6.2
+3189,Drama,7.0
+350,Action,5.6
+2173, Romance,5.8
+4208,Comedy,6.8
+2392, Comedy,6.9
+2059, Drama,7.5
+4199,Comedy,7.7
+3410, Thriller,6.5
+668,Drama,6.0
+2861,Adventure,5.8
+3609,Comedy,6.8
+366, Mystery,7.6
+2286, Crime,6.3
+222,Action,5.6
+1748, History,7.9
+4120, Romance,7.4
+3574, Music,7.7
+101,Drama,7.8
+1834, Romance,7.1
+1832, Comedy,5.2
+502, Sci-Fi,5.7
+1683, Horror,4.4
+3477,Biography,7.5
+1236,Action,7.8
+898, Adventure,6.8
+442, Animation,6.8
+3382,Drama,7.0
+2858, Thriller,7.7
+1515, Thriller,5.2
+1542, Comedy,5.1
+2758, War,7.5
+35, Fantasy,7.3
+614, Adventure,5.2
+3506, Horror,6.2
+2269, Crime,5.7
+2277,Drama,7.1
+2227,Comedy,5.9
+3591, Drama,6.9
+1198, Romance,6.4
+2314, Drama,6.4
+2901, Thriller,6.1
+2052, Drama,6.8
+971, Family,7.3
+4484,Drama,7.2
+334,Adventure,6.9
+1238, Adventure,6.4
+4003,Comedy,7.8
+1892, Drama,7.8
+2517, Music,5.5
+1188,Adventure,7.8
+4574, Sci-Fi,6.2
+164, Adventure,5.0
+77,Action,5.8
+4107, Thriller,6.1
+4537, Thriller,7.3
+731, Romance,5.7
+2451, War,7.3
+937,Biography,7.3
+1239,Comedy,5.9
+4962,Comedy,7.0
+1179,Action,6.9
+2425,Biography,8.3
+1806, Mystery,6.6
+343, Sci-Fi,6.3
+83, Drama,7.6
+4862, Fantasy,7.0
+1400, Adventure,7.6
+2677, Thriller,7.3
+3439,Horror,5.4
+1684,Action,6.3
+3584, Western,8.1
+4868, Thriller,3.9
+705,Action,5.9
+1634, Adventure,6.3
+4694,Action,7.2
+4356, Thriller,5.6
+2087,Comedy,4.8
+1409, Mystery,6.4
+3843, Romance,7.1
+4781, War,7.7
+3671, Drama,7.7
+2113,Action,4.1
+2930, Thriller,7.5
+345,Action,7.6
+663,Biography,7.2
+4997,Drama,7.5
+1279, Romance,6.7
+2962,Comedy,6.3
+1872,Drama,6.7
+3377,Fantasy,6.4
+1020, Family,5.9
+2628, Comedy,5.4
+1795, Thriller,6.6
+2926, Romance,7.4
+1578,Adventure,8.1
+544, Crime,5.7
+946, Drama,7.6
+1924, Drama,5.8
+687,Comedy,5.0
+782, Thriller,5.7
+227, Mystery,7.0
+386, Sci-Fi,5.4
+2434,Drama,7.5
+740, Sci-Fi,5.8
+3988, Thriller,7.5
+4788, Drama,7.5
+1127, Sci-Fi,6.0
+1544, Sport,5.7
+3503, Musical,6.2
+2774,Action,7.1
+270, Fantasy,8.8
+265, Sci-Fi,7.1
+2599,Comedy,6.5
+236, Fantasy,7.6
+3564,Horror,3.6
+4975, Romance,5.3
+945,Adventure,6.0
+2553,Action,5.4
+2233, Comedy,5.3
+2334, Family,6.9
+646, Sci-Fi,7.0
+416,Action,6.2
+2898,Action,8.0
+2188,Animation,6.3
+790, Crime,4.3
+4382, Thriller,6.3
+3698,Drama,7.3
+1194, Biography,7.6
+798,Action,6.9
+3398, Romance,7.3
+354,Action,6.8
+160, Adventure,8.0
+4279, Romance,4.7
+1932, Romance,5.3
+3654,Crime,6.1
+4915,Crime,7.7
+1384,Action,6.2
+929, Adventure,6.9
+1205, Drama,7.5
+301, Adventure,5.1
+2008, Sport,5.7
+1282, Drama,6.1
+3394,Comedy,5.1
+1540,Comedy,6.9
+1287, Comedy,4.0
+212,Action,7.5
+240, Sci-Fi,6.5
+1792,Action,6.6
+1181,Drama,8.1
+2404, Family,6.1
+246, Drama,7.8
+4091, Drama,6.0
+246,Adventure,7.8
+675, Thriller,5.9
+928, Thriller,7.1
+1121,Comedy,6.4
+523, Adventure,6.5
+715, Mystery,8.1
+2355,Action,7.4
+135, Adventure,7.4
+1723, Adventure,6.0
+899,Comedy,2.4
+1785,Action,5.4
+451, Romance,6.7
+1750, Family,5.9
+1794, Crime,5.7
+2725,Comedy,6.3
+240, Fantasy,6.5
+2140, Crime,6.8
+1531, Mystery,5.3
+2709, Drama,6.9
+2927, Adventure,6.5
+681, Drama,6.2
+1817,Biography,6.9
+972, Thriller,5.8
+299, Thriller,6.7
+2839, Thriller,5.7
+1304, Fantasy,5.9
+1653,Fantasy,7.0
+230,Action,6.7
+2787,Horror,5.0
+1322, Fantasy,7.3
+3551,Comedy,6.5
+772, Sport,7.4
+1517,Adventure,7.7
+1748,Biography,7.9
+650,Comedy,6.4
+2640, Crime,5.6
+1807, Comedy,7.9
+746,Action,7.7
+557,Action,5.3
+3710, Drama,7.3
+2873, Romance,5.6
+2779,Adventure,6.7
+309, Adventure,5.4
+3508, Drama,6.5
+1316, Animation,4.4
+2399, Mystery,3.1
+4128, Family,6.5
+4046,Comedy,7.6
+4273,Comedy,7.4
+632, Drama,6.8
+801,Fantasy,6.0
+3798, War,6.2
+4842, Romance,7.4
+454, Animation,6.3
+2232,Action,6.8
+1832, Crime,5.2
+3280,Drama,8.0
+2734, Sci-Fi,8.3
+3905, Thriller,4.0
+32,Action,7.2
+2044, Adventure,7.2
+1281, Romance,7.4
+912, History,7.4
+1492, Thriller,5.7
+4106, Family,6.3
+2120,Action,6.1
+2984,Comedy,5.0
+2706, Thriller,6.7
+979, Thriller,7.3
+3291, Thriller,7.0
+2929, Comedy,6.8
+2052,Action,6.8
+1321, Romance,6.9
+582, Fantasy,7.2
+602, Fantasy,8.0
+808, Thriller,3.8
+3793,Drama,7.3
+4258,Drama,5.3
+3723,Animation,5.0
+1771, Drama,6.3
+1517, Animation,7.7
+900, Thriller,6.2
+1577, Adventure,6.3
+1945, Sport,6.9
+527, Thriller,6.7
+3188,Comedy,6.5
+50,Drama,7.3
+336, Fantasy,7.0
+2411, Mystery,7.3
+1219, Crime,6.1
+2626,Drama,6.4
+3587, Adventure,5.8
+88,Action,6.5
+1012,Action,5.4
+4065, Thriller,5.9
+3409,Drama,7.4
+3699,Comedy,6.6
+2416, History,7.6
+2675, Music,6.3
+1052, Western,7.8
+1528, Horror,4.9
+1631,Action,5.4
+2841, Mystery,5.5
+325,Action,6.3
+575, Comedy,7.4
+1448, War,8.5
+1457, Thriller,6.2
+384,Adventure,7.0
+362,Adventure,7.5
+232, Family,6.1
+1266, Drama,5.7
+3513,Drama,6.3
+1870, Drama,6.4
+4496, Thriller,8.4
+3186,Adventure,7.3
+1783,Comedy,5.3
+483, Crime,6.5
+1753,Action,6.4
+1722, Western,7.5
+1245, Musical,6.9
+4586, Documentary,7.7
+386, Thriller,5.4
+3345,Drama,6.5
+1649, Music,6.2
+570, Thriller,7.1
+1355, Mystery,6.1
+799, Thriller,4.8
+556, Family,6.6
+163, Adventure,5.5
+973, Crime,6.7
+3197,Comedy,3.3
+4060, Comedy,5.4
+4511, Comedy,6.2
+1025, Drama,5.1
+464,Comedy,5.2
+1174, Fantasy,6.3
+2873, Comedy,5.6
+2502,Horror,6.4
+529, Animation,6.9
+387,Action,6.1
+1343, Sci-Fi,6.6
+2236, Family,4.9
+942,Action,6.6
+2645,Horror,4.9
+340,Action,8.7
+4114, Romance,5.3
+1555, Family,7.1
+1706, Family,4.8
+1589, Crime,7.2
+2198, Music,6.2
+1268, Thriller,6.0
+1152,Drama,6.5
+564, Fantasy,6.1
+51,Action,6.6
+79, Family,7.8
+313, Fantasy,3.3
+4282,Drama,7.8
+1658, Thriller,6.8
+2925,Sci-Fi,7.1
+250, Adventure,6.4
+245, Comedy,5.9
+2038,Comedy,5.3
+1873, Drama,6.1
+1638, Mystery,7.8
+2056,Horror,7.1
+2397, Thriller,6.7
+238, Comedy,8.1
+2583, History,6.7
+306, Fantasy,5.7
+387, Thriller,6.1
+2282,Drama,7.2
+2912,Biography,6.2
+3099, Drama,5.0
+1467, Family,6.3
+4066,Adventure,8.2
+1881, Family,6.0
+2756, Music,5.7
+1264, Romance,6.2
+1844, Thriller,6.5
+1115, Drama,6.6
+1299,Comedy,4.8
+668, Thriller,6.0
+1845, Thriller,6.2
+3328, Thriller,6.5
+2252, Horror,5.0
+3152,Documentary,4.1
+865, Comedy,5.9
+878, Sci-Fi,5.6
+2726,Drama,7.2
+1835, Drama,7.2
+1309, Sci-Fi,4.1
+2027,Comedy,7.6
+3098,Drama,5.5
+896, Romance,6.4
+1042,Crime,6.7
+24,Adventure,6.1
+1747, Family,8.0
+109, Sci-Fi,6.6
+3702, Horror,4.4
+2112, Crime,3.9
+4638, Drama,8.2
+334, Animation,6.9
+1982, Thriller,4.9
+2731,Crime,6.5
+2873, Sci-Fi,5.6
+1419, Horror,5.8
+2819, Romance,7.7
+2651, Fantasy,8.1
+3709, Thriller,4.9
+458, Romance,6.4
+3323, Comedy,6.5
+89, Drama,7.9
+992,Action,6.4
+4802,Horror,6.9
+2698, Drama,5.0
+1373, Sport,8.1
+3848, Drama,7.4
+2334, Adventure,6.9
+2657,Drama,6.7
+720, Musical,7.0
+4584, Thriller,6.7
+2479, Comedy,6.5
+1283, Thriller,6.4
+982, Horror,6.3
+3377, Mystery,6.4
+1749, Adventure,7.6
+1515,Action,5.2
+1966, Thriller,7.0
+3492,Crime,6.1
+2208, Thriller,4.8
+1105,Adventure,6.4
+1008, Comedy,8.0
+1638, War,7.8
+414,Drama,7.6
+1820, History,6.0
+2402,Comedy,7.1
+150, Fantasy,5.5
+4195, Sci-Fi,7.1
+2622,Biography,7.3
+1938, Comedy,4.8
+557, Crime,5.3
+3688,Comedy,5.0
+1708,Adventure,6.8
+237, Adventure,6.7
+1058, Romance,6.8
+1656, Crime,6.6
+2509,Crime,7.5
+1094,Comedy,7.7
+2864,Adventure,6.3
+1859,Crime,6.1
+1297,Comedy,5.9
+2168, Adventure,5.8
+883,Drama,6.3
+1065, Romance,5.7
+2321,Adventure,6.9
+2429, Thriller,7.6
+4603, Drama,6.9
+480, Family,7.3
+117,Drama,7.2
+2119, Romance,7.8
+1491, Comedy,4.8
+1453, Drama,6.6
+15, Fantasy,7.2
+3865, Mystery,5.9
+791,Action,5.7
+253, History,7.1
+4494,Comedy,6.6
+2792, Drama,6.9
+421,Action,5.5
+548, Adventure,7.3
+285,Adventure,7.4
+4028, Music,8.5
+505,Action,4.2
+990, Drama,6.6
+1445, Fantasy,4.8
+1823,Comedy,6.8
+1183,Comedy,6.2
+1387, Romance,5.7
+3264, Romance,7.9
+983,Crime,7.4
+2983, Romance,2.1
+2107,Comedy,6.4
+3856,Crime,7.8
+588, Drama,8.3
+4561, Drama,7.2
+1362,Action,5.2
+797, Romance,6.6
+154, Family,7.2
+3692,Comedy,7.6
+2518, Family,3.6
+4151,Horror,6.8
+2161, Thriller,5.7
+469, Thriller,6.7
+1799,Adventure,7.4
+1677, Mystery,6.2
+241, Animation,7.3
+717, Thriller,7.2
+3164, Crime,6.3
+2576, Drama,6.0
+300, Adventure,6.9
+2992,Drama,7.7
+2516,Comedy,5.9
+2640,Action,5.6
+3255, Adventure,7.3
+2358, Drama,6.8
+2308, Comedy,7.4
+1425, Drama,6.9
+2898, Drama,8.0
+933, Drama,6.7
+1799, Drama,7.4
+813,Comedy,4.9
+1339, Romance,6.1
+1946,Comedy,6.8
+649, Thriller,6.5
+3058,Drama,7.8
+3225, Drama,6.2
+733, Crime,7.1
+696, Sci-Fi,6.3
+2153, Comedy,6.6
+4004, Musical,5.2
+3170, Thriller,6.0
+1043, Drama,6.8
+3634,Action,3.8
+4084,Action,6.5
+2136, Sport,6.3
+4576,Comedy,7.0
+1749,Action,7.6
+2711, Family,5.6
+1686, Drama,5.3
+1615, Sci-Fi,7.4
+2533,Drama,7.6
+674, Romance,6.3
+1781, Horror,4.8
+4084, Fantasy,6.5
+2232, Drama,6.8
+445, Drama,6.1
+3149, Thriller,6.0
+1361,Crime,6.4
+515,Action,5.9
+324, Thriller,7.3
+3980,Comedy,6.9
+87, Animation,6.4
+4493, Drama,7.8
+2940,Horror,5.4
+3502, Romance,6.4
+1169, Family,4.0
+1431,Comedy,5.4
+4470,Comedy,6.2
+102, Adventure,7.8
+811, War,6.7
+1391, Mystery,6.8
+396, Drama,7.7
+1820,Action,6.0
+4832,Drama,6.7
+3921,Comedy,6.7
+2468, Drama,6.2
+3781,Biography,7.0
+1407, Drama,7.7
+682, Family,6.1
+4523, Thriller,7.6
+4229, Thriller,4.7
+2672,Drama,6.7
+3167, Romance,5.5
+4569, Fantasy,6.4
+1019, Thriller,6.2
+867, History,6.3
+3879,Adventure,5.8
+69,Action,7.9
+4780,Crime,5.9
+3587,Action,5.8
+9, Fantasy,7.5
+1776,Drama,7.8
+3631, Drama,7.0
+2057,Comedy,6.1
+1562,Drama,6.8
+2487, Family,7.9
+229, Thriller,6.6
+3498, Thriller,6.2
+830,Action,6.3
+3628, Thriller,5.8
+2302, Music,5.0
+1783, Romance,5.3
+4784, Horror,6.2
+651, Comedy,7.6
+2262,Drama,5.2
+1949, Crime,6.4
+1787, Horror,4.9
+1188, Sci-Fi,7.8
+1898, Family,7.8
+127, Adventure,7.1
+1240,Mystery,6.6
+829, Adventure,6.4
+656, Sci-Fi,7.5
+4684, Thriller,5.2
+3614, Western,5.5
+2011,Crime,5.3
+4538, Sci-Fi,5.0
+1257, Thriller,6.5
+1777,Sci-Fi,8.2
+351, Fantasy,5.9
+1759,Action,7.4
+3581, Romance,7.2
+842,Comedy,6.6
+4706, Musical,7.8
+1660, Adventure,3.7
+1005, Thriller,6.5
+271, Comedy,5.8
+3741,Comedy,8.0
+2584, Thriller,7.0
+4923, Romance,6.5
+3318, Thriller,7.3
+1408,Comedy,6.8
+389,Action,4.3
+2190,Adventure,6.8
+2900,Crime,7.8
+1600, Thriller,8.6
+811, Drama,6.7
+4428,Drama,6.5
+1901,Drama,5.9
+4691, Drama,7.2
+3199, Thriller,4.8
+2393,Comedy,7.3
+1440, Thriller,5.4
+4212,Drama,6.8
+4183,Comedy,6.9
+3443, Thriller,7.2
+1717, Drama,6.6
+2544, Sport,6.4
+1548, Drama,7.2
+2292,Comedy,7.4
+2994,Drama,6.8
+3596,Drama,6.9
+3465, Thriller,6.7
+4173,Drama,5.3
+945, Comedy,6.0
+1284, Animation,6.2
+3765,Comedy,6.6
+128, Sci-Fi,8.1
+931, Fantasy,7.0
+2036, Comedy,6.2
+200, Family,6.2
+2507, Music,7.2
+2658,Comedy,6.4
+90, Sci-Fi,7.8
+273, Fantasy,3.8
+1110, Adventure,6.1
+36,Action,6.0
+880, Musical,7.4
+818, Family,3.6
+4344,Drama,6.4
+2531, Family,6.8
+96,Adventure,8.6
+1145, Thriller,6.8
+1884, Drama,7.9
+1167, Horror,5.4
+158,Action,7.7
+152,Action,6.1
+1257,Mystery,6.5
+3856, Mystery,7.8
+3046, Sci-Fi,5.5
+4346,Drama,7.0
+3128, Drama,7.2
+482, Adventure,5.6
+807, Comedy,5.5
+3069,Fantasy,7.4
+2202,Biography,6.7
+1310, Thriller,6.8
+471, Adventure,5.7
+1927, Family,6.3
+706, Western,7.9
+148, Comedy,6.9
+1401,Biography,5.9
+274,Action,7.1
+1979, Drama,7.1
+655, History,7.6
+1395, Comedy,4.5
+1304,Action,5.9
+865, Animation,5.9
+2807, Mystery,3.9
+2960, Thriller,6.7
+705, Comedy,5.9
+654,Action,8.7
+2912, Drama,6.2
+2681, Thriller,6.0
+1380, Thriller,6.3
+437, Thriller,6.5
+1735, Drama,7.9
+2392, Fantasy,6.9
+2934, Comedy,7.0
+1954, Crime,4.6
+1067, Thriller,7.6
+2894, Drama,6.6
+153, Adventure,6.3
+2086,Drama,7.5
+2204,Drama,7.5
+368, Sci-Fi,6.8
+741, Music,7.3
+2797, Sci-Fi,4.4
+1337,Comedy,6.4
+2874, Thriller,6.1
+1686, Romance,5.3
+3743,Drama,7.6
+3799, Thriller,3.3
+33, Family,6.5
+1437, Horror,6.7
+2678, Thriller,6.3
+1597, Comedy,6.3
+1403, Drama,7.7
+1610,Drama,6.6
+2522, Drama,3.0
+3469, Romance,7.6
+851,Biography,8.0
+1816,Action,7.7
+455, Thriller,7.3
+1603, Mystery,8.0
+3679, Drama,6.6
+4350, Horror,5.9
+1026,Action,5.8
+743, Crime,4.4
+4298, Music,6.7
+655,Adventure,7.6
+1551, Comedy,4.4
+1066,Drama,7.2
+792, Animation,6.7
+3712, Horror,5.0
+482, Thriller,5.6
+985,Action,6.2
+3939,Comedy,6.6
+2803, Romance,7.6
+3931,Documentary,8.5
+38, Fantasy,6.4
+1358, Drama,6.6
+3097, Mystery,5.9
+1722, History,7.5
+2844, Romance,6.1
+852, Thriller,6.2
+3554,Horror,5.4
+273, Comedy,3.8
+1440, Crime,5.4
+3267, Crime,7.6
+133,Action,5.8
+13, Adventure,7.3
+782,Horror,5.7
+1479, Sport,6.3
+2651,Adventure,8.1
+1806, Thriller,6.6
+4384,Drama,6.8
+1310, Mystery,6.8
+3666,Horror,6.6
+2114, War,6.2
+4434,Fantasy,6.7
+2004, Romance,7.8
+2605, Drama,7.9
+1932,Comedy,5.3
+670, Romance,6.4
+1608,Comedy,4.2
+78, Comedy,8.3
+4349,Drama,5.8
+1468,Biography,7.1
+438, Thriller,7.1
+4684,Crime,5.2
+420,Drama,7.1
+1985,Comedy,6.2
+436,Comedy,6.7
+1258, Music,7.2
+3034,Comedy,7.2
+1192, Drama,7.4
+2240, Horror,6.1
+3404, Comedy,7.2
+2679, Thriller,4.9
+1588, Animation,8.3
+4741, Romance,6.5
+1343,Action,6.6
+4677,Comedy,7.0
+3596, Romance,6.9
+1946, Romance,6.8
+3216, Romance,3.6
+1974, Drama,7.1
+2627, Thriller,5.0
+4273, Drama,7.4
+1693, Sci-Fi,4.6
+3456, Drama,8.0
+2199, Thriller,6.2
+137, Romance,6.6
+1592, Sport,7.8
+4091,Crime,6.0
+281,Comedy,4.4
+2963, Crime,7.0
+868, Crime,7.3
+812, Adventure,8.1
+3110, Sci-Fi,6.2
+1026, Thriller,5.8
+1656, Sci-Fi,6.6
+792, Comedy,6.7
+2194,Biography,8.1
+1421, Sci-Fi,6.3
+419, Family,7.1
+64, Fantasy,6.9
+2839, Horror,5.7
+3456, Biography,8.0
+856,Comedy,6.4
+2156, Thriller,6.4
+1525, Comedy,5.5
+305, Thriller,6.0
+80,Action,7.0
+2512, Comedy,5.8
+842, Romance,6.6
+3096,Drama,7.3
+3562, Drama,5.9
+937, Drama,7.3
+2845, Romance,7.2
+3664, Sport,2.1
+639, Drama,7.9
+2977,Biography,7.0
+3467,Drama,6.1
+4189, Romance,7.6
+4710, Crime,5.6
+1447, Adventure,3.8
+2815,Comedy,7.0
+1004,Action,6.4
+499, Sci-Fi,6.0
+3585, Fantasy,7.8
+1909, Crime,6.5
+162, Animation,7.9
+839,Adventure,6.6
+239,Action,6.7
+1768,Comedy,6.6
+1582, Comedy,5.5
+1997, Mystery,6.6
+2774, Adventure,7.1
+1299, Crime,4.8
+2329,Action,7.5
+1883, Comedy,6.0
+2738, Crime,6.9
+2367, Drama,6.1
+1379,Crime,7.0
+3214, Romance,6.7
+3679, Thriller,6.6
+478, Fantasy,6.7
+717, Adventure,7.2
+1168, Thriller,6.1
+3588, Drama,7.6
+4155, Music,8.3
+454,Adventure,6.3
+550, Family,6.6
+445,Action,6.1
+1796,Comedy,7.0
+4518, Drama,5.9
+2286,Action,6.3
+4343,Crime,7.1
+4674, Drama,7.5
+455, Sci-Fi,7.3
+2881, Crime,5.9
+4284, Drama,8.0
+1865, Mystery,7.5
+457, Thriller,7.7
+74, Family,5.4
+3162, Romance,6.5
+4868,Drama,3.9
+1150,Comedy,5.1
+48, Adventure,7.8
+131, Family,6.9
+1726, Crime,6.8
+885, Family,5.6
+4584,Drama,6.7
+156, Family,7.3
+769,Action,6.2
+2583, War,6.7
+1167,Fantasy,5.4
+1017,Adventure,5.6
+968,Action,6.1
+1747, Animation,8.0
+4413,Fantasy,6.8
+4120, Drama,7.4
+2337, History,6.4
+1287, Crime,4.0
+2593, Romance,4.5
+1096, Mystery,6.8
+1219,Adventure,6.1
+2545, Drama,8.0
+2280, Drama,6.7
+2213, Mystery,6.3
+228, Animation,5.4
+3319, Romance,4.2
+875,Comedy,5.8
+563, Family,6.4
+3768, Mystery,7.9
+1031, Sci-Fi,5.6
+1827, Drama,6.4
+1002, Sci-Fi,5.9
+4000, Thriller,8.2
+69, Adventure,7.9
+2638,Crime,7.7
+981, Crime,5.5
+661, Adventure,6.7
+344, Sci-Fi,5.9
+2784, Comedy,5.7
+1471, Drama,7.4
+612, Drama,5.3
+2676,Horror,5.5
+711,Comedy,7.1
+3307, Music,6.4
+809, Romance,6.5
+1924,Action,5.8
+1116, Sci-Fi,5.6
+3032, Romance,6.8
+1933, War,7.5
+1604, Sport,8.1
+3179, Drama,8.0
+3781, Mystery,7.0
+2541, Romance,7.6
+3213,Comedy,5.3
+4267,Drama,8.1
+4740, Drama,7.3
+4449, Musical,7.7
+1922,Horror,5.6
+1246, Drama,7.1
+4719, Musical,7.7
+2655, Drama,6.0
+3199,Horror,4.8
+4788,Comedy,7.5
+2855, Horror,5.7
+769, Thriller,6.2
+609,Action,6.3
+4157, Family,8.1
+1010, History,6.7
+2917, Thriller,8.0
+3139,Comedy,7.7
+1952, Thriller,7.3
+1524, Thriller,7.6
+1722,Biography,7.5
+2400, Drama,6.3
+1751, Thriller,6.3
+2678,Action,6.3
+3883,Fantasy,6.5
+64, Family,6.9
+2456, Drama,6.7
+687, Crime,5.0
+2243, Romance,5.9
+4475, Mystery,6.1
+4544, Comedy,7.4
+2632, Thriller,6.5
+1019,Crime,6.2
+737, Fantasy,5.5
+2884,Drama,8.0
+2160, Comedy,7.1
+1646,Horror,6.6
+2274, Thriller,6.2
+878,Action,5.6
+2311, Sci-Fi,7.1
+2978,Comedy,5.7
+1414,Comedy,5.9
+1174,Action,6.3
+391, Drama,8.0
+4542,Action,6.0
+2537, Romance,6.3
+201, Family,7.3
+1836, Mystery,6.5
+2425, Drama,8.3
+2740,Action,6.2
+4446, Thriller,7.0
+2947,Drama,7.8
+4279,Comedy,4.7
+4486, Crime,7.1
+644, Crime,6.2
+525, Thriller,7.9
+927, Fantasy,7.9
+1772,Action,7.7
+2261,Action,5.8
+2554, Thriller,6.4
+28,Action,5.9
+2920, Comedy,5.9
+95, Adventure,8.1
+4047,Action,7.8
+889, War,7.7
+579, Mystery,6.5
+678, Horror,5.4
+4385, Romance,7.8
+2568, Thriller,3.1
+159,Action,6.1
+191, Animation,6.7
+2705, Thriller,6.6
+2334, Sci-Fi,6.9
+1191, Family,4.1
+1173,Comedy,6.6
+749,Comedy,5.4
+2631, Music,5.3
+3380,Comedy,6.7
+1746, Sci-Fi,7.1
+4842,Drama,7.4
+2037, Musical,5.2
+83,Action,7.6
+2401,Comedy,5.7
+4694, Romance,7.2
+726,Adventure,6.6
+2889, Sci-Fi,6.6
+2376, War,7.6
+861,Action,6.6
+2039,Comedy,5.4
+4863,Drama,5.5
+1785, Family,5.4
+1187,Crime,6.4
+1154,Action,7.2
+3288, Thriller,6.5
+3608,Horror,5.2
+3180, Crime,5.6
+1692, Sci-Fi,5.8
+777, Sci-Fi,6.1
+1493, Mystery,5.1
+2340, Comedy,5.1
+2672, Romance,6.7
+2555,Drama,4.8
+8, Sci-Fi,7.5
+770, Drama,6.7
+2480, War,8.1
+1496, Biography,7.4
+1026, Sci-Fi,5.8
+513, Adventure,6.7
+1416,Crime,8.3
+2584, Mystery,7.0
+2184, History,7.5
+2323, Fantasy,8.4
+2725, Drama,6.3
+363, Comedy,7.0
+1308, Thriller,4.7
+3296, War,7.7
+3577, Sport,7.6
+1826, Comedy,6.3
+1834,Comedy,7.1
+1149, Crime,7.0
+1521,Comedy,5.7
+2504,Biography,7.4
+1338, War,7.4
+1546,Comedy,6.7
+1813, History,7.9
+1352, Romance,5.6
+2401, Drama,5.7
+1102,Comedy,4.3
+335,Adventure,6.6
+4856, Drama,6.5
+175,Animation,5.9
+859, Comedy,6.3
+2280, Fantasy,6.7
+615, Comedy,5.4
+2020, Sport,5.3
+2891, Thriller,6.7
+2485,Fantasy,7.6
+317, Thriller,6.1
+600,Action,6.4
+4437, Fantasy,5.1
+2364, Thriller,5.6
+4930, Romance,6.3
+68,Action,6.5
+2385, Mystery,6.0
+4124,Drama,5.8
+1535, Drama,6.0
+1476, Crime,5.1
+1049, Fantasy,6.4
+1497, Adventure,4.6
+468, Thriller,5.5
+2400,Comedy,6.3
+1113, Musical,7.4
+3310,Documentary,5.4
+2135, Fantasy,4.8
+2626, Fantasy,6.4
+2107, Mystery,6.4
+3719,Drama,7.7
+3333, Music,6.9
+1493, Thriller,5.1
+1402,Action,6.7
+3628, Drama,5.8
+1877, Mystery,4.9
+3950,Drama,6.5
+3547, Drama,7.0
+1353,Comedy,5.5
+1940,Crime,6.0
+428, Sci-Fi,7.1
+330, War,7.7
+1952, Romance,7.3
+3316,Drama,6.6
+2693,Comedy,5.6
+291,Action,7.2
+1156,Adventure,7.0
+4027, Drama,6.5
+4585, History,8.2
+66, Thriller,9.0
+957, Thriller,6.6
+800,Drama,6.2
+1204,Biography,7.0
+511, Family,6.5
+230, Adventure,6.7
+3039, Romance,6.9
+3488,Comedy,6.8
+1907, Crime,6.7
+2747, Music,5.9
+1737,Comedy,6.4
+460, Crime,6.8
+886, Comedy,6.4
+913, Romance,5.8
+870,Animation,7.2
+184, Comedy,7.6
+1395,Adventure,4.5
+2949,Comedy,6.5
+472,Adventure,4.6
+714, Comedy,5.8
+1644,Action,7.6
+1618,Comedy,6.3
+3125, Thriller,5.0
+1712,Action,6.1
+1273, Musical,7.0
+513,Action,6.7
+2582,Drama,6.6
+1115, Thriller,6.6
+4003, Thriller,7.8
+3028, Family,4.5
+2066, Horror,2.8
+1350,Comedy,6.2
+2095,Comedy,6.5
+2496, Thriller,6.7
+1221, Romance,6.4
+2281, Thriller,5.6
+325, Adventure,6.3
+3281, Adventure,7.0
+2490, Romance,7.5
+1151, Thriller,6.8
+2216, Thriller,6.5
+3867,Drama,8.7
+1882, Sci-Fi,7.0
+277, Musical,7.1
+998, Mystery,6.1
+754, Sci-Fi,6.3
+600, Thriller,6.4
+1775, Family,6.2
+863, Fantasy,6.0
+858,Action,8.0
+1909, Drama,6.5
+2153, Family,6.6
+2894,Biography,6.6
+2340, Horror,5.1
+1986, Drama,5.8
+1609, Family,6.1
+1017, Fantasy,5.6
+2234,Action,5.3
+359, Drama,7.3
+1589,Action,7.2
+3925,Comedy,7.6
+69, Sci-Fi,7.9
+2683, Drama,6.8
+3585, Musical,7.8
+59, Crime,6.2
+3757,Action,5.9
+2999, Drama,7.2
+759, Thriller,5.4
+1460, Drama,6.2
+90,Adventure,7.8
+409, Mystery,7.3
+3366,Comedy,6.5
+3364,Drama,3.5
+2820, Sci-Fi,5.9
+1904, Romance,5.0
+1981, War,6.5
+1603,Crime,8.0
+328, Sport,6.8
+38,Adventure,6.4
+109, Adventure,6.6
+129,Mystery,6.7
+4581, Fantasy,7.4
+3668, Crime,8.3
+1342,Action,5.1
+3607,Biography,7.7
+4070, Thriller,4.3
+2119, Music,7.8
+307, Drama,8.0
+663, Sport,7.2
+19, Adventure,6.8
+1045, Comedy,7.1
+1428, Comedy,7.5
+384, Family,7.0
+509, Drama,8.5
+225,Action,7.1
+1322,Comedy,7.3
+2226, Comedy,7.0
+3729, Romance,6.2
+1994, Crime,5.6
+3125,Drama,5.0
+233, Romance,5.3
+1657, Horror,6.9
+974,Action,5.8
+784, Thriller,6.0
+2407, Music,8.3
+3177, Family,5.8
+2044,Action,7.2
+119, Comedy,8.0
+726, Family,6.6
+1653, Mystery,7.0
+1553, Biography,7.1
+1998, Horror,2.9
+2568, Drama,3.1
+990, Thriller,6.6
+145,Adventure,5.8
+2258,Comedy,4.0
+1792, Comedy,6.6
+3609, Drama,6.8
+1114, Romance,7.3
+3625,Action,6.7
+2654, Family,4.6
+3314,Drama,7.6
+418, Thriller,6.0
+2747, Fantasy,5.9
+2929, Animation,6.8
+1419, Sci-Fi,5.8
+3736, Horror,4.5
+3056,Comedy,7.6
+2531,Comedy,6.8
+3147, Thriller,6.1
+298, Family,7.3
+4799,Biography,7.2
+1964, Romance,5.4
+4631, Mystery,7.0
+136, Fantasy,5.8
+3311, Adventure,6.6
+3395, Fantasy,5.3
+1432, Adventure,6.6
+179, Western,8.1
+1103, Horror,6.3
+496,Adventure,5.7
+2603, Drama,7.4
+3406, Romance,6.8
+573, History,8.4
+976,Adventure,6.6
+3911, Drama,7.0
+764, Thriller,7.2
+2089,Comedy,7.3
+2808,Biography,5.7
+185, Comedy,7.4
+1174, Western,6.3
+4851, Drama,6.4
+772,Biography,7.4
+4695,Horror,5.3
+4084, Sci-Fi,6.5
+4175, Mystery,7.2
+1803, Adventure,7.2
+743, Comedy,4.4
+97, Sci-Fi,8.8
+216,Action,6.7
+2373, Family,8.6
+848,Action,7.2
+1416, Drama,8.3
+4795, Comedy,8.3
+1876,Biography,6.2
+1376,Comedy,6.1
+1821,Horror,6.2
+1477, War,6.5
+4097,Drama,7.1
+261, Fantasy,6.2
+450, Comedy,6.5
+2192, Comedy,2.3
+3614,Comedy,5.5
+2308, History,7.4
+3759, Drama,7.7
+1515, Comedy,5.2
+1589, Adventure,7.2
+1115, Crime,6.6
+2891,Crime,6.7
+2730, Crime,6.3
+2943, Fantasy,7.7
+3159,Adventure,7.0
+1560, Western,6.4
+688, Fantasy,5.1
+1334, Thriller,8.0
+2530, Thriller,4.1
+3077, Sci-Fi,5.5
+92,Action,5.5
+359, Comedy,7.3
+3444, Drama,6.0
+3211, Drama,6.5
+2225, Crime,6.8
+3218, Comedy,7.3
+1416, Thriller,8.3
+1665, Drama,6.9
+3061, Music,5.4
+314,Action,6.0
+1991, Drama,4.1
+4921, Family,8.5
+1667, Sci-Fi,7.1
+1180, Comedy,5.2
+4098, Thriller,5.4
+393, Sport,7.3
+2736,Crime,6.8
+968, Adventure,6.1
+1889,Comedy,4.6
+933,Biography,6.7
+2040, Romance,4.9
+3662, Drama,6.7
+2234, Horror,5.3
+3264,Drama,7.9
+233,Comedy,5.3
+2813, Drama,7.3
+2221,Crime,6.1
+3175,Crime,8.6
+1137, History,7.7
+3024, Fantasy,8.7
+2164, Family,4.6
+3436,Action,6.7
+1914, Comedy,5.8
+3482, Sci-Fi,6.8
+333,Comedy,4.3
+835,Action,6.2
+4090,Comedy,4.4
+3112, Thriller,6.0
+1280, Thriller,5.7
+106, Fantasy,6.4
+754, Mystery,6.3
+280, Thriller,6.9
+1227, Romance,6.1
+3316, Family,6.6
+831, Fantasy,4.3
+2520, Crime,7.4
+1294, Thriller,4.2
+82, Adventure,7.0
+4744, Drama,6.6
+2282, Fantasy,7.2
+888, Romance,6.4
+1691, Thriller,5.5
+3894, Romance,7.6
+318,Action,5.3
+3748, Sci-Fi,5.2
+1333, Family,7.0
+2801,Adventure,5.4
+2233, Family,5.3
+2371, Family,3.6
+2581, Sci-Fi,2.8
+2525, Drama,6.9
+3503, Romance,6.2
+3024,Action,8.7
+396,Adventure,7.7
+1269,Adventure,6.9
+1598,Comedy,6.2
+2187, Thriller,5.9
+3783, Crime,6.3
+3522, Sci-Fi,7.0
+3286,Fantasy,6.5
+1138, Drama,7.8
+5012, Thriller,5.7
+867, Musical,6.3
+67, Comedy,8.3
+1469, Thriller,5.0
+3662, Romance,6.7
+1010,Action,6.7
+2991,Comedy,7.0
+2579, Adventure,7.2
+834,Action,5.5
+2995,Drama,7.5
+63, Drama,6.6
+366, Thriller,7.6
+2709, Romance,6.9
+1614, Horror,6.9
+3901,Comedy,7.1
+1622,Comedy,6.0
+447,Comedy,6.4
+4248, Comedy,5.1
+911,Biography,8.0
+762,Action,5.9
+2007,Comedy,7.1
+355,Action,6.6
+2195,Crime,6.1
+2209, Thriller,6.6
+3793, Romance,7.3
+1511, Mystery,6.8
+860,Comedy,6.4
+3761, Thriller,5.3
+174, Fantasy,5.5
+1264, Sport,6.2
+2721, Mystery,7.6
+1276, Thriller,4.4
+902, Fantasy,7.1
+121, Family,6.7
+369,Adventure,5.0
+10,Action,6.9
+2162, Drama,3.7
+555, Drama,6.6
+2849, Thriller,7.7
+1286,Drama,5.9
+236,Action,7.6
+2880, Thriller,6.3
+2853, Comedy,6.1
+1170, Drama,7.6
+1268, Adventure,6.0
+3560, Drama,6.2
+707, Sport,6.3
+2527, Thriller,5.5
+210,Action,7.5
+623, Crime,6.2
+2327, Sport,7.0
+554, Drama,6.1
+72,Action,5.2
+343, Romance,6.3
+1245,Biography,6.9
+563, Comedy,6.4
+802, Romance,4.9
+2236, Fantasy,4.9
+2462, Horror,5.9
+2447, Fantasy,6.7
+1432, Thriller,6.6
+487, Comedy,5.9
+2946,Documentary,5.9
+4733,Biography,7.6
+119,Animation,8.0
+2589, Romance,5.1
+3057,Comedy,5.3
+999, Crime,6.3
+830, Drama,6.3
+1820, Western,6.0
+440,Comedy,6.5
+1631, Thriller,5.4
+3178, Romance,7.7
+3438,Comedy,7.6
+296, Western,8.5
+905, Crime,7.0
+553, Romance,6.7
+3730, Thriller,6.1
+3450, Thriller,6.3
+756,Adventure,6.1
+674,Action,6.3
+397,Animation,6.5
+1093, Drama,5.6
+3938,Drama,6.9
+2273,Comedy,4.8
+3599, Musical,5.8
+3511, Sport,6.8
+4420,Drama,7.2
+2769,Adventure,6.9
+111, Romance,6.1
+2933, Romance,6.6
+1214,Crime,6.6
+4538,Horror,5.0
+1314, Thriller,7.3
+524, Animation,6.9
+4522,Sci-Fi,6.1
+3212,Crime,7.2
+3910,Comedy,4.0
+2680, History,7.6
+1536, Adventure,8.4
+223, Drama,8.0
+1149, Thriller,7.0
+124, Sci-Fi,6.7
+847, Family,6.0
+1190, Romance,4.1
+747, Family,4.4
+547,Action,5.4
+3116, Drama,6.9
+2253, Fantasy,7.3
+2382,Family,5.7
+795, Romance,6.1
+289, Romance,7.0
+1617, Family,6.8
+415, Thriller,6.7
+1041, Drama,6.9
+2132, Thriller,5.9
+118, Fantasy,6.7
+446,Action,6.7
+2887, Western,6.5
+246, Thriller,7.8
+3311, Drama,6.6
+556, Animation,6.6
+401,Action,5.8
+1248,Drama,7.2
+3553, Thriller,8.1
+3206, Crime,6.9
+4353,Biography,7.8
+765, Comedy,6.8
+107, Animation,6.1
+3242, Thriller,6.1
+1130,Action,5.4
+384, Musical,7.0
+2605,Action,7.9
+4645, Romance,7.5
+1525, Drama,5.5
+3202,Drama,7.2
+3631,Comedy,7.0
+2325, Musical,4.5
+1680, Romance,6.2
+2175,Comedy,5.7
+2059, Sport,7.5
+304,Adventure,6.7
+4735,Drama,7.4
+4157,Adventure,8.1
+300,Action,6.9
+501, Adventure,6.0
+573, War,8.4
+2168, Sci-Fi,5.8
+1229, Horror,5.2
+628, Sci-Fi,6.7
+5025, Crime,6.1
+950, Mystery,6.2
+1067, Sci-Fi,7.6
+1908,Biography,7.8
+4413, Mystery,6.8
+1, Adventure,7.1
+2949, Romance,6.5
+2698, Romance,5.0
+2901, Drama,6.1
+1959, Thriller,5.6
+872, Crime,6.0
+2367, Romance,6.1
+1283,Action,6.4
+3162, Thriller,6.5
+2701,Family,5.9
+1363,Adventure,6.5
+258, Fantasy,4.9
+2685, Comedy,5.7
+3227, Thriller,6.6
+767, Animation,7.8
+1016, War,6.4
+487, Fantasy,5.9
+4399, Mystery,5.4
+1494, Thriller,6.0
+2921, Romance,6.6
+2921,Comedy,6.6
+289, History,7.0
+3829, Horror,5.5
+3117, Crime,8.3
+316, Sci-Fi,5.4
+2225, Drama,6.8
+2340, Sci-Fi,5.1
+809, Drama,6.5
+851, Drama,8.0
+43, Fantasy,8.3
+2798, Family,5.4
+2471, Sci-Fi,6.7
+2756,Comedy,5.7
+584, Romance,5.5
+3476, Romance,7.3
+401, Romance,5.8
+180, Animation,6.5
+1658, Drama,6.8
+993,Drama,6.5
+3307,Comedy,6.4
+209, Family,6.4
+2649, Horror,4.1
+1528,Action,4.9
+501, Fantasy,6.0
+2923, Adventure,7.7
+3886,Horror,5.0
+3059, Drama,7.7
+1191, Adventure,4.1
+2486,Action,8.4
+2600, Crime,7.3
+382, Crime,7.0
+1041,Action,6.9
+1039, Adventure,8.3
+4204,Documentary,7.1
+864, Adventure,6.6
+1747,Adventure,8.0
+2821, Romance,6.8
+1450,Drama,6.8
+336,Drama,7.0
+2126,Crime,6.8
+775,Comedy,4.9
+2337,Action,6.4
+486, Fantasy,5.3
+1626, Romance,6.1
+2832, Drama,7.3
+979, Drama,7.3
+3381,Comedy,5.6
+1601,Action,8.0
+764,Action,7.2
+4007, Drama,7.0
+3549, Horror,5.6
+210, Fantasy,7.5
+2905,Comedy,7.4
+395, Thriller,6.7
+1743,Biography,7.5
+4778, Family,6.4
+1105, Drama,6.4
+311,Drama,7.5
+1924, Crime,5.8
+403, Fantasy,7.1
+1494, Drama,6.0
+75, Adventure,7.9
+134, Fantasy,6.2
+4522, Thriller,6.1
+3064, Romance,6.2
+1036,Action,6.3
+1839,Comedy,7.0
+4118, Thriller,6.0
+2324, Romance,6.9
+2108, Music,5.3
+2429, Biography,7.6
+3140,Action,4.4
+565, Thriller,5.9
+519, Comedy,6.8
+2080, War,7.1
+942, Crime,6.6
+4786,Comedy,7.7
+233, Drama,5.3
+3091,Horror,6.2
+1470,Adventure,5.6
+4795,Adventure,8.3
+1660,Action,3.7
+634, Comedy,5.6
+805, Fantasy,6.1
+269, Thriller,7.2
+409, Thriller,7.3
+321, Sci-Fi,3.8
+637, Sci-Fi,6.0
+770,Action,6.7
+1688, Drama,6.7
+3555, Musical,6.3
+2640, Drama,5.6
+468, Sci-Fi,5.5
+2325, Comedy,4.5
+1964, Thriller,5.4
+1282,Comedy,6.1
+695, Crime,6.2
+2704, Music,7.0
+613,Action,5.6
+3443, Mystery,7.2
+1698, Horror,6.4
+4128,Adventure,6.5
+1160, Drama,7.0
+1951,Action,6.3
+1335, Sport,5.3
+2131,Comedy,6.3
+746, Crime,7.7
+4852,Comedy,7.3
+3709,Comedy,4.9
+1648, Family,7.6
+1828,Crime,6.4
+2858,Drama,7.7
+379,Action,5.5
+3516,Drama,7.5
+608, Horror,6.3
+2393, Fantasy,7.3
+3279, Drama,6.6
+3996,Horror,6.8
+2795,Comedy,6.9
+518, Animation,4.1
+458,Comedy,6.4
+1088, Family,7.1
+1165,Comedy,5.8
+186,Adventure,7.6
+2326,Crime,7.4
+948, Adventure,5.0
+817,Comedy,6.7
+2853, Thriller,6.1
+2970, Thriller,8.4
+2782,Adventure,6.6
+986,Comedy,5.9
+3681, Thriller,4.9
+3402, Crime,6.6
+2717,Comedy,7.2
+2709,Comedy,6.9
+2311,Animation,7.1
+372, Comedy,5.6
+4663,Drama,7.2
+263,Animation,5.4
+194,Action,7.4
+2520, Thriller,7.4
+661, Romance,6.7
+1557, Sport,6.9
+709, War,7.7
+510, Sci-Fi,5.8
+1920, Romance,6.5
+1858, Sci-Fi,4.3
+4780, Drama,5.9
+815, Family,6.4
+4743, Drama,5.3
+2062,Comedy,6.1
+1864,Action,6.5
+71, Comedy,4.8
+2979, Thriller,5.9
+2771, Thriller,5.9
+1584, Crime,6.9
+1538, Romance,7.6
+342, Fantasy,5.7
+2553, Comedy,5.4
+3408,Adventure,7.7
+2004,Crime,7.8
+2058, Romance,8.0
+3209,Comedy,6.2
+4407, Romance,6.7
+3469, Music,7.6
+2499, Adventure,6.8
+4280, Thriller,5.7
+3034, Sport,7.2
+829, Fantasy,6.4
+243, Drama,6.0
+4192,Drama,7.0
+1532, Crime,6.5
+4101,Crime,7.3
+1516, Thriller,5.5
+4000,Drama,8.2
+4063, Drama,5.1
+1141, War,6.4
+89, Animation,7.9
+3907, Mystery,6.7
+1168, Drama,6.1
+1305, Sci-Fi,6.0
+2517,Comedy,5.5
+921, Thriller,6.5
+714,Adventure,5.8
+1888,Drama,7.3
+1120, Thriller,6.8
+148, Animation,6.9
+1848, Drama,6.5
+3109, Mystery,6.5
+2577, Romance,6.6
+704, Romance,3.8
+3421, Drama,6.6
+1572, Romance,6.3
+1364,Drama,7.1
+3097,Horror,5.9
+1098, Sport,6.3
+2127, Drama,7.3
+2156, Crime,6.4
+203, Comedy,5.6
+418, Crime,6.0
+1506, Western,6.8
+964, Fantasy,4.7
+2997,Adventure,7.3
+4758, Horror,4.6
+1976, Comedy,7.3
+1163, Romance,6.5
+888, Musical,6.4
+1011,Crime,7.5
+332, Sci-Fi,7.7
+1077,Action,5.8
+2993, Drama,7.1
+547, Comedy,5.4
+803, Thriller,5.6
+2228, Thriller,6.5
+1812, Mystery,7.8
+4328,Crime,7.7
+149, Thriller,6.1
+3032, Music,6.8
+933, Romance,6.7
+1412, Thriller,6.8
+62, Adventure,5.4
+3569,Drama,6.9
+3172, Drama,6.7
+1160, History,7.0
+3819,Comedy,7.4
+2719, Drama,7.5
+1076, Crime,6.2
+1557,Drama,6.9
+1826,Action,6.3
+1921, Family,5.8
+2251,Comedy,5.9
+1283, Drama,6.4
+983, Drama,7.4
+269, Adventure,7.2
+1008, Animation,8.0
+792, Family,6.7
+4423,Horror,6.5
+2137, Romance,7.8
+2070, Drama,6.0
+2068, Family,5.1
+1973, Drama,7.0
+1110,Action,6.1
+909, History,5.9
+1841, Sci-Fi,6.6
+2513, Drama,6.7
+625, Crime,5.4
+251,Action,6.1
+2806, History,6.7
+2423,Comedy,5.8
+2228, Sci-Fi,6.5
+682, Adventure,6.1
+531, Romance,6.7
+2438, Adventure,5.0
+1095, Family,7.2
+1221, Family,6.4
+1031,Comedy,5.6
+3712,Fantasy,5.0
+297,Animation,6.9
+4197, Drama,7.1
+742, Thriller,6.6
+4403, Biography,6.8
+1701,Drama,5.5
+2083, Fantasy,6.4
+1943, Romance,6.6
+1179, Romance,6.9
+1675, Sci-Fi,5.5
+2628, Family,5.4
+742,Drama,6.6
+2188, Family,6.3
+869, Drama,6.8
+1125, History,7.1
+611, Drama,7.0
+3108,Comedy,7.3
+542, Music,6.5
+3714,Biography,8.0
+264, Thriller,5.8
+2903,Horror,5.1
+5035, Thriller,6.9
+2297,Action,4.5
+4928, Drama,5.5
+4044,Comedy,7.2
+61, Drama,6.8
+1822, Drama,5.9
+3637,Drama,6.7
+478,Animation,6.7
+3159, Drama,7.0
+2156, Comedy,6.4
+4650,Comedy,7.2
+1032,Action,5.5
+2305, Crime,5.6
+3746, Drama,7.2
+589, Comedy,6.7
+2300,Comedy,6.7
+4778, Fantasy,6.4
+2518,Action,3.6
+1128, Drama,6.0
+3687, Thriller,5.3
+2359, Family,5.9
+415, Adventure,6.7
+2487,Drama,7.9
+2780, Romance,5.0
+3928,Comedy,6.6
+465, Mystery,4.9
+781, Mystery,6.6
+1595, Sport,6.7
+1809, Music,5.7
+4382,Horror,6.3
+3195, Drama,5.6
+380, Comedy,6.9
+1790, Drama,7.0
+4356,Drama,5.6
+3367, Crime,5.6
+576, Romance,6.9
+1472, Comedy,4.5
+3716,Mystery,8.5
+2168, Fantasy,5.8
+539,Action,5.9
+2747, Romance,5.9
+1054, Drama,7.0
+1399,Action,6.6
+2554, Drama,6.4
+3417,Action,6.9
+4495, Sport,6.0
+1312,Action,4.5
+2209, Mystery,6.6
+3513, Family,6.3
+173,Action,7.4
+320, Thriller,7.0
+351, Family,5.9
+2884, Romance,8.0
+2782, Family,6.6
+3202, Romance,7.2
+518,Adventure,4.1
+1186, Romance,6.7
+964, Comedy,4.7
+2324,Comedy,6.9
+1917, Romance,5.5
+1934,Comedy,3.3
+2318,Biography,7.0
+1289,Drama,4.6
+40,Action,6.8
+4260,Drama,7.0
+715, Thriller,8.1
+481,Action,5.9
+2361,Horror,5.5
+3607, Thriller,7.7
+2005, Drama,6.7
+3600, Family,2.9
+1692, Horror,5.8
+1545,Comedy,6.8
+2943,Comedy,7.7
+932, Drama,7.7
+402,Animation,7.1
+1053, Thriller,6.0
+3287,Documentary,8.0
+700, Drama,6.1
+2127, Mystery,7.3
+3767, Thriller,6.4
+3757, Adventure,5.9
+2957, Romance,6.4
+3652,Comedy,7.3
+2711, Comedy,5.6
+374, Horror,4.9
+257, Drama,7.5
+3616, Thriller,7.3
+1361, Mystery,6.4
+2132, Adventure,5.9
+1158,Comedy,5.4
+1964,Action,5.4
+3184,Drama,6.6
+409, Drama,7.3
+369, Family,5.0
+1480, Family,3.8
+424, Romance,7.5
+1944, Drama,7.5
+2883, Crime,7.1
+1054,Crime,7.0
+2313, Sci-Fi,2.3
+3782,Drama,7.0
+1320, Thriller,6.2
+3655, History,7.1
+3736,Adventure,4.5
+1473, Drama,6.2
+2853,Action,6.1
+916,Action,5.1
+4462,Comedy,7.2
+1045,Action,7.1
+230, Sci-Fi,6.7
+3382, Thriller,7.0
+3778, Mystery,7.0
+3599,Comedy,5.8
+1311, Thriller,6.2
+446, Thriller,6.7
+2112,Action,3.9
+2683,Crime,6.8
+545, Thriller,7.6
+1720, Drama,5.6
+1041, Crime,6.9
+4155, Romance,8.3
+3945,Comedy,6.3
+2677,Crime,7.3
+2722,Comedy,6.2
+1485, Music,6.7
+1559, Crime,6.3
+3055,Biography,7.1
+3703, Thriller,6.6
+1555, Adventure,7.1
+3074, Mystery,6.4
+2773, Romance,5.2
+618, War,6.3
+2633, Horror,6.2
+1093, Music,5.6
+2186, Mystery,4.1
+2617, Family,6.2
+1993,Biography,7.9
+2487, Romance,7.9
+3595, Sport,7.9
+3398, Comedy,7.3
+1225, Drama,6.4
+2399, Thriller,3.1
+2280, Romance,6.7
+3561, Crime,7.3
+2823, Sci-Fi,5.1
+2201, Drama,6.3
+1966, Crime,7.0
+963, Family,6.6
+2277, War,7.1
+758, Sci-Fi,5.3
+1014, Mystery,7.7
+2019,Drama,7.2
+1100,Comedy,5.6
+2423, Crime,5.8
+729, Family,5.4
+801, Horror,6.0
+4688, Sport,8.3
+827, Mystery,7.5
+3434, Family,7.4
+211, Thriller,7.3
+1675, Thriller,5.5
+2881,Comedy,5.9
+1774, Fantasy,4.9
+1796, Romance,7.0
+1658,Action,6.8
+3498, Horror,6.2
+2291, Romance,6.8
+2468, Western,6.2
+976, Horror,6.6
+3935, Thriller,7.0
+3618, Romance,7.2
+598, War,7.1
+465,Fantasy,4.9
+2316, Drama,7.0
+46, Adventure,7.0
+4897, Drama,8.0
+1086,Adventure,7.3
+416, Comedy,6.2
+2170,Comedy,5.4
+3400, Crime,7.1
+2728, Thriller,6.7
+846,Comedy,6.3
+1041, Thriller,6.9
+165,Action,7.7
+3371,Comedy,6.1
+380, Adventure,6.9
+4755, Sci-Fi,6.4
+3416, Romance,5.5
+340, Adventure,8.7
+1522, Drama,7.1
+4828, Thriller,6.6
+3296, Romance,7.7
+470, War,7.6
+508,Biography,8.2
+4059,Horror,6.8
+596,Action,5.6
+2603,Comedy,7.4
+3988, Drama,7.5
+2065,Action,5.8
+2322, Drama,7.5
+474, Family,5.2
+2584,Crime,7.0
+372,Action,5.6
+1145, Adventure,6.8
+2310, Thriller,6.5
+4458,Comedy,8.2
+3401, Thriller,6.0
+1379, Thriller,7.0
+4417,Drama,6.7
+2078, Horror,6.8
+3787,Comedy,7.1
+3733,Drama,7.5
+2420,Fantasy,6.8
+2604,Action,6.9
+3974, Romance,7.0
+1611, Western,7.5
+1338,Action,7.4
+1708, Mystery,6.8
+3854, Thriller,8.1
+3506, Sci-Fi,6.2
+2049,Action,7.2
+172, Adventure,6.4
+1976,Action,7.3
+133, Adventure,5.8
+4278,Crime,5.3
+3470,Comedy,6.1
+2797, Thriller,4.4
+2507, Romance,7.2
+3315,Drama,6.2
+1243, Drama,6.6
+344, Thriller,5.9
+1672,Comedy,6.8
+3978, Musical,7.1
+996, Family,4.2
+944,Comedy,6.1
+181, Comedy,7.2
+1588, Comedy,8.3
+1741,Comedy,5.3
+2452, Crime,7.3
+3898, Thriller,4.6
+3879, Fantasy,5.8
+540, Drama,7.1
+2393, Romance,7.3
+895,Crime,7.6
+213, Adventure,5.8
+2155, Sci-Fi,4.7
+733,Action,7.1
+866, Sci-Fi,6.4
+661, Comedy,6.7
+648, Drama,8.6
+364, Drama,7.8
+1422, Adventure,6.4
+2359,Comedy,5.9
+692, Romance,5.1
+1372,Adventure,6.0
+4475, Thriller,6.1
+2319, Music,7.0
+682, Fantasy,6.1
+663, Drama,7.2
+350, Comedy,5.6
+2295, Family,1.9
+4095,Comedy,5.3
+1303,Crime,3.3
+1625, Mystery,5.9
+2518, Adventure,3.6
+1619, Romance,7.2
+4599, Comedy,6.0
+1395, Family,4.5
+1433,Comedy,5.3
+1235,Adventure,5.9
+2252, Drama,5.0
+708, Fantasy,5.5
+1352,Drama,5.6
+1129,Drama,7.0
+4681,Drama,4.8
+1939,Comedy,6.9
+964, Romance,4.7
+31, Fantasy,7.3
+2037, Music,5.2
+4184,Horror,4.6
+2890, Romance,4.3
+4571,Crime,7.2
+2888, Thriller,4.5
+1212, Drama,7.7
+3742, Thriller,3.8
+4893, Horror,6.7
+690, Thriller,4.8
+877,Crime,7.8
+2708,Comedy,4.9
+1049,Comedy,6.4
+316, Comedy,5.4
+4638,Crime,8.2
+805,Adventure,6.1
+1957,Adventure,5.3
+1219, Romance,6.1
+2226, Sci-Fi,7.0
+4726, Biography,5.7
+1723, History,6.0
+1485,Comedy,6.7
+179, Drama,8.1
+3462, Thriller,3.5
+2730,Comedy,6.3
+4971, Horror,6.6
+1909, Thriller,6.5
+484, Western,5.9
+1234, Crime,6.3
+3009, War,7.7
+4495,Drama,6.0
+1477, Romance,6.5
+3374, Romance,7.4
+2928, Music,6.5
+1208, Drama,7.3
+2052, Comedy,6.8
+3445, Crime,3.1
+413, Sci-Fi,6.7
+2878, Drama,5.7
+1406,Comedy,6.9
+35,Adventure,7.3
+4070, Horror,4.3
+348,Drama,6.0
+1712, Drama,6.1
+3119, Drama,6.7
+1360, Thriller,6.4
+3009, History,7.7
+523, Sci-Fi,6.5
+2857,Horror,7.2
+3559, Thriller,7.1
+174, Romance,5.5
+2550,Comedy,3.3
+846, Crime,6.3
+4406, Drama,7.4
+2652, Drama,7.6
+1003, Drama,6.5
+281, Romance,4.4
+675, Adventure,5.9
+498,Action,5.6
+344,Action,5.9
+115,Adventure,7.6
+672, Musical,5.2
+920, Drama,8.2
+1851, Crime,7.2
+4752,Adventure,6.7
+3204, Romance,5.7
+3731,Drama,5.2
+1028,Comedy,6.4
+594, Romance,6.9
+4661, Drama,7.5
+2811, History,6.8
+3671,Biography,7.7
+2223, Sci-Fi,8.3
+1434, Sport,5.6
+215, Adventure,6.6
+1048, Mystery,7.4
+1551, Crime,4.4
+1794, Thriller,5.7
+3043, Crime,4.6
+839, Romance,6.6
+2774, Sci-Fi,7.1
+2488, Mystery,5.6
+752, Comedy,7.0
+2110, Fantasy,5.7
+464, Family,5.2
+761,Biography,6.6
+4796,Drama,7.1
+4538, Thriller,5.0
+4025, Thriller,7.1
+2313,Horror,2.3
+1877, Horror,4.9
+2722, Horror,6.2
+4063,Comedy,5.1
+1008,Action,8.0
+1300,Comedy,6.2
+3763, Drama,7.0
+1854,Comedy,5.7
+28, Sci-Fi,5.9
+622, Thriller,5.8
+4291,Biography,6.8
+756, Animation,6.1
+3411,Crime,6.4
+453, Drama,5.6
+832,Drama,5.9
+2639,Comedy,5.4
+4171, Romance,7.8
+1700, Adventure,4.1
+1885, Drama,8.1
+919, Drama,7.4
+4905,Crime,7.1
+73, Comedy,6.9
+712, Mystery,8.5
+3550, Mystery,8.2
+4278, Thriller,5.3
+309,Action,5.4
+2083,Comedy,6.4
+2096,Biography,7.4
+4181,Documentary,5.1
+787, Fantasy,6.7
+1298, Romance,8.4
+597, Family,4.5
+92, Sci-Fi,5.5
+4216, Drama,7.7
+2520, Drama,7.4
+4196,Drama,7.6
+1024,Action,6.0
+4463,Drama,7.4
+3647, Drama,6.3
+1856, Thriller,6.4
+2146, Romance,6.7
+2638, Drama,7.7
+358,Action,7.0
+1892, Western,7.8
+1440, Drama,5.4
+4792, Thriller,7.1
+443, Fantasy,7.2
+2044, Fantasy,7.2
+191, Fantasy,6.7
+4158,Comedy,8.0
+4518,Action,5.9
+456, Romance,6.1
+1392, Mystery,6.0
+4411, Mystery,7.2
+1786,Comedy,5.4
+1640,Action,6.6
+4751, Fantasy,5.8
+2456,Adventure,6.7
+3924,Drama,7.3
+2771,Horror,5.9
+764, Mystery,7.2
+2063,Comedy,6.1
+1906,Crime,8.3
+1630, Romance,6.1
+1069,Action,6.6
+3006,Comedy,4.6
+2451, Biography,7.3
+1835,Comedy,7.2
+1530, Drama,5.6
+2262, Fantasy,5.2
+1036, Crime,6.3
+1786, Family,5.4
+2252, Mystery,5.0
+3621,Comedy,6.7
+2418,Drama,7.9
+2816,Drama,6.5
+43, Comedy,8.3
+4984, Romance,6.6
+3612,Comedy,5.9
+4147, Romance,6.5
+630, Thriller,6.4
+2510, Thriller,4.8
+181, Family,7.2
+792, Romance,6.7
+2024, Crime,6.7
+2295,Comedy,1.9
+2242, Mystery,8.5
+362, Family,7.5
+866, Horror,6.4
+4710,Action,5.6
+3296, History,7.7
+3024, Sci-Fi,8.7
+2060,Mystery,6.6
+3164,Comedy,6.3
+730,Action,6.4
+435, Thriller,5.9
+1744, Drama,6.9
+699,Action,6.9
+1850, Sci-Fi,5.2
+939,Action,7.1
+1890, Family,6.1
+2305, Thriller,5.6
+720, Biography,7.0
+4710, Drama,5.6
+1375, Comedy,5.6
+2436, Romance,5.3
+191,Action,6.7
+1388,Action,6.1
+734, Sport,6.8
+3367, Thriller,5.6
+2731, Thriller,6.5
+2114,Comedy,6.2
+3799,Mystery,3.3
+542,Drama,6.5
+76, Sci-Fi,6.1
+4590, Biography,7.6
+91, Animation,6.6
+215, History,6.6
+1135,Action,6.3
+4863, Mystery,5.5
+693, Thriller,7.1
+987,Crime,6.5
+284,Action,7.7
+4103,Comedy,6.6
+4157, Musical,8.1
+3862,Action,7.3
+1140, Drama,7.5
+716, Thriller,7.9
+2135,Action,4.8
+3768, Sci-Fi,7.9
+3201, Drama,6.3
+681, Thriller,6.2
+66, Drama,9.0
+902, Drama,7.1
+643, Fantasy,5.9
+2110, Comedy,5.7
+2919, Family,7.9
+1236, Thriller,7.8
+3157, Romance,7.4
+966, Fantasy,6.1
+3953,Drama,6.1
+294, Comedy,6.7
+2400, Romance,6.3
+3531,Comedy,5.9
+3940, Horror,5.9
+990,Adventure,6.6
+1887,Comedy,6.7
+1582,Action,5.5
+1052,Adventure,7.8
+1823, Family,6.8
+4104, Horror,5.4
+1285,Crime,6.2
+2096, Romance,7.4
+2266,Biography,6.6
+3788, Drama,6.1
+1737, Drama,6.4
+2569, Romance,7.2
+2570,Comedy,5.7
+764, Crime,7.2
+2604, Drama,6.9
+448, Comedy,4.4
+144, Animation,6.7
+1048,Drama,7.4
+1517, Family,7.7
+469, Crime,6.7
+327, Romance,7.6
+927, Family,7.9
+2104,Comedy,6.9
+146, Animation,6.9
+427,Adventure,4.9
+2738, War,6.9
+41, Comedy,6.3
+2301,Adventure,2.8
+1491,Action,4.8
+392, Musical,4.4
+883, History,6.3
+4427, Family,8.6
+2277, Romance,7.1
+2214,Horror,5.5
+903,Drama,7.6
+3330,Action,5.7
+1137, Drama,7.7
+455,Action,7.3
+2957, Mystery,6.4
+1310, Horror,6.8
+429,Comedy,6.4
+1391, Thriller,6.8
+2229,Comedy,6.4
+391, Sport,8.0
+2639, Romance,5.4
+2306, Horror,6.2
+971, Romance,7.3
+2022, Drama,5.8
+224, Fantasy,5.2
+2484,Crime,6.0
+2793,Fantasy,5.7
+218, Fantasy,6.0
+2019, Sport,7.2
+963, Comedy,6.6
+73, Adventure,6.9
+4385,Drama,7.8
+4931, Romance,7.9
+1877, Family,4.9
+4795, Fantasy,8.3
+2124,Drama,5.4
+1333, Comedy,7.0
+1773, Comedy,6.1
+2860, Romance,6.1
+2428, Romance,5.0
+68, Sci-Fi,6.5
+2135, Adventure,4.8
+3290, Comedy,7.1
+4743, Thriller,5.3
+1101, Sci-Fi,6.8
+1804,Drama,6.0
+1276, Sci-Fi,4.4
+138, Animation,6.2
+2581,Action,2.8
+1119, Comedy,5.4
+4486, Mystery,7.1
+2721,Comedy,7.6
+619, Thriller,6.5
+3768,Drama,7.9
+3117,Comedy,8.3
+1113,Drama,7.4
+3640, Romance,6.2
+3193, Drama,7.9
+3503, Drama,6.2
+3311, War,6.6
+2078,Fantasy,6.8
+1028, Thriller,6.4
+3876,Drama,7.6
+1624,Comedy,5.4
+2430,Comedy,6.7
+2523, Thriller,7.6
+2999,Crime,7.2
+837, Family,5.2
+2354,Drama,7.5
+915, Romance,5.7
+4562,Documentary,7.4
+2016,Drama,7.7
+2468, Romance,6.2
+666, Thriller,6.0
+2576, Music,6.0
+4784, Musical,6.2
+327,Drama,7.6
+1228, Sci-Fi,6.1
+4187, Documentary,6.7
+2168,Action,5.8
+2719, Western,7.5
+1514, Sci-Fi,7.3
+585, Thriller,5.8
+2868,Comedy,6.7
+56,Adventure,7.2
+1989, Drama,7.3
+2289,Comedy,6.6
+3286, Horror,6.5
+594,Fantasy,6.9
+1998, Adventure,2.9
+2681, Horror,6.0
+1471,Comedy,7.4
+346,Adventure,6.6
+3413, Mystery,5.6
+4011, Romance,5.3
+3177, Fantasy,5.8
+1848, Crime,6.5
+267, Crime,3.7
+858, Crime,8.0
+1458, Romance,6.6
+4542, Adventure,6.0
+3053, Thriller,7.3
+1563,Action,6.3
+3109, Comedy,6.5
+209, Musical,6.4
+2199, Romance,6.2
+207, Sci-Fi,6.7
+2859, Drama,7.8
+223, Fantasy,8.0
+453, Romance,5.6
+3496, Drama,7.0
+376, Horror,5.7
+188, Fantasy,6.7
+3640, Crime,6.2
+762, Drama,5.9
+3707, History,6.8
+1077, Sci-Fi,5.8
+825, Adventure,5.9
+4094,Fantasy,5.3
+590,Action,6.0
+2307, Comedy,5.3
+3400, Musical,7.1
+431, Family,4.3
+3603, Romance,6.2
+1838,Action,7.0
+161, Adventure,7.3
+2965,Comedy,6.6
+2085, Family,6.2
+91, Fantasy,6.6
+910,Drama,5.9
+2428,Comedy,5.0
+1713,Drama,7.9
+425, Thriller,5.4
+3318,Drama,7.3
+3506,Action,6.2
+478, Comedy,6.7
+30, Adventure,7.8
+88, Sci-Fi,6.5
+2343, Romance,5.4
+518, Comedy,4.1
+397, Comedy,6.5
+3918, Romance,6.7
+1368, Sport,7.7
+2632,Action,6.5
+700,Action,6.1
+3560, Comedy,6.2
+1600,Crime,8.6
+1153, Crime,6.6
+3296,Action,7.7
+3598, Sci-Fi,7.2
+1396,Comedy,5.4
+4556,Comedy,6.7
+2770, Thriller,5.5
+4284, Documentary,8.0
+3076, Romance,6.9
+187,Adventure,5.5
+3553, Drama,8.1
+2119, History,7.8
+434, Thriller,7.7
+1462, Drama,6.6
+2403, Crime,7.0
+2997, Family,7.3
+696,Action,6.3
+81, Adventure,6.1
+403,Animation,7.1
+1078, Family,5.7
+560, Fantasy,4.7
+1200, Mystery,5.5
+500, Fantasy,5.8
+957,Action,6.6
+2195, Drama,6.1
+1141, Adventure,6.4
+2858, Mystery,7.7
+2375,Action,7.0
+562, Mystery,7.2
+1511,Action,6.8
+1152, Fantasy,6.5
+1188, Comedy,7.8
+2579, Fantasy,7.2
+1678, Thriller,5.9
+262, Family,5.5
+597, Music,4.5
+1321, War,6.9
+4725, Family,6.1
+3028,Comedy,4.5
+1992, Romance,4.9
+1996, Crime,4.1
+1067, Drama,7.6
+1116, Thriller,5.6
+1006, Thriller,5.7
+2118,Drama,7.8
+3149, Crime,6.0
+68, Animation,6.5
+3873, Crime,6.1
+1409,Adventure,6.4
+165, Drama,7.7
+158, Drama,7.7
+1278, History,6.7
+2811, Drama,6.8
+1652,Horror,6.6
+171, Sci-Fi,6.9
+287, Thriller,5.7
+2496,Action,6.7
+2141, Sport,6.6
+3002, Mystery,6.4
+1621, Crime,6.9
+2573,Mystery,7.0
+3674, Drama,7.4
+180, Family,6.5
+1875,Drama,8.1
+3386, Thriller,6.3
+4258, Thriller,5.3
+1135, Comedy,6.3
+4398, Romance,7.2
+352, Family,7.3
+1018, Thriller,6.0
+1678, Drama,5.9
+1866,Drama,7.1
+651, Family,7.6
+858, Drama,8.0
+1667, Animation,7.1
+2408,Horror,3.9
+940, Horror,7.6
+198, Animation,6.5
+2903, Mystery,5.1
+3094, Sci-Fi,6.1
+3149, Drama,6.0
+3186, Biography,7.3
+1477,Adventure,6.5
+579, Romance,6.5
+231, Crime,6.2
+15, Sci-Fi,7.2
+567, Animation,6.3
+1217, History,8.0
+497, Romance,5.8
+616,Action,6.4
+1581, Sci-Fi,7.3
+2533, Thriller,7.6
+2745, Thriller,5.1
+2438,Action,5.0
+690, Fantasy,4.8
+2431, Music,6.7
+2673,Action,4.7
+2718, Thriller,4.6
+3779, Thriller,7.7
+4586, War,7.7
+1853, Adventure,4.5
+918,Comedy,6.4
+4067, Sci-Fi,5.3
+380, Mystery,6.9
+3588,Crime,7.6
+3123,Action,6.5
+1057, Comedy,6.1
+3565,Biography,7.7
+2462, Romance,5.9
+2058,Drama,8.0
+935,Comedy,5.8
+3730,Horror,6.1
+646,Drama,7.0
+1389,Comedy,5.4
+272,Biography,6.8
+1271, Crime,5.0
+2614, War,8.1
+561, Thriller,6.1
+1489, Thriller,5.5
+1700, Sci-Fi,4.1
+623, Comedy,6.2
+2151, Thriller,6.8
+1649, Romance,6.2
+524, Family,6.9
+947, Crime,7.1
+1309,Action,4.1
+2554,Crime,6.4
+845, Drama,7.9
+1449, Mystery,6.8
+3655, War,7.1
+1767, Thriller,5.8
+2943, Family,7.7
+2781, History,6.4
+1202,Comedy,6.0
+2413, Romance,6.3
+991, Drama,6.0
+3062, Drama,6.2
+3343,Biography,7.0
+792, Fantasy,6.7
+398, Mystery,7.8
+1172, Comedy,5.3
+178, Fantasy,6.8
+3780, Drama,6.8
+379, Adventure,5.5
+125,Adventure,7.6
+843, Comedy,5.4
+1742,Comedy,5.3
+1369,Crime,7.6
+194, Adventure,7.4
+1915, Romance,6.6
+366, Crime,7.6
+680,Action,6.7
+51, Romance,6.6
+1807, Music,7.9
+870, Comedy,7.2
+1088,Adventure,7.1
+4489, Thriller,5.5
+1717, Thriller,6.6
+1876, Thriller,6.2
+2726, Sci-Fi,7.2
+586, Fantasy,6.0
+1684, Drama,6.3
+2312,Biography,7.2
+2030,Comedy,6.6
+151, Sci-Fi,6.6
+344, Adventure,5.9
+3265, Thriller,4.5
+2316, Crime,7.0
+1388, Crime,6.1
+365, Adventure,7.6
+1466, Sci-Fi,5.9
+1638, Romance,7.8
+1235, Animation,5.9
+2716,Drama,6.6
+1106,Action,6.3
+3055, Drama,7.1
+1516, Crime,5.5
+2069, Romance,7.2
+722, Comedy,6.7
+2272,Action,6.1
+1602,Adventure,7.0
+403, Musical,7.1
+2115,Comedy,3.8
+1657, Musical,6.9
+15, Adventure,7.2
+2271, Romance,6.0
+192, Mystery,6.4
+4287,Drama,6.9
+1005, Mystery,6.5
+475, Sci-Fi,5.1
+3363, Sci-Fi,7.6
+832, Music,5.9
+1735, Romance,7.9
+1145,Action,6.8
+368,Action,6.8
+240, Adventure,6.5
+4725,Adventure,6.1
+3381, Romance,5.6
+869, Horror,6.8
+1757, Drama,6.7
+2729,Adventure,5.3
+1361, Thriller,6.4
+252,Action,6.5
+2678, Crime,6.3
+2118, Thriller,7.8
+1810,Comedy,7.1
+4011, Comedy,5.3
+3675,Biography,7.1
+2106, Thriller,5.8
+4296,Comedy,7.0
+2118, War,7.8
+67, Animation,8.3
+1116, Adventure,5.6
+4544, Drama,7.4
+975, Thriller,7.8
+1266,Comedy,5.7
+1153,Action,6.6
+1038,Crime,7.6
+1014, Thriller,7.7
+1822, Mystery,5.9
+631,Adventure,4.9
+840, Sci-Fi,7.3
+1502, Thriller,6.4
+140, Family,4.2
+250, Family,6.4
+278, Sci-Fi,8.1
+822, Romance,4.7
+46, Horror,7.0
+1881, Sci-Fi,6.0
+1243,Comedy,6.6
+2842, Drama,6.8
+3405,Biography,6.9
+2138,Biography,7.5
+1278, Drama,6.7
+1241, Fantasy,6.8
+2034,Biography,7.3
+4956,Horror,4.2
+3279, Music,6.6
+85, Fantasy,6.3
+1493,Action,5.1
+142, Thriller,6.4
+2162,Adventure,3.7
+4413, Thriller,6.8
+317,Action,6.1
+82,Action,7.0
+2825, Drama,7.4
+1242, Thriller,6.5
+2886, Crime,7.1
+2371, Fantasy,3.6
+17,Action,8.1
+505, Horror,4.2
+2216, Mystery,6.5
+2261, Drama,5.8
+1055, Drama,6.0
+485, Romance,7.0
+871, Sci-Fi,5.7
+2852, Crime,2.5
+49,Adventure,6.3
+1157, Romance,5.9
+1010, Biography,6.7
+1462, Thriller,6.6
+1682, Drama,7.4
+3112, Mystery,6.0
+2192,Adventure,2.3
+748, Crime,6.1
+3613,Drama,7.1
+3721, Music,5.1
+3060,Crime,7.7
+1750, Comedy,5.9
+1929, Drama,6.5
+2033, Crime,5.3
+1230, Thriller,7.7
+2419, Comedy,5.3
+1062, Animation,4.5
+3281, Thriller,7.0
+510, Fantasy,5.8
+597,Animation,4.5
+1195, Sport,7.2
+4569, Horror,6.4
+1085, Drama,7.7
+2486, Sci-Fi,8.4
+1158, Drama,5.4
+310, Sci-Fi,7.2
+914, Romance,6.3
+3133, Thriller,4.7
+1666,Comedy,5.5
+2178, Romance,7.6
+1938,Adventure,4.8
+2468, History,6.2
+1636,Drama,7.1
+2437, Drama,6.5
+4941,Documentary,7.5
+28, Thriller,5.9
+1543,Comedy,7.0
+918, Fantasy,6.4
+3603, Drama,6.2
+446, Crime,6.7
+3409, Music,7.4
+2665, Comedy,6.7
+2446, Romance,5.9
+1791,Comedy,6.5
+768,Action,5.0
+3081, Romance,6.5
+3922,Comedy,7.1
+2109, Crime,6.5
+2791,Comedy,6.0
+1130, Crime,5.4
+319, Family,2.2
+1027, Romance,6.2
+56, Family,7.2
+3672, Drama,6.6
+791, Thriller,5.7
+4419, Thriller,6.5
+400,Crime,7.8
+1803, Thriller,7.2
+2144, Romance,7.1
+3075,Drama,6.0
+1667, Drama,7.1
+2626, Horror,6.4
+1460,Comedy,6.2
+3687, Comedy,5.3
+1442,Comedy,5.3
+1027, Fantasy,6.2
+1222,Comedy,6.0
+4928, Thriller,5.5
+3508,Adventure,6.5
+514,Comedy,3.4
+156, Fantasy,7.3
+4415, Drama,7.9
+4058,Horror,5.7
+125, Fantasy,7.6
+3613, Thriller,7.1
+1288,Drama,6.2
+165, Sci-Fi,7.7
+1655, Crime,7.6
+2755,Comedy,8.1
+3157,Drama,7.4
+4054, Documentary,8.0
+337, Thriller,6.7
+375, Mystery,7.4
+1380,Action,6.3
+300, Comedy,6.9
+959,Action,5.7
+3984, Drama,7.2
+2070,Action,6.0
+2327, Drama,7.0
+1737, Romance,6.4
+729, Comedy,5.4
+4173, Thriller,5.3
+901, Crime,5.9
+623, Fantasy,6.2
+1280,Horror,5.7
+2669, Drama,6.2
+524,Adventure,6.9
+222, Sci-Fi,5.6
+118, Family,6.7
+1033, Mystery,3.7
+2863,Drama,7.9
+1400,Action,7.6
+1563, Sci-Fi,6.3
+153, Fantasy,6.3
+108, Adventure,7.3
+2081, Thriller,7.0
+2458,Biography,7.1
+1882, Horror,7.0
+4247,Action,7.5
+3861, Sport,6.5
+1603, Thriller,8.0
+943,Comedy,6.7
+1362, Drama,5.2
+393, History,7.3
+364,Crime,7.8
+4361,Drama,7.3
+2547, Comedy,7.8
+1806, Drama,6.6
+1294, Comedy,4.2
+2511,Comedy,3.1
+1865, Romance,7.5
+4056, Horror,5.4
+3357, Thriller,7.9
+2070, Western,6.0
+2068,Biography,5.1
+3588, Thriller,7.6
+3428, Drama,6.9
+3712, Thriller,5.0
+3193,Crime,7.9
+2705, Romance,6.6
+139, Animation,7.3
+4590,Adventure,7.6
+2174, Drama,8.1
+240,Action,6.5
+1264,Comedy,6.2
+3831, Drama,5.7
+216, Thriller,6.7
+371,Action,5.5
+3332, Music,7.3
+2652,Biography,7.6
+1610, Romance,6.6
+2535, Romance,7.7
+2193,Adventure,6.9
+1963, Drama,6.8
+1982,Drama,4.9
+774, Thriller,6.2
+2258, Music,4.0
+3624, Musical,7.8
+1132, Romance,6.4
+2000, Thriller,6.5
+1241,Drama,6.8
+3557, Drama,6.8
+2632, Drama,6.5
+754, Thriller,6.3
+1604,Drama,8.1
+1618, Drama,6.3
+708, Comedy,5.5
+3690, Thriller,7.6
+2033, Thriller,5.3
+170, Fantasy,6.4
+138, Family,6.2
+4553,Biography,7.2
+193, Adventure,5.8
+1584, Thriller,6.9
+1783, Fantasy,5.3
+4649, Thriller,6.5
+1893,Action,6.1
+2000, Mystery,6.5
+1795, Adventure,6.6
+557, Comedy,5.3
+2365,Comedy,4.1
+2735,Action,7.2
+1146, Horror,6.0
+548,Action,7.3
+4200,Documentary,7.6
+3461, Adventure,6.2
+3361, Drama,7.9
+1102, Family,4.3
+2697,Action,5.4
+2230, Family,5.8
+457,Crime,7.7
+1526, Comedy,5.1
+779, Crime,6.3
+2426, Romance,5.6
+1656,Action,6.6
+830, Comedy,6.3
+2115, Family,3.8
+3898,Mystery,4.6
+555, Mystery,6.6
+1543, Drama,7.0
+628, Thriller,6.7
+870, Fantasy,7.2
+36, Sci-Fi,6.0
+3684,Comedy,6.1
+3080, Sci-Fi,7.9
+2845,Comedy,7.2
+2842, Western,6.8
+1461, Crime,5.1
+193,Action,5.8
+636, Drama,7.2
+4415, Thriller,7.9
+818, Sci-Fi,3.6
+2227, Crime,5.9
+1438, Horror,7.4
+581, Thriller,6.7
+544, Music,5.7
+2187, Mystery,5.9
+1250, Sci-Fi,4.7
+3568,Drama,6.6
+2631,Adventure,5.3
+4915, Documentary,7.7
+4168, Western,7.8
+1464, Family,6.1
+1910, Crime,6.1
+426,Comedy,4.3
+1137, Thriller,7.7
+4228, Thriller,5.7
+25,Action,7.2
+2810, History,6.5
+1222, Romance,6.0
+68, Family,6.5
+3523, Drama,6.3
+3312,Horror,6.1
+1850, Adventure,5.2
+672,Comedy,5.2
+548, Comedy,7.3
+3837, Drama,7.2
+132, Comedy,5.1
+3687, Drama,5.3
+2556,Adventure,5.9
+403, Comedy,7.1
+3592, Mystery,8.6
+503, Animation,6.0
+1536, Fantasy,8.4
+1830,Drama,6.2
+1662, Fantasy,5.9
+2306,Drama,6.2
+29,Action,7.0
+1997,Drama,6.6
+4189, Drama,7.6
+3998, Drama,6.1
+3200, Mystery,5.2
+3192, Mystery,7.1
+2298,Comedy,6.3
+1803, Sci-Fi,7.2
+3176, Thriller,6.1
+2776,Horror,5.5
+3701,Horror,5.8
+3596, Western,6.9
+1272,Action,5.7
+4207, Sci-Fi,5.9
+2583,Drama,6.7
+3428,Comedy,6.9
+3819, War,7.4
+3299, Crime,6.7
+2219, Romance,7.6
+320, Drama,7.0
+2876, Romance,7.3
+360, Adventure,5.5
+1114,Drama,7.3
+1779, Drama,6.2
+1308, Drama,4.7
+332, Adventure,7.7
+306, Horror,5.7
+2695,Comedy,6.4
+2398, Romance,5.7
+721,Comedy,5.5
+2021, Mystery,6.1
+249, Adventure,4.3
+4501,Comedy,6.1
+4730, Drama,7.7
+3703,Action,6.6
+4277, Crime,7.0
+4691,Crime,7.2
+211,Action,7.3
+1773, Crime,6.1
+665, Thriller,6.4
+3749,Comedy,6.9
+4496,Crime,8.4
+1929,Crime,6.5
+982,Comedy,6.3
+1954, Thriller,4.6
+2832,Biography,7.3
+4107,Action,6.1
+1144, Drama,6.8
+3241, Romance,3.9
+2048,Adventure,7.7
+60,Action,5.8
+2335, History,6.2
+408,Comedy,6.9
+3368, Romance,7.7
+3473,Drama,7.0
+3913,Crime,5.9
+68, Adventure,6.5
+1415, War,7.4
+1123,Action,4.9
+2065, Thriller,5.8
+505, Sci-Fi,4.2
+155,Action,7.4
+1080, Thriller,6.7
+2680, Thriller,7.6
+166, Thriller,6.6
+3710,Biography,7.3
+441,Action,7.0
+131, Animation,6.9
+1746,Drama,7.1
+2390, Fantasy,6.4
+290, Drama,7.8
+1318, Family,5.1
+2527, Mystery,5.5
+373, Drama,7.1
+2402, Drama,7.1
+1634,Action,6.3
+2188, Comedy,6.3
+210, Thriller,7.5
+849, Drama,5.1
+143, Family,5.4
+2451, History,7.3
+4154, Drama,7.4
+1424, Animation,6.3
+267,Action,3.7
+1926,Comedy,6.4
+178, Family,6.8
+1201, Comedy,7.4
+1553, Drama,7.1
+89, Comedy,7.9
+3436, Comedy,6.7
+2508, Drama,4.9
+348, History,6.0
+88, Family,6.5
+2315, Romance,6.1
+2425, Sport,8.3
+1033, Crime,3.7
+1780,Crime,6.9
+945, Drama,6.0
+1254,Adventure,7.0
+1653, Thriller,7.0
+1564,Action,3.6
+1787,Action,4.9
+2990, Horror,7.1
+2782, Comedy,6.6
+1689, Thriller,5.9
+2522, Crime,3.0
+2761,Drama,7.4
+767,Action,7.8
+2666, Romance,7.9
+26,Drama,7.7
+625,Action,5.4
+2999, Thriller,7.2
+3005, War,7.1
+424, Fantasy,7.5
+3001,Comedy,6.0
+1816, Mystery,7.7
+1172, Thriller,5.3
+1002, Adventure,5.9
+3591,Comedy,6.9
+3063, Music,7.4
+2129,Crime,7.2
+1750, Musical,5.9
+1642, Romance,7.4
+2926,Crime,7.4
+1013, Drama,6.6
+4728,Horror,5.9
+1687, Comedy,5.4
+1881, Comedy,6.0
+1503,Crime,6.3
+3369, Mystery,5.2
+1903,Biography,8.7
+2568,Action,3.1
+3470, Drama,6.1
+1434, Romance,5.6
+862,Action,6.4
+2493,Action,7.9
+3557, Music,6.8
+2186,Drama,4.1
+923,Comedy,6.5
+3584,Biography,8.1
+2414,Comedy,7.8
+1356, Music,6.2
+4696,Drama,7.2
+4557, Romance,7.5
+594, Sci-Fi,6.9
+1969,Drama,7.3
+143,Action,5.4
+834, Drama,5.5
+1317, Mystery,5.8
+1167, Thriller,5.4
+3575,Action,8.1
+4183, Music,6.9
+4747, Drama,8.7
+1345,Drama,6.9
+352,Adventure,7.3
+1660, Sci-Fi,3.7
+2198, Fantasy,6.2
+1858, Romance,4.3
+511, Comedy,6.5
+142, Drama,6.4
+3484, Crime,5.2
+244, Drama,6.1
+3094,Action,6.1
+2643, Romance,6.8
+2156,Action,6.4
+63,Action,6.6
+1694, Drama,6.7
+2392, Crime,6.9
+540, Comedy,7.1
+1838, Crime,7.0
+198, Thriller,6.5
+4003, Fantasy,7.8
+1521, Romance,5.7
+328,Animation,6.8
+1172, Crime,5.3
+184, Adventure,7.6
+3044, Thriller,6.0
+892, Thriller,6.7
+1129, Romance,7.0
+123,Action,6.7
+3068, Drama,6.8
+765, Family,6.8
+241, Comedy,7.3
+3359, Family,8.0
+1886, Comedy,6.2
+540, History,7.1
+21,Action,7.0
+125, Animation,7.6
+2116, Crime,5.1
+1385, Sci-Fi,6.4
+323,Adventure,7.2
+82, Romance,7.0
+3586,Drama,7.8
+1974,Biography,7.1
+1491, Thriller,4.8
+853, Thriller,6.0
+4328, Drama,7.7
+1960,Horror,5.9
+116, Drama,6.4
+867, Drama,6.3
+2843, Drama,7.3
+874,Comedy,5.8
+928, Sci-Fi,7.1
+4530,Drama,8.1
+1754, Thriller,8.2
+603, Romance,6.2
+2804, Thriller,5.9
+2471, Animation,6.7
+4744,Comedy,6.6
+1224, History,7.6
+1855, Romance,6.0
+4003, Horror,7.8
+3013,Action,5.6
+1950,Fantasy,5.6
+647, Adventure,5.4
+1775,Comedy,6.2
+815, Fantasy,6.4
+606, Drama,7.6
+1402, Crime,6.7
+2095, Thriller,6.5
+3640,Comedy,6.2
+1702, Thriller,2.7
+4897, Western,8.0
+4754, Sport,6.1
+1825, Thriller,6.7
+3761,Horror,5.3
+4688,Documentary,8.3
+1428, Music,7.5
+333, Drama,4.3
+2308, Music,7.4
+2234, Thriller,5.3
+2431, Romance,6.7
+182, Animation,6.7
+2061, Fantasy,5.4
+3164, Thriller,6.3
+643, Horror,5.9
+1194, Drama,7.6
+3060, Drama,7.7
+1398, Biography,7.2
+1699, Drama,6.7
+3170,Action,6.0
+3176,Action,6.1
+262, Animation,5.5
+2974, Adventure,7.6
+1685,Action,6.1
+2822, Romance,7.4
+3717, Mystery,6.5
+1082,Action,6.9
+1758, History,7.5
+1518, Romance,7.1
+1297, Thriller,5.9
+4313,Comedy,5.1
+935, Romance,5.8
+4284,Animation,8.0
+4523,Action,7.6
+556, Sci-Fi,6.6
+201,Action,7.3
+1675, Crime,5.5
+1273,Drama,7.0
+1227, Drama,6.1
+1176, Comedy,7.2
+1602, Animation,7.0
+2703,Comedy,8.2
+2031, Crime,6.3
+47,Action,8.0
+1383, Crime,6.9
+2124, Thriller,5.4
+442, Family,6.8
+3783, Drama,6.3
+3616,Comedy,7.3
+2131, Romance,6.3
+379, Fantasy,5.5
+3104,Comedy,7.0
+1949, Mystery,6.4
+451,Comedy,6.7
+1926, Romance,6.4
+4128, Fantasy,6.5
+3781, Crime,7.0
+2288,Comedy,6.1
+466,Adventure,6.3
+2745,Crime,5.1
+3747, Drama,6.3
+3997,Comedy,3.9
+152, Sci-Fi,6.1
+439, Sci-Fi,7.3
+1142, Thriller,5.6
+885, Drama,5.6
+2017, Drama,6.1
+2533, Romance,7.6
+2997, Drama,7.3
+2602, Family,5.9
+1877,Adventure,4.9
+1024, Biography,6.0
+2321, Romance,6.9
+4828, Mystery,6.6
+878, Thriller,5.6
+250,Action,6.4
+769, Sci-Fi,6.2
+3462, Adventure,3.5
+964,Adventure,4.7
+4565, Music,7.2
+653, War,7.4
+4485, Mystery,7.7
+4538, Mystery,5.0
+3415,Comedy,6.8
+3196, Romance,7.3
+4067,Adventure,5.3
+1445,Adventure,4.8
+1701, Thriller,5.5
+1496,Adventure,7.4
+1811, Comedy,5.6
+1822, Thriller,5.9
+4363, Music,7.3
+1530,Action,5.6
+1501,Crime,8.0
+4926, Romance,7.0
+1230, Adventure,7.7
+4539,Fantasy,7.0
+2610, Romance,6.8
+1469, Mystery,5.0
+3821,Drama,8.0
+723, Fantasy,5.2
+1642, Family,7.4
+3351, Sport,7.2
+3720, Drama,7.4
+666, Crime,6.0
+1336, Comedy,4.9
+2672, Fantasy,6.7
+1488, Romance,7.3
+3144,Drama,6.5
+2245, Drama,5.9
+268, Sci-Fi,6.7
+212, Mystery,7.5
+684, Sport,7.1
+299,Action,6.7
+1541,Drama,6.4
+4731,Drama,7.1
+1938, Crime,4.8
+3876, Family,7.6
+2664,Drama,7.7
+828,Comedy,5.6
+3367, Drama,5.6
+3592,Crime,8.6
+5012, Crime,5.7
+892, Horror,6.7
+101, Fantasy,7.8
+4006, History,6.8
+3228,Drama,6.3
+3191, Thriller,6.6
+40, Sci-Fi,6.8
+3388, Romance,7.1
+1161, Sport,6.5
+965, Thriller,6.3
+3492, Drama,6.1
+2481, Crime,6.3
+4199, War,7.7
+4435,Drama,6.7
+1184,Action,7.2
+691,Action,6.5
+1308, Adventure,4.7
+947, Thriller,7.1
+3420, Drama,6.4
+955,Comedy,5.2
+1924, Thriller,5.8
+3972, Western,6.8
+137, Adventure,6.6
+431, Comedy,4.3
+1166, Adventure,6.6
+1159, Crime,6.6
+1667,Action,7.1
+4284, Biography,8.0
+30,Action,7.8
+1607, Romance,6.1
+532,Horror,5.1
+4725, Romance,6.1
+3890,Drama,6.7
+418,Action,6.0
+2717, Romance,7.2
+1547,Horror,6.2
+885, Fantasy,5.6
+2138, Drama,7.5
+123, Adventure,6.7
+4602, Sci-Fi,5.5
+3981, Thriller,6.9
+993, Sport,6.5
+2304,Comedy,4.3
+3477, Drama,7.5
+608, Fantasy,6.3
+2559, Drama,4.9
+58, Sci-Fi,8.4
+3190, Sci-Fi,5.5
+1606, Romance,7.9
+1931, History,7.5
+3026, Romance,8.0
+1063,Drama,5.8
+1386, Family,6.4
+2541,Comedy,7.6
+2272, Sci-Fi,6.1
+1204, Drama,7.0
+141,Action,6.9
+1839, Romance,7.0
+950, Thriller,6.2
+3974,Biography,7.0
+2714, Music,6.2
+1994, Drama,5.6
+21, Fantasy,7.0
+678, Sci-Fi,5.4
+796, Drama,5.6
+715, Drama,8.1
+2834,Documentary,1.6
+1715, Thriller,6.5
+765,Adventure,6.8
+1681, Sport,5.5
+2437,Comedy,6.5
+4089, Drama,6.9
+972,Crime,5.8
+2237, Drama,6.8
+2637,Comedy,5.7
+189,Adventure,6.5
+1268, Mystery,6.0
+1268, Fantasy,6.0
+4452, Comedy,6.6
+4257, Romance,7.6
+105,Action,5.6
+1916, Crime,6.6
+2486, Adventure,8.4
+2268,Comedy,1.9
+786, Drama,6.7
+1855, Mystery,6.0
+131,Adventure,6.9
+2851,Comedy,6.1
+303, Family,5.8
+1052, Drama,7.8
+168, Sci-Fi,5.8
+698, Drama,6.6
+871, Comedy,5.7
+4585, Documentary,8.2
+2463, Mystery,7.2
+1087,Comedy,5.2
+1599,Comedy,6.2
+1242,Horror,6.5
+3553,Action,8.1
+2037, Family,5.2
+4187,Comedy,6.7
+2091,Drama,7.6
+867,Biography,6.3
+3311, History,6.6
+521, Sci-Fi,7.5
+1524,Drama,7.6
+1861, Mystery,6.8
+1342, Comedy,5.1
+3478, Crime,7.4
+3990,Comedy,6.0
+1277, Adventure,4.7
+2092,Biography,5.6
+1004, Thriller,6.4
+531, Musical,6.7
+2800, Mystery,5.4
+1577,Action,6.3
+2674, Comedy,6.4
+5035, Romance,6.9
+1120, Drama,6.8
+1561,Comedy,5.9
+434, History,7.7
+2232, Romance,6.8
+3200, Thriller,5.2
+2797, Horror,4.4
+2978, Crime,5.7
+1887, Drama,6.7
+298, Animation,7.3
+1395, Sci-Fi,4.5
+2600,Action,7.3
+1843, War,7.4
+785, Drama,6.1
+1992,Comedy,4.9
+2494, Fantasy,5.1
+3593, Thriller,5.1
+995, Thriller,4.3
+1244, Romance,5.8
+3700,Horror,6.9
+693, Drama,7.1
+4567, Sport,7.0
+166,Action,6.6
+2155,Drama,4.7
+2046,Action,6.5
+2004, Drama,7.8
+1991,Action,4.1
+1068, Drama,4.7
+3102, Drama,6.4
+488, Sci-Fi,6.3
+3562,Comedy,5.9
+1591,Drama,6.5
+4255, Comedy,7.6
+3459,Horror,7.0
+2161,Adventure,5.7

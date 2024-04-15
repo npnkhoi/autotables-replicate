@@ -1,0 +1,21 @@
+Group of benefits,English name,Branch,Sub-branch,Means-test,Notes on units
+Unemployment benefits,Unemployment Insurance benefits,3,3,0,0
+"Old-age, Survivors & Early retirement",Railroad Retirement Benefits (All categories),0,0,0,1
+"Social assistance, Lone parents & Housing",Food stamp assistance: Supplemental Nutrition Assistance Program (SNAP) benefits,Other-Social,"Other (Food Subsidies, Education, etc.)",1,"recipient households, average or point-in-time"
+"Old-age, Survivors & Early retirement",Survivors Insurance_Widowed mothers and fathers = Young Widows and Widowers,1,1,0,0
+Disability benefits,Supplemental Security Income (SSI) - Blind and Disabled,2,2,1,0
+"Old-age, Survivors & Early retirement",Supplemental Security Income (SSI) - Aged,0,0,1,1
+Unemployment benefits,Federal-State Extended Benefits (EB),3,3,0,0
+,Unemployment Compensation for Federal Employees,3,3,0,0
+Disability benefits,Veteran's pension and compensation,2,2,0,1
+"Social assistance, Lone parents & Housing",Temporary Assistance for Needy Families (TANF) ,Family,"Other (Lone Parent Benefits, etc.)",1,0
+"Old-age, Survivors & Early retirement",Survivors Insurance_Widow(er)s (aged and disabled),1,1,0,0
+Unemployment benefits,State Additional Benefits (AB),3,3,0,0
+"Old-age, Survivors & Early retirement",Railroad Survivor Benefits (All categories),1,1,0,1
+,"Survivors Insurance_Children (Minor, Disabled and Student)",1,1,0,0
+Unemployment benefits,Railroad Unemployment Insurance,3,3,0,1
+,Trade Readjustment Allowances,3,3,0,0
+,Emergency Unemployment Compensation (EUC08),3,3,0,0
+"Old-age, Survivors & Early retirement",Civil Service Retirement Program,0,0,0,1
+,"Old-Age Insurance_Children (minor, disabled and student)",0,0,0,0
+,Old-Age Insurance_Spouses,0,0,0,0

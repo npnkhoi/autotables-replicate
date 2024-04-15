@@ -1,0 +1,443 @@
+Index,Latitude,City,Country
+247,56.54,liepaja,LV
+48,58.3,juneau,US
+29,-33.93,cape town,ZA
+439,-9.2,bukama,CD
+50,42.1,jamestown,US
+251,-41.15,san carlos de bariloche,AR
+168,-0.22,boende,CD
+238,-5.38,kongolo,CD
+204,-33.87,esperance,AU
+507,34.06,ontario,US
+310,-5.18,jutai,BR
+195,9.59,dire dawa,ET
+32,-22.97,arraial do cabo,BR
+416,2.82,boa vista,BR
+335,-39.2,okato,NZ
+11,-23.12,rikitea,PF
+30,18.9,araouane,ML
+484,69.3,deputatskiy,RU
+166,-8.42,lucapa,AO
+532,8.2,mabaruma,GY
+312,47.12,atyrau,KZ
+265,39.72,saravan,AM
+558,18.09,nouakchott,MR
+110,77.48,qaanaaq,GL
+536,-0.91,biak,ID
+415,-41.41,waipawa,NZ
+475,-20.02,bowen,AU
+463,57.8,tigil,RU
+550,60.75,haines junction,CA
+28,-20.21,quatre cocos,MU
+58,-0.6,hithadhoo,MV
+454,-25.17,beloha,MG
+557,42.78,muros,ES
+158,56.97,jurmala,LV
+178,1.98,apac,UG
+362,16.06,vieux-habitants,GP
+217,70.37,vardo,NO
+392,6.45,bekwai,GH
+40,-34.42,hermanus,ZA
+525,-19.84,beira,MZ
+381,-28.87,hlotse,LS
+425,65.42,maniitsoq,GL
+552,18.65,koregaon,IN
+9,19.73,hilo,US
+546,55.72,imeni vorovskogo,RU
+436,-33.04,valparaiso,CL
+213,-6.88,labuhan,ID
+447,15.47,londa,IN
+107,56.67,neryungri,RU
+266,-0.72,soure,BR
+71,-46.6,bluff,NZ
+45,-21.2,vaini,TO
+87,-3.55,wewak,PG
+502,34.06,yuxia,CN
+282,63.75,iqaluit,CA
+43,29.58,tiznit,MA
+5,31.37,yicheng,CN
+371,-51.62,rio gallegos,AR
+443,-18.37,poopo,BO
+455,47.15,lermontovka,RU
+179,-20.46,uyuni,BO
+133,-24.79,castro,BR
+361,-24.53,chokwe,MZ
+495,40.5,matera,IT
+0,22.08,kapaa,US
+253,25.29,esna,EG
+284,40.84,duzce,TR
+580,41.71,yarmouth,US
+60,-38.0,mar del plata,AR
+406,13.93,edd,ER
+451,16.15,wagar,SD
+165,62.67,khandyga,RU
+79,-21.21,avarua,CK
+57,-20.52,souillac,MU
+160,44.38,lunenburg,CA
+216,40.43,komsomolskiy,UZ
+62,7.45,baculin,PH
+326,-28.77,geraldton,AU
+111,68.75,cherskiy,RU
+433,63.05,beringovskiy,RU
+528,-29.95,coquimbo,CL
+450,14.72,pak thong chai,TH
+137,8.3,ler,SS
+66,-30.18,cidreira,BR
+202,-20.7,oliveira,BR
+291,20.89,kahului,US
+302,56.82,vikulovo,RU
+481,-35.1,kaeo,NZ
+108,71.29,barrow,US
+541,64.75,anadyr,RU
+375,36.29,elizabeth city,US
+446,8.88,jalingo,NG
+583,48.52,roberval,CA
+305,61.99,paamiut,GL
+7,42.6,albany,US
+152,48.92,saint-denis,FR
+533,54.77,flin flon,CA
+471,11.28,bubaque,GW
+491,48.85,hare bay,CA
+432,-0.03,pontianak,ID
+562,25.29,chabahar,IR
+224,45.44,kropotkin,RU
+423,-21.2,itaperuna,BR
+91,6.75,banyo,CM
+143,-2.57,kavieng,PG
+105,9.82,point pedro,LK
+367,0.95,kamuli,UG
+159,6.98,mizan teferi,ET
+345,12.22,alugan,PH
+210,51.9,domna,RU
+458,6.62,kulhudhuffushi,MV
+289,41.12,aksu,CN
+176,-23.86,inhambane,MZ
+196,71.92,saskylakh,RU
+452,-0.95,padang,ID
+153,32.67,ponta do sol,PT
+3,27.9,xichang,CN
+489,-25.62,nueva italia,PY
+409,-1.52,almeirim,BR
+376,43.74,olga,RU
+328,-17.71,caravelas,BR
+482,3.08,bonfim,BR
+459,2.43,mersing,MY
+77,-7.33,contamana,PE
+74,-24.87,carnarvon,AU
+437,36.41,taos,US
+399,23.45,todos santos,MX
+384,14.4,marzuq,YE
+279,-46.13,tuatapere,NZ
+263,7.38,yaan,NG
+82,78.22,longyearbyen,SJ
+327,46.54,svetlaya,RU
+378,17.52,petatlan,MX
+94,55.74,thompson,CA
+92,12.63,mamallapuram,IN
+274,-28.45,upington,ZA
+129,-2.5,fonte boa,BR
+354,34.98,tateyama,JP
+403,55.1,la ronge,CA
+578,64.25,hofn,IS
+103,52.78,ushumun,RU
+276,-18.59,conceicao da barra,BR
+582,64.75,skelleftea,SE
+167,-6.98,cabedelo,BR
+307,-33.01,saldanha,ZA
+298,38.42,ishinomaki,JP
+255,68.82,qasigiannguit,GL
+288,-3.33,amahai,ID
+477,-17.53,tiarei,PF
+389,50.37,yekaterinoslavka,RU
+130,37.35,cortez,US
+98,31.61,gat,IL
+207,27.63,ziro,IN
+186,42.8,hami,CN
+49,48.59,shubarshi,KZ
+503,57.81,ostrovskoye,RU
+402,29.29,ormond beach,US
+34,-33.59,port alfred,ZA
+559,67.47,tazovskiy,RU
+169,-3.8,bengkulu,ID
+144,4.88,takoradi,GH
+318,50.7,port hardy,CA
+63,71.97,khatanga,RU
+309,60.55,kenai,US
+515,33.02,summerville,US
+398,-4.27,brazzaville,CG
+492,48.41,obodivka,UA
+242,-10.07,huarmey,PE
+231,4.14,meulaboh,ID
+83,-31.25,rafaela,AR
+55,-42.78,new norfolk,AU
+113,39.81,magalia,US
+473,-8.01,olinda,BR
+334,-35.17,ahipara,NZ
+269,31.9,el sauzal,MX
+448,-20.23,poum,NC
+571,46.62,lasa,IT
+189,-13.7,pisco,PE
+581,49.2,hailar,CN
+86,-42.88,hobart,AU
+479,3.94,ortega,CO
+199,62.67,borogontsy,RU
+240,65.61,staryy nadym,RU
+413,69.49,talnakh,RU
+405,-24.96,cascavel,BR
+78,44.17,shieli,KZ
+453,-23.07,cunha,BR
+517,-38.95,neuquen,AR
+420,45.02,saint anthony,US
+430,40.29,progress,US
+341,60.91,ous,RU
+206,28.37,naze,JP
+296,40.6,fortuna,US
+2,57.79,kodiak,US
+319,10.57,kavaratti,IN
+38,14.97,tanout,NE
+192,50.68,severo-kurilsk,RU
+396,-34.48,rocha,UY
+449,-26.82,tucuman,AR
+504,44.25,cadillac,US
+496,56.45,ayan,RU
+15,64.38,provideniya,RU
+572,59.12,palana,RU
+321,22.13,kasrawad,IN
+584,39.01,black forest,US
+230,43.41,north bend,US
+295,4.09,yei,SS
+59,-34.53,bredasdorp,ZA
+373,-14.66,menongue,AO
+181,-22.96,walvis bay,
+112,62.23,klaksvik,FO
+387,3.52,yokadouma,CM
+566,-15.33,chongwe,ZM
+293,-0.13,sao gabriel da cachoeira,BR
+467,30.44,mirabad,AF
+85,64.5,nome,US
+239,39.18,hamilton,US
+411,-8.12,boyolangu,ID
+46,72.79,upernavik,GL
+90,12.18,san policarpo,PH
+151,52.33,macklin,CA
+363,18.47,davila,PH
+226,20.87,celestun,MX
+155,55.13,radovitskiy,RU
+537,56.55,novozavidovskiy,RU
+332,34.77,pafos,CY
+177,54.02,vanderhoof,CA
+434,21.32,ewa beach,US
+513,11.5,jibuti,DJ
+412,51.62,clonakilty,IE
+488,44.5,divnomorskoye,RU
+306,51.59,newport,GB
+21,65.61,tasiilaq,GL
+548,43.78,guca,RS
+20,-37.62,lebu,CL
+358,14.2,kutum,SD
+408,9.49,bandarbeyla,SO
+368,8.0,marawi,PH
+377,40.82,ashland,US
+23,-22.67,vao,NC
+183,53.43,kurkino,RU
+75,33.67,lamar,US
+150,70.47,clyde river,CA
+308,51.38,margate,GB
+104,-12.74,vilhena,BR
+577,-20.1,charters towers,AU
+96,41.14,westport,US
+84,34.73,madison,US
+271,71.04,mehamn,NO
+145,-17.69,capelinha,BR
+95,39.05,lagoa,PT
+170,-45.87,dunedin,NZ
+554,40.8,eureka,US
+209,64.84,fairbanks,US
+254,47.53,dossor,KZ
+527,29.03,jalu,LY
+386,52.46,borinskoye,RU
+470,-33.01,gualeguaychu,AR
+540,17.49,najran,SA
+69,68.05,ostrovnoy,RU
+157,-20.73,mount isa,AU
+350,58.55,kirovo-chepetsk,RU
+164,25.52,tura,IN
+372,64.57,ust-nera,RU
+109,22.29,victoria,HK
+551,-2.65,gamba,GA
+120,-11.21,sumbe,AO
+51,-24.7,ampanihy,MG
+526,2.33,marsabit,KE
+346,42.0,ajaccio,FR
+303,1.74,sibolga,ID
+1,5.41,georgetown,MY
+543,56.05,grakhovo,RU
+531,40.92,nola,IT
+259,-7.95,bambanglipuro,ID
+190,12.45,birnin kebbi,NG
+391,61.36,sovetskiy,RU
+47,-7.61,uige,AO
+314,-5.2,touros,BR
+445,25.29,doha,QA
+311,41.32,durres,AL
+493,54.39,babynino,RU
+407,30.32,wadi musa,JO
+457,41.25,zonguldak,TR
+370,19.22,miraflores,MX
+421,58.52,high level,CA
+313,47.17,marystown,CA
+299,-0.95,luwuk,ID
+154,70.63,chokurdakh,RU
+273,-41.87,ancud,CL
+511,64.47,uyemskiy,RU
+136,-8.61,ruteng,ID
+427,34.95,fort oglethorpe,US
+555,-1.8,montalvo,EC
+426,35.73,hasaki,JP
+162,-22.12,henties bay,
+352,50.69,lillooet,CA
+538,-19.67,nokaneng,BW
+156,59.38,okhotsk,RU
+359,-38.27,codrington,AU
+12,69.45,tuktoyaktuk,CA
+243,-19.52,miandrivazo,MG
+106,-4.39,borba,BR
+225,40.52,buston,TJ
+244,-5.55,cabinda,AO
+24,3.98,abong mbang,CM
+338,46.43,asau,RO
+100,-41.07,burnie,AU
+514,65.82,turukhansk,RU
+229,66.83,yar-sale,RU
+211,20.78,taunggyi,MM
+343,67.45,srednekolymsk,RU
+438,49.78,chapais,CA
+22,63.66,beian,NO
+344,65.28,norman wells,CA
+235,-21.15,mackay,AU
+53,30.48,san quintin,MX
+245,50.7,bayangol,RU
+148,38.42,shache,CN
+474,18.74,arlit,NE
+400,65.97,urengoy,RU
+292,61.6,floro,NO
+486,49.98,ulaangom,MN
+329,14.43,soeng sang,TH
+125,35.91,zhoucheng,CN
+146,37.13,lakkion,GR
+180,69.7,pevek,RU
+141,-20.41,mahebourg,MU
+287,58.35,uddevalla,SE
+80,-46.19,mataura,NZ
+233,55.96,divnogorsk,RU
+124,-21.64,sao joao da barra,BR
+360,67.67,sorland,NO
+278,-25.3,hervey bay,AU
+286,-0.88,sorong,ID
+115,-19.55,isangel,VU
+261,60.82,hay river,CA
+163,64.9,leshukonskoye,RU
+187,47.67,torbay,CA
+54,35.13,katsuura,JP
+355,15.12,quang ngai,VN
+316,-24.13,aranos,
+285,4.93,cayenne,GF
+428,5.88,buchanan,LR
+248,-15.43,acari,PE
+121,-5.67,tual,ID
+44,-13.68,ambanja,MG
+573,47.67,redmond,US
+544,18.3,indapur,IN
+132,23.52,galiakot,IN
+281,14.35,san pedro,PH
+283,69.41,dudinka,RU
+16,33.28,muroto,JP
+366,-21.22,mananjary,MG
+208,-20.34,bambous virieux,MU
+380,16.52,benemerito de las americas,MX
+184,43.15,rochester,US
+456,36.43,woodward,US
+315,69.22,ilulissat,GL
+340,-34.65,moron,AR
+203,-37.96,whakatane,NZ
+565,-9.88,alta floresta,BR
+383,46.68,baruun-urt,MN
+89,-4.05,mangai,CD
+70,-9.8,atuona,PF
+542,-35.66,general pico,AR
+349,57.05,sitka,US
+35,59.7,nikolskoye,RU
+198,-19.06,alofi,NU
+339,16.08,chilakalurupet,IN
+472,-45.42,te anau,NZ
+212,69.38,leningradskiy,RU
+336,58.69,kodinsk,RU
+221,50.15,falmouth,GB
+323,69.65,tromso,NO
+505,43.28,la pena,FR
+518,41.28,nantucket,US
+364,26.12,itoman,JP
+570,-23.65,antofagasta,CL
+585,-24.97,benjamin aceval,PY
+494,-8.19,banjar,ID
+535,25.12,gwadar,PK
+126,20.5,adrar,MR
+478,-16.84,mocuba,MZ
+228,53.41,liverpool,GB
+530,-6.22,kieta,PG
+270,47.89,khor,RU
+117,60.92,narsaq,GL
+510,1.64,impfondo,CG
+264,43.8,urumqi,CN
+173,22.93,nizwa,OM
+485,18.03,black river,JM
+185,-26.65,luderitz,
+194,-34.0,kruisfontein,ZA
+219,-19.98,cap malheureux,MU
+280,62.49,timra,SE
+410,40.67,bolu,TR
+191,10.15,nicoya,CR
+497,68.12,gravdal,NO
+374,-6.32,panguna,PG
+429,64.54,arkhangelsk,RU
+290,41.87,toktogul,KG
+135,60.38,teya,RU
+560,25.05,jiwani,PK
+73,45.17,mantua,IT
+385,32.45,abilene,US
+539,63.44,vestmannaeyjar,IS
+568,17.02,salalah,OM
+188,71.69,tiksi,RU
+227,34.64,lompoc,US
+122,62.58,roald,NO
+498,14.92,praia,CV
+142,2.18,bumba,CD
+333,-34.73,port lincoln,AU
+172,48.68,atasu,KZ
+304,-19.76,esmeraldas,BR
+101,60.72,whitehorse,CA
+563,14.3,yarim,YE
+390,60.05,gornopravdinsk,RU
+431,22.57,sur,OM
+147,17.78,letpadan,MM
+182,28.75,florida,US
+575,43.06,oktyabrskoye,RU
+262,9.18,ca mau,VN
+33,-8.26,conceicao do araguaia,BR
+215,9.33,villa bruzual,VE
+337,8.08,ouadda,CF
+521,-34.68,kiama,AU
+256,65.58,lavrentiya,RU
+294,47.91,ulaanbaatar,MN
+119,44.08,millau,FR
+404,48.96,villepinte,FR
+501,46.82,sainte-thecle,CA
+220,2.04,mogadishu,SO
+18,-14.27,sicuani,PE
+14,62.46,yellowknife,CA
+522,-12.7,camacari,BR
+99,61.28,yerbogachen,RU
+27,-15.2,namibe,AO
+26,13.22,bathsheba,BB
+564,27.37,khandbari,NP
+31,-15.82,itapirapua,BR

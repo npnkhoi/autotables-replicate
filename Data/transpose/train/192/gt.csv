@@ -1,0 +1,6 @@
+Index,Data Type,Uniqueness
+birthdate,date,0.688
+deathdate,date,0.809
+gender,string,0.0
+label,string,1.0
+work,list,0.9890000000000001

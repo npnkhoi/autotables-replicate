@@ -1,0 +1,2 @@
+index,attributes.Alcohol,attributes.Ambience.casual,attributes.BikeParking,attributes.BusinessAcceptsCreditCards,attributes.BusinessParking.street,attributes.GoodForMeal.breakfast,attributes.GoodForMeal.brunch,attributes.GoodForMeal.dessert,attributes.GoodForMeal.dinner,attributes.GoodForMeal.latenight,attributes.GoodForMeal.lunch,attributes.HasTV,attributes.NoiseLevel,attributes.RestaurantsDelivery
+value,none,False,False,True,True,True,False,False,False,False,False,False,quiet,False

@@ -1,0 +1,52 @@
+Subtitle,Activities,Delivery Type
+2. Usually Required,Implementation Plan,Document
+3. Project Dependent,Modified Application(s),Development
+2. Usually Required,Business Requirements,Document
+3. Project Dependent,Modify contract(s),Document
+2. Usually Required,Stakeholder Analysis,Document
+2. Usually Required,Communications Plan,Document
+1. Approvals,Project Plan,Signoff
+3. Project Dependent,Update Disaster Recovery Plan,Document
+1. Approvals,Database Design shanges,Signoff
+3. Project Dependent,Modify SLA,Document
+3. Project Dependent,Implement new non-IT service,Development
+3. Project Dependent,New Business Processes,Document
+3. Project Dependent,New contract(s),Document
+3. Project Dependent,Modify Operations document(s),Document
+1. Approvals,Technology Architecture changes,Signoff
+3. Project Dependent,Modify non-IT service,Development
+3. Project Dependent,Communications to Clients,Document
+3. Project Dependent,Implement new packaged solution,Development
+2. Usually Required,Functional Specifications,Document
+3. Project Dependent,French Translation,Document
+3. Project Dependent,New database Design,Document
+3. Project Dependent,Modify Business Processes,Document
+2. Usually Required,Steering Committee Meetings,Document
+3. Project Dependent,New Application(s),Development
+3. Project Dependent,New database,Development
+3. Project Dependent,New Vendor(s) involved,Vendor Management
+3. Project Dependent,Software Upgrade,Development
+2. Usually Required,Systems Design,Document
+2. Usually Required,In house Design Workshops,Workshop
+2. Usually Required,Issues Log,Document
+2. Usually Required,Schedule,Document
+3. Project Dependent,New Operations document(s),Document
+3. Project Dependent,Modify online service,Development
+3. Project Dependent,Modify packaged solution,Development
+2. Usually Required,Risk Management Plan,Document
+2. Usually Required,Project Status Reports,Document
+2. Usually Required,Contingency Plan,Document
+3. Project Dependent,Change to database design,Document
+3. Project Dependent,New Software,Development
+3. Project Dependent,Hardware Upgrade,Development
+2. Usually Required,Weekly Status Meeting,Meeting
+2. Usually Required,Project Plan,Document
+1. Approvals,Schedule,Signoff
+3. Project Dependent,Change in Technology Architecture,Development
+3. Project Dependent,Existing vendor(s) involved,Vendor Management
+3. Project Dependent,New Hardware,Development
+2. Usually Required,Test Cases,Document
+3. Project Dependent,New SLA,Document
+3. Project Dependent,Implement new online service,Development
+2. Usually Required,Test Plan,Document
+3. Project Dependent,Modify database,Development

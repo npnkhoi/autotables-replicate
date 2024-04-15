@@ -1,0 +1,3404 @@
+Index,imdb_score,genres
+0,7.9," Fantasy,  Sci-Fi,  Adventure, Action"
+1,7.1,"Action,  Fantasy,  Adventure"
+2,6.8," Adventure, Action"
+3,8.5,Action
+5,6.6, Sci-Fi
+6,6.2,"Action,  Romance,  Adventure"
+7,7.8," Fantasy,  Comedy,  Romance,  Musical,  Animation"
+8,7.5," Adventure, Action"
+9,7.5,Adventure
+13,7.3," Fantasy,  Adventure, Action"
+14,6.5," Western, Action"
+15,7.2,"Action,  Sci-Fi"
+16,6.6,"Action,  Family,  Adventure"
+17,8.1,"Action,  Adventure"
+18,6.7," Fantasy,  Adventure, Action"
+19,6.8," Fantasy,  Family,  Comedy, Action"
+20,7.5, Fantasy
+21,7.0, Adventure
+22,6.7," History,  Drama"
+23,7.9,"Adventure,  Fantasy"
+24,6.1," Fantasy, Adventure,  Family"
+25,7.2," Adventure,  Drama"
+26,7.7,Drama
+27,8.2,"Action,  Sci-Fi,  Adventure"
+28,5.9," Sci-Fi, Action,  Adventure,  Thriller"
+29,7.0," Sci-Fi,  Thriller"
+30,7.8,"Action,  Thriller,  Adventure"
+31,7.3," Fantasy,  Adventure"
+32,7.2, Sci-Fi
+33,6.5,"Adventure,  Fantasy,  Family"
+34,6.8,"Action,  Fantasy,  Sci-Fi"
+35,7.3," Animation,  Comedy,  Family, Adventure,  Fantasy"
+36,6.0, Adventure
+37,5.7," Sci-Fi,  Adventure"
+38,6.4, Fantasy
+39,6.7, Sci-Fi
+40,6.8,"Action,  Adventure"
+41,6.3,"Adventure,  Sport"
+42,5.6," Adventure, Action,  Sci-Fi"
+43,8.3," Fantasy,  Family"
+44,6.6,Action
+45,7.2,"Action,  Crime"
+46,7.0," Thriller,  Horror, Action,  Sci-Fi"
+47,8.0," Adventure, Action,  Thriller"
+48,7.8, Adventure
+49,6.3,Adventure
+50,7.3," Romance, Drama"
+51,6.6, Adventure
+52,7.0,Action
+53,6.3,"Action,  Adventure,  Sci-Fi"
+54,6.2," Fantasy, Action"
+56,7.2," Animation,  Comedy,  Fantasy, Adventure"
+57,7.5,"Action,  Sci-Fi,  Adventure,  Thriller"
+58,8.4," Sci-Fi, Adventure,  Animation"
+59,6.2," Thriller, Action,  Comedy,  Crime"
+60,5.8," Adventure,  Sci-Fi"
+61,6.8," Drama,  Family,  Fantasy"
+62,5.4," Adventure,  Sci-Fi"
+63,6.6," Romance, Action"
+64,6.9," Fantasy, Adventure,  Family"
+65,7.3," Sci-Fi, Action,  Adventure"
+66,9.0,"Action,  Thriller"
+67,8.3," Animation,  Comedy"
+68,6.5," Animation,  Comedy"
+69,7.9,Action
+70,7.5,"Adventure,  Family"
+71,4.8,"Action,  Western,  Comedy"
+72,5.2," Adventure,  Horror, Action"
+73,6.9," Sci-Fi,  Adventure"
+74,5.4," Fantasy,  Family, Comedy"
+75,7.9," Sci-Fi, Action"
+76,6.1," Adventure,  Thriller"
+77,5.8," Adventure,  Sci-Fi"
+78,8.3," Fantasy, Adventure,  Family"
+79,7.8," Fantasy,  Drama"
+80,7.0," Sci-Fi,  Adventure, Action"
+81,6.1," Drama,  Fantasy, Action,  Adventure"
+82,7.0," Adventure,  Family,  Fantasy"
+83,7.6," Adventure,  Drama,  Sci-Fi, Action"
+85,6.3,Action
+86,7.8,Action
+87,6.4," Animation,  Comedy,  Family,  Fantasy"
+88,6.5," Mystery,  Sci-Fi, Action"
+89,7.9," Family,  Adventure,  Sci-Fi"
+90,7.8,"Adventure,  Sci-Fi,  Family,  Comedy"
+91,6.6," Fantasy,  Animation,  Family"
+92,5.5," Adventure, Action"
+93,8.2,"Adventure,  Family,  Fantasy"
+94,6.4,Action
+95,8.1," Adventure, Action"
+96,8.6,Adventure
+97,8.8," Sci-Fi,  Thriller,  Adventure"
+100,6.7," Crime,  Thriller, Action"
+101,7.8,Drama
+102,7.8, Adventure
+103,6.6, Sci-Fi
+104,6.1,"Action,  Family"
+105,5.6," Thriller,  Drama,  Adventure"
+106,6.4,Adventure
+107,6.1," Comedy,  Family,  Fantasy,  Animation"
+108,7.3," Adventure,  Fantasy"
+109,6.6,"Action,  Adventure"
+110,6.3,"Adventure,  Family"
+111,6.1,"Action,  Drama,  History"
+112,7.1,"Action,  Sci-Fi,  Adventure"
+113,5.5," Biography,  Romance,  War"
+114,7.5," Fantasy,  Mystery, Adventure"
+115,7.6," Fantasy, Adventure"
+116,6.4, Drama
+117,7.2,"Drama,  Sci-Fi,  Horror"
+118,6.7," Fantasy,  Family"
+119,8.0," Comedy,  Fantasy, Animation"
+120,8.3,"Action,  Adventure"
+121,6.7," Adventure,  Animation"
+122,5.9," Fantasy, Adventure"
+123,6.7,"Action,  Thriller"
+125,7.6," Comedy, Adventure,  Musical,  Fantasy"
+126,7.2,Action
+127,7.1,Action
+128,8.1," Thriller, Action"
+129,6.7,"Mystery,  Thriller"
+130,7.0," Adventure,  Fantasy"
+131,6.9,"Adventure,  Family,  Comedy"
+132,5.1," Fantasy,  Comedy,  Animation,  Family"
+133,5.8,"Action,  Adventure"
+134,6.2,Comedy
+135,7.4," Thriller,  Adventure"
+136,5.8," Fantasy,  Horror,  Thriller, Drama"
+137,6.6, Drama
+138,6.2," Animation,  Comedy,  Family"
+139,7.3," Comedy,  Family,  Animation,  Adventure"
+140,4.2,"Action,  Adventure,  Family,  Fantasy"
+141,6.9," Thriller,  Adventure, Action"
+142,6.4," Thriller, Action,  Drama"
+143,5.4,"Action,  Comedy"
+144,6.7," Comedy,  Animation"
+145,5.8,"Adventure,  Fantasy,  Family"
+146,6.9," Animation,  Sci-Fi,  Family, Adventure,  Comedy"
+148,6.9," Family,  Comedy,  Animation, Adventure"
+149,6.1, Thriller
+150,5.5, Sci-Fi
+151,6.6,"Action,  Adventure"
+152,6.1," Family,  Mystery,  Sci-Fi,  Fantasy, Action"
+153,6.3,"Action,  Adventure,  Fantasy"
+154,7.2," Animation,  Comedy,  Adventure, Action"
+155,7.4," Thriller,  Adventure"
+156,7.3," Fantasy,  Family"
+157,6.1," Crime, Comedy"
+158,7.7," History, Action,  Drama"
+159,6.1," Adventure,  Drama, Action"
+160,8.0," Sci-Fi,  Adventure"
+161,7.3," Romance,  Fantasy"
+162,7.9," Family,  Comedy,  Adventure,  Fantasy, Action,  Animation"
+163,5.5," Fantasy,  Adventure"
+164,5.0," Thriller, Action"
+165,7.7,Action
+166,6.6," Crime, Action,  Thriller"
+167,5.7," Sci-Fi, Action"
+168,5.8," Sci-Fi,  Thriller"
+169,6.0,"Action,  Comedy,  Adventure"
+170,6.4," Romance, Action,  Fantasy,  Adventure,  Animation"
+171,6.9," Sci-Fi,  Adventure, Action"
+172,6.4," Thriller,  Adventure"
+173,7.4," Adventure,  History,  Drama, Action,  War"
+174,5.5," Fantasy, Adventure"
+175,5.9," Musical,  Family"
+176,6.8,Action
+178,6.8,Adventure
+179,8.1, Western
+180,6.5," Sport,  Comedy,  Family,  Animation"
+181,7.2,"Adventure,  Animation,  Western"
+182,6.7,Adventure
+183,8.1,Action
+184,7.6,"Action,  Family,  Adventure,  Comedy"
+185,7.4,"Action,  Comedy"
+186,7.6, Thriller
+187,5.5," Romance, Adventure,  Drama"
+188,6.7,"Adventure,  Fantasy,  Animation,  Family,  Sci-Fi"
+189,6.5," Sci-Fi,  Thriller"
+190,6.6," Thriller, Action"
+191,6.7," Animation, Action"
+192,6.4," Crime,  Thriller, Action"
+193,5.8," Drama, Action"
+194,7.4," Mystery,  Adventure,  Family"
+195,7.8, Fantasy
+196,6.6, War
+197,4.9,Action
+198,6.5,"Adventure,  Family,  Animation,  Thriller"
+200,6.2," Fantasy,  Comedy, Adventure"
+201,7.3," Family, Action"
+202,7.5,Adventure
+203,5.6," Comedy,  Fantasy, Action"
+205,8.1," Fantasy, Action"
+207,6.7,"Adventure,  Thriller,  Sci-Fi"
+208,6.6," Thriller, Mystery"
+209,6.4," Family,  Comedy, Adventure"
+210,7.5, Fantasy
+211,7.3," Thriller,  Crime"
+212,7.5," Adventure,  Mystery,  Thriller, Action,  Crime"
+213,5.8,"Action,  Adventure"
+215,6.6," History,  Adventure"
+216,6.7," Adventure, Action,  Thriller"
+217,3.7,Action
+218,6.0,Comedy
+220,6.1,"Action,  Adventure"
+221,6.4,"Action,  Drama"
+222,5.6,"Action,  Thriller,  Adventure"
+223,8.0," Fantasy, Adventure"
+224,5.2," Fantasy, Action"
+225,7.1, Thriller
+226,4.8,"Action,  Adventure"
+227,7.0, Sci-Fi
+228,5.4," Fantasy,  Comedy"
+229,6.6," Thriller, Action"
+230,6.7, Sci-Fi
+231,6.2," Thriller, Action,  Crime,  Sci-Fi"
+232,6.1,Action
+233,5.3,"Comedy,  Romance"
+235,7.0,"Action,  Mystery,  Adventure"
+236,7.6," Sci-Fi, Action,  Adventure"
+237,6.7," Adventure,  Fantasy,  Sci-Fi"
+238,8.1," Family, Adventure,  Comedy,  Animation"
+239,6.7," Thriller, Action,  Adventure"
+240,6.5," Fantasy,  Adventure"
+241,7.3," Comedy,  Fantasy, Adventure"
+243,6.0, Drama
+244,6.1," Drama, Action,  Fantasy,  Adventure"
+245,5.9, Sci-Fi
+246,7.8, Drama
+247,5.8," Thriller, Action"
+249,4.3," Sci-Fi, Action,  Adventure"
+250,6.4," Family,  Fantasy,  Comedy, Action"
+251,6.1, Thriller
+252,6.5, Adventure
+253,7.1,"Action,  War,  History,  Drama"
+255,6.5," Crime,  Comedy,  Romance"
+256,6.3,Adventure
+257,7.5,Biography
+258,4.9," Comedy, Adventure"
+259,5.8, Thriller
+261,6.2,"Action,  War,  Fantasy"
+262,5.5,"Adventure,  Animation,  Fantasy,  Family"
+263,5.4," Music,  Family,  Western, Animation,  Comedy"
+264,5.8," Mystery,  Thriller"
+265,7.1," Sci-Fi, Action"
+266,5.4," Animation, Adventure,  Comedy"
+267,3.7," Thriller, Action,  Crime"
+268,6.7, Sci-Fi
+269,7.2," Adventure, Action,  Thriller"
+270,8.8, Drama
+271,5.8,"Action,  Adventure"
+272,6.8," Drama,  Sport, Biography"
+273,3.8," Fantasy, Adventure,  Family"
+274,7.1,"Action,  Sci-Fi"
+275,7.2,"Action,  History"
+276,5.9,Adventure
+277,7.1," Family,  Fantasy,  Romance, Animation"
+278,8.1," Sci-Fi,  Drama, Adventure"
+280,6.9, Thriller
+281,4.4," Romance, Comedy"
+282,6.5," Thriller,  Crime"
+283,8.5, Drama
+284,7.7," Sci-Fi, Action,  Mystery"
+285,7.4," Family,  Mystery,  Fantasy"
+286,8.0,Action
+287,5.7, Adventure
+289,7.0," Crime, Biography"
+290,7.8,Biography
+291,7.2, Thriller
+292,6.4," Thriller, Action,  Crime"
+293,5.5, Romance
+294,6.7,"Action,  Comedy"
+295,6.1," Thriller, Action"
+296,8.5," Western, Drama"
+297,6.9," Drama, Animation"
+298,7.3," Animation, Adventure,  Comedy,  Family"
+299,6.7," Thriller,  Adventure, Action"
+300,6.9," Family,  Mystery, Action"
+301,5.1," Adventure,  Family, Action"
+302,6.8," Fantasy,  Drama,  Family, Adventure"
+303,5.8," Family,  Fantasy"
+305,6.0,"Action,  Thriller"
+306,5.7, Horror
+307,8.0," Drama, Adventure,  Thriller"
+309,5.4,Action
+310,7.2," Sci-Fi,  War"
+311,7.5,Drama
+312,7.0," Animation,  Fantasy"
+313,3.3," Crime,  Fantasy"
+314,6.0,Action
+315,7.1," Sci-Fi,  Family, Adventure"
+316,5.4,"Adventure,  Comedy,  Sci-Fi"
+317,6.1, Thriller
+318,5.3," Thriller,  Sport"
+319,2.2, Fantasy
+320,7.0," Adventure,  Thriller,  Biography,  History"
+321,3.8,"Action,  Sci-Fi,  Comedy"
+322,6.9," Thriller,  War, Action"
+323,7.2," Animation,  Family, Adventure"
+324,7.3,Drama
+325,6.3, Fantasy
+326,7.5,Crime
+327,7.6," Romance,  History,  War, Drama"
+328,6.8,"Animation,  Comedy,  Sport,  Family"
+329,5.2,Comedy
+330,7.7," War, Drama"
+332,7.7, Sci-Fi
+333,4.3, Drama
+334,6.9,"Adventure,  Family"
+335,6.6," Comedy, Adventure"
+336,7.0,"Drama,  Romance,  Family,  Fantasy"
+338,8.2, Animation
+339,8.9," Adventure,  Drama, Action"
+340,8.7," Adventure, Action"
+341,5.5," Fantasy, Action"
+342,5.7," Fantasy,  Thriller"
+343,6.3," Romance, Drama,  Thriller,  Mystery,  Sci-Fi"
+344,5.9," Thriller,  Sci-Fi,  Adventure"
+345,7.6," Thriller,  Drama"
+346,6.6, Family
+347,5.3,Action
+348,6.0," History, Drama"
+349,8.0," Family, Action,  Adventure"
+350,5.6," Adventure, Action,  Comedy"
+351,5.9," Family,  Fantasy"
+352,7.3," Sci-Fi, Adventure"
+353,7.9," Comedy,  Animation, Adventure"
+354,6.8," Thriller, Action"
+355,6.6, Thriller
+356,6.6,"Drama,  Thriller,  Horror"
+357,7.0," Comedy,  Sci-Fi, Animation"
+358,7.0," Family, Action,  Adventure,  Animation,  Comedy"
+359,7.3," Romance,  Comedy,  Fantasy"
+360,5.5," Comedy, Action,  Thriller,  Adventure"
+361,8.5," Drama, Crime"
+362,7.5," Musical,  Family"
+364,7.8," Mystery, Crime"
+365,7.6," Thriller, Action"
+366,7.6," Crime,  Mystery, Action,  Adventure"
+368,6.8," Animation,  Fantasy,  Adventure"
+369,5.0," Comedy,  Animation,  Music,  Family,  Fantasy"
+370,7.1, History
+371,5.5, Comedy
+372,5.6," Animation,  Comedy,  Sci-Fi, Action"
+373,7.1," Drama,  Sci-Fi, Adventure"
+374,4.9," Mystery, Comedy,  Family,  Fantasy,  Horror"
+375,7.4," Mystery,  Sci-Fi,  Thriller"
+376,5.7,"Action,  Thriller,  Sci-Fi"
+377,6.4,"Crime,  Thriller"
+378,5.9," Fantasy, Adventure"
+379,5.5," Fantasy,  Adventure"
+380,6.9," Comedy,  Mystery,  Adventure,  Thriller,  Crime"
+381,6.2,"Action,  Romance,  Thriller,  Sci-Fi"
+382,7.0," Crime, Action,  Thriller"
+383,5.6,"Adventure,  Thriller"
+384,7.0," Family,  Musical"
+385,6.8," Drama, Comedy"
+386,5.4," Thriller,  Sci-Fi, Action,  Drama"
+387,6.1," Drama,  Thriller, Action"
+388,6.7, Thriller
+389,4.3," Sci-Fi,  Adventure"
+390,6.9," Fantasy, Adventure"
+391,8.0," Drama,  Sport"
+392,4.4," Musical, Action,  Family"
+393,7.3, History
+394,6.3, Drama
+395,6.7," Thriller,  Crime, Action"
+396,7.7,"Adventure,  Drama"
+397,6.5," Family, Animation,  Music,  Comedy"
+398,7.8," Mystery, Action"
+399,6.4," Adventure, Action"
+400,7.8," Thriller, Crime"
+401,5.8,"Action,  Romance,  Adventure"
+402,7.1," Comedy,  Fantasy, Animation"
+403,7.1," Musical,  Family"
+405,6.8,Action
+406,4.8, Family
+407,6.2, Comedy
+408,6.9," Romance, Comedy"
+409,7.3," Drama, Action,  Thriller"
+410,6.6,"Comedy,  Romance,  Drama"
+412,6.2,"Adventure,  Comedy"
+413,6.7," Mystery,  Sci-Fi"
+414,7.6," History, Drama"
+415,6.7, Comedy
+416,6.2," Comedy,  Adventure"
+418,6.0," Thriller, Action"
+419,7.1," Animation,  Fantasy, Adventure,  Family"
+420,7.1," Fantasy,  Romance"
+421,5.5," Drama, Action"
+423,5.6," Fantasy,  Drama, Adventure,  Family,  Comedy"
+424,7.5," Fantasy, Action,  Comedy"
+425,5.4," Thriller, Action,  Adventure"
+426,4.3,"Comedy,  Romance"
+427,4.9, Mystery
+429,6.4," Drama,  Fantasy, Comedy"
+431,4.3," Comedy, Action"
+432,6.1,"Action,  Thriller,  Sci-Fi,  Adventure"
+433,7.0," Horror,  Fantasy,  Sci-Fi"
+434,7.7,"Crime,  Thriller,  Drama"
+435,5.9," Mystery,  Sci-Fi"
+436,6.7,"Comedy,  Drama"
+437,6.5,"Action,  Adventure,  Thriller"
+438,7.1," Thriller, Action,  Adventure"
+439,7.3,"Adventure,  Drama,  Thriller"
+441,7.0,Action
+442,6.8," Animation,  Family,  Comedy"
+443,7.2," Drama, Adventure,  Comedy,  Fantasy,  Animation,  Family"
+445,6.1,"Action,  Sci-Fi,  Thriller"
+446,6.7," Crime, Action"
+447,6.4, Crime
+448,4.4," Animation,  Music,  Comedy"
+450,6.5,"Action,  Comedy,  Adventure"
+451,6.7,Comedy
+452,8.1,"Mystery,  Thriller"
+453,5.6," Romance,  Drama, Comedy"
+454,6.3," Animation,  Family,  Comedy"
+455,7.3," Thriller,  Crime, Action"
+456,6.1," Romance,  Fantasy,  Family"
+457,7.7, Thriller
+458,6.4, Romance
+460,6.8,"Action,  Crime"
+461,6.6, Mystery
+462,7.2," Drama,  Romance,  History,  War"
+463,6.9," Adventure,  Drama,  Thriller, Action"
+464,5.2,"Comedy,  Sci-Fi"
+465,4.9,"Fantasy,  Mystery"
+466,6.3," Comedy,  Family, Adventure"
+467,5.6," Crime,  Comedy,  Family"
+468,5.5," Thriller,  Sci-Fi, Drama"
+469,6.7," Mystery, Action,  Romance"
+470,7.6," Drama,  War"
+471,5.7," Comedy,  Romance,  Adventure"
+472,4.6," Animation, Adventure,  Family"
+473,7.0," Western,  Animation"
+474,5.2,Comedy
+475,5.1," Adventure,  Family,  Sci-Fi"
+476,6.6," Mystery,  Sci-Fi, Drama"
+478,6.7, Family
+480,7.3,"Animation,  Music,  Fantasy"
+481,5.9," Sci-Fi, Action"
+482,5.6, Adventure
+483,6.5, Crime
+484,5.9, Western
+485,7.0,"Drama,  Romance"
+486,5.3, Fantasy
+487,5.9,"Action,  Adventure,  Comedy"
+488,6.3,"Action,  Sci-Fi"
+491,6.3,"Action,  Sci-Fi"
+492,7.3, Thriller
+493,5.8,"Action,  Thriller"
+494,5.2," Animation, Adventure"
+495,2.4,Action
+496,5.7," Fantasy,  Family,  Comedy,  Animation"
+497,5.8," Romance, Drama"
+498,5.6, Sci-Fi
+499,6.0," Sci-Fi,  Drama, Action"
+500,5.8," Fantasy,  Comedy,  Drama"
+501,6.0, Fantasy
+502,5.7, Thriller
+503,6.0," Family,  Animation, Adventure"
+505,4.2,"Action,  Adventure"
+506,5.6,"Action,  Drama,  Adventure,  Romance,  History"
+508,8.2, Drama
+509,8.5," Family,  Drama,  Animation"
+510,5.8," Adventure, Action,  Fantasy"
+511,6.5," Fantasy,  Family,  Comedy,  Sci-Fi"
+512,7.2," Drama,  Thriller"
+513,6.7,"Action,  Western"
+514,3.4,Comedy
+515,5.9,Action
+516,7.8," Drama,  Family"
+518,4.1," Family,  Fantasy"
+519,6.8," Family, Animation"
+520,5.8," Adventure, Action"
+521,7.5, Family
+522,6.9," Adventure, Action"
+523,6.5,"Action,  Adventure,  Sci-Fi"
+524,6.9," Family, Adventure"
+525,7.9,Drama
+526,7.4,"Action,  Sci-Fi"
+527,6.7," Thriller,  Crime, Action"
+528,7.4," Adventure, Action"
+529,6.9," Comedy,  Adventure,  Family,  Animation,  Fantasy"
+530,6.8,Comedy
+531,6.7,"Comedy,  Romance"
+532,5.1, Thriller
+533,4.1," Adventure,  Sci-Fi,  Comedy, Action,  Family"
+534,7.3,"Crime,  Thriller,  Mystery"
+535,6.0,Comedy
+536,7.3,Comedy
+538,5.4, Family
+539,5.9,"Action,  Thriller,  Drama"
+540,7.1," Drama,  History,  Comedy"
+541,6.0," Animation,  Comedy, Adventure"
+542,6.5," Music, Drama"
+544,5.7,Comedy
+546,6.6," War, Action,  Drama,  Thriller"
+547,5.4," Comedy, Action"
+548,7.3," Adventure, Action"
+549,6.5," Romance, Comedy"
+550,6.6," Fantasy,  Comedy,  Mystery, Animation,  Family"
+551,6.6, Crime
+552,5.9, Thriller
+553,6.7," History,  Romance"
+554,6.1,"Action,  Drama,  Romance"
+555,6.6," Drama,  Mystery,  Crime, Action"
+556,6.6," Family,  Animation, Action"
+557,5.3,"Action,  Crime,  Comedy"
+558,6.0," Sci-Fi, Action,  Drama"
+560,4.7, Fantasy
+561,6.1," Drama,  Thriller,  Adventure"
+562,7.2," Mystery, Drama"
+563,6.4," Family, Action,  Sci-Fi,  Comedy"
+564,6.1," Fantasy, Action"
+565,5.9," Thriller,  Mystery"
+566,6.0,Drama
+567,6.3," Family,  Comedy, Action"
+568,5.6,"Action,  Thriller"
+569,6.4," Drama, Comedy"
+570,7.1," Thriller,  Drama"
+571,6.6,"Action,  Sport"
+572,4.6,Comedy
+573,8.4," War,  Drama"
+574,7.1," Drama,  War, Action"
+575,7.4," Comedy, Adventure,  Animation"
+576,6.9,"Drama,  Romance"
+577,4.5," Sport,  Drama, Action"
+578,7.1, Family
+579,6.5,"Drama,  Mystery,  Thriller"
+580,5.3, Family
+581,6.7,"Drama,  Sci-Fi"
+582,7.2," Family, Adventure,  Romance,  Comedy"
+583,7.2," Animation, Adventure"
+585,5.8,"Action,  Adventure,  Thriller"
+586,6.0," Family, Adventure,  Comedy"
+588,8.3," War, Adventure"
+589,6.7," Comedy, Adventure,  Fantasy,  Family"
+590,6.0,Action
+591,7.1,"Action,  Thriller"
+592,6.0,Action
+594,6.9,"Fantasy,  Sci-Fi"
+595,5.6," Fantasy,  Mystery,  Thriller"
+597,4.5," Family, Animation,  Music,  Fantasy"
+598,7.1," War,  Drama,  History"
+599,6.5,Action
+600,6.4,"Action,  Sci-Fi,  Thriller,  Adventure"
+601,5.8,Action
+602,8.0," Drama,  Fantasy"
+603,6.2," Horror, Drama"
+604,7.2,"Drama,  War"
+605,6.1," War, Drama"
+606,7.6," Sci-Fi, Adventure,  Thriller"
+607,6.3,Drama
+608,6.3," Drama,  War"
+610,7.7,"Adventure,  Family,  Fantasy"
+611,7.0," Biography,  War, Adventure"
+612,5.3, Drama
+614,5.2," Sci-Fi, Action,  Adventure"
+615,5.4," Thriller, Action,  Adventure"
+616,6.4,"Action,  Fantasy"
+617,5.9,"Comedy,  Romance,  Drama,  Musical"
+618,6.3, War
+619,6.5," Thriller, Action"
+620,3.0," Sci-Fi,  Sport, Action"
+621,3.6, Crime
+622,5.8, Crime
+623,6.2," Crime,  Animation,  Family,  Adventure,  Comedy,  Fantasy"
+625,5.4," Drama,  Thriller,  Mystery"
+626,6.1," Adventure,  Sci-Fi,  Mystery,  Thriller"
+627,4.2," Mystery, Crime"
+628,6.7,"Action,  Mystery,  Thriller"
+629,4.2, Adventure
+630,6.4, Drama
+631,4.9, Fantasy
+632,6.8,"Crime,  Thriller"
+633,7.7,"Animation,  Comedy,  Family"
+634,5.6," Comedy,  Crime, Action,  Drama,  Thriller"
+636,7.2," Drama,  History, Adventure"
+637,6.0,"Action,  Fantasy,  Sci-Fi"
+638,5.9,"Comedy,  Romance"
+639,7.9," Drama, Biography"
+641,7.1," Drama, Action,  Thriller"
+643,5.9," Fantasy, Action,  Horror"
+644,6.2," Thriller,  Crime"
+646,7.0," Sci-Fi,  Thriller,  Mystery"
+647,5.4," War,  Fantasy,  Adventure"
+648,8.6,Action
+649,6.5," Drama,  Crime"
+650,6.4," Romance,  Fantasy, Comedy"
+651,7.6,"Adventure,  Comedy,  Family,  Animation"
+652,5.5,"Drama,  Thriller"
+653,7.4," Drama, Biography,  History,  War"
+654,8.7,"Action,  Sci-Fi"
+655,7.6, History
+656,7.5, Sci-Fi
+657,5.5,"Comedy,  Family,  Fantasy"
+658,7.6, Musical
+659,6.5,"Comedy,  Romance"
+660,6.9,Comedy
+661,6.7," Western,  Adventure,  Comedy"
+663,7.2," Drama, Biography,  War"
+664,6.4,"Action,  Adventure"
+665,6.4," Thriller,  Adventure"
+666,6.0," Crime,  Thriller"
+667,6.1,Comedy
+668,6.0,"Drama,  History"
+670,6.4,"Comedy,  Romance"
+671,7.3," Mystery,  Thriller"
+672,5.2,Comedy
+673,6.6," Crime, Comedy,  Romance,  Drama"
+674,6.3," Romance,  Comedy"
+675,5.9," Horror,  Adventure,  Fantasy,  Thriller,  Sci-Fi"
+678,5.4," Sci-Fi,  Thriller, Action"
+679,6.4," Thriller, Action"
+680,6.7," Drama,  Crime,  Mystery,  Thriller"
+681,6.2, Thriller
+682,6.1,"Action,  Sci-Fi,  Family,  Fantasy"
+683,8.8,Drama
+686,5.7," Adventure,  Comedy"
+687,5.0," Crime, Comedy"
+688,5.1," Sci-Fi,  Thriller, Action"
+689,6.9,"Crime,  Drama"
+690,4.8,"Action,  Crime,  Thriller"
+692,5.1," Romance,  Mystery"
+693,7.1," Thriller, Adventure,  Drama,  History"
+694,7.5,"Crime,  Drama"
+695,6.2,"Action,  Comedy,  Crime"
+696,6.3," Comedy,  Sci-Fi, Action,  Animation"
+697,8.1, Sci-Fi
+698,6.6,"Adventure,  Drama,  Crime,  Biography"
+700,6.1, Drama
+701,4.3,"Comedy,  Crime"
+702,6.6," War, Action"
+704,3.8," Romance, Comedy,  Sport"
+705,5.9," Thriller,  Crime, Action"
+706,7.9," Western,  Mystery,  Thriller,  Drama"
+708,5.5,"Adventure,  Comedy,  Family"
+709,7.7," Fantasy,  Drama"
+710,6.3,Comedy
+711,7.1," Family,  Drama"
+714,5.8," Family,  Animation"
+715,8.1," Thriller, Crime,  Drama,  Mystery"
+716,7.9," Thriller, Action"
+717,7.2,"Action,  Thriller"
+718,6.3, Thriller
+719,8.1,"Comedy,  Drama"
+720,7.0," Drama,  Fantasy,  Musical, Adventure,  Family"
+721,5.5,"Comedy,  Family"
+722,6.7," Drama, Action,  Thriller"
+723,5.2," Fantasy,  Comedy"
+724,7.0," Crime,  Thriller"
+725,6.1, Romance
+726,6.6," Animation, Adventure,  Family"
+728,5.9,"Action,  Drama,  Sport"
+729,5.4,"Adventure,  Comedy,  Family"
+730,6.4," Thriller,  Sci-Fi"
+731,5.7, Romance
+732,6.7," Romance,  Drama"
+734,6.8," Sport, Drama"
+735,6.5," Romance, Drama"
+736,7.6, Thriller
+737,5.5," Fantasy,  Thriller"
+738,6.5, Drama
+739,7.0,"Action,  Mystery,  Thriller"
+740,5.8,Action
+741,7.3, Music
+742,6.6,"Drama,  Thriller"
+743,4.4," Crime, Action,  Adventure"
+746,7.7," Crime, Action"
+747,4.4," Fantasy, Comedy,  Family"
+748,6.1," Crime, Comedy"
+750,6.8," Horror,  Fantasy,  Sci-Fi"
+751,6.5,Drama
+752,7.0," Comedy,  Family,  Animation"
+753,6.3,"Action,  Adventure,  Thriller"
+754,6.3,Action
+755,6.1, Romance
+756,6.1," Animation, Adventure,  Fantasy,  Family"
+758,5.3," Sci-Fi,  Comedy"
+759,5.4, Thriller
+760,6.2,"Action,  Thriller"
+761,6.6, Drama
+762,5.9," Drama,  Crime"
+763,6.3,"Action,  Horror"
+764,7.2," Crime,  Thriller,  Mystery, Action"
+765,6.8," Family,  Animation,  Comedy"
+766,6.1," Romance,  Drama"
+767,7.8," Fantasy,  Animation,  Comedy"
+768,5.0," Crime, Action,  Comedy"
+769,6.2," Sci-Fi, Action,  Thriller"
+770,6.7," Drama,  Crime,  Thriller"
+771,4.9,Adventure
+772,7.4," Drama,  Sport, Biography"
+774,6.2," Romance,  Crime"
+775,4.9," Sci-Fi, Comedy,  Family"
+776,6.1,"Action,  Thriller"
+777,6.1," Animation,  Sci-Fi"
+778,6.4," Sci-Fi,  Thriller"
+779,6.3," Romance, Comedy,  Crime"
+781,6.6," Drama,  Thriller"
+782,5.7, Mystery
+783,5.9, Crime
+784,6.0,"Action,  Drama,  Mystery"
+785,6.1," Thriller,  Crime"
+786,6.7," Drama,  Music"
+787,6.7,"Drama,  Fantasy,  Sport"
+788,7.9," Drama, Adventure,  Music"
+790,4.3, Adventure
+791,5.7," Sci-Fi,  Horror,  Thriller"
+792,6.7," Animation,  Family"
+793,6.7," Thriller, Horror"
+794,8.1,"Action,  Adventure"
+795,6.1," Mystery,  Thriller,  Fantasy"
+796,5.6, Mystery
+797,6.6," Romance,  History,  Drama,  War,  Adventure, Action"
+798,6.9," Thriller,  Drama, Action"
+799,4.8,"Horror,  Sci-Fi,  Thriller"
+800,6.2," Fantasy, Drama,  Mystery"
+801,6.0," Mystery, Fantasy,  Horror,  Romance"
+802,4.9," Family,  Comedy,  Sci-Fi,  Romance"
+803,5.6," Horror, Drama"
+804,6.1, Drama
+805,6.1,"Adventure,  Family"
+806,4.8," Fantasy, Action"
+807,5.5, Mystery
+808,3.8,"Action,  Thriller,  Fantasy,  Adventure"
+809,6.5,"Adventure,  Romance"
+811,6.7," Drama,  War, Action"
+812,8.1, Romance
+814,7.3," War,  Drama"
+815,6.4,Adventure
+817,6.7,Comedy
+818,3.6,"Comedy,  Family"
+819,5.7," Adventure, Action,  War"
+820,6.0,"Comedy,  Romance"
+822,4.7," Romance, Comedy"
+823,6.3,Comedy
+824,5.9, Horror
+825,5.9," War,  History,  Adventure"
+827,7.5," Mystery,  Thriller, Drama"
+829,6.4," Adventure, Action,  Fantasy"
+830,6.3," Drama,  Comedy"
+831,4.3," Thriller,  Fantasy, Action"
+832,5.9, Romance
+834,5.5," Drama,  Family, Action"
+836,8.8, Drama
+837,5.2,"Animation,  Family,  Music"
+839,6.6," History,  Animation,  Family"
+840,7.3," Romance, Action,  Sci-Fi"
+841,5.6,"Comedy,  Romance"
+842,6.6,"Comedy,  Romance"
+843,5.4," Adventure,  Comedy,  Romance,  Family, Action"
+844,6.3,Comedy
+845,7.9," Thriller,  Drama"
+846,6.3,"Comedy,  Romance,  Thriller"
+847,6.0,"Comedy,  Family"
+848,7.2, Thriller
+849,5.1," Drama, Comedy,  Romance"
+850,7.3,"Action,  War"
+851,8.0,Biography
+852,6.2," Thriller, Drama"
+853,6.0, Thriller
+854,6.7," Romance, Drama,  Fantasy"
+855,8.1,Action
+858,8.0," Drama,  Thriller, Action"
+859,6.3, Comedy
+860,6.4," Fantasy, Comedy"
+861,6.6, Western
+862,6.4,"Action,  Thriller"
+864,6.6,Action
+865,5.9,"Adventure,  Comedy"
+866,6.4, Sci-Fi
+867,6.3,Biography
+868,7.3," Adventure, Action,  Crime,  Thriller"
+869,6.8," Drama, Adventure,  Horror"
+870,7.2," Comedy, Animation"
+871,5.7," Comedy,  Sci-Fi, Action"
+873,6.5, Thriller
+874,5.8,Comedy
+875,5.8," Sport, Comedy"
+876,6.7," Family, Adventure"
+877,7.8," Drama,  Thriller"
+878,5.6,"Action,  Thriller,  Drama"
+879,5.8,"Action,  Thriller"
+880,7.4,"Drama,  Thriller,  Musical,  Romance"
+881,6.9," History,  Drama,  War"
+883,6.3," War,  History"
+884,4.7, Thriller
+885,5.6,Comedy
+886,6.4,"Adventure,  Musical,  Family,  Comedy"
+887,4.2," Comedy, Action,  Sci-Fi"
+889,7.7,"Drama,  War"
+892,6.7," Horror,  Sci-Fi"
+893,7.7,Drama
+894,5.7,Action
+895,7.6,Crime
+896,6.4, Romance
+898,6.8," Sci-Fi,  Romance, Action"
+899,2.4,"Comedy,  Crime,  Romance"
+900,6.2, Thriller
+901,5.9," Crime,  Thriller"
+902,7.1," Drama,  Fantasy,  Mystery,  Animation,  Family"
+903,7.6," Romance,  Musical"
+904,5.5,"Crime,  Thriller,  Mystery"
+905,7.0," Crime,  Drama"
+906,7.1,"Drama,  War"
+907,7.4,"Crime,  Drama"
+908,7.6," Thriller, Action,  Horror"
+909,5.9,"Drama,  Horror"
+910,5.9," Sport,  Romance"
+911,8.0,"Biography,  Drama"
+912,7.4, Thriller
+913,5.8, Romance
+914,6.3, Romance
+915,5.7,Comedy
+916,5.1," Adventure, Action"
+917,7.6, War
+918,6.4, Fantasy
+919,7.4, Drama
+920,8.2," Drama,  Crime"
+921,6.5,Action
+922,5.5," Fantasy,  Comedy"
+923,6.5,Comedy
+924,5.6, Family
+926,4.6," Romance, Adventure,  Fantasy,  Drama"
+927,7.9," Fantasy,  Animation,  Comedy"
+928,7.1,"Romance,  Thriller"
+929,6.9," Romance,  Drama"
+930,7.3,Comedy
+932,7.7," Romance,  Drama, Comedy"
+933,6.7," Comedy,  Romance"
+935,5.8,"Comedy,  Romance"
+936,7.1, Thriller
+937,7.3,Biography
+938,6.4,Comedy
+939,7.1," Comedy,  Crime"
+940,7.6, Fantasy
+941,6.8," Romance, Comedy"
+942,6.6,Action
+943,6.7,Comedy
+944,6.1,"Comedy,  Family"
+945,6.0," Musical, Adventure,  Fantasy"
+946,7.6," Mystery,  Drama,  Thriller"
+947,7.1," Crime, Action,  Drama"
+948,5.0," Adventure,  Mystery,  Sci-Fi, Action"
+950,6.2, Thriller
+951,5.6,"Comedy,  Romance"
+953,7.4," Drama, Comedy,  Romance"
+954,5.0,"Animation,  Comedy"
+955,5.2,Comedy
+956,7.6,"Biography,  Drama"
+957,6.6, Thriller
+958,7.0, Thriller
+959,5.7," Thriller,  Fantasy,  Adventure"
+960,8.2," Thriller,  Drama"
+961,6.2,Action
+963,6.6, Animation
+964,4.7," Romance,  Family,  Fantasy"
+965,6.3,"Crime,  Drama"
+966,6.1,Action
+967,6.7,"Drama,  Thriller"
+968,6.1," Adventure,  Sci-Fi,  Thriller, Action"
+969,7.0, Thriller
+970,7.4,"Action,  War,  Thriller"
+971,7.3,"Adventure,  Romance,  Animation"
+973,6.7," Drama, Action"
+974,5.8, War
+975,7.8," Thriller,  Mystery, Drama"
+976,6.6," Mystery,  Horror, Adventure"
+977,6.5,"Comedy,  Sport"
+978,6.7,Comedy
+979,7.3," Thriller,  Crime,  Mystery,  Drama"
+980,5.8, Thriller
+981,5.5," Crime, Action,  Comedy"
+982,6.3,"Comedy,  Horror"
+983,7.4," Drama, Crime"
+984,5.9,Action
+985,6.2," Thriller, Action,  Horror,  Sci-Fi"
+986,5.9, Drama
+987,6.5,"Crime,  Romance"
+988,4.4," Thriller,  Adventure"
+990,6.6, Drama
+991,6.0,"Comedy,  Romance,  Drama"
+992,6.4,Action
+993,6.5,"Drama,  Sport"
+995,4.3,"Comedy,  Drama"
+996,4.2,Comedy
+997,6.5,"Drama,  Fantasy"
+998,6.1," Thriller,  Mystery"
+999,6.3," Thriller, Action,  Crime"
+1000,6.2," Drama, Crime,  Thriller"
+1001,5.9,"Comedy,  Drama"
+1002,5.9," Adventure,  Sci-Fi, Action"
+1003,6.5,"Action,  Drama,  Mystery,  Thriller"
+1004,6.4, Mystery
+1005,6.5," Thriller,  Mystery,  Drama"
+1006,5.7, Thriller
+1008,8.0," Comedy,  Drama,  Sci-Fi,  Family,  Animation, Action"
+1009,7.3,Adventure
+1010,6.7,"Action,  War"
+1011,7.5," Drama,  Thriller"
+1013,6.6," Crime, Action,  Thriller,  Drama"
+1014,7.7," Mystery,  Thriller"
+1015,5.8," Adventure, Action"
+1016,6.4," Biography, Adventure,  Drama"
+1017,5.6," Comedy,  Fantasy"
+1018,6.0, Thriller
+1019,6.2," Drama,  Thriller"
+1020,5.9," Crime,  Drama,  Comedy, Adventure,  Family"
+1021,5.1, Romance
+1022,6.8, Thriller
+1024,6.0," Crime, Action,  Biography"
+1025,5.1," Drama,  Thriller"
+1026,5.8, Thriller
+1027,6.2," Romance,  Fantasy"
+1028,6.4," Thriller, Comedy,  Drama,  Crime"
+1030,4.9,Comedy
+1031,5.6," Sci-Fi, Comedy"
+1032,5.5," Fantasy,  Thriller"
+1033,3.7, Mystery
+1034,5.9, Thriller
+1036,6.3," Music, Action,  Crime,  Mystery,  Adventure"
+1038,7.6,"Crime,  Thriller"
+1039,8.3, Adventure
+1041,6.9," Sci-Fi,  Drama,  Thriller, Action"
+1042,6.7," Mystery, Crime,  Thriller"
+1043,6.8,Crime
+1045,7.1," War, Action,  Comedy"
+1046,6.4, Thriller
+1047,6.4," Comedy, Adventure"
+1049,6.4," Romance, Comedy"
+1050,6.0,"Comedy,  Fantasy,  Romance"
+1051,6.5, Drama
+1052,7.8," Western, Adventure,  Drama"
+1053,6.0,Action
+1054,7.0,"Crime,  Romance,  Drama,  Thriller"
+1057,6.1," Thriller,  Music,  Romance,  Crime"
+1058,6.8," Romance, Crime,  Thriller"
+1059,6.4," Comedy, Biography,  Drama"
+1062,4.5," Comedy,  Animation, Adventure"
+1063,5.8, Horror
+1064,6.3,Comedy
+1065,5.7, Romance
+1066,7.2," Mystery,  Thriller"
+1067,7.6," Thriller, Action,  Sci-Fi,  Drama"
+1068,4.7,"Action,  Thriller,  Fantasy"
+1069,6.6," War,  Thriller"
+1070,6.8,Comedy
+1073,4.8," Fantasy, Comedy,  Family"
+1074,6.3," Crime,  Thriller"
+1077,5.8,"Action,  Fantasy"
+1078,5.7," Romance, Comedy,  Family"
+1079,6.5," Mystery,  Drama"
+1080,6.7," Drama,  Mystery"
+1081,7.4, Comedy
+1083,5.5," Romance, Comedy"
+1085,7.7," Drama,  Thriller"
+1086,7.3, Sci-Fi
+1088,7.1,Adventure
+1089,7.1, Horror
+1090,7.2,Drama
+1091,6.5,Drama
+1092,4.6,"Action,  Thriller"
+1093,5.6, Romance
+1094,7.7," Drama,  Romance"
+1095,7.2," Family, Adventure,  Fantasy,  Animation"
+1096,6.8," Thriller, Horror,  Mystery"
+1097,5.4," Romance,  Thriller, Action,  Drama"
+1098,6.3," Romance,  Sport"
+1100,5.6," Romance,  Sport,  Family, Comedy"
+1101,6.8, Sci-Fi
+1102,4.3," Romance,  Family"
+1103,6.3," Horror,  Thriller,  Sci-Fi"
+1105,6.4,Adventure
+1106,6.3," Adventure,  Crime"
+1107,5.9," Fantasy, Drama"
+1108,6.5,"Crime,  Thriller,  Drama"
+1109,6.5, Thriller
+1110,6.1,"Action,  Comedy,  Adventure"
+1111,5.9," Animation, Adventure,  Fantasy"
+1112,6.6,Action
+1113,7.4,"Drama,  Musical"
+1114,7.3, Romance
+1115,6.6," Crime, Action"
+1116,5.6,"Action,  Thriller"
+1117,5.3," Drama, Action,  Thriller,  Comedy,  Crime"
+1118,6.0," Romance,  Sci-Fi"
+1119,5.4," Comedy,  Sci-Fi,  Family, Adventure,  Fantasy"
+1120,6.8," Thriller, Crime"
+1122,7.1, Sci-Fi
+1123,4.9," Comedy,  Adventure,  Fantasy"
+1124,5.8," Romance,  Western"
+1125,7.1,Biography
+1126,7.2,"Mystery,  Thriller"
+1127,6.0," Horror,  Sci-Fi, Action"
+1128,6.0,"Action,  Drama,  Thriller"
+1129,7.0," Romance, Drama"
+1130,5.4," Thriller,  Crime"
+1131,6.5,"Comedy,  Crime,  Thriller"
+1132,6.4,"Drama,  Romance"
+1135,6.3," Crime, Action"
+1137,7.7," History,  Drama, Biography,  Thriller"
+1138,7.8," Crime, Action"
+1139,5.5," Comedy,  Romance"
+1140,7.5," Thriller, Crime"
+1141,6.4," Thriller,  War"
+1142,5.6,Drama
+1143,7.5,"Animation,  Musical"
+1144,6.8,"Adventure,  Western"
+1145,6.8," Adventure,  Thriller"
+1146,6.0," Thriller,  Sci-Fi"
+1147,7.3,Drama
+1148,6.0, Drama
+1149,7.0, Crime
+1150,5.1,Comedy
+1151,6.8," Thriller,  Mystery, Drama"
+1152,6.5,"Drama,  Romance"
+1153,6.6," Thriller, Action,  Crime"
+1154,7.2, Comedy
+1155,7.0,"Comedy,  Drama"
+1156,7.0," Animation,  Family,  Drama, Adventure"
+1158,5.4, Romance
+1159,6.6,"Action,  Comedy"
+1160,7.0, Drama
+1161,6.5, Sport
+1162,6.3," Drama,  Thriller,  Mystery"
+1163,6.5," Drama, Comedy,  Romance"
+1164,6.5,"Drama,  Thriller,  Horror,  Mystery"
+1165,5.8,Comedy
+1166,6.6," Adventure,  Thriller"
+1168,6.1,"Action,  Drama,  Thriller"
+1169,4.0, Comedy
+1170,7.6," Thriller, Crime,  Drama"
+1172,5.3," Thriller,  Crime, Action"
+1173,6.6,Comedy
+1174,6.3," Western,  Fantasy"
+1176,7.2,"Action,  Crime"
+1177,7.0, Music
+1179,6.9," Romance, Action"
+1180,5.2, Fantasy
+1181,8.1, Thriller
+1182,6.6," Crime, Action"
+1184,7.2," Sport,  Family"
+1185,7.3," Drama, Crime"
+1186,6.7," Romance, Comedy"
+1187,6.4,"Crime,  Thriller"
+1188,7.8,"Adventure,  Sci-Fi"
+1189,6.4," Sci-Fi, Action"
+1190,4.1, Romance
+1191,4.1," Sci-Fi,  Comedy, Action,  Adventure"
+1192,7.4, Thriller
+1193,5.8, Family
+1194,7.6," Thriller,  Biography,  Drama, Action"
+1195,7.2," Sport, Comedy"
+1196,7.8," Mystery, Horror"
+1197,7.7,"Biography,  Drama"
+1198,6.4,Comedy
+1200,5.5, Mystery
+1201,7.4,"Adventure,  Comedy,  Western"
+1203,7.5,"Fantasy,  Romance"
+1204,7.0," Drama, Biography,  Romance"
+1205,7.5,"Biography,  Drama"
+1206,7.3,"Crime,  Thriller"
+1207,5.7,Comedy
+1208,7.3,"Adventure,  Drama,  Family"
+1209,7.2,"Comedy,  Drama"
+1210,5.9,Action
+1211,7.8," Drama,  Romance, Action,  War,  Adventure"
+1212,7.7," Drama, Biography,  Music"
+1213,8.1, Thriller
+1214,6.6, Thriller
+1216,5.9," Fantasy, Comedy,  Romance"
+1217,8.0," Thriller, Drama"
+1218,4.6,"Comedy,  Crime"
+1219,6.1," Comedy,  Crime"
+1220,7.2," Drama, Biography,  War"
+1221,6.4," Drama,  Fantasy,  Family,  Romance, Comedy"
+1222,6.0, Romance
+1224,7.6," History,  Thriller"
+1225,6.4,"Action,  Drama"
+1227,6.1,"Comedy,  Romance"
+1228,6.1," Family,  Adventure,  Comedy"
+1229,5.2,Action
+1230,7.7,"Action,  Drama,  Romance,  Thriller"
+1231,7.3, Thriller
+1232,6.9," Mystery, Action"
+1233,8.5," Sci-Fi, Drama,  Mystery,  Thriller"
+1234,6.3,"Comedy,  Crime"
+1235,5.9," Animation,  Comedy,  Sci-Fi,  Family"
+1236,7.8," Thriller,  Adventure, Action,  Drama"
+1237,6.7," Thriller,  Adventure"
+1238,6.4," Adventure,  Thriller"
+1239,5.9,"Comedy,  Romance,  Crime"
+1240,6.6, Thriller
+1241,6.8," Fantasy,  Romance, Drama"
+1242,6.5," Thriller, Horror,  Mystery"
+1243,6.6," Family,  Drama,  Fantasy, Comedy"
+1244,5.8, Romance
+1245,6.9,Biography
+1246,7.1,"Crime,  Thriller,  Drama"
+1247,5.8,Horror
+1249,6.0, Romance
+1250,4.7, Horror
+1252,5.5, Romance
+1255,5.8," Drama, Comedy"
+1256,6.2,"Horror,  Mystery"
+1257,6.5,"Mystery,  Thriller"
+1258,7.2," Drama,  Music, Biography,  Musical"
+1259,5.1,Comedy
+1260,4.7, Drama
+1261,5.9,Horror
+1262,5.8," Romance, Comedy"
+1264,6.2," Sport,  Romance, Comedy"
+1266,5.7, Drama
+1267,6.1, Western
+1268,6.0," Fantasy,  Thriller"
+1269,6.9, Mystery
+1270,6.5," Romance, Comedy"
+1271,5.0, Music
+1272,5.7,"Action,  Adventure"
+1274,5.1, Horror
+1276,4.4," Thriller,  Sci-Fi, Horror"
+1277,4.7, Adventure
+1278,6.7," History,  Drama"
+1279,6.7,Drama
+1280,5.7,Horror
+1281,7.4,"Crime,  Drama,  Thriller"
+1282,6.1,Comedy
+1283,6.4," Crime, Action,  Thriller"
+1284,6.2," Animation,  Comedy"
+1285,6.2, Drama
+1286,5.9," Romance, Drama"
+1287,4.0,Action
+1288,6.2, Thriller
+1289,4.6,Drama
+1290,6.4, Drama
+1291,5.9,"Action,  Thriller"
+1292,5.1,"Action,  Thriller"
+1293,7.6,"Drama,  Thriller"
+1294,4.2," Comedy,  Music, Action,  Adventure"
+1295,7.8," Crime,  Animation,  Family"
+1296,5.8, Romance
+1297,5.9," Thriller,  Sci-Fi,  Romance"
+1298,8.4,Comedy
+1299,4.8," Romance, Comedy"
+1301,6.5,"Biography,  Romance"
+1303,3.3, Horror
+1304,5.9,"Action,  Fantasy,  Adventure"
+1305,6.0," Sci-Fi, Drama"
+1306,5.8,Comedy
+1308,4.7,Action
+1309,4.1, Sci-Fi
+1310,6.8, Sci-Fi
+1311,6.2," Sci-Fi,  Thriller"
+1312,4.5,"Action,  Thriller"
+1313,5.8," Fantasy,  Sci-Fi"
+1314,7.3," Thriller,  Sci-Fi"
+1315,5.9,Comedy
+1316,4.4," Animation,  Romance, Adventure,  Fantasy"
+1317,5.8,"Action,  Thriller,  Crime,  Mystery"
+1318,5.1,"Action,  Adventure"
+1319,6.9,Drama
+1320,6.2," Drama,  Crime"
+1321,6.9," Drama,  Romance,  Comedy,  Thriller"
+1322,7.3, Fantasy
+1323,7.1," War, Action,  Drama,  History"
+1324,6.0, War
+1325,7.0," Thriller, Action"
+1328,7.6," Fantasy, Action"
+1330,7.1," Romance,  Sci-Fi, Drama"
+1332,6.7,"Action,  Crime"
+1333,7.0," Family,  Horror, Animation"
+1334,8.0,"Action,  Adventure,  Thriller"
+1335,5.3,"Biography,  Romance,  Sport,  Drama"
+1336,4.9," Comedy, Action"
+1337,6.4," Sport, Comedy"
+1338,7.4,"Action,  Drama,  Adventure,  War,  History"
+1339,6.1,Comedy
+1340,6.5," Romance, Comedy"
+1342,5.1," Family, Action"
+1343,6.6,"Action,  Sci-Fi,  Thriller,  Adventure"
+1344,6.5,Action
+1345,6.9," Romance, Drama"
+1348,7.6," Sport,  Drama"
+1349,5.6, Drama
+1350,6.2,Comedy
+1351,4.4, Crime
+1352,5.6," Romance, Drama"
+1354,6.7, Thriller
+1355,6.1,"Crime,  Drama"
+1356,6.2,Drama
+1357,7.3,Drama
+1358,6.6,Adventure
+1359,8.2,"Horror,  Mystery,  Sci-Fi"
+1360,6.4," Sci-Fi, Action"
+1361,6.4," Mystery, Crime"
+1362,5.2," Drama,  Western,  Adventure, Action"
+1363,6.5," Sci-Fi,  Family, Adventure"
+1366,7.3," Drama,  Sport"
+1367,5.2," Sci-Fi, Action"
+1368,7.7," Sport, Drama"
+1369,7.6," Drama,  Thriller"
+1370,5.7," Drama,  Romance"
+1371,7.0," Drama, Comedy"
+1372,6.0," Fantasy, Adventure"
+1373,8.1," Drama, Action"
+1374,8.0,Drama
+1375,5.6,"Action,  Crime,  Comedy"
+1376,6.1," Romance, Comedy"
+1377,6.9, Family
+1378,5.2, Fantasy
+1379,7.0," Drama,  Thriller"
+1380,6.3,"Action,  Comedy,  Thriller,  Crime"
+1381,7.0, Crime
+1383,6.9," Drama, Action,  Mystery,  Thriller,  Crime"
+1384,6.2," Thriller, Action"
+1385,6.4,"Comedy,  Sci-Fi"
+1386,6.4,"Drama,  Family"
+1387,5.7," Romance,  Crime,  Adventure,  Fantasy"
+1388,6.1," Drama,  Crime,  Thriller"
+1389,5.4,Comedy
+1391,6.8," Mystery,  Romance,  Thriller"
+1392,6.0,"Drama,  Thriller"
+1393,7.8, Sci-Fi
+1394,5.3,"Biography,  Romance"
+1395,4.5," Sci-Fi,  Comedy"
+1396,5.4,Comedy
+1397,7.8,Comedy
+1399,6.6, Comedy
+1401,5.9, Drama
+1402,6.7," Crime, Action"
+1403,7.7," Sport, Biography"
+1405,5.4, Adventure
+1406,6.9," Crime, Comedy"
+1407,7.7," Western,  Drama"
+1408,6.8,"Comedy,  Romance,  Drama"
+1409,6.4," Sci-Fi,  Mystery"
+1410,5.7,Comedy
+1411,7.3," Thriller, Crime"
+1412,6.8,"Crime,  Drama"
+1413,6.3," Romance, Comedy"
+1414,5.9," Romance, Comedy"
+1416,8.3," Mystery,  Thriller, Crime"
+1417,6.2," Family, Adventure,  Comedy"
+1418,6.3,Comedy
+1419,5.8,"Action,  Thriller"
+1420,7.5,Horror
+1421,6.3," Thriller, Horror"
+1422,6.4,"Action,  Adventure"
+1423,7.2," History,  Sport, Biography,  Drama"
+1424,6.3," Comedy,  Sci-Fi,  Family"
+1425,6.9,"Biography,  Drama"
+1426,6.6,Comedy
+1428,7.5," Comedy,  Music,  History"
+1429,7.7," Drama, Biography,  Romance"
+1430,6.2,Comedy
+1431,5.4, Family
+1432,6.6," Thriller,  Sci-Fi, Action"
+1433,5.3,Comedy
+1434,5.6,"Comedy,  Sport,  Romance"
+1435,5.9, Romance
+1436,7.8,"Biography,  Drama"
+1437,6.7," Horror, Action"
+1439,6.2,"Comedy,  Thriller"
+1440,5.4," Thriller,  Drama, Action"
+1441,6.7, Thriller
+1442,5.3, Romance
+1443,5.9,"Comedy,  Romance"
+1445,4.8,"Adventure,  Fantasy"
+1447,3.8," Comedy,  Thriller,  Adventure"
+1448,8.5," War, Biography,  Drama"
+1449,6.8,Horror
+1450,6.8," Family, Drama"
+1451,5.3,Horror
+1452,7.3," Romance, Drama"
+1453,6.6, Drama
+1454,6.2,"Horror,  Mystery"
+1455,5.2,"Drama,  Horror"
+1456,6.2,Action
+1458,6.6," Drama, Comedy"
+1460,6.2," Romance, Comedy"
+1461,5.1," Mystery,  Crime,  Thriller, Action"
+1462,6.6," Thriller,  Mystery,  Drama"
+1464,6.1,Comedy
+1465,6.6, Crime
+1466,5.9,"Drama,  Mystery,  Thriller,  Sci-Fi"
+1467,6.3," Fantasy,  Family,  Romance"
+1468,7.1," Sport,  Drama"
+1469,5.0,"Action,  Thriller"
+1470,5.6," Family,  War,  Comedy, Adventure,  Animation"
+1471,7.4," Drama, Comedy"
+1472,4.5, Thriller
+1473,6.2,"Crime,  Thriller"
+1474,5.0," Horror, Comedy"
+1475,6.5," Thriller,  Crime, Action"
+1476,5.1,"Action,  Comedy,  Crime"
+1477,6.5,"Adventure,  Drama,  War"
+1478,6.2,"Action,  Thriller,  Romance"
+1479,6.3," Sport, Comedy"
+1483,6.2,"Drama,  Thriller,  War"
+1484,5.7," War, Action,  Thriller"
+1485,6.7," Music, Comedy"
+1486,6.8,Drama
+1487,6.0,"Action,  Western"
+1488,7.3," Drama, Biography"
+1489,5.5," Thriller, Action"
+1491,4.8,Action
+1492,5.7," Thriller,  Drama, Action"
+1493,5.1," Thriller, Action"
+1494,6.0," Drama,  Crime,  Thriller"
+1495,4.2," Sci-Fi, Action"
+1496,7.4," Drama, Adventure"
+1497,4.6," Fantasy, Action"
+1498,6.9,"Comedy,  Drama"
+1500,6.9,Drama
+1502,6.4," Drama,  Sci-Fi, Action"
+1503,6.3," Thriller,  Drama"
+1506,6.8," Western, Drama"
+1511,6.8," Mystery, Action,  Sci-Fi"
+1515,5.2,"Action,  Adventure,  Thriller,  Drama"
+1516,5.5, Thriller
+1517,7.7,Adventure
+1518,7.1," Romance, Drama"
+1519,5.3,Drama
+1520,5.6," Romance,  Drama"
+1521,5.7, Romance
+1522,7.1," History, Biography,  Drama"
+1524,7.6,Drama
+1525,5.5," Comedy,  Thriller"
+1526,5.1," Comedy, Action"
+1528,4.9," Thriller,  Adventure,  Sci-Fi,  Horror"
+1529,6.5,Drama
+1530,5.6,"Action,  Thriller"
+1531,5.3,"Crime,  Thriller,  Mystery,  Horror"
+1532,6.5,"Action,  Crime,  Drama"
+1533,6.8,"Drama,  Romance"
+1534,6.5," Thriller, Action,  Crime"
+1535,6.0,"Comedy,  Romance,  Drama"
+1536,8.4," Sci-Fi,  Fantasy,  Adventure"
+1537,6.0,"Action,  Thriller,  Sci-Fi"
+1538,7.6,"Drama,  Romance"
+1540,6.9," Fantasy,  Family, Comedy"
+1541,6.4," Romance, Drama,  Sci-Fi"
+1542,5.1," Comedy, Adventure,  Sport"
+1543,7.0,"Comedy,  Drama"
+1544,5.7,"Comedy,  Sport"
+1546,6.7," Fantasy, Comedy"
+1547,6.2,Horror
+1548,7.2,"Biography,  Drama"
+1549,6.2," Thriller,  Crime"
+1550,5.6,Comedy
+1551,4.4," Comedy,  Crime"
+1552,7.5, Sci-Fi
+1553,7.1,"Adventure,  Biography,  Drama"
+1555,7.1," Family,  Drama"
+1557,6.9," Family,  Sport, Drama"
+1558,7.5, Thriller
+1559,6.3,Action
+1560,6.4, Thriller
+1561,5.9,Comedy
+1562,6.8,Drama
+1563,6.3, Crime
+1564,3.6," Drama, Action,  Horror,  Fantasy"
+1565,5.3,"Comedy,  Family"
+1566,5.9,Comedy
+1567,6.9," Musical,  Comedy, Animation"
+1568,6.9,Drama
+1569,6.1,Drama
+1571,8.5, War
+1572,6.3," Romance, Comedy"
+1573,7.3, Music
+1574,6.3," Sci-Fi,  Crime,  Mystery"
+1575,7.2," Drama, Biography,  Romance"
+1576,7.3, Thriller
+1577,6.3, Sci-Fi
+1578,8.1,"Adventure,  Crime,  Comedy,  Drama"
+1579,6.9, Mystery
+1580,6.3, Fantasy
+1581,7.3,"Crime,  Drama,  Sci-Fi"
+1582,5.5," Comedy,  Fantasy"
+1584,6.9," Crime, Comedy"
+1585,7.2," Musical, Comedy"
+1586,6.4," Drama, Comedy"
+1587,6.4,Comedy
+1588,8.3," Animation,  Family"
+1590,6.8,Drama
+1592,7.8," Drama,  Sport"
+1593,7.6," Thriller, Action"
+1594,7.2," Drama, Biography"
+1595,6.7, Sport
+1596,6.8, Fantasy
+1597,6.3,"Adventure,  Comedy"
+1598,6.2,"Comedy,  Romance,  Family"
+1600,8.6,"Crime,  Thriller,  Drama"
+1601,8.0, Sci-Fi
+1602,7.0," Fantasy, Adventure,  Family,  Animation"
+1603,8.0," Drama,  Thriller, Crime,  Mystery"
+1604,8.1,Drama
+1605,6.7," Crime, Comedy"
+1606,7.9,Drama
+1607,6.1,Comedy
+1608,4.2, Drama
+1609,6.1,"Adventure,  Animation,  Family,  Comedy,  Romance"
+1611,7.5," Western,  Romance"
+1612,7.4,Drama
+1613,7.2, Drama
+1614,6.9," Horror, Comedy"
+1615,7.4," Thriller,  Drama,  Sci-Fi, Action"
+1616,5.4,"Comedy,  Fantasy"
+1617,6.8, Family
+1618,6.3," Drama,  Romance, Comedy"
+1621,6.9," Mystery,  Thriller,  Drama"
+1623,5.9, Romance
+1624,5.4, Romance
+1625,5.9, Mystery
+1626,6.1, Romance
+1627,7.7,Comedy
+1628,5.8," Comedy, Adventure"
+1629,7.6,"Biography,  Crime,  Drama"
+1630,6.1,Drama
+1631,5.4," Thriller, Action"
+1632,5.1," Sport,  Family,  Fantasy"
+1633,6.4,"Comedy,  Crime"
+1634,6.3, Thriller
+1635,7.5," Family,  Sci-Fi,  Mystery"
+1636,7.1, Romance
+1638,7.8,"Drama,  Romance,  Mystery"
+1639,6.5," Drama, Comedy"
+1640,6.6,"Action,  Thriller"
+1642,7.4," Musical, Animation,  Family,  Fantasy,  Romance"
+1644,7.6,"Action,  Thriller,  Mystery,  Drama"
+1646,6.6," Thriller, Horror"
+1647,7.2,"Drama,  Fantasy"
+1648,7.6," Drama, Comedy,  Family"
+1649,6.2," Music,  Romance"
+1650,5.6, Sport
+1651,7.6," Drama,  Fantasy,  Romance, Comedy"
+1653,7.0, Thriller
+1654,2.7,Comedy
+1655,7.6," Comedy,  Thriller,  Crime"
+1657,6.9," Sci-Fi, Comedy"
+1658,6.8," Thriller, Action,  Drama"
+1660,3.7," Thriller,  Fantasy,  Adventure"
+1661,6.1,Comedy
+1662,5.9, Fantasy
+1663,6.7, Music
+1665,6.9," Drama,  Sport"
+1666,5.5, Crime
+1667,7.1," Sci-Fi,  Drama,  Thriller,  Adventure,  Animation"
+1668,7.1," Thriller, Crime,  Drama"
+1670,7.3," Musical,  Comedy, Adventure"
+1671,3.4,Comedy
+1672,6.8,Comedy
+1673,6.9," Drama,  Music, Biography"
+1674,7.0,Drama
+1675,5.5, Sci-Fi
+1676,5.1,"Comedy,  Romance"
+1677,6.2, Mystery
+1678,5.9,Adventure
+1679,5.2," Romance,  Drama"
+1681,5.5," Romance,  Sport, Comedy"
+1682,7.4," Thriller,  Romance, Crime"
+1683,4.4,"Action,  Sci-Fi,  Thriller"
+1684,6.3," Thriller,  Drama"
+1685,6.1, Thriller
+1686,5.3," Adventure, Action"
+1687,5.4," Horror,  Comedy"
+1688,6.7,Comedy
+1689,5.9," Thriller, Crime,  Drama,  Mystery"
+1691,5.5,"Comedy,  Crime,  Thriller"
+1692,5.8,"Drama,  Sci-Fi,  Horror"
+1693,4.6," Adventure, Action,  Romance"
+1694,6.7," Thriller, Crime,  Drama"
+1695,5.1," Horror, Adventure"
+1696,5.6,"Comedy,  Romance"
+1697,7.0," Romance, Drama"
+1698,6.4, Horror
+1699,6.7," Drama,  Romance"
+1700,4.1,"Action,  Sci-Fi"
+1701,5.5," Fantasy, Drama,  Thriller"
+1702,2.7," Adventure, Action,  Sci-Fi"
+1703,6.4," Crime,  Thriller"
+1704,4.8," Sci-Fi,  Thriller,  Horror, Drama"
+1705,6.1," Romance, Comedy"
+1706,4.8,Animation
+1708,6.8," Mystery, Adventure"
+1711,5.6," Thriller, Crime"
+1712,6.1, Thriller
+1713,7.9," War,  History"
+1714,8.4,Crime
+1715,6.5," Crime, Action,  Thriller"
+1716,7.1,"Drama,  Romance"
+1717,6.6," Romance,  Drama,  Crime,  Thriller, Action"
+1719,7.0,"Biography,  Drama,  Romance"
+1720,5.6," Drama,  Fantasy"
+1721,4.8, Adventure
+1722,7.5,"Biography,  Western"
+1723,6.0," Drama,  War,  Adventure"
+1726,6.8," Crime,  Biography"
+1734,6.5," Music, Comedy"
+1735,7.9," Music, Biography,  Drama,  Romance"
+1737,6.4, Drama
+1738,5.8," Comedy,  Family,  Fantasy"
+1741,5.3, Romance
+1742,5.3,Comedy
+1743,7.5,"Biography,  Drama"
+1744,6.9, Drama
+1745,4.9," Horror, Comedy"
+1746,7.1," Sci-Fi, Drama,  Thriller"
+1747,8.0,"Adventure,  Comedy"
+1748,7.9," Crime,  Music, Biography"
+1749,7.6," Adventure, Action"
+1750,5.9," Comedy, Adventure,  Musical,  Drama"
+1751,6.3," Drama, Crime,  Thriller"
+1753,6.4," Crime, Action"
+1754,8.2,Action
+1755,6.9,Comedy
+1756,7.8, History
+1757,6.7," Music, Comedy,  Drama"
+1758,7.5," Sport, Biography,  Drama,  History"
+1759,7.4," Thriller, Action"
+1760,5.2," Romance, Comedy"
+1762,7.6,Comedy
+1763,7.3, Thriller
+1764,6.6,"Comedy,  Romance"
+1765,6.8, Adventure
+1766,6.9,"Comedy,  Romance"
+1767,5.8,"Action,  Thriller,  Crime"
+1768,6.6,Comedy
+1769,6.7,"Drama,  Romance"
+1770,6.7, Fantasy
+1771,6.3,"Comedy,  Drama"
+1773,6.1, Crime
+1774,4.9," Thriller, Action,  Fantasy"
+1776,7.8, Romance
+1777,8.2,Sci-Fi
+1778,6.9,Adventure
+1779,6.2,"Action,  Thriller"
+1781,4.8," Horror,  Thriller"
+1783,5.3," Romance,  Fantasy, Comedy"
+1784,6.7,Comedy
+1785,5.4,Action
+1786,5.4," Fantasy, Comedy"
+1787,4.9,Action
+1788,6.1," Drama, Comedy"
+1789,5.8," Horror,  Romance"
+1790,7.0," Drama, Biography,  War,  History"
+1791,6.5," Romance,  Drama, Comedy"
+1792,6.6,"Action,  Comedy"
+1794,5.7, Drama
+1795,6.6,"Action,  Adventure"
+1796,7.0,"Comedy,  Romance"
+1797,7.4,Drama
+1798,5.3,Comedy
+1799,7.4," Drama, Adventure,  History"
+1800,7.4," Romance,  Drama, Crime,  Thriller"
+1801,6.8,Drama
+1803,7.2,"Action,  Thriller,  Sci-Fi"
+1805,7.8," Drama,  Fantasy"
+1806,6.6," Thriller,  Mystery"
+1807,7.9,"Action,  Music"
+1809,5.7,Comedy
+1810,7.1," Romance, Comedy"
+1811,5.6," Comedy,  Horror, Action"
+1812,7.8," Drama, Crime,  Thriller"
+1813,7.9,"Adventure,  Drama,  History"
+1816,7.7," Fantasy,  Thriller, Action,  Drama,  Sci-Fi"
+1817,6.9," History,  Romance,  Drama"
+1820,6.0,"Action,  Crime"
+1821,6.2, Thriller
+1822,5.9," Mystery,  Thriller, Crime,  Drama"
+1823,6.8," Family, Comedy"
+1824,3.6," Sci-Fi,  Comedy, Action"
+1825,6.7," Drama, Crime"
+1826,6.3," Thriller,  Crime"
+1827,6.4,"Comedy,  Drama"
+1828,6.4," Mystery,  Thriller"
+1829,5.7, Drama
+1830,6.2,Drama
+1832,5.2, Comedy
+1833,6.1," Family,  Music, Comedy"
+1834,7.1," Romance, Comedy"
+1835,7.2," Romance, Comedy"
+1836,6.5," Thriller,  Drama"
+1837,6.0," Crime, Action"
+1838,7.0," Comedy, Action,  Crime"
+1839,7.0," Romance,  Drama"
+1840,7.5,Drama
+1841,6.6," Horror,  Thriller, Drama"
+1843,7.4," History, Drama"
+1844,6.5," Thriller, Mystery"
+1845,6.2," Thriller, Horror"
+1846,7.8, Music
+1847,5.2," Horror, Action,  Fantasy"
+1848,6.5," Crime,  Drama"
+1849,6.5," Romance,  Drama"
+1850,5.2," Sci-Fi,  Comedy, Action"
+1851,7.2, Drama
+1852,7.1,"Drama,  Thriller"
+1853,4.5," Adventure,  Sci-Fi, Action"
+1854,5.7,Comedy
+1855,6.0," Mystery,  Romance, Drama,  Thriller"
+1856,6.4, Thriller
+1858,4.3,"Action,  Romance,  Sci-Fi"
+1859,6.1," Drama, Crime"
+1861,6.8,"Comedy,  Mystery"
+1863,5.2," Family, Adventure"
+1864,6.5," Thriller, Action,  Mystery"
+1865,7.5," Mystery, Drama"
+1866,7.1,Drama
+1867,6.9," Drama, Comedy,  Family,  Romance"
+1868,8.0,Drama
+1869,8.2,Drama
+1870,6.4,"Biography,  Drama,  History"
+1871,7.9," Thriller, Action"
+1872,6.7,"Drama,  Romance"
+1873,6.1,"Action,  Drama,  Romance"
+1874,8.9,"Biography,  Drama,  History"
+1876,6.2,Biography
+1877,4.9,"Adventure,  Horror,  Mystery,  Comedy,  Fantasy"
+1879,5.8,"Action,  Horror"
+1881,6.0," Adventure,  Family,  Comedy,  Animation"
+1882,7.0," Sci-Fi, Action"
+1883,6.0," Comedy,  Adventure,  Sci-Fi"
+1884,7.9,"Crime,  Thriller"
+1885,8.1,"Crime,  Drama"
+1886,6.2,"Action,  Crime"
+1887,6.7," Drama, Comedy"
+1888,7.3," Romance, Drama"
+1889,4.6,Comedy
+1890,6.1,Comedy
+1892,7.8," Romance, Action,  History,  Western,  Drama"
+1893,6.1,"Action,  Crime"
+1895,5.8,Horror
+1896,6.5,Drama
+1897,7.2,"Adventure,  Fantasy"
+1898,7.8,"Biography,  Drama"
+1899,4.7," Drama, Comedy"
+1900,6.8," Thriller,  Drama, Action"
+1901,5.9," Thriller,  Horror"
+1902,7.2,Comedy
+1903,8.7,"Biography,  Drama"
+1904,5.0," Romance,  Adventure,  Comedy,  Thriller,  Family,  Crime"
+1905,6.6," Family, Comedy"
+1906,8.3,Crime
+1907,6.7,Action
+1908,7.8,"Biography,  Drama,  History"
+1909,6.5," Crime,  Thriller"
+1910,6.1," Thriller,  Crime,  Comedy"
+1911,8.1,Drama
+1912,5.2, Animation
+1913,5.6," Musical,  Fantasy,  Comedy,  Family, Adventure,  Animation"
+1914,5.8,Action
+1915,6.6," Drama,  Romance,  Family"
+1916,6.6, Drama
+1917,5.5,Comedy
+1919,7.0,Biography
+1920,6.5," Sci-Fi,  Romance"
+1921,5.8," Family, Comedy"
+1922,5.6,Horror
+1924,5.8," Drama,  Crime, Action"
+1925,7.6,Drama
+1926,6.4," Romance, Comedy"
+1927,6.3," Family, Comedy"
+1928,4.6,Action
+1929,6.5,Crime
+1930,7.5,Drama
+1931,7.5, History
+1932,5.3," Fantasy,  Horror,  Romance"
+1933,7.5," War,  History"
+1934,3.3,"Comedy,  Music,  Family"
+1936,3.5,Action
+1937,9.3, Drama
+1938,4.8,"Adventure,  Comedy,  Crime"
+1939,6.9, Sport
+1940,6.0," Drama,  Thriller, Crime"
+1943,6.6, Romance
+1944,7.5, Drama
+1946,6.8,"Comedy,  Romance"
+1949,6.4," Mystery,  Drama,  Thriller,  Crime, Action"
+1950,5.6,"Fantasy,  Horror"
+1951,6.3,"Action,  Thriller"
+1952,7.3," Drama,  Romance,  Thriller, Comedy"
+1954,4.6," Crime,  Thriller, Action"
+1955,5.1," Comedy, Adventure,  Romance,  Family"
+1957,5.3," Musical,  Family"
+1959,5.6,"Drama,  Thriller,  Mystery"
+1961,4.7," Drama,  Romance, Comedy"
+1962,4.8," Mystery,  Thriller, Horror"
+1963,6.8," Drama, Comedy"
+1964,5.4," Romance,  Thriller,  Crime"
+1965,5.1, Crime
+1966,7.0," Drama,  Crime"
+1968,4.0," Thriller, Horror"
+1969,7.3,Drama
+1970,6.8, Sport
+1973,7.0,"Crime,  Drama"
+1974,7.1," Sport,  Drama"
+1975,6.9, History
+1976,7.3,"Action,  Comedy,  Fantasy"
+1978,8.2, Sport
+1979,7.1,"Biography,  War,  Thriller,  Drama"
+1980,7.7, History
+1981,6.5,Drama
+1982,4.9," Thriller,  Mystery, Drama"
+1983,6.4," Thriller,  Mystery, Drama"
+1985,6.2, Romance
+1986,5.8," Drama,  Thriller"
+1987,6.7,"Comedy,  Drama"
+1988,5.9," Drama,  Thriller,  Crime"
+1989,7.3, Drama
+1991,4.1," Drama, Action,  Comedy"
+1992,4.9, Romance
+1993,7.9," Sport, Biography"
+1994,5.6,"Action,  Drama,  Crime"
+1995,5.2,"Action,  Sci-Fi,  Comedy"
+1996,4.1,"Comedy,  Crime"
+1997,6.6," Thriller,  Sci-Fi"
+1998,2.9," Horror, Action,  Adventure"
+2000,6.5,Crime
+2002,7.2," Sport,  Drama"
+2004,7.8," Drama,  Romance, Crime,  Mystery"
+2005,6.7,Crime
+2007,7.1, Drama
+2008,5.7," Sport,  Drama"
+2011,5.3, Drama
+2016,7.7," Romance, Drama"
+2017,6.1,Adventure
+2018,7.3,"Adventure,  Comedy"
+2020,5.3,"Action,  Sport"
+2021,6.1,Horror
+2022,5.8,Action
+2023,5.7, Romance
+2024,6.7,"Comedy,  Crime"
+2025,6.5,"Drama,  Romance"
+2026,7.2,Comedy
+2027,7.6," Drama,  Fantasy, Comedy"
+2028,4.6,"Horror,  Mystery"
+2030,6.6, Romance
+2031,6.3," Crime,  Drama"
+2032,6.2,Comedy
+2033,5.3," Crime,  Thriller"
+2035,5.6,Comedy
+2036,6.2," Fantasy,  Comedy,  Family"
+2037,5.2," Fantasy,  Music,  Musical,  Family"
+2038,5.3,"Comedy,  Sport"
+2039,5.4, Sport
+2040,4.9,"Comedy,  Romance"
+2041,5.5, Horror
+2042,6.7," Music,  Drama,  Musical"
+2044,7.2," Animation,  Fantasy"
+2045,5.1,"Drama,  Romance"
+2046,6.5,"Action,  Thriller,  Crime"
+2047,8.2," Family,  Animation"
+2048,7.7," Sci-Fi,  Comedy"
+2049,7.2,"Action,  Drama"
+2050,6.1," Sport, Comedy"
+2051,8.8," Adventure, Action"
+2052,6.8," Drama, Action"
+2053,6.8, Crime
+2054,6.7,"Horror,  Thriller"
+2055,7.1,Drama
+2056,7.1," Sci-Fi, Horror"
+2057,6.1,Comedy
+2058,8.0," Sci-Fi, Drama"
+2059,7.5," Drama, Biography,  Comedy,  Sport"
+2060,6.6,Mystery
+2061,5.4," Family,  Fantasy, Adventure"
+2062,6.1, Drama
+2063,6.1, Romance
+2066,2.8," Thriller, Adventure,  Horror"
+2068,5.1," Drama,  Comedy,  Sport, Biography"
+2069,7.2,"Drama,  Romance"
+2070,6.0," Drama, Action,  Thriller"
+2072,6.7," Drama, Biography"
+2074,6.2, Romance
+2078,6.8, Horror
+2079,7.1," Sci-Fi,  Comedy"
+2080,7.1,"Drama,  War"
+2081,7.0,"Drama,  Fantasy,  Romance,  Thriller"
+2082,7.1,Comedy
+2083,6.4," Family,  Drama, Comedy"
+2084,7.0,"Drama,  Sport"
+2085,6.2,"Comedy,  Sport,  Family"
+2086,7.5,Drama
+2087,4.8," Sci-Fi, Comedy"
+2089,7.3,"Comedy,  Drama"
+2090,5.8," Crime, Action,  Thriller"
+2091,7.6,Drama
+2092,5.6," History, Biography"
+2093,7.0,"Action,  Thriller"
+2094,6.6,Drama
+2095,6.5, Drama
+2096,7.4,"Biography,  Drama"
+2098,6.4,"Comedy,  Drama"
+2099,6.0," Thriller, Drama"
+2102,6.4,Comedy
+2103,6.6," Thriller,  Drama,  Romance"
+2105,6.9," Thriller,  Romance"
+2106,5.8," Thriller,  Drama, Crime"
+2107,6.4,"Comedy,  Mystery"
+2108,5.3,"Comedy,  Music"
+2109,6.5," Crime,  Thriller"
+2110,5.7, Family
+2111,6.7,Comedy
+2112,3.9," Thriller,  Crime"
+2113,4.1," Thriller, Action"
+2114,6.2," War,  Romance,  Musical, Comedy,  Drama"
+2115,3.8, Family
+2116,5.1,"Action,  Thriller"
+2118,7.8," War,  Thriller"
+2119,7.8," Romance,  Music,  War,  History"
+2120,6.1,Action
+2121,5.8,Comedy
+2122,6.3,"Drama,  Mystery"
+2124,5.4,Drama
+2125,7.3,Comedy
+2126,6.8," Drama, Crime,  Thriller"
+2127,7.3, Drama
+2128,6.5," Comedy, Adventure"
+2129,7.2,"Crime,  Thriller,  Drama"
+2131,6.3," Romance, Comedy"
+2132,5.9," Thriller, Action"
+2133,7.8, Fantasy
+2135,4.8," Comedy,  Family"
+2137,7.8,"Comedy,  Drama"
+2138,7.5," Drama, Biography"
+2140,6.8,"Action,  Thriller,  Crime"
+2141,6.6," Sport,  Drama"
+2142,4.6,"Horror,  Sci-Fi"
+2144,7.1," Romance,  Drama, Comedy"
+2145,6.1,"Comedy,  Drama"
+2146,6.7,Drama
+2147,7.1," Thriller,  Mystery, Drama"
+2148,5.8,"Comedy,  Romance"
+2149,6.7,Drama
+2150,5.8,Comedy
+2151,6.8, Thriller
+2152,8.5,Action
+2153,6.6," Family,  Comedy"
+2154,7.7,"Drama,  Sci-Fi"
+2155,4.7," Sci-Fi,  Horror"
+2156,6.4," Crime,  Comedy, Action"
+2158,8.6," Horror, Crime"
+2159,7.0,"Comedy,  Music"
+2160,7.1," Comedy,  Documentary"
+2161,5.7," Horror, Adventure"
+2162,3.7,"Adventure,  Family,  Drama"
+2163,7.5," Thriller,  Mystery"
+2164,4.6,Adventure
+2165,4.9,Comedy
+2168,5.8," Sci-Fi, Action"
+2169,7.0,"Drama,  Romance"
+2170,5.4,"Comedy,  Crime"
+2171,7.3, Drama
+2172,7.1," Comedy,  Mystery,  Family"
+2173,5.8," Romance, Drama,  Music"
+2174,8.1,Biography
+2175,5.7," Drama,  Romance, Comedy,  Music"
+2176,4.4,"Comedy,  Romance,  Drama"
+2177,7.9,Fantasy
+2182,2.7, Romance
+2183,5.8," Animation,  Family"
+2184,7.5,"Biography,  Drama"
+2185,5.4," Musical,  Family, Adventure"
+2186,4.1,"Drama,  Horror,  Mystery"
+2187,5.9," Mystery,  Thriller"
+2188,6.3," Family,  Comedy,  Drama,  Musical"
+2190,6.8,"Adventure,  Family"
+2192,2.3,Adventure
+2193,6.9,Adventure
+2194,8.1,"Biography,  Drama,  Crime"
+2195,6.1,Crime
+2196,5.0,"Horror,  Thriller"
+2197,5.5,Comedy
+2198,6.2," Fantasy,  Music,  Comedy"
+2199,6.2,"Comedy,  Drama,  Romance,  Thriller"
+2201,6.3,"Crime,  Thriller"
+2202,6.7," Music,  Drama"
+2205,6.6, Drama
+2206,7.5,"Drama,  Mystery"
+2207,7.2, Comedy
+2208,4.8," Thriller, Horror"
+2209,6.6," Thriller,  Drama, Crime"
+2210,3.5,Comedy
+2212,7.6, History
+2213,6.3," Drama,  Mystery"
+2214,5.5,Horror
+2215,6.3, Comedy
+2216,6.5," Thriller,  Drama"
+2218,6.9,"Drama,  Thriller"
+2219,7.6," Drama,  Romance, Comedy"
+2220,3.9, Mystery
+2221,6.1," Thriller,  Drama, Crime"
+2222,7.3," Thriller, Crime,  Romance"
+2223,8.3," Romance,  Sci-Fi,  Fantasy"
+2224,5.8," Family,  Romance, Comedy"
+2225,6.8," Drama, Action,  Thriller"
+2226,7.0,"Action,  Sci-Fi"
+2227,5.9," Crime, Comedy,  Mystery,  Family"
+2228,6.5,"Action,  Sci-Fi"
+2229,6.4,Comedy
+2230,5.8," Family,  Comedy, Adventure"
+2231,5.1, Thriller
+2232,6.8," Western,  Adventure"
+2233,5.3," Comedy,  Animation,  Family"
+2234,5.3," Horror,  Thriller,  Fantasy, Action"
+2236,4.9," Fantasy,  Family"
+2237,6.8,Comedy
+2240,6.1," Thriller,  Horror"
+2242,8.5," Thriller,  Mystery"
+2243,5.9,Comedy
+2244,6.3," Romance, Drama"
+2245,5.9,"Comedy,  Drama"
+2248,6.9," Family,  Drama, Comedy"
+2249,7.5,Drama
+2250,8.2,"Adventure,  Biography,  Drama"
+2252,5.0," Thriller,  Drama, Adventure,  Mystery"
+2253,7.3," Horror, Crime"
+2254,6.4,"Animation,  Mystery"
+2255,6.6,"Comedy,  Drama,  Romance"
+2256,7.8," Comedy,  Crime,  Fantasy"
+2258,4.0," Family,  Music,  Musical"
+2259,7.6,Drama
+2262,5.2, Fantasy
+2266,6.6, History
+2268,1.9,Comedy
+2269,5.7," Thriller, Action,  Crime"
+2270,6.6," Thriller, Action"
+2271,6.0,Comedy
+2272,6.1," Adventure,  Sci-Fi,  Thriller"
+2273,4.8,Comedy
+2274,6.2," Thriller,  Sci-Fi"
+2275,7.5,"Comedy,  Crime"
+2276,6.3, Drama
+2277,7.1,"Drama,  Mystery,  Thriller"
+2278,6.6, Drama
+2279,6.1," Drama,  Crime,  Sport"
+2280,6.7," Romance,  Fantasy,  Drama"
+2281,5.6," Thriller, Action,  Crime"
+2282,7.2, Mystery
+2283,4.3,"Action,  Comedy"
+2284,6.4,Comedy
+2285,7.1, Music
+2286,6.3," Drama, Action"
+2287,7.4,Comedy
+2288,6.1,"Comedy,  Romance"
+2289,6.6," Drama, Comedy"
+2290,6.0,"Comedy,  Crime"
+2291,6.8,"Comedy,  Musical"
+2292,7.4,Comedy
+2293,6.8,"Action,  Crime,  Thriller"
+2294,7.2, Drama
+2295,1.9,Comedy
+2296,5.5," Crime,  Comedy"
+2297,4.5," Crime,  Comedy"
+2298,6.3, Crime
+2300,6.7,"Comedy,  Mystery,  Crime"
+2301,2.8," Fantasy,  Comedy,  Family"
+2302,5.0,Drama
+2304,4.3," Fantasy, Comedy"
+2305,5.6," Thriller, Action,  Comedy,  Crime"
+2306,6.2,Drama
+2307,5.3,Adventure
+2308,7.4," Comedy,  Musical, Biography,  History"
+2310,6.5," Thriller,  Drama"
+2311,7.1," Thriller,  Sci-Fi"
+2312,7.2,"Biography,  Drama"
+2313,2.3,Horror
+2314,6.4," Family,  Drama"
+2315,6.1," Thriller,  Mystery, Drama"
+2316,7.0," Drama, Action,  Thriller"
+2318,7.0,"Biography,  Drama"
+2319,7.0," Music, Biography"
+2320,4.9,Action
+2321,6.9,"Adventure,  Romance,  Comedy,  Drama"
+2322,7.5,"Comedy,  Drama"
+2323,8.4,"Adventure,  Fantasy"
+2324,6.9," Thriller,  Romance,  Drama, Comedy"
+2325,4.5," Comedy,  Musical"
+2326,7.4," Western,  Drama, Crime"
+2327,7.0," Drama,  Sport, Biography"
+2328,2.8," Music, Comedy"
+2329,7.5,"Action,  Thriller,  Sci-Fi,  Drama"
+2330,7.1,Drama
+2331,6.4," Thriller,  Drama"
+2333,5.3, Romance
+2334,6.9," Thriller, Action,  Family"
+2335,6.2, History
+2337,6.4," Romance, Action,  History,  Adventure"
+2340,5.1," Comedy,  Sci-Fi"
+2341,5.5,"Crime,  Mystery"
+2343,5.4, Fantasy
+2355,7.4,"Action,  Biography,  Crime"
+2356,8.0, Western
+2357,5.7,Comedy
+2358,6.8," Drama,  Thriller,  Mystery, Crime"
+2359,5.9," Family,  Romance, Comedy"
+2360,7.2, Mystery
+2361,5.5,Horror
+2363,8.5," Sci-Fi,  Comedy, Adventure"
+2364,5.6," Mystery, Horror,  Thriller"
+2365,4.1,"Comedy,  Drama"
+2367,6.1,"Comedy,  Romance,  Drama"
+2368,5.4," Romance, Comedy"
+2369,7.1, Drama
+2371,3.6," Fantasy,  Family"
+2372,6.5,Horror
+2373,8.6," Family,  Animation"
+2375,7.0," Drama,  History,  Adventure, Action,  Romance"
+2376,7.6,Drama
+2377,6.5," Comedy, Adventure"
+2378,6.4," Romance, Comedy"
+2380,6.3," Romance,  Drama"
+2382,5.7,Family
+2383,6.3,"Crime,  Thriller,  Drama"
+2385,6.0," Mystery,  Horror"
+2386,7.7, Drama
+2387,6.2,Horror
+2389,7.7, Drama
+2390,6.4," Fantasy, Comedy,  Romance"
+2391,6.4,Comedy
+2392,6.9," Fantasy,  Comedy,  Crime, Action"
+2393,7.3," Romance, Comedy,  Drama,  Family,  Fantasy"
+2394,7.3,Comedy
+2396,6.6," Sci-Fi,  Adventure, Action"
+2397,6.7," Thriller, Drama"
+2398,5.7," Romance, Comedy"
+2399,3.1," Fantasy, Action,  Drama"
+2400,6.3,"Comedy,  Romance"
+2401,5.7, Drama
+2402,7.1,"Comedy,  Drama,  Crime"
+2403,7.0, Crime
+2404,6.1," Romance, Comedy"
+2405,6.6,Comedy
+2406,7.8, Sci-Fi
+2407,8.3," Music,  History"
+2408,3.9, Mystery
+2409,7.0,Comedy
+2410,6.7," Drama, Comedy"
+2411,7.3," Mystery, Drama"
+2413,6.3,"Comedy,  Drama,  Fantasy"
+2414,7.8, Drama
+2417,5.3, Romance
+2418,7.9,Drama
+2419,5.3, Comedy
+2420,6.8,"Fantasy,  Horror"
+2421,7.1, Drama
+2423,5.8,"Comedy,  Drama,  Crime"
+2424,5.8," Adventure, Action"
+2425,8.3," Sport,  Drama, Biography"
+2426,5.6,Drama
+2427,6.8,"Adventure,  Thriller"
+2428,5.0, Romance
+2429,7.6," Thriller,  Drama, Adventure,  Biography"
+2430,6.7, Crime
+2432,5.7,Comedy
+2433,5.2," Crime, Comedy"
+2435,7.2, Drama
+2437,6.5,Comedy
+2439,6.1, Thriller
+2441,4.4,"Action,  Thriller"
+2443,5.7," Drama,  Romance"
+2444,5.5," Comedy, Adventure"
+2445,7.1, Romance
+2446,5.9," Romance, Drama"
+2447,6.7, Adventure
+2448,7.0," Romance,  Drama"
+2449,7.9," Drama,  Comedy, Biography"
+2450,6.9,Drama
+2451,7.3," Drama,  History, Adventure,  Biography,  War"
+2452,7.3,Action
+2453,3.5," Sci-Fi, Action"
+2454,7.8,Drama
+2456,6.7," Thriller, Adventure"
+2457,6.4," Romance, Comedy"
+2458,7.1," Romance, Biography,  Drama"
+2462,5.9,"Action,  Thriller,  Horror"
+2463,7.2,Crime
+2468,6.2," Romance,  War,  Western,  Drama"
+2471,6.7, Animation
+2475,7.6,Comedy
+2478,6.2," Musical, Drama,  Music"
+2479,6.5," Animation,  Family,  Crime"
+2480,8.1," War, Drama,  History"
+2481,6.3," Thriller,  Crime, Action"
+2482,4.4, Music
+2484,6.0," Thriller,  Drama"
+2485,7.6,Fantasy
+2486,8.4,"Action,  Adventure"
+2487,7.9," Musical,  Family"
+2488,5.6, Thriller
+2489,6.5,Comedy
+2490,7.5," Romance, Adventure"
+2491,6.3,Comedy
+2492,7.9,Horror
+2493,7.9, Adventure
+2494,5.1,"Comedy,  Drama,  Sci-Fi"
+2495,6.7,"Comedy,  Drama"
+2496,6.7," Crime, Action,  Drama"
+2498,5.6," Romance, Comedy"
+2499,6.8," Adventure,  Sci-Fi"
+2500,6.2," Romance,  Music"
+2501,5.6,Drama
+2504,7.4," Sport,  Drama"
+2507,7.2, Romance
+2508,4.9,"Comedy,  Sport"
+2509,7.5, Drama
+2510,4.8," Mystery, Horror"
+2512,5.8," Musical,  Family"
+2513,6.7,"Crime,  Drama"
+2515,6.5,Horror
+2516,5.9,Comedy
+2517,5.5,Comedy
+2518,3.6,Action
+2520,7.4," Crime, Action"
+2522,3.0," Drama,  Romance"
+2523,7.6," Mystery, Drama,  Thriller"
+2524,6.4,"Adventure,  Horror,  Thriller"
+2525,6.9,"Biography,  Crime,  Thriller"
+2527,5.5,"Comedy,  Sci-Fi,  Thriller,  Mystery"
+2530,4.1,"Horror,  Thriller"
+2531,6.8,"Comedy,  Drama,  Romance"
+2532,6.5," Romance, Biography"
+2533,7.6,"Drama,  Romance"
+2534,7.4,"Crime,  Drama"
+2535,7.7, Romance
+2536,7.1,Biography
+2538,7.6,Drama
+2539,8.0,"Comedy,  Drama"
+2540,7.3,Comedy
+2541,7.6," Romance, Comedy"
+2544,6.4," Romance, Comedy"
+2545,8.0,"Comedy,  Drama"
+2546,4.8,Drama
+2547,7.8, Comedy
+2548,5.9,Horror
+2550,3.3,Comedy
+2551,8.2," War, Drama"
+2553,5.4," Crime, Action"
+2554,6.4," Romance,  Thriller, Crime"
+2555,4.8,"Drama,  Horror,  Thriller"
+2556,5.9,"Adventure,  Drama,  Comedy"
+2557,5.5, Crime
+2558,7.9, Mystery
+2560,7.2,Drama
+2563,5.3, Romance
+2564,7.2,Drama
+2565,5.1,Comedy
+2566,5.6," Mystery,  Crime, Comedy"
+2567,7.6,Comedy
+2568,3.1,"Action,  Mystery,  Drama,  Thriller"
+2569,7.2,Drama
+2570,5.7, Drama
+2571,5.2,"Comedy,  Romance"
+2572,7.7,Drama
+2573,7.0,"Mystery,  Sci-Fi"
+2576,6.0,"Comedy,  Music,  Drama"
+2578,6.8,Comedy
+2579,7.2," Adventure, Action"
+2580,7.2,Drama
+2581,2.8," Sci-Fi,  Crime, Action"
+2582,6.6,"Drama,  Romance"
+2583,6.7," Romance,  History"
+2584,7.0," Mystery, Crime,  Drama,  Thriller"
+2587,6.2,Drama
+2588,7.3," Fantasy, Drama"
+2589,5.1," Horror,  Romance"
+2592,6.6,"Drama,  Western"
+2593,4.5," Drama, Comedy,  Sport"
+2597,5.9," Mystery, Drama"
+2598,6.6," Crime, Action,  Drama,  Thriller"
+2599,6.5, Sci-Fi
+2600,7.3," Comedy,  Crime, Action"
+2601,7.5,Comedy
+2602,5.9," Drama,  Family"
+2603,7.4, Drama
+2604,6.9," Romance,  Drama, Action"
+2605,7.9,"Action,  Drama"
+2606,8.4,Drama
+2607,8.0," Romance,  History,  Drama"
+2608,6.0,Comedy
+2610,6.8,"Drama,  Romance"
+2614,8.1," Thriller,  Drama"
+2618,6.2,"Fantasy,  Horror"
+2619,7.9," Thriller, Horror"
+2620,7.4,"Adventure,  Comedy"
+2621,6.6,Comedy
+2622,7.3,Biography
+2623,7.5," Fantasy, Comedy"
+2624,5.6,Comedy
+2625,7.3,"Drama,  Family"
+2626,6.4," Fantasy,  Horror,  Thriller"
+2627,5.0,"Horror,  Thriller"
+2628,5.4," Comedy,  Family, Adventure"
+2630,7.1,"Comedy,  Drama"
+2631,5.3," Romance,  Comedy,  Family,  Music"
+2633,6.2, Fantasy
+2636,6.9,"Crime,  Drama"
+2638,7.7," Thriller,  Drama"
+2639,5.4,Comedy
+2641,7.7,"Biography,  Drama"
+2643,6.8, Drama
+2644,8.4," Biography, Adventure,  Drama"
+2646,7.1," Biography,  Drama"
+2648,6.1,"Comedy,  Romance"
+2649,4.1," Thriller,  Horror"
+2650,5.8," Fantasy, Action,  Adventure"
+2651,8.1,"Adventure,  Fantasy,  Romance,  Family"
+2652,7.6,Biography
+2653,7.8,Crime
+2654,4.6,"Comedy,  Music,  Family"
+2655,6.0,"Comedy,  Drama,  Romance"
+2656,7.0," Sci-Fi,  Horror"
+2657,6.7," Family, Drama"
+2658,6.4,"Comedy,  Drama,  Family"
+2659,7.2," Sport, Drama,  Romance"
+2660,7.4," Thriller, Action,  Crime"
+2661,4.8, Romance
+2662,4.0,"Adventure,  Horror,  Thriller,  Mystery"
+2663,6.2," Fantasy,  Horror, Drama"
+2664,7.7," Thriller, Drama,  Romance"
+2665,6.7,Adventure
+2666,7.9,"Drama,  Romance"
+2667,7.9,Drama
+2668,5.5," Romance, Action,  Drama,  Thriller,  Crime"
+2669,6.2,"Adventure,  Drama"
+2670,5.1,Horror
+2671,4.1," Thriller, Horror"
+2672,6.7,"Drama,  Fantasy"
+2673,4.7," Thriller, Action"
+2674,6.4," Comedy, Action"
+2675,6.3,Drama
+2676,5.5," Thriller, Horror"
+2677,7.3," Drama, Crime"
+2678,6.3, Thriller
+2679,4.9," Thriller, Drama"
+2680,7.6,"Drama,  War,  History"
+2681,6.0," Thriller,  Sci-Fi,  Horror"
+2682,6.2,Crime
+2683,6.8,"Crime,  Thriller"
+2685,5.7," Family, Adventure,  Comedy"
+2687,4.6," Sci-Fi, Action,  Adventure"
+2688,6.2," Musical,  Romance,  Drama"
+2690,6.9, Sport
+2692,6.7," Thriller, Crime"
+2694,6.6," Drama, Biography"
+2695,6.4, Drama
+2696,2.8," Family, Adventure"
+2697,5.4,Action
+2698,5.0,"Comedy,  Romance"
+2699,5.1,Drama
+2700,8.0," Sci-Fi, Drama"
+2701,5.9,"Family,  Romance"
+2703,8.2," Crime, Comedy"
+2704,7.0," Music, Drama"
+2705,6.6," Drama,  Romance"
+2706,6.7," Drama, Biography"
+2707,5.5," Drama,  Romance"
+2708,4.9,Comedy
+2709,6.9,Comedy
+2711,5.6," Comedy,  Family"
+2714,6.2, Music
+2715,5.3,"Comedy,  Romance"
+2716,6.6,Drama
+2717,7.2, Romance
+2718,4.6," Mystery, Drama"
+2719,7.5," Crime,  Western, Adventure"
+2720,6.5," War, Drama"
+2721,7.6," Mystery, Comedy"
+2722,6.2, Horror
+2723,8.0," Mystery, Drama,  Thriller"
+2725,6.3," Romance,  Drama, Comedy"
+2726,7.2," Romance, Drama"
+2728,6.7," Thriller, Crime,  Drama"
+2729,5.3, Drama
+2730,6.3," Crime,  Drama, Comedy"
+2731,6.5," Thriller, Crime,  Horror"
+2734,8.3," Sci-Fi, Drama"
+2735,7.2," Thriller, Action"
+2736,6.8, Drama
+2737,6.4,"Action,  Drama"
+2738,6.9," Crime,  War"
+2740,6.2,Action
+2743,6.1," Horror, Fantasy"
+2745,5.1," Drama, Crime"
+2746,4.5," War, Action,  Drama"
+2747,5.9," Fantasy,  Music,  Drama"
+2755,8.1," Fantasy,  Romance, Comedy"
+2756,5.7," Music,  Drama"
+2757,6.8, Romance
+2758,7.5, War
+2760,8.3, Western
+2761,7.4,Drama
+2762,8.0," Romance, Drama"
+2763,6.9,"Drama,  Thriller,  Romance"
+2764,6.9,"Comedy,  Romance"
+2766,5.5,"Action,  Adventure,  Comedy"
+2768,7.2," War,  Drama, Biography"
+2769,6.9," Sport, Adventure,  Family"
+2771,5.9,"Horror,  Thriller"
+2773,5.2," Music,  Romance"
+2774,7.1, Thriller
+2776,5.5," Mystery,  Thriller"
+2777,7.7," Romance, Drama"
+2779,6.7,Adventure
+2780,5.0,Comedy
+2781,6.4," Drama,  History"
+2782,6.6," Comedy,  Musical,  Family,  Drama, Adventure"
+2783,5.9," Romance, Drama"
+2784,5.7,"Action,  Crime,  Thriller"
+2785,4.5," Fantasy,  Romance, Comedy,  Horror"
+2787,5.0," Mystery, Horror,  Thriller"
+2788,4.6, Romance
+2789,6.5," Mystery, Adventure"
+2790,4.9,"Comedy,  Romance"
+2792,6.9,"Comedy,  Drama"
+2793,5.7, Horror
+2795,6.9,"Comedy,  Drama"
+2797,4.4,"Action,  Thriller,  Sci-Fi"
+2798,5.4,"Adventure,  Family"
+2799,7.0,"Drama,  History"
+2800,5.4," Mystery, Comedy"
+2801,5.4,Adventure
+2803,7.6," Romance, Drama"
+2805,6.6,Drama
+2806,6.7,"Biography,  History"
+2807,3.9,"Drama,  Thriller,  Horror"
+2808,5.7,"Biography,  Romance,  Drama"
+2810,6.5,"Action,  History"
+2811,6.8," History, Biography"
+2813,7.3," War,  Crime"
+2815,7.0, War
+2816,6.5,Drama
+2818,7.7, Drama
+2819,7.7, Romance
+2820,5.9, Sci-Fi
+2821,6.8,"Comedy,  Romance"
+2822,7.4, Romance
+2823,5.1,Comedy
+2825,7.4, Drama
+2826,7.2,Comedy
+2829,8.3," War,  Drama"
+2830,8.1," Romance, Biography"
+2832,7.3," Comedy,  Drama"
+2833,3.6,Comedy
+2835,8.0,"Drama,  Thriller"
+2836,6.2," Thriller,  Crime"
+2837,9.0,Crime
+2838,6.1," Romance, Drama"
+2839,5.7, Thriller
+2840,6.8,Drama
+2841,5.5,"Comedy,  Mystery"
+2842,6.8," Crime,  Thriller,  Drama"
+2844,6.1,Comedy
+2846,5.9,Comedy
+2847,6.1,Action
+2848,6.8," Horror,  Thriller"
+2849,7.7, Thriller
+2850,4.9, Comedy
+2851,6.1, Romance
+2852,2.5," Family,  Sci-Fi,  Crime, Comedy"
+2853,6.1," Crime, Action"
+2854,5.9," Family,  Drama, Comedy"
+2855,5.7,"Fantasy,  Horror"
+2857,7.2,Horror
+2858,7.7,"Drama,  Thriller"
+2860,6.1,Comedy
+2861,5.8," Family,  Sci-Fi, Adventure"
+2862,6.5, Romance
+2863,7.9," War,  History"
+2864,6.3,"Adventure,  Drama,  Sci-Fi"
+2866,8.3,Drama
+2867,6.4,Comedy
+2868,6.7," Crime, Comedy"
+2869,6.1,Comedy
+2872,5.8,Drama
+2873,5.6," Romance,  Comedy"
+2874,6.1, Crime
+2876,7.3," Drama,  Romance"
+2877,6.8,"Drama,  Sport"
+2878,5.7,Comedy
+2879,7.3," Romance, Drama"
+2880,6.3,"Drama,  Romance,  Thriller"
+2881,5.9," Crime, Comedy,  Drama"
+2882,7.1,Drama
+2883,7.1, Drama
+2884,8.0,"Drama,  Romance"
+2885,5.1,Action
+2886,7.1," Drama,  Crime, Biography"
+2887,6.5," Romance,  Western"
+2889,6.6," Sci-Fi,  Thriller, Action"
+2890,4.3," Romance,  War"
+2891,6.7,Crime
+2893,5.4," Adventure,  Family"
+2894,6.6," Romance,  Drama"
+2898,8.0," Romance,  Drama,  Thriller"
+2900,7.8," Drama, Crime"
+2901,6.1,"Crime,  Drama"
+2903,5.1, Mystery
+2905,7.4," Drama, Comedy"
+2906,7.8," War, Drama"
+2907,8.0,Crime
+2908,6.7,Drama
+2909,6.6,"Crime,  Drama"
+2910,6.4,"Comedy,  Romance,  Drama"
+2911,6.7," Crime,  Thriller"
+2912,6.2,"Biography,  Crime,  Comedy"
+2913,7.3," Family,  Animation"
+2914,8.1, War
+2915,7.0,"Comedy,  Sport,  Drama"
+2917,8.0,Adventure
+2918,7.0,Comedy
+2919,7.9, Comedy
+2920,5.9," Comedy, Action,  Adventure,  Mystery"
+2922,6.3," Drama, Comedy"
+2923,7.7,Action
+2925,7.1," Thriller, Sci-Fi"
+2926,7.4," Drama,  Romance,  Thriller"
+2927,6.5,"Action,  Drama,  Adventure,  Thriller,  War"
+2928,6.5,"Crime,  Music,  Romance"
+2929,6.8,Adventure
+2930,7.5,Crime
+2931,6.6, Comedy
+2933,6.6, Romance
+2934,7.0," Sci-Fi,  Fantasy,  Comedy"
+2935,3.3," Drama, Comedy"
+2936,6.7,"Comedy,  Crime"
+2938,6.8,Drama
+2939,6.0, Thriller
+2940,5.4,Horror
+2942,6.2,"Comedy,  Fantasy"
+2943,7.7, Musical
+2944,8.0," Thriller,  Adventure"
+2945,7.4, Romance
+2946,5.9,"Documentary,  Music"
+2948,7.4, Drama
+2951,7.0, Mystery
+2953,7.6," Drama, Biography"
+2954,6.9,"Comedy,  Drama"
+2956,5.3,"Comedy,  Family,  Fantasy"
+2957,6.4,"Drama,  Mystery"
+2959,7.8,"Adventure,  Drama"
+2960,6.7,Action
+2961,5.3, Crime
+2962,6.3,Comedy
+2963,7.0," Crime,  Thriller, Action"
+2965,6.6," Drama, Comedy,  Romance"
+2970,8.4," Thriller, Adventure"
+2971,6.0, War
+2972,5.4,Comedy
+2973,7.8," Romance,  Fantasy"
+2974,7.6," Adventure, Action"
+2976,6.4,"Sci-Fi,  Thriller"
+2977,7.0," Music, Biography"
+2978,5.7, Crime
+2979,5.9," Sci-Fi,  Crime, Action"
+2981,6.3,Comedy
+2982,6.2, Drama
+2983,2.1,Comedy
+2984,5.0," Drama, Comedy"
+2985,5.3,"Mystery,  Thriller"
+2986,7.1,Drama
+2987,7.0,Drama
+2988,7.0," Sci-Fi,  Drama"
+2991,7.0," Drama,  Romance"
+2993,7.1,Comedy
+2994,6.8," Thriller, Drama"
+2995,7.5,"Drama,  Romance"
+2996,6.3,Crime
+2997,7.3," Drama, Adventure"
+2998,6.8,"Drama,  Mystery,  Romance"
+2999,7.2,Crime
+3000,6.4,"Comedy,  Crime"
+3002,6.4,"Drama,  Thriller"
+3004,7.5," Thriller, Crime,  Drama"
+3005,7.1," Romance,  War, Drama"
+3009,7.7," History,  War"
+3010,6.7," Animation,  Family,  Sci-Fi,  Fantasy, Adventure"
+3013,5.6,"Action,  Drama,  War"
+3017,8.3," Crime, Comedy"
+3019,6.6," Horror, Fantasy"
+3023,7.2," Fantasy, Comedy"
+3024,8.7,"Action,  Fantasy,  Sci-Fi,  Adventure"
+3025,6.0,Comedy
+3026,8.0," War,  Romance"
+3028,4.5," Music,  Drama,  Family, Comedy,  Romance"
+3029,7.9,"Biography,  Sport"
+3031,7.5,Comedy
+3032,6.8, Romance
+3034,7.2, Sport
+3036,7.1,Crime
+3037,7.4,"Drama,  Romance"
+3038,7.6,Crime
+3040,6.0," Mystery, Horror"
+3043,4.6,Comedy
+3044,6.0," Thriller, Crime"
+3046,5.5,Horror
+3047,7.5, Romance
+3049,6.3,"Comedy,  Sport"
+3051,6.8,Comedy
+3052,5.3,Comedy
+3053,7.3," Thriller,  Drama, Crime"
+3055,7.1,"Biography,  Drama"
+3056,7.6, Fantasy
+3057,5.3, Romance
+3058,7.8," Romance, Drama"
+3059,7.7, History
+3060,7.7," Drama, Crime"
+3061,5.4,"Comedy,  Romance"
+3062,6.2," Drama,  Romance, Comedy"
+3063,7.4,Drama
+3064,6.2," Romance, Drama"
+3065,5.1, Romance
+3068,6.8,Biography
+3069,7.4," Horror, Fantasy"
+3071,5.8,"Horror,  Mystery"
+3074,6.4," Drama, Crime,  Thriller"
+3076,6.9,"Comedy,  Romance"
+3077,5.5, Sci-Fi
+3078,5.4,Horror
+3079,8.3,"Adventure,  Sci-Fi,  Mystery"
+3080,7.9, Sci-Fi
+3081,6.5,"Comedy,  Drama"
+3087,6.6," War,  History"
+3089,8.3,Drama
+3091,6.2,Horror
+3093,5.9, Sport
+3094,6.1," Thriller, Action,  Horror"
+3095,5.8," Romance, Comedy"
+3096,7.3,Drama
+3097,5.9,"Horror,  Mystery"
+3098,5.5," Thriller,  Mystery,  Horror"
+3099,5.0,"Comedy,  Drama"
+3100,7.0,"Drama,  Sport"
+3102,6.4," Sport, Comedy,  Family,  Drama"
+3103,5.9," Mystery, Horror,  Thriller"
+3104,7.0," Sport, Comedy"
+3105,6.1,Horror
+3106,6.9," Comedy, Adventure"
+3107,7.5,"Drama,  Family"
+3109,6.5," Comedy, Animation,  Sci-Fi"
+3110,6.2," Thriller,  Adventure, Action"
+3112,6.0, Mystery
+3113,6.3,"Horror,  Mystery"
+3114,5.8,"Comedy,  Drama"
+3115,6.1," Thriller, Fantasy"
+3116,6.9," Music,  Comedy,  Drama"
+3117,8.3,"Comedy,  Crime"
+3119,6.7,"Comedy,  Romance"
+3120,7.4," Fantasy, Adventure"
+3121,5.6," Drama, Comedy"
+3122,6.5, Horror
+3123,6.5,"Action,  Thriller"
+3124,5.8,Action
+3126,5.5," Romance, Comedy"
+3127,6.5,Comedy
+3128,7.2,"Crime,  Drama"
+3131,5.2," Thriller,  Mystery, Horror"
+3132,5.7, Music
+3133,4.7," Thriller,  Mystery"
+3134,5.9,Mystery
+3135,6.8,Comedy
+3136,5.9," Thriller, Drama"
+3139,7.7,"Comedy,  Drama"
+3140,4.4, Thriller
+3141,6.6, Drama
+3142,6.7,Drama
+3143,5.5," Family, Comedy,  Romance"
+3144,6.5, Music
+3145,6.2, Comedy
+3146,7.1," Sci-Fi, Comedy"
+3149,6.0," Drama, Action"
+3150,7.4,Drama
+3151,5.9,Comedy
+3152,4.1,Documentary
+3154,5.9," Family, Adventure"
+3155,7.0, Drama
+3156,6.8,Comedy
+3157,7.4," Romance, Drama"
+3159,7.0,"Adventure,  Drama"
+3160,5.8," Romance, Comedy"
+3161,7.8,Comedy
+3162,6.5," Romance, Comedy,  Thriller"
+3163,7.0,Biography
+3164,6.3, Thriller
+3165,5.3,"Comedy,  Romance"
+3167,5.5," Romance, Action,  Comedy"
+3168,7.4, Thriller
+3170,6.0," Thriller,  Romance"
+3171,5.2," Romance,  Fantasy"
+3172,6.7," Sci-Fi,  Romance,  Comedy"
+3175,8.6,"Crime,  Drama"
+3176,6.1,"Action,  Thriller"
+3177,5.8,"Animation,  Family,  Fantasy,  Comedy"
+3178,7.7, Music
+3179,8.0," Drama, Biography"
+3181,6.7, Drama
+3184,6.6,Drama
+3185,4.1,"Comedy,  Family"
+3186,7.3,"Adventure,  War,  Biography,  Drama"
+3189,7.0, Romance
+3190,5.5, Sci-Fi
+3191,6.6," Thriller,  Crime,  Drama, Action"
+3192,7.1," Thriller,  Mystery"
+3194,7.1,Drama
+3195,5.6," Thriller,  Drama"
+3196,7.3,"Drama,  Romance"
+3198,6.5," Music, Comedy,  Drama"
+3199,4.8,"Horror,  Thriller"
+3200,5.2," Mystery, Adventure"
+3201,6.3,"Comedy,  Drama"
+3202,7.2,"Drama,  Romance"
+3203,6.8,"Drama,  Thriller,  Mystery"
+3204,5.7, Romance
+3205,7.2,Drama
+3206,6.9," Drama, Biography"
+3209,6.2," Crime, Comedy"
+3211,6.5,Comedy
+3213,5.3,Comedy
+3214,6.7," Romance, Drama"
+3216,3.6,Comedy
+3217,5.7,Action
+3218,7.3," Comedy, Action"
+3219,5.0,Drama
+3221,6.6,"Biography,  Drama"
+3224,7.3,Comedy
+3225,6.2," Drama,  Comedy"
+3227,6.6, Horror
+3228,6.3,Drama
+3230,3.3,"Comedy,  Crime"
+3235,5.5," Drama, Comedy"
+3236,5.9,Comedy
+3237,4.7,Comedy
+3241,3.9,"Comedy,  Romance"
+3242,6.1," Thriller, Crime"
+3244,6.7," Drama, Comedy"
+3255,7.3," Adventure, Action"
+3259,6.7," Romance, Drama"
+3260,6.1,Comedy
+3262,6.9,"Action,  Adventure,  Thriller"
+3264,7.9,Drama
+3265,4.5," Thriller, Horror"
+3267,7.6," Adventure,  Comedy,  Crime"
+3271,7.5,"Drama,  War"
+3276,6.9," Romance, Drama"
+3277,8.5," Sci-Fi, Horror"
+3278,7.5,Horror
+3279,6.6,Biography
+3281,7.0,"Action,  Adventure"
+3284,6.8,Action
+3285,6.7, Drama
+3286,6.5,"Fantasy,  Horror"
+3287,8.0," Drama, Documentary"
+3289,4.9," Romance,  Drama, Comedy"
+3290,7.1,Adventure
+3291,7.0," Thriller, Drama"
+3292,7.0," Thriller,  Drama, Crime"
+3296,7.7," Biography,  History,  War, Action,  Drama"
+3299,6.7," Thriller,  Drama, Action"
+3305,6.2, Drama
+3306,5.7,"Comedy,  Drama,  Romance"
+3307,6.4, Music
+3310,5.4,Documentary
+3311,6.6,"Action,  Adventure,  Drama,  History"
+3314,7.6,Drama
+3316,6.6,Drama
+3318,7.3," Thriller,  History, Drama,  War"
+3319,4.2,Comedy
+3323,6.5,"Adventure,  Comedy"
+3328,6.5,"Crime,  Mystery"
+3330,5.7," Thriller, Action"
+3332,7.3," Romance,  Music, Drama"
+3333,6.9,"Drama,  Romance"
+3337,7.3, Drama
+3339,6.5,Comedy
+3340,2.1," Music, Drama,  Romance"
+3343,7.0," Romance,  Drama, Biography"
+3344,8.0, Thriller
+3347,7.1,"Adventure,  Thriller,  Drama"
+3351,7.2," Sport,  Family"
+3353,6.7, Musical
+3355,8.9, Drama
+3357,7.9," Thriller,  Drama"
+3358,5.6," Thriller,  Horror, Comedy"
+3359,8.0, Musical
+3360,6.2," Romance, Comedy"
+3361,7.9," Drama, Comedy"
+3362,8.1,Adventure
+3363,7.6,"Drama,  Thriller,  Horror"
+3364,3.5," Music, Drama"
+3365,7.6," Drama, Biography"
+3366,6.5," Drama,  Romance, Comedy"
+3367,5.6," Crime,  Romance, Comedy"
+3368,7.7, Drama
+3369,5.2," Thriller,  Mystery, Horror"
+3374,7.4," Drama,  Romance"
+3375,6.8,"Action,  Thriller"
+3377,6.4," Mystery,  Horror, Fantasy"
+3378,5.7," Drama,  Romance"
+3381,5.6, Romance
+3382,7.0, Thriller
+3383,7.6, Drama
+3384,6.5, Romance
+3386,6.3," Crime,  Thriller, Action"
+3388,7.1," Romance,  Drama"
+3389,7.1,Comedy
+3391,6.9, Horror
+3392,5.4,"Comedy,  Drama"
+3395,5.3,"Comedy,  Fantasy"
+3398,7.3,Animation
+3399,7.3, Drama
+3400,7.1," Musical, Comedy"
+3401,6.0," Crime,  Thriller"
+3402,6.6," Crime, Comedy"
+3403,7.2,"Comedy,  Romance,  Drama"
+3404,7.2," Drama, Biography,  Comedy,  History"
+3405,6.9,"Biography,  Drama"
+3406,6.8," Drama, Biography,  Romance,  Sport"
+3408,7.7,"Adventure,  Animation,  Fantasy,  Family"
+3409,7.4," Music, Drama"
+3410,6.5, Thriller
+3413,5.6,"Comedy,  Crime"
+3415,6.8," Drama,  Horror, Comedy,  Sci-Fi"
+3416,5.5," Romance, Comedy,  Drama"
+3417,6.9,Action
+3418,6.0, Horror
+3420,6.4,"Crime,  Thriller"
+3421,6.6,"Comedy,  Romance,  Drama"
+3423,8.1, Animation
+3428,6.9, Romance
+3434,7.4, Drama
+3435,6.9," Drama, Comedy"
+3436,6.7," Comedy, Action"
+3438,7.6,Comedy
+3442,6.0, Drama
+3443,7.2, Thriller
+3444,6.0,"Comedy,  Sport"
+3445,3.1,"Comedy,  Crime"
+3447,6.2,"Comedy,  Romance"
+3450,6.3,"Drama,  Sci-Fi,  Romance"
+3452,7.9, Drama
+3453,6.7,Drama
+3456,8.0," War,  Biography"
+3459,7.0,"Horror,  Thriller"
+3460,7.2," Crime,  Drama, Action"
+3461,6.2," Romance, Action,  Adventure"
+3462,3.5, Thriller
+3463,7.5,"Comedy,  Drama"
+3465,6.7," Thriller,  Adventure"
+3466,9.2, Drama
+3467,6.1," Music, Drama"
+3468,7.7," Drama, Comedy"
+3469,7.6," Music, Drama,  Romance"
+3470,6.1,"Comedy,  Drama"
+3471,4.9, Thriller
+3472,6.8,Action
+3473,7.0, Sport
+3476,7.3,"Drama,  Romance"
+3477,7.5, History
+3478,7.4," Drama, Biography"
+3479,7.2,"Action,  Crime"
+3480,6.5,"Drama,  Western"
+3482,6.8,"Action,  Sci-Fi"
+3483,6.8," Adventure,  Thriller, Action"
+3484,5.2,"Action,  Crime,  Comedy"
+3485,7.2," Horror, Adventure,  Thriller"
+3487,4.0,"Horror,  Mystery"
+3491,7.3, Crime
+3492,6.1," Drama,  Thriller, Crime"
+3493,7.8," Adventure,  Thriller"
+3494,6.0,Horror
+3496,7.0,"Comedy,  Drama"
+3497,7.1, Mystery
+3498,6.2, Thriller
+3500,7.6," Romance, Drama"
+3501,7.6,Drama
+3502,6.4,Comedy
+3503,6.2,"Comedy,  Drama,  Romance"
+3504,7.5," Biography,  Drama, Adventure"
+3505,2.0,Comedy
+3506,6.2," Sci-Fi,  Thriller, Action,  Horror"
+3508,6.5,"Adventure,  Drama,  Biography"
+3511,6.8,Drama
+3512,6.3," Drama,  Romance"
+3513,6.3,"Drama,  Family"
+3514,6.6,"Biography,  Crime"
+3515,6.4," Drama, Biography"
+3516,7.5,"Drama,  Thriller"
+3518,6.5, Sport
+3520,7.2, Romance
+3521,6.3," Drama,  Romance, Adventure,  War"
+3522,7.0," Fantasy,  Sci-Fi, Comedy"
+3523,6.3, Drama
+3526,7.1,Drama
+3529,6.7,Drama
+3530,6.5," Romance, Biography"
+3531,5.9,Comedy
+3533,6.0," Thriller, Comedy"
+3540,7.3,Western
+3542,7.7,Comedy
+3547,7.0, Drama
+3548,6.4," Thriller, Crime"
+3549,5.6," Horror,  Thriller"
+3550,8.2," War,  Mystery, Drama"
+3551,6.5," Drama,  Romance"
+3553,8.1,"Action,  Drama,  Thriller"
+3554,5.4,"Horror,  Mystery"
+3555,6.3," Drama,  Musical"
+3556,7.8," Drama, Crime"
+3557,6.8,"Biography,  Drama"
+3559,7.1," Thriller, Mystery,  Romance"
+3561,7.3,"Comedy,  Crime"
+3562,5.9,Comedy
+3564,3.6, Thriller
+3565,7.7," Drama, Biography"
+3566,7.3,Drama
+3567,7.4," Drama, Crime,  Thriller"
+3569,6.9, Thriller
+3570,6.8,Drama
+3572,7.2, War
+3574,7.7," Music, Biography,  Drama"
+3575,8.1,Action
+3577,7.6," Sport,  Drama"
+3580,7.2, Romance
+3581,7.2," Romance, Musical"
+3582,8.1, War
+3583,7.5,Documentary
+3584,8.1," Crime, Biography"
+3585,7.8,Comedy
+3587,5.8, Adventure
+3588,7.6," Drama, Crime,  Thriller"
+3589,7.4,"Comedy,  Sport"
+3591,6.9,"Comedy,  Romance,  Drama"
+3592,8.6," Mystery, Crime"
+3593,5.1," Romance,  Horror, Fantasy"
+3595,7.9, Sport
+3596,6.9, Western
+3597,7.5,Comedy
+3598,7.2, Sci-Fi
+3599,5.8," Musical, Comedy,  Drama"
+3600,2.9," Family, Comedy"
+3603,6.2," Drama,  Romance"
+3605,6.8," Drama,  Fantasy"
+3606,6.1," Thriller, Comedy"
+3607,7.7,"Biography,  Drama,  History"
+3608,5.2, Thriller
+3609,6.8, Drama
+3611,7.0,Biography
+3612,5.9," Romance,  Drama"
+3613,7.1," Romance,  Thriller,  Mystery"
+3614,5.5,Comedy
+3615,7.4,"Comedy,  Drama"
+3616,7.3,"Comedy,  Crime"
+3617,4.6,Comedy
+3618,7.2,"Drama,  Romance"
+3620,5.1, Romance
+3621,6.7," Drama, Comedy"
+3622,5.3,"Comedy,  Fantasy,  Romance"
+3624,7.8," Music, Comedy,  Drama"
+3625,6.7," Drama, Action"
+3627,7.2,Drama
+3628,5.8," Crime,  Thriller, Comedy"
+3631,7.0," Drama, Comedy,  Romance"
+3634,3.8,"Action,  Sci-Fi,  Fantasy"
+3635,5.7," Drama, Biography"
+3637,6.7, Romance
+3639,6.2, Romance
+3640,6.2," Romance,  Crime, Comedy"
+3642,4.7,Comedy
+3647,6.3, Drama
+3652,7.3, Drama
+3654,6.1," Mystery, Crime,  Thriller"
+3655,7.1," History, Drama,  War"
+3659,7.1, Crime
+3662,6.7," Sport,  Drama, Comedy,  Romance"
+3663,6.9,"Drama,  Romance"
+3664,2.1, Sport
+3668,8.3,"Comedy,  Crime,  Drama"
+3669,7.2," Sport,  Drama"
+3670,5.6, Romance
+3671,7.7," Drama, Biography"
+3672,6.6," Romance,  Drama, Comedy"
+3674,7.4, Drama
+3675,7.1, Romance
+3677,7.9,"Drama,  Music"
+3678,6.7," Drama, Comedy"
+3679,6.6,Crime
+3681,4.9," Romance, Comedy,  Crime,  Thriller"
+3684,6.1,"Comedy,  Drama"
+3687,5.3," Drama, Action,  Thriller"
+3688,5.0,Comedy
+3690,7.6," Thriller, Crime,  Drama"
+3692,7.6,Comedy
+3696,6.6, Horror
+3697,6.6," Mystery, Horror"
+3698,7.3," Mystery,  Thriller,  Horror, Drama"
+3699,6.6,Comedy
+3701,5.8,Horror
+3702,4.4,"Fantasy,  Horror"
+3703,6.6," Horror, Action,  Fantasy"
+3704,7.1,Mystery
+3705,7.6,"Comedy,  Drama"
+3707,6.8, History
+3709,4.9,"Comedy,  Fantasy,  Thriller,  Horror"
+3710,7.3," Thriller,  Crime"
+3712,5.0,Fantasy
+3714,8.0,"Biography,  Drama"
+3715,5.2, Sci-Fi
+3716,8.5, Thriller
+3717,6.5,"Horror,  Mystery"
+3719,7.7," Music, Drama"
+3720,7.4," Drama, Comedy"
+3721,5.1," Music,  Drama"
+3723,5.0," Comedy, Animation"
+3726,6.4,"Comedy,  Drama"
+3728,5.6," Drama, Comedy"
+3729,6.2,"Drama,  Thriller"
+3730,6.1,"Horror,  Thriller"
+3731,5.2, Thriller
+3733,7.5,Drama
+3737,6.6," Romance,  Family"
+3738,5.3,"Crime,  Drama"
+3739,4.9, Thriller
+3740,7.7," Drama,  Romance"
+3741,8.0," Horror, Comedy"
+3743,7.6,Drama
+3744,5.9,Horror
+3746,7.2, Drama
+3747,6.3," Thriller,  Western,  Crime,  Drama, Action"
+3748,5.2," Sci-Fi, Horror"
+3749,6.9," Drama, Comedy"
+3750,6.8,Action
+3754,6.1, Romance
+3757,5.9," Family, Action,  Sci-Fi"
+3758,6.9,"Comedy,  Drama"
+3759,7.7," Mystery,  Drama,  Romance"
+3761,5.3, Thriller
+3763,7.0,"Comedy,  Drama"
+3765,6.6, Drama
+3767,6.4,"Comedy,  Crime,  Thriller"
+3768,7.9,"Drama,  Mystery"
+3771,7.7,Drama
+3772,7.2,Drama
+3775,7.4,Biography
+3777,6.4,Comedy
+3778,7.0," Drama,  Crime, Comedy,  Thriller"
+3779,7.7," Thriller, Drama"
+3780,6.8, Drama
+3781,7.0," Thriller,  Drama,  Mystery"
+3782,7.0,Drama
+3783,6.3," Drama, Biography,  Crime"
+3784,7.1," Thriller,  Music, Crime"
+3787,7.1," Crime,  Drama"
+3788,6.1,"Crime,  Drama"
+3793,7.3,"Drama,  Romance"
+3795,6.2,Drama
+3798,6.2,"Crime,  War"
+3799,3.3," Thriller,  Romance"
+3819,7.4,Comedy
+3823,5.9,Horror
+3824,6.8," Drama, Comedy"
+3825,7.4,"Drama,  Thriller"
+3826,6.7," Thriller, Fantasy,  Horror"
+3829,5.5, Horror
+3831,5.7," Drama, Crime"
+3837,7.2," Drama,  Romance"
+3841,6.7,Comedy
+3843,7.1, Romance
+3846,7.7,Drama
+3848,7.4,"Crime,  Drama,  Thriller"
+3849,8.4,Drama
+3854,8.1," Thriller,  Sci-Fi"
+3856,7.8,"Crime,  Mystery"
+3859,7.7," Drama, Crime"
+3861,6.5," Sport,  Drama"
+3862,7.3," Crime, Action"
+3865,5.9," Mystery, Drama,  Thriller"
+3867,8.7,Drama
+3873,6.1, Crime
+3876,7.6," Family, Drama"
+3879,5.8,"Adventure,  Family,  Fantasy"
+3883,6.5, Thriller
+3884,7.3,"Crime,  Romance"
+3885,6.2,Comedy
+3889,8.1,Comedy
+3890,6.7," Romance,  Family"
+3891,6.1, Drama
+3892,7.1,"Drama,  Romance"
+3893,5.6,Drama
+3894,7.6,Drama
+3901,7.1, Drama
+3902,7.3," Sci-Fi, Horror,  Thriller"
+3905,4.0," Horror, Drama"
+3907,6.7," Mystery, Comedy"
+3908,5.7,"Action,  Sci-Fi,  Thriller"
+3909,4.6,Comedy
+3911,7.0, Fantasy
+3913,5.9," Thriller, Crime,  Mystery"
+3915,4.8,Horror
+3916,7.5," Mystery, Drama,  Thriller"
+3917,4.7,Comedy
+3918,6.7," Romance, Comedy"
+3921,6.7,"Comedy,  Fantasy"
+3923,2.7,Documentary
+3926,5.8,Comedy
+3927,6.5," Romance,  Crime, Comedy"
+3928,6.6, Drama
+3930,6.9,Adventure
+3931,8.5," Music, Documentary"
+3932,4.8, Fantasy
+3935,7.0," Thriller, Drama"
+3938,6.9,Drama
+3939,6.6,"Comedy,  Romance"
+3940,5.9,"Crime,  Drama,  Horror"
+3941,6.3,Comedy
+3942,6.3,Comedy
+3944,7.0, Thriller
+3949,7.7," Drama, Comedy"
+3950,6.5," Horror,  Sci-Fi"
+3952,5.8, Drama
+3953,6.1,Drama
+3970,8.2," War, Drama,  Romance,  History"
+3971,6.0,Biography
+3972,6.8,"Adventure,  Western,  War"
+3974,7.0," Romance, Biography"
+3977,6.8," Drama,  Crime, Comedy"
+3978,7.1," Comedy, Adventure,  Musical,  Romance"
+3979,6.9,Drama
+3980,6.9,"Comedy,  Drama"
+3981,6.9," Thriller, Action"
+3984,7.2, Music
+3985,7.8,Comedy
+3987,7.3,Comedy
+3990,6.0,"Comedy,  Fantasy,  Thriller"
+3996,6.8, Mystery
+3997,3.9,Comedy
+3998,6.1,"Comedy,  Drama,  Romance"
+3999,7.5," Drama, Biography"
+4000,8.2,"Drama,  Mystery,  Thriller"
+4003,7.8," Thriller,  Horror"
+4004,5.2," Adventure,  Comedy"
+4006,6.8,Drama
+4007,7.0," Drama, Comedy"
+4008,6.5," Romance, Comedy"
+4009,5.7," Comedy,  Sci-Fi"
+4010,6.4,Comedy
+4011,5.3," Comedy,  Romance"
+4025,7.1, Drama
+4027,6.5,"Comedy,  Drama"
+4028,8.5, Music
+4029,8.7, Drama
+4033,8.3,Drama
+4035,7.4,"Drama,  Romance"
+4044,7.2,Comedy
+4046,7.6,Comedy
+4047,7.8,"Action,  Adventure,  Thriller"
+4050,8.2,Drama
+4051,6.6,Comedy
+4052,5.7,Horror
+4053,7.4,Comedy
+4054,8.0, Documentary
+4056,5.4, Horror
+4057,7.4, Romance
+4058,5.7," Sci-Fi, Horror,  Thriller"
+4060,5.4," Comedy, Biography"
+4063,5.1," Sport,  Family"
+4065,5.9," Thriller, Horror"
+4067,5.3," Sci-Fi, Adventure"
+4070,4.3," Thriller,  Horror"
+4072,7.2," Music, Comedy,  Documentary"
+4075,5.9," Comedy, Action"
+4082,7.9,"Drama,  Romance"
+4083,3.2,"Comedy,  Fantasy"
+4084,6.5," Horror,  Sci-Fi,  Fantasy"
+4086,7.0,"Comedy,  Drama"
+4089,6.9,Comedy
+4090,4.4,Comedy
+4091,6.0," Drama,  Romance, Crime,  History"
+4094,5.3,Fantasy
+4095,5.3, Crime
+4098,5.4, Crime
+4099,6.9,"Biography,  Drama"
+4101,7.3,"Crime,  Drama"
+4104,5.4," Horror, Comedy,  Drama"
+4105,8.4," Mystery,  Thriller"
+4106,6.3, Family
+4107,6.1, Comedy
+4114,5.3,"Comedy,  Romance"
+4117,5.3,Comedy
+4118,6.0,"Crime,  Thriller"
+4120,7.4,"Comedy,  Sport"
+4123,6.7,"Comedy,  Drama"
+4124,5.8," Sci-Fi,  Thriller"
+4128,6.5,"Adventure,  Family,  Fantasy"
+4141,7.0," Family,  Romance"
+4144,8.0,Drama
+4147,6.5," Romance, Comedy"
+4151,6.8,Horror
+4154,7.4,"Crime,  Music,  Drama"
+4155,8.3, Music
+4156,5.3,Horror
+4157,8.1," Fantasy,  Family"
+4158,8.0,Comedy
+4159,5.7,Horror
+4169,5.9," Thriller, Horror"
+4171,7.8,Drama
+4173,5.3," Thriller, Drama"
+4175,7.2," Thriller,  Sci-Fi"
+4180,5.1,Comedy
+4181,5.1,Documentary
+4182,4.9,Horror
+4183,6.9,Comedy
+4184,4.6, Sci-Fi
+4187,6.7,"Comedy,  Documentary"
+4189,7.6, Drama
+4190,8.1,"Drama,  Romance"
+4195,7.1, Crime
+4196,7.6,Drama
+4197,7.1," Drama, Comedy,  Romance"
+4199,7.7,"Comedy,  War,  Documentary"
+4200,7.6,Documentary
+4202,6.7,"Comedy,  Sport"
+4203,5.7,"Comedy,  Drama"
+4205,6.2,"Comedy,  Romance"
+4206,6.1," Thriller, Horror"
+4207,5.9," Thriller,  Sci-Fi, Drama"
+4208,6.8, Drama
+4212,6.8,"Drama,  History"
+4213,5.1," Horror, Drama,  Thriller,  Mystery"
+4219,3.9," Musical, Drama"
+4228,5.7,Horror
+4229,4.7,"Horror,  Thriller"
+4230,5.9,Drama
+4240,7.6,"Comedy,  Drama"
+4247,7.5," Thriller, Action,  Adventure"
+4248,5.1," Horror,  Sci-Fi"
+4251,6.9,Horror
+4254,7.6, Thriller
+4255,7.6,"Action,  Comedy"
+4257,7.6,"Biography,  Romance,  Crime"
+4258,5.3,"Drama,  Mystery,  Horror"
+4260,7.0,Drama
+4263,7.8," Drama, Animation,  Comedy"
+4264,7.2, Drama
+4266,8.0,Drama
+4267,8.1,"Drama,  Thriller"
+4270,7.2,Drama
+4273,7.4," Drama, Comedy"
+4275,6.1,"Drama,  Romance,  Music"
+4277,7.0," Thriller, Action"
+4278,5.3,"Crime,  Thriller"
+4279,4.7, Romance
+4280,5.7," Thriller, Horror"
+4282,7.8,Drama
+4283,6.5,Comedy
+4284,8.0," Biography,  History,  Documentary"
+4287,6.9," Romance, Drama"
+4291,6.8, Documentary
+4296,7.0,Comedy
+4298,6.7," Comedy,  Adventure, Action,  Sci-Fi,  Music"
+4301,5.8, Drama
+4311,6.6,"Drama,  Romance"
+4318,7.8,"Action,  Crime"
+4328,7.7," Film-Noir,  Drama,  Mystery"
+4333,5.7,"Comedy,  Sci-Fi,  Fantasy"
+4343,7.1,"Crime,  Drama"
+4344,6.4," Fantasy, Drama"
+4346,7.0,"Drama,  Mystery"
+4349,5.8,Drama
+4350,5.9," Horror,  Fantasy"
+4352,7.5,Horror
+4353,7.8," Documentary, Biography"
+4355,7.2,Drama
+4356,5.6," Thriller,  Horror"
+4360,6.8,Drama
+4363,7.3," Music, Drama"
+4375,7.8," Drama, Crime"
+4376,6.7,Drama
+4381,7.5," Drama, Crime"
+4382,6.3,"Horror,  Thriller"
+4383,6.3," Romance,  Crime"
+4384,6.8,"Drama,  Romance"
+4385,7.8,Drama
+4386,6.9,"Drama,  Romance"
+4393,7.2, Drama
+4398,7.2, Romance
+4399,5.4,Drama
+4401,7.4," Horror, Action"
+4402,7.1," Romance,  Drama"
+4403,6.8," Drama,  Sport"
+4406,7.4,"Comedy,  Drama"
+4407,6.7," Romance, Comedy,  Drama"
+4411,7.2, Mystery
+4413,6.8,"Fantasy,  Thriller,  Horror"
+4415,7.9," Thriller, Crime"
+4417,6.7,Drama
+4418,5.8,Comedy
+4419,6.5," Thriller, Crime,  Drama"
+4423,6.5,"Horror,  Mystery"
+4424,6.2,"Comedy,  Romance"
+4427,8.6," Drama,  Family"
+4428,6.5,Drama
+4429,6.3, Fantasy
+4434,6.7, Horror
+4437,5.1,"Drama,  Fantasy,  Horror"
+4446,7.0,Action
+4449,7.7," Musical,  Family, Animation,  Fantasy"
+4452,6.6,Adventure
+4458,8.2," Crime, Comedy"
+4464,6.5,Drama
+4466,6.1," Thriller,  Crime, Action"
+4484,7.2,Drama
+4485,7.7," Thriller, Horror"
+4486,7.1," Crime,  Mystery"
+4489,5.5, Sci-Fi
+4490,7.4, Drama
+4493,7.8,"Crime,  Thriller,  Mystery"
+4494,6.6,"Comedy,  Drama"
+4495,6.0," Sport, Drama"
+4496,8.4,"Crime,  Drama"
+4498,8.9,Western
+4500,6.0,Comedy
+4501,6.1,Comedy
+4511,6.2,Adventure
+4515,6.8,Comedy
+4518,5.9," Horror, Action,  Thriller"
+4522,6.1,Sci-Fi
+4523,7.6," Thriller, Action,  Crime"
+4530,8.1,"Drama,  Sport"
+4534,5.7,"Horror,  Thriller,  Mystery"
+4536,6.6,Horror
+4537,7.3," Thriller, Action,  Adventure"
+4538,5.0," Mystery,  Sci-Fi,  Thriller"
+4539,7.0," Horror, Fantasy"
+4541,5.9, Horror
+4542,6.0," Sci-Fi,  Adventure,  Drama,  Thriller"
+4543,7.4, Romance
+4544,7.4,Adventure
+4545,4.2,Horror
+4546,6.2, Music
+4551,5.4," Horror, Adventure"
+4553,7.2," Comedy,  Drama, Biography,  Romance"
+4556,6.7, Romance
+4557,7.5, Drama
+4564,6.8,Comedy
+4565,7.2," Music,  Drama, Comedy"
+4566,7.7,Documentary
+4567,7.0,"Comedy,  Drama,  Sport"
+4569,6.4," Horror,  Comedy,  Fantasy, Adventure"
+4571,7.2,"Crime,  Drama,  Mystery"
+4574,6.2,Comedy
+4575,6.9, Romance
+4576,7.0," Drama, Comedy"
+4581,7.4," Fantasy,  Drama"
+4583,6.1," Romance, Comedy"
+4584,6.7," Thriller,  Fantasy, Drama"
+4585,8.2," History,  Crime, Biography"
+4586,7.7, War
+4587,7.3,Documentary
+4590,7.6," Biography,  Documentary,  Drama"
+4592,5.6, Drama
+4594,6.4,Horror
+4595,6.8," Crime, Comedy,  Thriller"
+4596,6.1,Comedy
+4599,6.0,"Action,  Fantasy"
+4601,6.1," Drama,  Thriller"
+4602,5.5,"Drama,  Sci-Fi"
+4603,6.9,"Comedy,  Drama"
+4606,4.1,"Action,  Drama"
+4607,5.4,Comedy
+4631,7.0, Thriller
+4639,5.7,Comedy
+4642,7.1, Thriller
+4643,6.4,Drama
+4645,7.5, Drama
+4646,6.4," Fantasy, Comedy"
+4649,6.5," Thriller, Action,  Drama"
+4650,7.2,"Comedy,  Romance,  Drama"
+4653,6.0,Comedy
+4655,5.6,Drama
+4659,8.4," Mystery, Drama"
+4661,7.5,"Comedy,  Drama"
+4662,7.2, Romance
+4663,7.2,Drama
+4667,6.5," Thriller, Drama"
+4674,7.5,"Comedy,  Music"
+4676,6.9," Animation, Action,  Adventure"
+4677,7.0,"Comedy,  Drama"
+4679,6.3,"Crime,  Thriller,  Horror"
+4680,5.5,Horror
+4681,4.8," Mystery, Drama"
+4683,6.6,Drama
+4684,5.2," Thriller,  Horror"
+4688,8.3, Drama
+4691,7.2," Drama, Crime"
+4694,7.2," Adventure,  Romance"
+4696,7.2,Drama
+4706,7.8,"Comedy,  Romance"
+4707,6.4,Horror
+4708,8.1," Music,  History"
+4710,5.6," Crime, Action"
+4723,6.5, Romance
+4725,6.1," Family,  Romance, Adventure"
+4726,5.7," Horror,  Biography"
+4728,5.9," Sci-Fi, Horror"
+4730,7.7,"Comedy,  Drama"
+4731,7.1,Drama
+4733,7.6,"Biography,  Documentary,  Sport"
+4736,6.8,Documentary
+4737,6.5, Music
+4739,7.3,Drama
+4741,6.5, Romance
+4742,6.0,Comedy
+4744,6.6, Drama
+4747,8.7," Adventure,  Drama"
+4750,6.2,Comedy
+4751,5.8," Fantasy,  Horror, Comedy"
+4752,6.7," Comedy,  Sci-Fi, Adventure"
+4753,5.7, Romance
+4754,6.1, Sport
+4755,6.4, Thriller
+4758,4.6," Horror, Comedy"
+4769,3.3," Drama, Comedy"
+4778,6.4,"Adventure,  Fantasy"
+4780,5.9," Drama, Crime"
+4781,7.7," History,  War"
+4783,7.1,Comedy
+4784,6.2, Horror
+4786,7.7, Musical
+4788,7.5," Romance, Comedy"
+4791,6.9,Comedy
+4792,7.1,Crime
+4793,6.3,Horror
+4795,8.3,Adventure
+4796,7.1,Drama
+4799,7.2,Biography
+4804,6.1, Romance
+4812,6.3, Romance
+4814,6.1,"Horror,  Thriller"
+4816,7.8,Documentary
+4817,4.7, Drama
+4821,7.9,"Horror,  Thriller"
+4827,6.7,"Comedy,  Drama"
+4828,6.6, Thriller
+4829,6.9,"Comedy,  Romance"
+4830,7.1,Comedy
+4832,6.7,Drama
+4833,7.1,Drama
+4840,6.6,"Drama,  Sport"
+4842,7.4," Musical, Drama,  Romance"
+4851,6.4," Drama,  Thriller"
+4852,7.3,"Comedy,  Romance"
+4853,6.9," Romance, Comedy"
+4855,7.2," Romance, Crime,  Drama"
+4856,6.5, Drama
+4857,6.6," Drama, Comedy"
+4858,6.7," Romance, Comedy"
+4860,7.3,"Mystery,  Sci-Fi,  Thriller"
+4862,7.0," Fantasy, Animation,  Comedy,  Drama"
+4863,5.5," Thriller,  Mystery"
+4864,6.7,Drama
+4868,3.9, Thriller
+4890,7.5,Documentary
+4891,7.0,Drama
+4893,6.7," Horror,  Sci-Fi, Adventure"
+4896,7.4,Comedy
+4897,8.0,Action
+4905,7.1,"Crime,  Drama"
+4915,7.7,Crime
+4922,7.7," Romance, Drama"
+4923,6.5,Comedy
+4926,7.0," Sci-Fi,  Romance"
+4928,5.5, Drama
+4930,6.3,Comedy
+4931,7.9, Romance
+4933,7.4,Documentary
+4936,7.5," Thriller, Horror"
+4955,6.7,"Drama,  Sport"
+4956,4.2," Thriller, Horror"
+4959,7.0,Comedy
+4962,7.0,"Comedy,  Horror"
+4964,6.8," Horror,  Thriller,  Drama"
+4971,6.6," Thriller, Crime,  Horror"
+4973,7.5, Mystery
+4975,5.3, Romance
+4977,7.3,"Comedy,  Documentary"
+4978,5.6,Comedy
+4979,5.6, Drama
+4984,6.6, Romance
+4987,6.3,"Comedy,  Drama,  Romance"
+4997,7.5,Drama
+4998,7.6,"Comedy,  Romance"
+5011,7.3,Comedy
+5012,5.7," Drama,  Thriller"
+5015,7.1,"Comedy,  Drama"
+5025,6.1," Crime, Comedy,  Horror"
+5026,6.9," Music, Drama,  Romance"
+5027,7.5,Drama
+5033,7.0," Sci-Fi,  Thriller"
+5035,6.9,"Action,  Drama,  Romance"
+5042,6.6,Documentary

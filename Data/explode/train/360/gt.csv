@@ -1,0 +1,51 @@
+Region,Republicans,Total,States Included
+New England,1,21,CT
+New England,1,21, MA
+New England,1,21, ME
+New England,1,21, NH
+New England,1,21, RI
+New England,1,21, VT
+Mid-Atlantic,28,66,DE
+Mid-Atlantic,28,66, MD
+Mid-Atlantic,28,66, NJ
+Mid-Atlantic,28,66, NY
+Mid-Atlantic,28,66, PA
+Great Lakes,40,65,MI
+Great Lakes,40,65, IL
+Great Lakes,40,65, IN
+Great Lakes,40,65, OH
+Great Lakes,40,65, WI
+Midwest,21,29,IA
+Midwest,21,29, KS
+Midwest,21,29, MN
+Midwest,21,29, MO
+Midwest,21,29, ND
+Midwest,21,29, NE
+Midwest,21,29, SD
+South Atlantic,52,75,FL
+South Atlantic,52,75, GA
+South Atlantic,52,75, NC
+South Atlantic,52,75, SC
+South Atlantic,52,75, VA
+South Atlantic,52,75, WV
+South Central,60,77,AL
+South Central,60,77, AR
+South Central,60,77, KY
+South Central,60,77, LA
+South Central,60,77, MS
+South Central,60,77, OK
+South Central,60,77, TN
+South Central,60,77, TX
+Mountain,19,31,AZ
+Mountain,19,31, CO
+Mountain,19,31, ID
+Mountain,19,31, MT
+Mountain,19,31, NM
+Mountain,19,31, NV
+Mountain,19,31, UT
+Mountain,19,31, WY
+Pacific,20,71,AK
+Pacific,20,71, CA
+Pacific,20,71, HI
+Pacific,20,71, OR
+Pacific,20,71, WA

@@ -1,0 +1,339 @@
+pop,name
+0," etc, Airport"
+7," etc,  cemetery, park"
+93," Brooklyn,  cemetery, park"
+418," cemetery,  Brooklyn"
+436,"park,  etc,  Queens,  cemetery"
+540,park
+1662,"park,  Manhattan,  etc"
+1785," Queens,  cemetery"
+1849,"park,  etc,  cemetery"
+1906," etc,  cemetery, park,  Bronx"
+11091,Rikers Island
+12780,Rikers Island
+13354,Starrett City
+14621,Starrett City
+15238," Ft. Wadsworth,  Arrochar"
+16079," Ft. Wadsworth,  Arrochar"
+16784," Silver Lake, New Brighton"
+17370,West Brighton
+17373, Utopia
+17525," Silver Lake, New Brighton"
+17750,West Brighton
+17812, Utopia
+18072,Crotona Park East
+18332," Tottenville, Charleston"
+18677,Cambria Heights
+18894, Woodrow
+18950," Brookville, Springfield Gardens South"
+19101, Cooper Village
+19309,Queensboro Hill
+19655,Prospect Heights
+19834,"Grymes Hill,  Clifton,  Fox Hills"
+19996,Auburndale
+20030," Long Island City,  Ravenswood, Queensbridge"
+20088,"Battery Park City,  Lower Manhattan"
+20132," Brookville, Springfield Gardens South"
+20201,Auburndale
+20242,"New Dorp,  Midland Beach"
+20269,Hollis
+20277,Crotona Park East
+20299,Ocean Parkway South
+20556,Ocean Parkway South
+20747,Hollis
+20763,"Rossville,  Woodrow"
+20779,Windsor Terrace
+20800,Queensboro Hill
+20944,Cambria Heights
+20988,Windsor Terrace
+21049,"Stuyvesant Town,  Cooper Village"
+21052,Ozone Park
+21104," Long Island City,  Ravenswood, Queensbridge"
+21183,East Elmhurst
+21407,College Point
+21751," Clearview,  Bay Terrace, Ft. Totten"
+21896, Midland Beach
+22049,"Oakwood,  Oakwood Beach"
+22426," Floral Park, Glen Oaks,  New Hyde Park"
+22460," Clifton,  Fox Hills, Grymes Hill"
+22548, Cobble Hill
+22571,"Glen Oaks,  Floral Park"
+22731, Bay Terrace
+22887," Cobble Hill, Brooklyn Heights"
+22950,Manhattanville
+23017," Dongan Hills,  South Beach"
+23150,East Elmhurst
+23278,Kew Gardens
+23313," Richmond Valley, Charleston"
+23790,Westerleigh
+23888,Kew Gardens
+24048," Rosebank, Stapleton"
+24275,College Point
+24338, Maspeth
+24356," Douglaston, Douglas Manor,  Little Neck"
+24453,Laurelton
+24464,Bellerose
+24739," Douglaston, Douglas Manor"
+24772,Manhattanville
+24835," Dongan Hills, Old Town,  South Beach"
+25063,Rosedale
+25142,Hunts Point
+25238,Arden Heights
+25287,Bellerose
+25441,Springfield Gardens North
+25480,"Jamaica Estates,  Holliswood"
+25502,Rosedale
+25521,Elmhurst
+25768,"Westchester,  Unionport"
+25807, Midtown South
+25967,Belmont
+26061," Holliswood, Jamaica Estates"
+26079,Fort Greene
+26148, Howard Beach
+26184,Gramercy
+26196,Longwood
+26375,Laurelton
+26376," Huguenot,  Eltingville,  Prince's Bay, Annadale"
+26453,Stapleton
+26516,East Flushing
+26583," City Island,  Country Club"
+26711," Rockwy Prk,  Belle Harbor,  Broad Chnl"
+26982,East Flushing
+27135," Westchester Square, Van Nest,  Morris Park"
+27140," City Island,  Country Club"
+27204,Hunts Point
+27248,Westchester
+27378,Belmont
+27624,East New York (Pennsylvania Ave)
+27770,"Annadale,  Eltingville,  Huguenot"
+27860," Fieldston, North Riverdale"
+27873,Oakland Gardens
+27957,"Mariner's Harbor,  Port Ivory,  Graniteville"
+27988,Gramercy
+28013,"North Riverdale,  Riverdale,  Fieldston"
+28018," Belle Harbor,  Rockwy Prk"
+28121," Howard Beach, Lindenwood"
+28149,"Claremont,  Bathgate"
+28260,Rego Park
+28262,Fordham South
+28335,Fort Greene
+28510,"Allerton,  Pelham Gardens"
+28572,Bath Beach
+28630," Midtown South, Midtown"
+28847,Old Astoria
+28903,"Allerton,  Pelham Gardens"
+28916,Maspeth
+29250," Westchester Square,  Morris Park"
+29343,East New York (Pennsylvania Ave)
+29404,Rego Park
+29436,Gravesend
+29797, Melrose
+29821,Parkchester
+29872," Kingsbridge, Spuyten Duyvil"
+29931,Bath Beach
+29938,Erasmus
+30067,Ocean Hill
+30073,Pelham Parkway
+30161,Spuyten Duyvil
+30516,Maspeth
+30714," Emersn Hill,  Lighthse Hill,  Heartland Villg"
+30762," Lighthse Hill, Todt Hill,  Emersn Hill"
+30773,Whitestone
+30847," Downtown Brklyn, DUMBO"
+31071,Glendale
+31078," Bathgate, Claremont"
+31392,Erasmus
+31474," Arlington, Mariner's Harbor,  Graniteville"
+31645," Edgemere, Hammels,  Arverne"
+31734," Flushing Heights,  Hillcrest"
+31965," Coney Island, Seagate"
+32154," St. George,  New Brighton, West New Brighton"
+32496,"Kingsbridge Heights, Glendale"
+32926,Williamsburg
+33195,"Melrose South,  Mott Haven North"
+33286,Kingsbridge Heights
+33292,Clinton Hill
+33551," New Brighton,  St. George, West New Brighton"
+33844,Highbridge
+34034," Flushing Heights, Pomonok,  Hillcrest"
+34158,East Williamsburg
+34267,"Seagate,  Coney Island"
+34309,Bronxdale
+34495," Vinegar Hill,  Boerum Hill, DUMBO,  Downtown Brklyn"
+34517," Edenwald, Eastchester"
+34542,"West Farms,  Bronx River"
+34603,Baisley Park
+34719,Greenpoint
+34791,Clinton Hill
+35011,"West Farms,  Bronx River"
+35137," Bruckner, Soundview"
+35181,South Jamaica
+35244,Brighton Beach
+35422,Eastchester
+35547,Brighton Beach
+35634," Bruckner, Soundview"
+36757," Little Italy, SoHo"
+36885," Edgemere,  Arverne, Hammels"
+36891," Ocean Parkway, Kensington"
+36937," Ocean Parkway, Kensington"
+37479,Kew Gardens Hills
+37629,Middle Village
+37727,Highbridge
+37821,Greenpoint
+37865, Melrose
+38327,"Carroll Gardens,  Columbia Street,  Red Hook"
+38353," Columbia Street, Carroll Gardens,  Red Hook"
+38675, Jamaica Hills
+38894,South Jamaica
+38917,Madison
+39075,Central Harlem South
+39076,Madison
+39138, Jamaica Hills
+39214,Melrose South
+39280,East Tremont
+39282,West Concourse
+39309," Bloomfield, New Springville"
+39557,West Concourse
+39597," Travis, New Springville"
+39670,Crown Heights South
+39699,"Battery Park City,  Lower Manhattan"
+40130, South Side
+40494,Norwood
+40595,Clinton
+40676,"Co,  Op City"
+40720,Great Kills
+41680,Great Kills
+41746,East Village
+42370,Crown Heights South
+42419,Dyker Heights
+42483,"Woodlawn,  Wakefield"
+42742," Little Italy, SoHo,  TriBeCa"
+42940," Mill Basin,  Bergen Beach"
+43383,Central Harlem South
+43423,East Tremont
+43583," Wakefield, Woodlawn"
+43712,Schuylerville
+43752," Op City, Co"
+43808," Bayside Hills, Bayside"
+43846,Woodside
+44167," Throgs Neck,  Edgewater Park, Schuylerville"
+44316,Homecrest
+44371,"Bayside,  Bayside Hills"
+45099,Woodside
+45231," Marine Park,  Bergen Beach"
+45774,"North Side,  South Side"
+47156,North Corona
+47844,Chinatown
+48344," Bayswater, Far Rockaway"
+48419," Kips Bay, Murray Hill"
+48520,Hamilton Heights
+48593,St. Albans
+48961,"Cypress Hills,  City Line"
+49030,"Mott Haven,  Port Morris"
+49087,Marble Hill
+49223,Cypress Hills
+49737, East Midtown
+50058,"Far Rockaway,  Bayswater"
+50100,Van Cortlandt Village
+50355, Farragut
+50555,Hamilton Heights
+50607,Van Cortlandt Village
+50742," Kips Bay, Murray Hill"
+50753," Harding Park,  Clason Point"
+51231," East Midtown, Turtle Bay"
+51739,Murray Hill
+51807,Mount Hope
+51849,Jamaica
+52037,North Corona
+52375,Chinatown
+52413,"Mott Haven,  Port Morris"
+52504,Queens Village
+53009,Murray Hill
+53604,Steinway
+53686," Castle Hill,  Clason Point,  Harding Park, Soundview"
+53751,Jamaica
+54041,Sunset Park West
+54188,University Heights
+54208,Morningside Heights
+54335," Morris Heights, University Heights"
+54415," Fordham North, Bedford Park"
+55326,Rugby
+55329,Bedford Park
+55440,Midwood
+55839," Flat Iron, Hudson Yards,  Chelsea"
+55929,Morningside Heights
+56033,"East Flatbush,  Farragut"
+56093,Bushwick North
+57138,Bushwick North
+57148,East Harlem North
+57420,"Williamsbridge,  Olinville"
+57658,Corona
+57704,Queens Village
+57934,"Rugby,  Remsen Village"
+58019,East Harlem North
+58300,Brownsville
+58961," Concourse Village, East Concourse"
+59099,Brownsville
+59227,Bedford
+61207, Carnegie Hill
+61321," Olinville, Williamsbridge"
+61489,Lincoln Square
+61827,Stuyvesant Heights
+61947,"Hunters Point,  West Maspeth,  Sunnyside"
+62284,East Concourse
+62978,Bensonhurst East
+62982,Richmond Hill
+62985,Richmond Hill
+63271," Sunnyside,  West Maspeth"
+63664,"Upper East Side,  Carnegie Hill"
+64518, Gerritsen Beach
+64596,"Sheepshead Bay,  Manhattn Bch,  Gerritsen Beach"
+64762,Flatlands
+66150,Sunset Park East
+66726,Flatlands
+66880,West Village
+67263," Gowanus, Park Slope"
+67459,"Prospect Lefferts Gardens,  Wingate"
+67649,"Park Slope,  Gowanus"
+68483,West Village
+69317,Ridgewood
+69362,Flushing
+69455,Ridgewood
+70016,"Central Harlem North,  Polo Grounds"
+70150,"Hudson Yards,  Union Square,  Chelsea,  Flat Iron"
+70300," Wingate, Prospect Lefferts Gardens"
+70713,Bedford
+72008,Flushing
+72101,Bushwick South
+72258,Lower East Side
+72340,Sunset Park East
+72957,Lower East Side
+73457,Washington Heights North
+75282,"Central Harlem North,  Polo Grounds"
+75878,South Ozone Park
+76631," Roosevelt Island, Lenox Hill"
+76768,Yorkville
+77942,Yorkville
+78793,Astoria
+78906,South Ozone Park
+79371,Bay Ridge
+80771,"Lenox Hill,  Roosevelt Island"
+83275,East New York
+83693,Canarsie
+83728,Forest Hills
+84438,Washington Heights South
+84640,Bensonhurst West
+85046,Forest Hills
+88427,Elmhurst
+88727,Bensonhurst West
+89122,Astoria
+91958,East New York
+93671,Washington Heights South
+101055,Borough Park
+103462,Crown Heights North
+106357,Borough Park
+108152,Jackson Heights
+110875,Flatbush
+113327,Jackson Heights
+132378,Upper West Side
+136954,Upper West Side

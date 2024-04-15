@@ -1,0 +1,28 @@
+Subtitle,Activities,Y/N,Delivery Type
+3. Project Dependent,New SLA,,Document
+2. Usually Required,Systems Design,Y,Document
+1. Approvals,Database Design shanges,,Signoff
+1. Approvals,Schedule,,Signoff
+3. Project Dependent,Modify packaged solution,,Development
+2. Usually Required,Issues Log,Y,Document
+3. Project Dependent,Modify contract(s),,Document
+3. Project Dependent,Modify online service,,Development
+3. Project Dependent,New contract(s),,Document
+2. Usually Required,Test Plan,Y,Document
+3. Project Dependent,French Translation,,Document
+3. Project Dependent,New Software,,Development
+3. Project Dependent,Modify non-IT service,,Development
+2. Usually Required,Communications Plan,Y,Document
+3. Project Dependent,Update Disaster Recovery Plan,,Document
+3. Project Dependent,Modify SLA,,Document
+3. Project Dependent,Existing vendor(s) involved,,Vendor Management
+2. Usually Required,Functional Specifications,Y,Document
+3. Project Dependent,Implement new online service,,Development
+2. Usually Required,Stakeholder Analysis,Y,Document
+3. Project Dependent,New database Design,,Document
+2. Usually Required,Test Cases,Y,Document
+3. Project Dependent,New database,,Development
+3. Project Dependent,Hardware Upgrade,,Development
+3. Project Dependent,New Operations document(s),,Document
+3. Project Dependent,New Business Processes,,Document
+2. Usually Required,Weekly Status Meeting,Y,Meeting

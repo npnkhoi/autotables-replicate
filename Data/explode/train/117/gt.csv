@@ -1,0 +1,105 @@
+First Name,Last Name,Organization/ Consultant,Address,City,State,Zip,Approved Services
+Donna Ann,Harris ,"Heritage Consulting, Inc.",422 South Camac Street,Philadelphia,2,19147.0,Q
+Norma ,Ramirez de Miess,0,3457 Rock Hill View,Schertz,TX,78154.0,C
+Joan,Jefferson,NaN,2309 Hampshire Way,1,0,32309.0,F
+Ronald H. ,"Frantz Jr., AIA ","The Frantz Alliance, LLC",12200 Camelot Drive,Oklahoma City ,OK,73120.0,P
+Teresa ,Lynch ,NaN,116 Old Hickory Lane,Versialles,KY,40383.0,C
+Brad,"Cornelius, AICP","Wade Trim, Inc. ",8745 Henderson Road,Tampa,0,33634.0,P 
+Robert,Jeffrey,NaN,2302 1st. Avenue N,4,0,33713.0,0
+Kennedy ,Smith,Clue Group,P.O. Box 2345,Arlington,VA,22202.0,D
+Pauline,Eaton,Orlando Main Street Program Coordinator,5136 Stratemeyer Drive,2,0,32839.0,C
+Andrew M.,"Hayes, AIA ",Hayes Cumming Architects ,2210 Central Ave.,4,0,33712.0,O
+David P.,"Godwin, AIA",Design Sequence,204 Freddie Street,Indian Harbor Beach,0,32937.0,Q 
+James G.,"LaRue, AICP",LaRue Planning & Management Services,1375 Jackson St.,Fort Myers,0,33901.0,N
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,Q
+Dan ,Burden ,Walkable and Livable Communities Institute ,1215 Lawrence St.,Port Townsend,WA,98368.0,H
+G. Brian,"Wheeler, RLA",Genesis Group ,9822 Tapestry Park Circle,3,0,32246.0,D
+Teresa ,Lynch ,NaN,116 Old Hickory Lane,Versialles,KY,40383.0,G
+G. Brian,"Wheeler, RLA",Genesis Group ,9822 Tapestry Park Circle,3,0,32246.0,M
+Hilary ,Greenberg,Greenberg Development Services ,3015 Clarendon Rd. ,Charlotte ,1,28211.0,J 
+Teresa ,Lynch ,NaN,116 Old Hickory Lane,Versialles,KY,40383.0,A
+Donna Ann,Harris ,"Heritage Consulting, Inc.",422 South Camac Street,Philadelphia,2,19147.0,C
+Chuck ,D'Aprix,NaN,1701 The Green Way ,3,0,32250.0,F
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,GA,31015.0,H
+David ,Quinn,TMQ Consulting Services,112 Ballantree Drive,Asheville,1,28803.0,Q
+Kathy ,La Plante,0,408 Grandview Road,Pembroke,NH,3275.0,A
+Brad,"Cornelius, AICP","Wade Trim, Inc. ",8745 Henderson Road,Tampa,0,33634.0,H
+Nancy L.,"Brown, MBA",Designs in Development,P.O. Box 4460,Seminole,0,33775.0,D
+Paula,Stark,NaN,109 Orange Ave.,St.Cloud ,0,34769.0,K
+Kathy ,La Plante,0,408 Grandview Road,Pembroke,NH,3275.0,K
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,0,78209.0,G
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,G
+Charlie,Johnson,Wood + Partners,612 South Copeland Street,1,0,32304.0,H
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,GA,31015.0,A
+Robert M.,Field,"PLACE Planning & Design, Inc.",700 Rte.1,North Palm Beach ,0,33408.0,I
+Brad,"Cornelius, AICP","Wade Trim, Inc. ",8745 Henderson Road,Tampa,0,33634.0,M
+Teresa ,Lynch ,NaN,116 Old Hickory Lane,Versialles,KY,40383.0,K 
+Raul,"Ocampo, Jr., AIA",Ocampo & Associates ,417 SW California Ave.,Stuart,0,34994.0,A
+Norma ,Ramirez de Miess,0,3457 Rock Hill View,Schertz,TX,78154.0,A
+Paula,Stark,NaN,109 Orange Ave.,St.Cloud ,0,34769.0,A
+Joan,Jefferson,NaN,2309 Hampshire Way,1,0,32309.0,O
+Pauline,Eaton,Orlando Main Street Program Coordinator,5136 Stratemeyer Drive,2,0,32839.0,O
+Todd J. ,Barman,"Barman Development Strategies, LLC",308 South Monroe Street,Stoughton,WI,53589.0,D
+David,"Driapsa, ALSA  ","Florida Chapter, The American Society of Landscapes",725 103rd Avenue North,Naples,0,34108.0,P
+Chuck ,D'Aprix,NaN,1701 The Green Way ,3,0,32250.0,D
+Doris,Tillman,NaN,18951 Okeechobee Road ,Fort Pierce,0,34945.0,G
+Joan,Jefferson,NaN,2309 Hampshire Way,1,0,32309.0,A
+Raul,"Ocampo, Jr., AIA",Ocampo & Associates ,417 SW California Ave.,Stuart,0,34994.0,I
+Juan S.,"Calderon, PE","Caltran Engineering Group, Inc.",1400 NW 107th Ave.,Miami,0,33172.0,P
+Joan,Jefferson,NaN,2309 Hampshire Way,1,0,32309.0, J
+John R.,Barrow,NaN,503 Southwest 23rd Place,0,0,32601.0,P
+David,"Driapsa, ALSA  ","Florida Chapter, The American Society of Landscapes",725 103rd Avenue North,Naples,0,34108.0,N
+David P.,"Godwin, AIA",Design Sequence,204 Freddie Street,Indian Harbor Beach,0,32937.0,M
+Andrew M.,"Hayes, AIA ",Hayes Cumming Architects ,2210 Central Ave.,4,0,33712.0,H
+Kim ,Walsh-Phillips ,IO Creative Group,14 West King Street,York,2,17401.0,K
+Thomas ,Guzman ,NaN,886 Polk Boulevard,Des Moines ,IA,50312.0,Q 
+Rick ,Segel,Rick Segel & Associates ,268 Hamrick Drive,Kissimmee,0,34759.0,F
+G. Brian,"Wheeler, RLA",Genesis Group ,9822 Tapestry Park Circle,3,0,32246.0,N
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,0,78209.0,I
+Laura Lee,Corbett,Laura Lee Corbett Consulting ,1422 Devils Dip,1,0,32308.0,C
+Andrew M.,"Hayes, AIA ",Hayes Cumming Architects ,2210 Central Ave.,4,0,33712.0,P
+Raul,"Ocampo, Jr., AIA",Ocampo & Associates ,417 SW California Ave.,Stuart,0,34994.0,M
+Laura Lee,Corbett,Laura Lee Corbett Consulting ,1422 Devils Dip,1,0,32308.0,I
+Virginia (Ginger),"Corless, AICP","Herbert - Halback, Inc. (d.b.a. HHI Design",1021 E. Robinson Street,2,0,32810.0,K
+Andrew M.,"Hayes, AIA ",Hayes Cumming Architects ,2210 Central Ave.,4,0,33712.0,N
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,H
+Pauline,Eaton,Orlando Main Street Program Coordinator,5136 Stratemeyer Drive,2,0,32839.0,K
+Pauline,Eaton,Orlando Main Street Program Coordinator,5136 Stratemeyer Drive,2,0,32839.0,Q 
+Ronald,"Rollins, RLA",Miller Legg,5747 N. Andrews Way ,Fort Lauderdale ,0,33309.0,N
+David P.,"Godwin, AIA",Design Sequence,204 Freddie Street,Indian Harbor Beach,0,32937.0,I
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,D
+Keith ,Tianen,Downtown Solutions ,11572 Riverbank Lane,Pickney,MI,48169.0,I
+Robert M.,Field,"PLACE Planning & Design, Inc.",700 Rte.1,North Palm Beach ,0,33408.0,Q 
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,0,78209.0,M
+Laura Lee,Corbett,Laura Lee Corbett Consulting ,1422 Devils Dip,1,0,32308.0,A
+Nancy L.,"Brown, MBA",Designs in Development,P.O. Box 4460,Seminole,0,33775.0,C
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,0,78209.0,P
+Raul,"Ocampo, Jr., AIA",Ocampo & Associates ,417 SW California Ave.,Stuart,0,34994.0,P
+Ruth C.,"Hamberg, RLA","Green Town Planning, Land Planning, Urban Design",1573 George Street,2,0,32806.0,I
+Brad,"Cornelius, AICP","Wade Trim, Inc. ",8745 Henderson Road,Tampa,0,33634.0,I
+Todd J. ,Barman,"Barman Development Strategies, LLC",308 South Monroe Street,Stoughton,WI,53589.0,M
+Ruth C.,"Hamberg, RLA","Green Town Planning, Land Planning, Urban Design",1573 George Street,2,0,32806.0,Q
+Thomas ,Guzman ,NaN,886 Polk Boulevard,Des Moines ,IA,50312.0,O
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,0,78209.0,E
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,GA,31015.0,P
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,I
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,0,32804.0,J
+Ronald,"Rollins, RLA",Miller Legg,5747 N. Andrews Way ,Fort Lauderdale ,0,33309.0,I
+Joan,Jefferson,NaN,2309 Hampshire Way,1,0,32309.0,I
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,GA,31015.0,C
+Ronald J.,"Treharne, AIA",Ark1Tek,446 Carmel Drive ,Melbourne ,0,32840.0,0
+Ruth C.,"Hamberg, RLA","Green Town Planning, Land Planning, Urban Design",1573 George Street,2,0,32806.0,H
+Dan ,Burden ,Walkable and Livable Communities Institute ,1215 Lawrence St.,Port Townsend,WA,98368.0,N
+Rochelle W.,"Lawandales, AICP","Lawandales Planning Affiliates, Inc. ",335 Sherwood Ave. ,Satelite Beach ,0,32937.0,C
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,GA,31015.0,K
+Donna Ann,Harris ,"Heritage Consulting, Inc.",422 South Camac Street,Philadelphia,2,19147.0,B
+Rick ,Segel,Rick Segel & Associates ,268 Hamrick Drive,Kissimmee,0,34759.0,E
+Donovan ,Rypkema,Place Economics,NaN,NaN,NaN,NaN,NaN
+Kim ,Walsh-Phillips ,IO Creative Group,14 West King Street,York,2,17401.0,O 
+Kathy ,La Plante,0,408 Grandview Road,Pembroke,NH,3275.0,B
+Virginia (Ginger),"Corless, AICP","Herbert - Halback, Inc. (d.b.a. HHI Design",1021 E. Robinson Street,2,0,32810.0,P
+David P.,"Godwin, AIA",Design Sequence,204 Freddie Street,Indian Harbor Beach,0,32937.0,E
+Chuck ,D'Aprix,NaN,1701 The Green Way ,3,0,32250.0,J
+Juan S.,"Calderon, PE","Caltran Engineering Group, Inc.",1400 NW 107th Ave.,Miami,0,33172.0,N
+Norma ,Ramirez de Miess,0,3457 Rock Hill View,Schertz,TX,78154.0,K
+Virginia (Ginger),"Corless, AICP","Herbert - Halback, Inc. (d.b.a. HHI Design",1021 E. Robinson Street,2,0,32810.0,M

@@ -1,0 +1,9 @@
+Region,Democrats,Republicans,Total,States Included
+Great Lakes,25,40,65," WI,  IL, MI,  IN,  OH"
+Mid-Atlantic,38,28,66," PA,  NJ,  MD, DE,  NY"
+Midwest,8,21,29," NE,  KS,  MN, IA,  MO,  ND,  SD"
+Mountain,12,19,31," NV,  MT,  UT,  NM,  WY,  ID,  CO, AZ"
+New England,20,1,21," VT,  MA,  RI,  NH,  ME, CT"
+Pacific,51,20,71,"AK,  HI,  WA,  CA,  OR"
+South Atlantic,23,52,75,"FL,  SC,  NC,  VA,  WV,  GA"
+South Central,17,60,77," AR,  TX, AL,  OK,  TN,  LA,  KY,  MS"

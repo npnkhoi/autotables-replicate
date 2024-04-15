@@ -1,0 +1,17 @@
+LC Stage,Process
+Supplier,0
+Supplier,"Batch in dedicated equipment, frequent cleaning"
+Supplier,"Batch in dedicated equipment, infrequent cleaning"
+Supplier,1
+Supplier,Other
+Supplier,2
+Producer,0
+Producer,Batch production in dedicated equipment and infrequent cleaning operations
+Producer,Batch production in dedicated equipment and frequent cleaning operations
+Producer,1
+Producer,3
+Producer,2
+User,3
+User,Non-dispersive use (industrial point sources)
+User,Wide dispersive use (many small point sources or diffuse releases)
+User,2

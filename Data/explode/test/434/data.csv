@@ -1,0 +1,129 @@
+Team,Nickname,City,Current Conference,First Played,Joined FBS,Former Conferences
+Air Force,Falcons,Colorado Springs,Mountain West,1955,NaN,WAC
+Akron,Zips,Akron,MAC,1891,1987.0," OVC,  MCC, OAC"
+Alabama,Crimson Tide,Tuscaloosa,SEC,1892,NaN," SoCon, SIAA"
+Appalachian State,Mountaineers,Boone,Sun Belt,1928,2014.0,"NSC,  SoCon"
+Arizona,Wildcats,Tucson,Pac-12,1899,NaN,"BIAA,  WAC"
+Arizona State,Sun Devils,Tempe,Pac-12,1896,NaN," WAC, BIAA"
+Arkansas,Razorbacks,Fayetteville,SEC,1894,NaN,SWC
+Arkansas State,Red Wolves,Jonesboro,Sun Belt,1911,1992.0,"Arkansas Intercollegiate Conference,  Southland,  Big West"
+Army West Point,Black Knights,West Point,Independent,1890,NaN,C-USA
+Auburn,Tigers,Auburn,SEC,1892,NaN," SoCon, SIAA"
+BYU,Cougars,Provo,Independent,1921,NaN," MW, Rocky Mountain,  Mountain States,  WAC"
+Ball State,Cardinals,Muncie,MAC,1924,NaN," ICC, IIC"
+Baylor,Bears,Waco,Big 12,1899,NaN,"TIAA,  SWC"
+Boise State,Broncos,Boise,Mountain West,1933,1996.0," WAC,  Big West,  Big Sky, ICAC"
+Boston College,Eagles,Chestnut Hill,ACC,1893,NaN,Big East
+Bowling Green,Falcons,Bowling Green,MAC,1919,NaN,"Northwest Ohio Intercollegiate Athletic Association,  OAC"
+Buffalo,Bulls,Buffalo,MAC,1894,1999.0,New York State Conference
+California,Golden Bears,Berkeley,Pac-12,1882,NaN,PCC
+Central Michigan,Chippewas,Mount Pleasant,MAC,1896,NaN,"MCC,  IIAC"
+Charlotte,49ers,Charlotte,C-USA,2013,2015.0,"Sun Belt,  A-10,  C-USA"
+Cincinnati,Bearcats,Cincinnati,American,1885,NaN," MVC,  C-USA,  MAC,  Buckeye Intercollegiate Athletic Association, OAC,  Big East"
+Clemson,Tigers,Clemson,ACC,1896,NaN," SAIAA,  SoCon, SIAA"
+Colorado,Buffaloes,Boulder,Pac-12,1890,NaN," Mountain States,  Rocky Mountain,  Big 12,  Big Eight, Colorado Football Association"
+Colorado State,Rams,Fort Collins,Mountain West,1890,NaN," WAC,  Mountain States,  Rocky Mountain, Colorado Football Association"
+Connecticut,Huskies,Storrs,American,1896,2000.0,"Yankee,  A-10,  Big East"
+Duke,Blue Devils,Durham,ACC,1888,NaN,SoCon
+East Carolina,Pirates,Greenville,American,1932,NaN,"NSC,  Carolinas,  C-USA,  SoCon"
+Eastern Michigan,Eagles,Ypsilanti,MAC,1891,NaN," IIAC,  MCC, MIAA,  PAC"
+FIU,Panthers,Miami,C-USA,2002,2006.0,Sun Belt
+Florida,Gators,Gainesville,SEC,1906,NaN," SoCon, SIAA"
+Florida Atlantic,Owls,Boca Raton,C-USA,2001,2006.0,Sun Belt
+Florida State,Seminoles,Tallahassee,ACC,1947,NaN,Dixie
+Fresno State,Bulldogs,Fresno,Mountain West,1921,NaN," NCAC,  Big West,  CCAA,  WAC, California Coast Conference"
+Georgia,Bulldogs,Athens,SEC,1892,NaN," SoCon, SIAA"
+Georgia Southern,Eagles,Statesboro,Sun Belt,1924,2014.0,SoCon
+Georgia State,Panthers,Atlanta,Sun Belt,2010,2013.0,CAA
+Georgia Tech,Yellow Jackets,Atlanta,ACC,1892,NaN," SEC,  SoCon, SIAA"
+Hawai'i,Rainbow Warriors,Honolulu,Mountain West,1909,NaN,WAC
+Houston,Cougars,Houston,American,1946,NaN,"Lone Star,  Gulf Coast,  MVC,  C-USA,  SWC"
+Idaho,Vandals,Moscow,Sun Belt,1893,1996.0," Big West,  Big Sky, PCC,  Sun Belt,  WAC"
+Illinois,Fighting Illini,Urbana–Champaign,Big Ten,1890,NaN,Illinois Intercollegiate Football League
+Indiana,Hoosiers,Bloomington,Big Ten,1887,NaN,IIAA
+Iowa,Hawkeyes,Iowa City,Big Ten,1889,NaN," MVC, WIUFA"
+Iowa State,Cyclones,Ames,Big 12,1892,NaN," Big 8, MVC"
+Kansas,Jayhawks,Lawrence,Big 12,1890,NaN,"KCAC,  MVC,  Big 8,  WIUFA"
+Kansas State,Wildcats,Manhattan,Big 12,1896,NaN," Big 8, MVC"
+Kent State,Golden Flashes,Kent,MAC,1920,NaN,OAC
+Kentucky,Wildcats,Lexington,SEC,1881,NaN,"SIAA,  SoCon"
+LSU,Tigers,Baton Rouge,SEC,1893,NaN," SoCon, SIAA"
+Louisiana Tech,Bulldogs,Ruston,C-USA,1901,1989.0," Southland,  Big West,  WAC, Louisiana Intercollegiate Athletic Association,  Louisiana Intercollegiate Conference,  Gulf States Conference,  SIAA"
+Louisiana-Lafayette,Ragin' Cajuns,Lafayette,Sun Belt,1902,NaN," Big West,  SIAA, Louisiana Intercollegiate Athletic Association,  Gulf States Conference,  Southland,  Louisiana Intercollegiate Conference"
+Louisiana-Monroe,Warhawks,Monroe,Sun Belt,1951,1994.0," Southland,  Independent, Gulf States Conference"
+Louisville,Cardinals,Louisville,ACC,1910,NaN," Big East,  SIAA,  American,  KIAC,  OVC, KIAC,  C-USA,  MVC"
+Marshall,Thundering Herd,Huntington,C-USA,1895,1997.0," Buckeye Conference,  MAC,  SoCon,  OVC, WVIAC"
+Maryland,Terrapins,College Park,Big Ten,1888,NaN,"MIFA,  SoCon,  SAIAA,  ACC"
+Massachusetts,Minutemen,Amherst,Independent,1879,2012.0," CAA, Yankee,  MAC,  A-10"
+Memphis,Tigers,Memphis,American,1912,NaN," SIAA,  MVC,  C-USA, Mississippi Valley Conference"
+Miami (FL),Hurricanes,Coral Gables,ACC,1926,NaN,"SIAA,  Big East"
+Miami (OH),RedHawks,Oxford,MAC,1888,NaN,"OAC,  Buckeye Conference"
+Michigan,Wolverines,Ann Arbor,Big Ten,1878,NaN,NaN
+Michigan State,Spartans,East Lansing,Big Ten,1885,NaN,MIAA
+Middle Tennessee,Blue Raiders,Murfreesboro,C-USA,1911,1999.0,"VSAC,  Sun Belt,  OVC,  SIAA"
+Minnesota,Golden Gophers,Minneapolis,Big Ten,1882,NaN,NaN
+Mississippi State,Bulldogs,Starkville,SEC,1895,NaN,"SIAA,  SoCon"
+Missouri,Tigers,Columbia,SEC,1890,NaN,"WIUFA,  Big 12,  Big 8"
+NC State,Wolfpack,Raleigh,ACC,1892,NaN,"SAIAA,  SoCon,  SIAA"
+NIU,Huskies,DeKalb,MAC,1899,NaN,"IIAC,  Big West"
+Navy,Midshipmen,Annapolis,American,1879,NaN,Independent
+Nebraska,Cornhuskers,Lincoln,Big Ten,1890,NaN," Big 12,  MVC,  Big 8, WIUFA"
+Nevada,Wolf Pack,Reno,Mountain West,1896,1992.0," WAC, NCAC,  Big West,  Big Sky"
+New Mexico,Lobos,Albuquerque,Mountain West,1892,NaN,"BIAA,  WAC"
+New Mexico State,Aggies,Las Cruces,Sun Belt,1893,NaN," Big West, BIAA,  Sun Belt,  WAC,  MVC"
+North Carolina,Tar Heels,Chapel Hill,ACC,1888,NaN," SIAA, SAIAA,  SoCon"
+North Texas,Mean Green,Denton,C-USA,1913,1995.0,"TIAA,  Lone Star,  Southland,  Sun Belt,  Gulf Coast Conference,  Big West,  MVC"
+Northwestern,Wildcats,Evanston,Big Ten,1875,NaN,NaN
+Notre Dame,Fighting Irish,South Bend,Independent,1887,NaN,NaN
+Ohio,Bobcats,Athens,MAC,1894,NaN,"OAC,  Buckeye Conference"
+Ohio State,Buckeyes,Columbus,Big Ten,1889,NaN,OAC
+Oklahoma,Sooners,Norman,Big 12,1895,NaN," Big 8, Oklahoma Intercollegiate Conference,  MVC,  SWC"
+Oklahoma State,Cowboys,Stillwater,Big 12,1901,NaN," Big 8, Oklahoma Intercollegiate Conference,  SWC,  MVC"
+Old Dominion,Monarchs,Norfolk,C-USA,2009,2014.0,CAA
+Ole Miss,Rebels,Oxford,SEC,1890,NaN,"SIAA,  SoCon"
+Oregon,Ducks,Eugene,Pac-12,1894,NaN," Independent, PCC"
+Oregon State,Beavers,Corvallis,Pac-12,1893,NaN," Independent, PCC"
+Penn State,Nittany Lions,State College,Big Ten,1881,NaN,NaN
+Pittsburgh,Panthers,Pittsburgh,ACC,1890,NaN,Big East
+Purdue,Boilermakers,West Lafayette,Big Ten,1887,NaN,IIAA
+Rice,Owls,Houston,C-USA,1912,NaN," SWC, TIAA,  WAC"
+Rutgers,Scarlet Knights,Piscataway,Big Ten,1869,NaN," Big East,  American, Middle Atlantic"
+SMU,Mustangs,University Park,American,1915,NaN," SWC,  WAC,  C-USA, TIAA"
+San Diego State,Aztecs,San Diego,Mountain West,1921,NaN," WAC, Southern California Junior College Conference,  SCIAC,  Big West,  CCAA"
+San Jose State,Spartans,San Jose,Mountain West,1892,NaN," NCAC,  Big West,  WAC,  California Collegiate, California Coast Conference"
+South Alabama,Jaguars,Mobile,Sun Belt,2009,2012.0,NaN
+South Carolina,Gamecocks,Columbia,SEC,1892,NaN," ACC, SIAA,  SoCon"
+South Florida,Bulls,Tampa,American,1997,2001.0," Big East, C-USA"
+Southern Miss,Golden Eagles,Hattiesburg,C-USA,1912,NaN,"Gulf States Conference,  SIAA"
+Stanford,Cardinal,Stanford,Pac-12,1891,NaN,PCC
+Syracuse,Orange,Syracuse,ACC,1889,NaN,Big East
+TCU,Horned Frogs,Fort Worth,Big 12,1896,NaN," SWC,  MW,  C-USA, TIAA,  WAC"
+Temple,Owls,Philadelphia,American,1894,NaN," MAC,  Big East,  Big East, Middle Atlantic"
+Tennessee,Volunteers,Knoxville,SEC,1891,NaN,"SIAA,  SoCon"
+Texas,Longhorns,Austin,Big 12,1893,NaN,"SIAA,  SWC,  TIAA"
+Texas A&M,Aggies,College Station,SEC,1894,NaN," Big 12,  SWC, SIAA"
+Texas State,Bobcats,San Marcos,Sun Belt,1904,2012.0,"TIAA,  Lone Star,  Southland,  Gulf Star,  WAC"
+Texas Tech,Red Raiders,Lubbock,Big 12,1925,NaN,"BIAA,  SWC"
+Toledo,Rockets,Toledo,MAC,1917,NaN,"Northwestern Ohio Intercollegiate Athletic Association,  OAC"
+Troy,Trojans,Troy,Sun Belt,1909,2002.0," Mid-South Athletic Conference,  Gulf South,  SIAA, Alabama Intercollegiate Conference,  Alabama Collegiate Conference,  Southland"
+Tulane,Green Wave,New Orleans,American,1893,NaN," SEC, SIAA,  SoCon,  C-USA"
+Tulsa,Golden Hurricane,Tulsa,American,1895,NaN," Big 4 Conference,  MVC, Oklahoma Intercollegiate Conference,  WAC,  C-USA"
+UCF,Knights,Orlando,American,1979,1996.0,"MAC,  C-USA"
+UCLA,Bruins,Los Angeles,Pac-12,1919,NaN," PCC, SCIAC"
+UNLV,Rebels,Las Vegas,Mountain West,1968,1978.0," WAC, Big West"
+USC,Trojans,Los Angeles,Pac-12,1888,NaN,PCC
+UTEP,Miners,El Paso,C-USA,1914,NaN,"BIAA,  WAC"
+UTSA,Roadrunners,San Antonio,C-USA,2011,2012.0,WAC
+Utah,Utes,Salt Lake City,Pac-12,1892,NaN,"Colorado Football Association,  MW,  RMAC,  Mountain States,  WAC"
+Utah State,Aggies,Logan,Mountain West,1892,NaN," Big West,  Mountain States,  Sun Belt,  WAC,  Independent,  RMAC, Colorado Football Association"
+Vanderbilt,Commodores,Nashville,SEC,1890,NaN," SoCon, SIAA"
+Virginia,Cavaliers,Charlottesville,ACC,1888,NaN,"SAIAA,  SoCon"
+Virginia Tech,Hokies,Blacksburg,ACC,1892,NaN," SIAA,  Big East, SAIAA,  SoCon"
+Wake Forest,Demon Deacons,Winston-Salem,ACC,1888,NaN,"Big Five Conference,  SoCon"
+Washington,Huskies,Seattle,Pac-12,1889,NaN,PCC
+Washington State,Cougars,Pullman,Pac-12,1893,NaN," Independent, PCC"
+West Virginia,Mountaineers,Morgantown,Big 12,1891,NaN,"SoCon,  Big East,  WVIAC"
+Western Kentucky,Hilltoppers,Bowling Green,C-USA,1913,2009.0," MVFC,  OVC, SIAA,  KIAC,  Sun Belt"
+Western Michigan,Broncos,Kalamazoo,MAC,1905,NaN,MCC
+Wisconsin,Badgers,Madison,Big Ten,1889,NaN,NaN
+Wyoming,Cowboys,Laramie,Mountain West,1893,NaN," WAC,  RMAC, Colorado Football Association"

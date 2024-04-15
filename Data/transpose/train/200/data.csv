@@ -1,0 +1,4 @@
+birthdate,deathdate,gender,label,work
+date,date,string,string,list
+0.8640000000000001,0.447,1.0,1.0,0.23399999999999999
+0.688,0.809,0.0,1.0,0.9890000000000001

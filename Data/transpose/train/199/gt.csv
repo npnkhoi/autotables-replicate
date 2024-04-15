@@ -1,0 +1,6 @@
+Data Type,Index,Density,Uniqueness
+list,work,0.23399999999999999,0.9890000000000001
+date,deathdate,0.447,0.809
+date,birthdate,0.8640000000000001,0.688
+string,gender,1.0,0.0
+string,label,1.0,1.0

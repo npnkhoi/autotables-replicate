@@ -1,0 +1,30 @@
+Subpart,Material group,Substances,CAS number,Mass(%) of subpart,Mass(%) of total product
+Lead Frame,Iron-nickel alloy,Iron (Fe),7439-89-6,44.650209999999994,15.40241
+Mould Compound,Polymer,Phenol Formaldehyde resin 1,9003-35-4,7.1,4.3214
+Wire,Pure metal,Copper (Cu),7440-50-8,100.0,0.12426
+Post-plating,Tin solder,Bismuth (Bi),7440-69-9,0.00476,0.00018
+Lead Frame,Iron-nickel alloy,Cobalt (Co),7440-48-4,0.42985,0.14828
+Wire,Pure metal,subTotal,,100.0,0.12426
+Lead Frame,Pure metal layer,Silver (Ag),7440-22-4,2.31992,0.80027
+Post-plating,Tin solder,Tin (Sn),7440-31-5,99.9762,3.79186
+Mould Compound,Polymer,Epichlorohydrin/o-Cresol/Formaldehyde polymer 1,29690-82-2,17.5,10.65134
+Wire,Pure metal,total,,100.0,100.0
+Lead Frame,Iron-nickel alloy,Sulphur (S),7704-34-9,0.0199,0.00686
+Lead Frame,Pure metal layer,Copper (Cu),7440-50-8,16.84991,5.8125
+Mould Compound,Polymer,subTotal,,100.0,60.86484
+Lead Frame,Pure metal layer,subTotal,,100.0,34.495709999999995
+Lead Frame,Iron-nickel alloy,Phosphorous (P),7723-14-0,0.0199,0.00686
+Lead Frame,Iron-nickel alloy,Nickel (Ni),7440-02-0,34.54015,11.91488
+Lead Frame,Iron-nickel alloy,Silicon (Si),7440-21-3,0.26021,0.08976
+Lead Frame,Iron-nickel alloy,Aluminium (Al),7429-90-5,0.09005,0.03106
+Lead Frame,Iron-nickel alloy,Chromium (Cr),7440-47-3,0.09005,0.03106
+Die,Doped silicon,subTotal,,100.0,0.72243
+Mould Compound,Pigment,Carbon black,1333-86-4,0.3,0.18259
+Post-plating,Tin solder,subTotal,,100.0,3.79276
+Post-plating,Tin solder,Copper (Cu),7440-50-8,0.00476,0.00018
+Post-plating,Tin solder,Antimony (Sb),7440-36-0,0.00476,0.00018
+Lead Frame,Iron-nickel alloy,Carbon (C),7440-44-0,0.03979,0.013730000000000001
+Lead Frame,Iron-nickel alloy,Manganese (Mn),7439-96-5,0.69006,0.23804
+Post-plating,Tin solder,Lead (Pb),7439-92-1,0.00952,0.00036
+Die,Doped silicon,Silicon (Si),7440-21-3,100.0,0.72243
+Mould Compound,Filler,Silica fused,60676-86-0,75.1,45.709509999999995

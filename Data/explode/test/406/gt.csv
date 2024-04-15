@@ -1,0 +1,958 @@
+Champion(s),Record,Coach,Selector(s)
+Michigan,10–0–1,Bo Schembechler, PS
+Nebraska,12–0,Tom Osborne, B(QPRS)
+Miami (FL),11–1,Dennis Erickson, DuS
+Tennessee,13–0,Phillip Fulmer, SN
+Notre Dame,9–0–1,Ara Parseghian, FWAA
+Florida,13–1,Urban Meyer, FWAA
+Oklahoma,11–1,Barry Switzer, HAF
+Clemson,12–0,Danny Ford, NCF
+Georgia,12–0,Vince Dooley, FWAA
+Notre Dame,9–0–1,Frank Leahy, DuS
+Miami (FL),12–0,Larry Coker, DuS
+USC,12–1,Pete Carroll, MGR
+Ohio State,10–0,Woody Hayes, B(QPRS)
+Notre Dame,11–0,Ara Parseghian, HAF
+Yale,10–0,Howard Jones, HAF
+Notre Dame,11–0,Ara Parseghian, NCF
+Minnesota,8–0,Bernie Bierman, DeS
+Harvard,10–0–1,Benjamin Dibblee, HS
+Michigan,11–0,Fielding H. Yost,BR
+Texas,11–0,Darrell Royal, HAF
+Michigan,7–0–1,Harry Kipke, NCF
+USC,10–2,Howard Jones,HS
+BYU,13–0,LaVell Edwards, NFF
+Ohio State,14–1,Urban Meyer, W
+Princeton,6–0,NaN, PD
+BYU,13–0,LaVell Edwards, SR
+USC,12–1,John Robinson, R(FACT)
+Notre Dame,9–0–1,Ara Parseghian, L
+Alabama,10–0,Wallace Wade, HS
+Florida State,12–0,Bobby Bowden, B(QPRS)
+Texas,8–1–1,Dana X. Bible,B(QPRS)
+Ohio State,10–0,Woody Hayes, NFF
+Illinois,6–1,Robert Zuppke, PD
+Alabama,10–0,Frank Thomas,NCF
+Florida,13–1,Urban Meyer,AP
+Princeton,8–0,William Roper, PD
+Florida,12–1,Steve Spurrier, FWAA
+Notre Dame,12–0,Lou Holtz, SN
+LSU,12–2,Les Miles, BR
+Minnesota,8–0,Bernie Bierman, SR
+Penn State,11–1,Joe Paterno, DeS
+Texas,13–0,Mack Brown, CCR
+Florida,13–1,Urban Meyer, CCR
+LSU,11–0,Paul Dietzel, B(QPRS)
+LSU,11–0,Paul Dietzel, SR
+Michigan State,9–0,Biggie Munn, CFRA
+USC,10–0,Howard Jones, WS
+USC,11–0,John McKay,AP
+Michigan,7–0–1,Harry Kipke,BR
+Florida State,12–1,Bobby Bowden, NCF
+Harvard,11–0,George C. Adams, HAF
+Vanderbilt,8–0–1,Dan McGugin,B(QPRS)
+Princeton,8–0,William Roper, CFRA
+Ohio State,14–0,Jim Tressel, MCFR
+USC,12–1,John Robinson, NCF
+Auburn,14–0,Gene Chizik, B(QPRS)
+Michigan,11–0,Fielding H. Yost, HS
+Princeton,8–0,William Roper, SR
+Penn,12–0,Carl S. Williams, NCF
+Miami (FL),12–0,Dennis Erickson, NYT
+Army,9–0,Earl Blaik, HS
+Miami (FL),10–2,Dennis Erickson, NYT
+Auburn,14–0,Gene Chizik, BR
+USC,11–1,John Robinson, BR
+Notre Dame,8–0–1,Frank Leahy, DuS
+LSU,13–1,Nick Saban, DeS
+USC,10–1,John McKay, UPI
+Notre Dame,11–1,Dan Devine, NCF
+Oklahoma,11–0,Barry Switzer, BR
+Nebraska,12–0,Tom Osborne, SN
+Pittsburgh,12–0,Johnny Majors,AP
+Michigan,12–0,Lloyd Carr, FWAA
+Florida,12–1,Steve Spurrier, MGR
+Tennessee,11–1,Robert Neyland,BR
+Clemson,14–1,Dabo Swinney, CFRA
+LSU,12–2,Les Miles, USAT
+USC,10–1,John McKay,AP
+Army,9–0,Earl Blaik,AP
+Georgia,12–0,Vince Dooley, R(FACT)
+Pittsburgh,12–0,Johnny Majors, R(FACT)
+Yale,12–0,Malcolm McBride, PD
+Nebraska,13–0,Tom Osborne, NCF
+Texas,11–0,Darrell Royal, BR
+Pittsburgh,8–1–1,Jock Sutherland, HS
+Auburn,11–1,Pat Dye, NYT
+Alabama,14–1,Nick Saban, CCR
+LSU,12–2,Les Miles, MCFR
+Miami (FL),12–0,Larry Coker, FN
+California,9–0–1,Andy Smith,HS
+Utah,13–0,Kyle Whittingham, MCFR
+Yale,13–0,Walter Camp, PD
+Army,9–0–1,Earl Blaik, PS
+Minnesota,8–0,Bernie Bierman,AP
+Minnesota,8–0,Bernie Bierman, B(QPRS)
+USC,9–0–1,Howard Jones, SR
+Army,9–0,Earl Blaik, L
+California,9–0,Andy Smith, HS
+Miami (FL),11–1,Dennis Erickson, FWAA
+Michigan,11–0,Fielding H. Yost,HAF
+USC,10–0,Howard Jones, DuS
+Oklahoma,11–1,Barry Switzer, CFRA
+Army,9–0,Earl Blaik, DuS
+Georgia Tech,11–0–1,Bobby Ross, NCF
+Florida,9–1–1,Galen Hall,SR
+Oklahoma,11–1,Barry Switzer, NCF
+Kentucky,11–1,"Paul ""Bear"" Bryant",SR
+Notre Dame,9–0–1,Ara Parseghian, NFF
+Nebraska,12–0,Tom Osborne, UPI
+Michigan,9–0,Bennie Oosterbaan,AP
+Notre Dame,10–0,Knute Rockne, DiS
+Florida,12–1,Steve Spurrier, DeS
+Clemson,12–0,Danny Ford, R(FACT)
+Ohio State,14–0,Jim Tressel, SN
+Alabama,9–1–1,"Paul ""Bear"" Bryant", CFRA
+Oklahoma,10–0–1,Barry Switzer, DuS
+Alabama,10–0,Wallace Wade, HAF
+Notre Dame,10–0,Knute Rockne, BS
+Alabama,12–0,"Paul ""Bear"" Bryant", B(QPRS)
+Ohio State,9–1,Woody Hayes, FWAA
+Princeton,7–0–1,NaN, PD
+Michigan State,9–0,Biggie Munn,BR
+Michigan State,9–0–1,Duffy Daugherty, PS
+Illinois,6–1,Robert Zuppke, SR
+Illinois,7–0–1,Robert Zuppke, PD
+BYU,13–0,LaVell Edwards, UPI
+Oklahoma,10–0,Bud Wilkinson,AP
+Yale,11–0–1,Joseph R. Swan,PD
+Clemson,12–0,Danny Ford, MGR
+Harvard,9–0–1,Bob Fisher, HAF
+USC,10–2,Howard Jones, SR
+Alabama,13–0,Gene Stallings, FWAA
+USC,11–0,John McKay, WS
+Notre Dame,9–0–1,Ara Parseghian, PS
+Ole Miss,10–0,Johnny Vaught,BR
+Clemson,12–0,Danny Ford, NFF
+USCc,11–0d,Pete Carroll, DeS
+Oklahoma,10–0–1,Barry Switzer,CFRA
+USC,11–0,John McKay, DeS
+Georgia,11–1,Wally Butts, HS
+Penn State,12–0,Joe Paterno, SR
+Alabama,11–0,"Paul ""Bear"" Bryant", HAF
+Princeton,10–0–1,Franklin Morse, NCF
+Miami (FL),11–1,Howard Schnellenberger, FN
+Michigan,7–0–1,Harry Kipke, HS
+Notre Dame,10–0,Frank Leahy, DuS
+Oklahoma,11–0,Bud Wilkinson, B(QPRS)
+SMU,12–1,Matty Bell, HS
+Oklahoma,10–1,Bud Wilkinson,AP
+Florida,9–1–1,Galen Hall, R(FACT)
+Dartmouth,8–0,Jesse Hawley,DiS
+Pittsburgh,8–1,Jock Sutherland,PD
+Princeton,10–0,NaN, PD
+Penn,12–0,Carl S. Williams, HS
+Tennessee,11–0,Robert Neyland, BS
+Miami (FL),12–0,Jimmy Johnson, FN
+Clemson,12–0,Danny Ford, BR
+Ohio State,14–1,Urban Meyer, USAT/AMWAY
+Notre Dame,10–0,Knute Rockne, B(QPRS)
+USCc,11–0d,Pete Carroll,A&H
+Iowa,8–1,Forest Evashevski, SR
+Stanford,10–0–1,"Glenn ""Pop"" Warner", NCF
+Penn,14–0,George Washington Woodruff, HAF
+Notre Dame,10–0,Knute Rockne,BR
+Ohio State,8–0–1,Woody Hayes, PS
+Michigan,10–0,Fritz Crisler, HAF
+Ohio State,9–1,Woody Hayes, DeS
+Nebraska,12–1,Tom Osborne, L
+Yale,12–0,Malcolm McBride,BR
+Yale,9–0,NaN, PD
+Texas A&M,11–0,Homer Norton, BR
+Alabama,14–1,Nick Saban, W
+USC,10–1,John McKay, NFF
+Michigan,12–0,Lloyd Carr, NCF
+Princeton,12–1,NaN, PD
+Alabama,14–0,Nick Saban, CCR
+Army,9–0,Earl Blaik, WS
+Army,9–0–1,Earl Blaik, CFRA
+Princeton,9–0,NaN,BR
+Alabama,11–0,"Paul ""Bear"" Bryant", SR
+Florida,13–1,Urban Meyer, BCS
+Syracuse,11–0,Ben Schwartzwalder, HAF
+Oklahoma,11–1,Barry Switzer, R(FACT)
+Notre Dame,10–1,Ara Parseghian, SR
+Notre Dame,12–0,Lou Holtz, NYT
+Notre Dame,9–1,Frank Leahy, DeS
+Stanford,10–0,Clark Shaughnessy, HAF
+Texas A&M,11–0,Homer Norton, WS
+Oklahoma,11–0,Bud Wilkinson, DuS
+Ohio State,10–0,Woody Hayes, SR
+Oklahoma,11–1,Barry Switzer,AP
+Army,9–0,Charles Daly, HS
+Oklahoma,10–2,Barry Switzer,DuS
+Ohio State,14–1,Urban Meyer, MCFR
+Purdue,9–1,Noble Kizer,PD
+Miami (FL),12–0,Dennis Erickson, NCF
+Florida State,12–1,Bobby Bowden,AP
+Michigan State,10–1,Duffy Daugherty, DuS
+Oklahoma,10–0,Bud Wilkinson, NCF
+Army,9–0,Earl Blaik, BR
+Yale,12–0,Malcolm McBride, HS
+Oklahoma A&M,9–0,Jim Lookabaugh,BRC
+USC,12–1,Pete Carroll, CCR
+LSU,12–2,Les Miles, BCS
+Penn State,11–1,Joe Paterno, HAF
+USC,12–1,John Robinson, HAF
+Michigan,10–0,Fritz Crisler, SR
+Penn State,11–1,Joe Paterno, SR
+Auburn,10–0,Ralph Jordan, SR
+LSU,13–1,Nick Saban, NFF
+Nebraska,13–0,Bob Devaney, L
+Ohio State,14–0,Jim Tressel, ERS
+Nebraska,12–1,Tom Osborne, DeS
+Michigan,10–1–1,Bo Schembechler,MGR
+Yale,8–0,NaN,BR
+Notre Dame,9–0,Knute Rockne, HAF
+Oklahoma,11–1,Barry Switzer,DeS
+Notre Dame,10–1,Ara Parseghian, R(FACT)
+Nebraska,11–1,Tom Osborne,NCF
+Arkansas,11–1,Lou Holtz,R(FACT)
+Michigan,11–0–1,Fielding H. Yost,NCF
+Pittsburgh,9–1,Jock Sutherland,PD
+Miami (FL),11–1,Howard Schnellenberger, UPI
+Texas A&M,10–0,Dana X. Bible, NCF
+Alabama,14–0,Nick Saban, NFF
+USC,11–0,John McKay, CFRA
+USC,11–0–1,John Robinson,CFRA
+Harvard,8–0–1,Percy Haughton, NCF
+LSU,13–1,Nick Saban,A&H
+Alabama,13–0,Gene Stallings, DuS
+Miami (FL),12–0,Jimmy Johnson, ERS
+Notre Dame,10–0,Frank Leahy, WS
+Princeton,1–0,NaN, NCF
+TCU,11–0,Dutch Meyer, NCF
+Army,9–0,Earl Blaik, CFRA
+Yale,13–0,Walter Camp, PD
+Alabama,11–0,"Paul ""Bear"" Bryant", BR
+Ohio State,14–0,Jim Tressel, DeS
+Ohio State,14–0,Jim Tressel, NYT
+SMU,11–0–1,Bobby Collins,HAF
+Georgia,12–0,Vince Dooley, PS
+Miami (FL),11–1,Howard Schnellenberger,AP
+Penn State,11–1,Joe Paterno, USAT
+Tennessee,11–0,Robert Neyland, CFRA
+Nebraska,12–0,Tom Osborne, DuS
+Nebraska,13–0,Tom Osborne, SR
+Michigan,7–0–1,Harry Kipke, PD
+Florida,13–1,Urban Meyer, BR
+Harvard,12–0,Bill Reid,BR
+Ohio State,14–0,Jim Tressel, AP
+USC,11–2,Pete Carroll, SR
+Michigan State,8–1,Duffy Daugherty,DuS
+USC,12–1,John Robinson, FN
+Yale,9–0,NaN,BR
+Florida State,14–0,Jimbo Fisher, W
+Penn State,10–2,Joe Paterno,DuS
+Illinois,8–0,Robert Zuppke, CFRA
+Michigan,8–0,Fielding H. Yost, NCF
+Oklahoma,11–1,Barry Switzer, L
+Nebraska,11–0–1,Bob Devaney, DeS
+Stanford,10–0,Clark Shaughnessy,BR
+Ohio State,11–1,John Cooper,SRb
+Notre Dame,9–0–1,Ara Parseghian, NCF
+Oklahoma,13–0,Bob Stoops, NFF
+Notre Dame,9–1,Frank Leahy,AP
+Oklahoma,10–0,Bud Wilkinson, HAF
+USC,12–1,John Robinson, BR
+USC,10–1,Howard Jones,BR
+Penn,15–0,George Washington Woodruff, HAF
+Arkansas,11–0,Frank Broyles, PS
+Notre Dame,8–0–1,Frank Leahy, DeS
+Princeton,6–0–1,William Roper,BS
+Pittsburgh,9–0,Joseph Thompson,NCF
+Cornell,8–0,Gil Dobie,HAF
+Florida State,11–1,Bobby Bowden,SR
+Miami (FL),10–2,Dennis Erickson,ERS
+Ohio State,10–0,Woody Hayes, B(QPRS)
+USC,12–1,John Robinson,B(QPRS)
+Notre Dame,10–0,Knute Rockne, BS
+Florida State,12–0,Bobby Bowden, MCFR
+Penn State,11–1,Joe Paterno, L
+Notre Dame,10–0,Frank Leahy, BS
+Harvard,4–0,NaN, PD
+Notre Dame,9–0–1,Frank Leahy, WS
+Notre Dame,9–0–1,Frank Leahy, HAF
+Michigan,9–0,Bennie Oosterbaan, PS
+Texas A&M,11–0,Homer Norton, NCF
+Alabama,14–0,Nick Saban, W
+Oklahoma,11–1,Barry Switzer, DuS
+Minnesota,8–0,Bernie Bierman,AP
+Nebraska,13–0,Bob Devaney, HAF
+Syracuse,11–0,Ben Schwartzwalder,AP
+Alabama,13–0,Gene Stallings, R(FACT)
+Oklahoma,10–0,Bud Wilkinson, INS
+Army,9–0,Earl Blaik, DeS
+Michigan,9–1,Bump Elliott,DuS
+California,9–0,Andy Smith,CFRA
+Georgia,11–1,Wally Butts,B(QPRS)
+Alabama,9–0–1,Wallace Wade, PS
+Michigan,7–0–1,Harry Kipke, CFRA
+Texas,13–0,Mack Brown, R(FACT)
+Auburn,14–0,Gene Chizik, BCS
+Nebraska,11–0–1,Bob Devaney, FN
+Alabama,12–0,"Paul ""Bear"" Bryant", NCF
+Alabama,13–1,Nick Saban, USAT
+Florida,13–1,Urban Meyer, FWAA
+Yale,3–0,NaN,BR
+Oklahoma,11–1,Barry Switzer, R(FACT)
+Notre Dame,10–0,Knute Rockne, PS
+Alabama,12–0,"Paul ""Bear"" Bryant", MGR
+Notre Dame,9–1,Ara Parseghian, FN
+Miami (FL),12–0,Larry Coker, AP
+Alabama,11–0,"Paul ""Bear"" Bryant", L
+Notre Dame,12–1,Lou Holtz, SR
+Princeton,9–0–1,NaN, PD
+BYU,13–0,LaVell Edwards, BR
+Army,9–0,Earl Blaik, DeS
+Notre Dame,10–0,Frank Leahy, HS
+Minnesota,8–0,Bernie Bierman, BS
+Penn State,12–0,Joe Paterno, DeS
+Yale,8–0–1,NaN, NCF
+USC,10–0,Howard Jones, B(QPRS)
+Notre Dame,7–1–1,Knute Rockne,HS
+USC,10–1,John McKay, FN
+Minnesota,8–0,Bernie Bierman, L
+Oklahoma,11–0,Bud Wilkinson, CFRA
+Princeton,2–0,NaN,BR
+Iowa,8–1,Forest Evashevski,B(QPRS)
+Michigan State,9–0,Biggie Munn, DuS
+Notre Dame,10–0,Frank Leahy, HAF
+LSU,13–1,Les Miles,A&H
+Miami (FL),12–0,Larry Coker, MCFR
+Georgia,12–0,Vince Dooley, HAF
+Miami (FL),11–1,Dennis Erickson,AP
+LSU,12–2,Les Miles, CM
+Nebraska,13–0,Bob Devaney, R(FACT)
+Colorado,11–1–1,Bill McCartney, NFF
+Florida,13–1,Urban Meyer, BCS
+Miami (FL),11–1,Jimmy Johnson,R(FACT)
+Oklahoma,11–0,Bud Wilkinson, FWAA
+Michigan State,9–0,Biggie Munn, L
+Nebraska,13–0,Tom Osborne, BR
+USC,12–1,John Robinson, SN
+USC,10–1,Howard Jones, BS
+Nebraska,13–0,Tom Osborne, SR
+Tennessee,13–0,Phillip Fulmer, NCF
+Texas,10–1,Darrell Royal,B(QPRS)
+Texas,13–0,Mack Brown, NFF
+Ohio State,14–0,Jim Tressel, BR
+Oklahoma,11–1,Barry Switzer, SR
+Texas,11–0,Darrell Royal, UPI
+Illinois,8–0,Robert Zuppke, PD
+Penn State,12–0,Joe Paterno, FWAA
+California,9–0–1,Andy Smith, SR
+Alabama,12–1,Nick Saban, W
+Nebraska,13–0,Bob Devaney, UPI
+Alabama,11–0,"Paul ""Bear"" Bryant", NCF
+Penn State,11–1,Joe Paterno, NCF
+Alabama,13–1,Nick Saban, CFRA
+Ole Miss,10–0–1,Johnny Vaught, DeS
+Nebraska,11–0–1,Bob Devaney, DuS
+Harvard,8–0–1,Percy Haughton,BR
+Florida State,12–0,Bobby Bowden, R(FACT)
+Florida State,12–1,Bobby Bowden, FWAA
+Notre Dame,9–0,Knute Rockne,BR
+Michigan,9–0,Bennie Oosterbaan, B(QPRS)
+Army,9–0–1,Earl Blaik, HAF
+Alabama,10–0,Wallace Wade,BR
+Tennessee,13–0,Phillip Fulmer, USAT/ESPN
+Penn State,12–0,Joe Paterno, R(FACT)
+Florida State,12–1,Bobby Bowden, USAT/CNN
+Texas,10–1,Darrell Royal, L
+Harvard,9–0,Percy Haughton, NCF
+Michigan,7–0–1,Harry Kipke, BS
+Minnesota,7–1,Bernie Bierman, DuS
+Texas,8–0,Dave Allerdice,BR
+Ohio State,10–0,Woody Hayes, HAF
+USCc,11–0d,Pete Carroll, AP
+Alabama,11–1,"Paul ""Bear"" Bryant", HAF
+Miami (FL),12–0,Larry Coker, MGR
+Oklahoma,13–0,Bob Stoops, BCS
+Notre Dame,9–0–1,Ara Parseghian,AP
+Miami (FL),11–1,Howard Schnellenberger, USAT/CNN
+Princeton,2–0,NaN, PD
+Yale,9–0–1,Foster Rockwell, PD
+Minnesota,8–0,Bernie Bierman, PS
+Lafayette,11–0–1,Parke H. Davis, PD
+Ohio State,14–0,Jim Tressel, R(FACT)
+Alabama,10–0,Wallace Wade, NCF
+Yale,5–0–1,NaN, PD
+BYU,13–0,LaVell Edwards,AP
+Ohio State,10–0,Woody Hayes, FN
+Texas,13–0,Mack Brown, MGR
+Notre Dame,10–0,Frank Leahy, B(QPRS)
+Princeton,8–0–2,William Roper, HAF
+Princeton,1–1,NaN, NCF
+Notre Dame,9–1,Ara Parseghian, NFF
+Ohio State,14–1,Urban Meyer, BR
+USC,12–1,John Robinson, SR
+Arkansas,11–0,Frank Broyles, NCF
+Tennessee,11–1,Robert Neyland, DeS
+Auburn,14–0,Gene Chizik,A&H
+Georgia,11–1,Wally Butts, SR
+Army,9–0,Earl Blaik, BS
+Alabama,14–1,Nick Saban, SR
+Penn State,12–0,Joe Paterno, UPI
+Clemson,14–1,Dabo Swinney, BR
+Florida,13–1,Urban Meyer, AP
+USC,12–0,John McKay, PS
+Notre Dame,9–0,Knute Rockne,BR
+Florida,13–1,Urban Meyer,A&H
+Ohio State,10–2,Woody Hayes,MGR
+Auburn,10–0,Ralph Jordan, NCF
+Yale,9–0–1,William F. Knox, NCF
+Alabama,10–0,Wallace Wade, SR
+Penn State,12–0,Joe Paterno, NFF
+Michigan State,9–0–1,Duffy Daugherty,CFRA
+Alabama,11–1,"Paul ""Bear"" Bryant",AP
+Alabama,11–1,"Paul ""Bear"" Bryant", UPI
+Maryland,10–0,Jim Tatum,CFRA
+Nebraska,13–0,Tom Osborne, R(FACT)
+Harvard,8–0–1,Bob Fisher,BS
+Oklahoma,13–0,Bob Stoops,A&H
+Oklahoma,13–0,Bob Stoops, CCR
+Alabama,12–0,"Paul ""Bear"" Bryant", R(FACT)
+Princeton,2–0–1,NaN, PD
+Oklahoma,11–1,Barry Switzer, BR
+Notre Dame,9–1,Frank Leahy, B(QPRS)
+Ohio State,11–1,Woody Hayes, PS
+USC,10–1–1,John McKay, UPI
+Tennessee,10–1,Bowden Wyatt,SR
+Colorado,11–1–1,Bill McCartney, USAT/CNN
+Cornell,9–0,Albert Sharpe,HAF
+Georgia,9–1,George Cecil Woodruff, B(QPRS)
+Texas,13–0,Mack Brown, MCFR
+Nebraska,12–0,Tom Osborne, NCF
+Cornell,8–0,Carl Snavely, SR
+Clemson,14–1,Dabo Swinney, CFP
+Oklahoma,11–0,Barry Switzer,AP
+Florida,12–1,Steve Spurrier, FN
+Florida State,12–0,Bobby Bowden, AP
+Alabama,14–1,Nick Saban, FWAA/NFF
+Notre Dame,8–0–1,Frank Leahy, B(QPRS)
+Notre Dame,11–0,Ara Parseghian, BR
+Miami (FL),11–1,Dennis Erickson, NCF
+Alabama,10–0,Wallace Wade, PS
+Clemson,12–0,Danny Ford, CFRA
+California,10–0–1,Stub Allison, HAF
+Washington,12–0,Don James, USAT/CNN
+Ohio State,10–0,Woody Hayes, NCF
+Nebraska,13–0,Tom Osborne, ERS
+Nebraska,13–0,Bob Devaney, CFRA
+Florida,13–1,Urban Meyer, MCFR
+Florida State,12–1,Bobby Bowden, SR
+Michigan,10–0,Fritz Crisler, BR
+Clemson,14–1,Dabo Swinney, FWAA/NFF
+Yale,9–0–1,William F. Knox, HS
+Princeton,1–1,NaN,BR
+Pittsburgh,4–1,"Glenn ""Pop"" Warner", NCF
+USC,12–0,John McKay, L
+Ohio State,10–0,Woody Hayes, SR
+Army,9–0,Earl Blaik, BS
+Texas,11–0,Darrell Royal, SR
+USC,10–0,Howard Jones, SR
+Texas,11–0,Darrell Royal, HAF
+Miami (FL),12–0,Larry Coker, SR
+Alabama,10–0,Frank Thomas, PS
+Michigan,8–0,Harry Kipke, SR
+Oklahoma,11–1,Barry Switzer, BR
+Pittsburgh,12–0,Johnny Majors, SN
+Maryland,10–0,Jim Tatum, DeS
+Alabama,13–1,Nick Saban, NFF
+Ohio State,10–0,Woody Hayes,AP
+Alabama,14–0,Nick Saban, DuS
+California,9–0–1,Andy Smith,BR
+Nebraska,13–0,Tom Osborne, DeS
+Alabama,14–1,Nick Saban, BR
+Miami (FL),12–0,Jimmy Johnson, DuS
+Ohio State,10–0,Woody Hayes, DuS
+Florida State,14–0,Jimbo Fisher, CFRA
+USC,12–1,Pete Carroll,AP
+USC,11–1,John Robinson, CFRA
+Nebraska,11–0–1,Bob Devaney, BR
+Oklahoma,11–0,Barry Switzer, FN
+Iowa,7–0,Howard Jones,PD
+Minnesota,7–1,Bernie Bierman, L
+Nebraska,12–0,Tom Osborne, DeS
+Alabama,12–0,"Paul ""Bear"" Bryant", NYT
+Oklahoma,10–1,Bud Wilkinson, UP
+Penn State,11–1,Joe Paterno, R(FACT)
+Ole Miss,10–1,Johnny Vaught,B(QPRS)
+LSU,13–1,Nick Saban, R(FACT)
+Nebraska,13–0,Tom Osborne, USAT/ESPN
+Ohio State,10–0,Woody Hayes, FWAA
+Miami (FL),11–1,Jimmy Johnson,B(QPRS)
+Detroit,9–0,Gus Dorais,PD
+Michigan State,9–0,Biggie Munn, WS
+Georgia,12–0,Vince Dooley, NCF
+Yale,13–0,Walter Camp, NCF
+Oklahoma,11–0,Bud Wilkinson, INS
+Penn State,11–1,Joe Paterno, NFF
+Florida State,12–1,Bobby Bowden, FN
+TCU,11–0,Dutch Meyer, HAF
+Oklahoma,12–2,Bob Stoops,B(QPRS)
+USC,10–1–1,John McKay,FWAA
+Clemson,12–0,Danny Ford, HAF
+Pittsburgh,9–0–1,Jock Sutherland, SR
+Georgia Tech,12–0,Bobby Dodd, BR
+LSU,12–2,Les Miles,AP
+Texas,13–0,Mack Brown, SN
+Michigan State,9–0,Biggie Munn, PS
+Minnesota,7–1,Bernie Bierman, NCF
+Penn,15–0,George Washington Woodruff, PD
+Princeton,2–0,NaN, PD
+USC,12–0,John McKay, DeS
+Oklahoma,11–1,Barry Switzer, UPI
+Princeton,11–0,NaN, HAF
+Minnesota,8–2,Murray Warmath,AP
+Notre Dame,11–1,Dan Devine,AP
+Oklahoma,11–1,Barry Switzer, DeS
+Cornell,9–0,Albert Sharpe, NCF
+Minnesota,8–0,Bernie Bierman,BR
+BYU,13–0,LaVell Edwards, CFRA
+Notre Dame,9–0,Frank Leahy, WS
+Notre Dame,11–1,Dan Devine, CFRA
+Oklahoma State,12–1,Mike Gundy,CM
+Michigan,7–0–1,Harry Kipke, DiS
+Auburn,10–0,Ralph Jordan,AP
+Yale,4–0–1,NaN, PD
+Harvard,1–1,NaN,PD
+Alabama,12–0,"Paul ""Bear"" Bryant", UPI
+Alabama,14–1,Nick Saban,CCR
+Navy,9–0–1,Bill Ingram,BS
+Pittsburgh,12–0,Johnny Majors, NFF
+Georgia Tech,10–0,William Alexander, HS
+Alabama,10–0,Wallace Wade, B(QPRS)
+BYU,13–0,LaVell Edwards, NCF
+Miami (FL),12–0,Larry Coker, BCS
+Florida State,12–0,Bobby Bowden, FWAA
+Michigan,10–0,Fielding H. Yost,NCF
+Harvard,9–0,Percy Haughton, HAF
+Colgate,9–0,Andrew Kerr,PD
+Ohio State,10–0,Woody Hayes, CFRA
+Clemson,12–0,Danny Ford, PS
+Princeton,6–0,NaN, NCF
+Georgia Tech,10–0,William Alexander, NCF
+Tennessee,11–0,Robert Neyland, HS
+Alabama,12–0,"Paul ""Bear"" Bryant", PS
+Georgia Tech,10–0,William Alexander, SR
+California,9–0,Andy Smith, HS
+Pittsburgh,9–0–1,Jock Sutherland, L
+Princeton,11–0,Art Hillebrand, PD
+Ohio State,9–1,Paul Brown,AP
+Syracuse,11–0,Ben Schwartzwalder, FN
+Florida,12–1,Steve Spurrier, CCR
+Notre Dame,11–1,Dan Devine, SN
+Georgia,12–0,Vince Dooley, NFF
+Florida State,14–0,Jimbo Fisher, CCR
+Georgia Tech,12–0,Bobby Dodd, PS
+Penn State,12–0,Joe Paterno, ERS
+Penn State,11–1,Joe Paterno,AP
+Penn,14–0,George Washington Woodruff, HS
+Princeton,1–0,NaN, PD
+Minnesota,8–0,Bernie Bierman, PS
+Notre Dame,11–0,Ara Parseghian, NFF
+Texas,11–0,Darrell Royal, DuS
+Miami (FL),11–1,Dennis Erickson, NYT
+Army,9–0,Earl Blaik, SR
+Illinois,9–0–1,Ray Eliot,BS
+Notre Dame,10–0,Frank Leahy, SR
+USCc,11–0d,Pete Carroll, W Vacated:c BCS
+Georgia Tech,11–0–1,Bobby Ross, R(FACT)
+Notre Dame,11–1,Dan Devine, R(FACT)
+Michigan,12–0,Lloyd Carr,AP
+Army,9–0,Charles Daly, NCF
+Texas,13–0,Mack Brown, BCS
+USC,10–0,Howard Jones, PD
+Michigan State,9–0,Biggie Munn, UP
+Penn State,12–0,Joe Paterno, R(FACT)
+Alabama,13–1,Nick Saban, BCS
+Oklahoma,11–1,Barry Switzer, PS
+Penn State,12–0,Joe Paterno, FN
+Pittsburgh,11–1,Jackie Sherrill,NCF
+Penn,14–0,George Washington Woodruff,BR
+Minnesota,8–0,Bernie Bierman, DeS
+Michigan,10–0,Fritz Crisler, HS
+Yale,10–0,Howard Jones, NCF
+Florida,13–1,Urban Meyer, BR
+Miami (FL),11–1,Butch Davis,NYT
+Stanford,10–0–1,"Glenn ""Pop"" Warner",DiS
+Army,9–0,Earl Blaik, B(QPRS)
+Princeton,9–0,NaN, NCF
+Georgia Tech,12–0,Bobby Dodd, SR
+Tennessee,13–0,Phillip Fulmer, R(FACT)
+Tennessee,10–1,Robert Neyland, WS
+Miami (FL),11–1,Dennis Erickson, DeS
+USC,10–0,Howard Jones, HAF
+Oklahoma,10–0,Bud Wilkinson, DeS
+Maryland,10–0,Jim Tatum, SR
+Nebraska,10–2,Tom Osborne,R(FACT)
+Iowa,8–1–1,Forest Evashevski,FWAA
+Yale,13–0,Walter Camp, PD
+Georgia,12–0,Vince Dooley, B(QPRS)
+UCLA,9–0,Henry Sanders, FWAA
+Michigan State,9–0–1,Duffy Daugherty, NFF
+USC,10–0,Howard Jones, HS
+Nebraska,13–0,Tom Osborne, NYT
+Illinois,7–0–1,Robert Zuppke, DiS
+Notre Dame,9–1,Frank Leahy, WS
+Auburn,10–0,Ralph Jordan, CFRA
+Colorado,11–1–1,Bill McCartney, FN
+Pittsburgh,12–0,Johnny Majors, FN
+Army,9–0,Earl Blaik,AP
+Penn State,11–1,Joe Paterno, FN
+Nebraska,13–0,Bob Devaney, PS
+USC,11–0,John McKay, FN
+Maryland,10–1,Jim Tatum, INS
+Oklahoma,13–0,Bob Stoops, FN
+Miami (FL),12–0,Larry Coker, BR
+Pittsburgh,9–0–1,Jock Sutherland, WS
+Notre Dame,12–0,Lou Holtz, R(FACT)
+Princeton,1–0,NaN, NCF
+Alabama,13–0,Gene Stallings, NYT
+Alabama,9–1–1,"Paul ""Bear"" Bryant", FWAA
+Notre Dame,11–1,Dan Devine, MGR
+Penn State,12–0,Joe Paterno, USAT/CNN
+Texas,13–0,Mack Brown, BR
+LSU,13–1,Nick Saban, MCFR
+Florida State,12–0,Bobby Bowden, DeS
+Michigan,7–1,Fielding H. Yost,SR
+Alabama,9–0–1,Wallace Wade, B(QPRS)
+Florida,13–1,Urban Meyer, SR
+USC,10–1,John McKay, HAF
+Texas,13–0,Mack Brown,A&H
+Florida State,12–1,Bobby Bowden, USAT/NFF
+Texas,11–0,Darrell Royal, FWAA
+Michigan,7–1,Fielding H. Yost,SR
+Miami (FL),12–0,Jimmy Johnson, UPI
+Auburn,10–0,Ralph Jordan, PS
+Oklahoma,11–1,Barry Switzer, SR
+Michigan State,10–1,Duffy Daugherty, DeS
+Florida,13–1,Urban Meyer, USAT
+Oklahoma,13–0,Bob Stoops, B(QPRS)
+Alabama,9–0–1,Wallace Wade, NCF
+Minnesota,8–0,Bernie Bierman, NCF
+USC,12–0,John McKay, NCF
+Florida State,12–0,Bobby Bowden,A&H
+Yale,16–0,William Rhodes,BR
+USCc,11–0d,Pete Carroll, MGR
+Florida,13–1,Urban Meyer, DuS
+Nebraska,13–0,Bob Devaney, NFF
+Princeton,4–0–1,NaN, NCF
+Missouri,12–2,Gary Pinkel,A&H
+Oklahoma,10–0,Bud Wilkinson, BR
+Chicago,10–0,Amos Alonzo Stagg, HS
+Nebraska,12–0,Tom Osborne, NYT
+Alabama,10–0,Wallace Wade, BS
+USC,12–1,Pete Carroll, NYT
+Oklahoma,13–0,Bob Stoops, NCF
+USC,10–1,John McKay, SR
+Ole Miss,10–0–1,Johnny Vaught, NCF
+Nebraska,11–0–1,Bob Devaney, R(FACT)
+Notre Dame,9–0,Frank Leahy,AP
+USC,10–1,Howard Jones, B(QPRS)
+Alabama,13–0,Gene Stallings, NCF
+Notre Dame,9–1,Frank Leahy, BR
+Miami (FL),12–0,Jimmy Johnson, NYT
+Oklahoma,13–0,Bob Stoops, DeS
+Army,9–0,Earl Blaik, NCF
+Princeton,11–0,Art Hillebrand, HS
+Penn State,11–1,Joe Paterno, NYT
+Princeton,9–0–1,William Roper, NCF
+Alabama,13–1,Nick Saban, SR
+LSU,13–1,Nick Saban, SR
+Princeton,10–0–1,Franklin Morse, PD
+Pittsburgh,8–0,"Glenn ""Pop"" Warner", HS
+Alabama,11–0,"Paul ""Bear"" Bryant", B(QPRS)
+Miami (FL),12–0,Jimmy Johnson, USAT/CNN
+Notre Dame,12–0,Lou Holtz, USAT/CNN
+Alabama,12–1,Nick Saban, FWAA
+Clemson,14–1,Dabo Swinney, AP
+USC,11–0,John McKay, FWAA
+USC,12–0,John McKay, R(FACT)
+Alabama,12–0,"Paul ""Bear"" Bryant",AP
+Oklahoma,11–1,Barry Switzer, NYT
+Princeton,9–0,NaN, HAF
+Notre Dame,9–1,Frank Leahy, SR
+Florida State,14–0,Jimbo Fisher, BR
+Alabama,13–1,Nick Saban, BR
+Alabama,11–1,"Paul ""Bear"" Bryant",CFRA
+Ole Miss,10–0,Johnny Vaught, L
+Alabama,14–1,Nick Saban, USAT/AMWAY
+Auburn,10–0,Ralph Jordan, WS
+Alabama,11–0,"Paul ""Bear"" Bryant",AP
+Illinois,8–0,Robert Zuppke, HAF
+Yale,13–0,Walter Camp, HS
+USC,10–1,Howard Jones, PS
+Minnesota,7–1,Bernie Bierman,AP
+Alabama,14–1,Nick Saban, DuS
+Georgia Tech,10–0,William Alexander, BS
+Auburn,11–1,Pat Dye,BR
+Alabama,11–0,"Paul ""Bear"" Bryant", NFF
+Florida State,11–1,Bobby Bowden,B(QPRS)
+Florida,13–1,Urban Meyer, CM
+Pittsburgh,11–1,Jackie Sherrill, SR
+Notre Dame,10–0,Knute Rockne, HS
+Ohio State,14–1,Urban Meyer, CFRA
+Texas A&M,11–0,Homer Norton,AP
+Miami (FL),12–0,Larry Coker, DeS
+Penn,12–0,George Washington Woodruff,PD
+USC,11–0,John McKay, UPI
+Notre Dame,9–0–1,Ara Parseghian, DeS
+Notre Dame,12–0,Lou Holtz, ERS
+Yale,10–0,Jack Owsley, PD
+Michigan,10–0,Fritz Crisler, DuS
+USC,10–1,Howard Jones, CFRA
+Tennessee,13–0,Phillip Fulmer, ERS
+Miami (FL),12–0,Jimmy Johnson, NFF
+Texas,11–1,Fred Akers,B(QPRS)
+Yale,13–0,Walter Camp,BR
+Michigan State,10–1,Duffy Daugherty, UPI
+Nebraska,10–2,Tom Osborne,L
+Oklahoma,11–1,Barry Switzer, DuS
+Pittsburgh,11–1,Jackie Sherrill, NYT
+Oklahoma,10–2,Barry Switzer, MGR
+Princeton,10–0,NaN, HS
+Notre Dame,10–0,Knute Rockne, NCF
+Ohio State,9–1,Woody Hayes, UP
+Notre Dame,9–0,Knute Rockne, PS
+Oklahoma,11–0,Bud Wilkinson, DeS
+Princeton,8–0–2,William Roper, NCF
+Michigan,10–0–1,Bo Schembechler,NCF
+Minnesota,7–1,Bernie Bierman, BR
+Florida,12–1,Steve Spurrier, USAT/CNN
+Nebraska,13–0,Tom Osborne, B(QPRS)
+Florida State,14–0,Jimbo Fisher, SR
+USC,10–1,Howard Jones, HS
+Arkansas,11–0,Frank Broyles,BR
+UCLA,9–0,Henry Sanders, L
+Notre Dame,9–0–1,Frank Leahy, PS
+Princeton,10–0–1,Franklin Morse, HS
+Notre Dame,12–0,Lou Holtz, FWAA
+Harvard,11–0,George C. Adams,BR
+Cornell,8–0,Gil Dobie, PD
+Ohio State,9–1,Paul Brown, NCF
+Nebraska,12–0,Tom Osborne, R(FACT)
+Yale,13–0,Walter Camp, NCF
+Nebraska,13–0,Bob Devaney, DuS
+Alabama,10–0,Wallace Wade, PD
+Alabama,13–1,Nick Saban, W
+Yale,3–0,NaN,NCF
+Notre Dame,11–1,Dan Devine, DuS
+Georgia Tech,9–0,John Heisman,BR
+LSU,13–1,Nick Saban, BR
+Notre Dame,9–0,Knute Rockne, DuS
+Miami (FL),12–0,Larry Coker,A&H
+Oklahoma,11–1,Barry Switzer, B(QPRS)
+Cornell,9–0,Albert Sharpe, PD
+USCc,11–0d,Pete Carroll, SN
+Utah,13–0,Kyle Whittingham,A&H
+Notre Dame,10–0,Knute Rockne, HAF
+Notre Dame,10–0,Frank Leahy, BR
+Florida State,12–1,Bobby Bowden, R(FACT)
+Michigan,11–0,Fielding H. Yost, HS
+Army,9–0,Earl Blaik, L
+Miami (FL),12–0,Jimmy Johnson, MGR
+Iowa,9–1,Forest Evashevski,CFRA
+USC,11–1,John Robinson, MGR
+Harvard,9–0–1,Bob Fisher,CFRA
+Penn State,11–1,Joe Paterno, MGR
+Texas,11–1,Fred Akers, SR
+Harvard,8–0–1,Percy Haughton, HAF
+Georgia Tech,11–0–1,Bobby Dodd, BS
+Oklahoma,10–0–1,Barry Switzer, DeS
+Wisconsin,8–1–1,Harry Stuhldreher,HAF
+Syracuse,11–0,Ben Schwartzwalder, WS
+Yale,9–0,NaN, HAF
+Florida State,12–0,Bobby Bowden, CCR
+Ohio State,10–0,Woody Hayes, PS
+Texas,11–0,Darrell Royal,AP
+LSU,11–0,Paul Dietzel, FN
+Harvard,4–0,NaN,NCF
+Florida,13–1,Urban Meyer, USAT
+Maryland,10–1,Jim Tatum,AP
+Oklahoma,11–0,Barry Switzer, HAF
+Georgia Tech,9–0,John Heisman, NCF
+Notre Dame,10–0,Frank Leahy, PS
+Nebraska,11–0–1,Bob Devaney,AP
+Miami (FL),12–0,Dennis Erickson, ERS
+Florida State,12–0,Bobby Bowden, DuS
+Texas,11–0,Darrell Royal, NCF
+Notre Dame,11–1,Dan Devine, HAF
+Yale,7–1,Thomas Jones,CFRA
+Princeton,10–0–1,Franklin Morse,BR
+Clemson,14–1,Dabo Swinney, USAT/AMWAY
+Yale,9–0–1,NaN,HAF
+USCc,11–0d,Pete Carroll, NFF
+Yale,3–0,NaN, PD
+Clemson,14–1,Dabo Swinney, SR
+Washington,10–1,Jim Owens,HAF
+Georgia,9–1,George Cecil Woodruff, PS
+Michigan,9–0,Bennie Oosterbaan, DuS
+California,9–0,Andy Smith, HAF
+USC,10–1,Howard Jones, DiS
+Florida,9–1–1,Galen Hall, SR
+Oklahoma,11–0,Bud Wilkinson, NCF
+Notre Dame,8–0–1,Frank Leahy, BS
+Notre Dame,12–0,Lou Holtz, BR
+Alabama,12–0,"Paul ""Bear"" Bryant", DuS
+Miami (FL),12–0,Dennis Erickson,AP
+Penn,15–0,George Washington Woodruff, HS
+Harvard,9–0,Percy Haughton, PD
+Nebraska,13–0,Tom Osborne,A&H
+USC,12–0,John McKay,AP
+LSU,11–0,Paul Dietzel, BR
+Alabama,14–1,Nick Saban,A&H
+Nebraska,13–0,Tom Osborne, CCR
+Florida State,12–0,Bobby Bowden, BCS
+Oklahoma,11–1,Barry Switzer, DuS
+Oklahoma,11–1,Barry Switzer, UPI
+Alabama,9–1–1,"Paul ""Bear"" Bryant",AP
+Florida,13–1,Urban Meyer, NFF
+Notre Dame,10–0,Frank Leahy,AP
+LSU,12–2,Les Miles, FWAA
+Oklahoma,13–0,Bob Stoops, R(FACT)
+USC,12–0,John McKay, B(QPRS)
+Ohio State,9–0,Carroll Widdoes,NCF
+LSU,11–0,Paul Dietzel, WS
+Notre Dame,11–1,Dan Devine, UPI
+Yale,5–0–1,NaN,NCF
+Michigan,9–0,Bennie Oosterbaan, WS
+USC,12–1,John Robinson, UPI
+California,9–0,Andy Smith, NCF
+Florida State,12–1,Bobby Bowden, B(QPRS)
+Minnesota,8–0,Bernie Bierman, DiS
+Michigan State,9–0,Biggie Munn, HAF
+Nebraska,12–0,Tom Osborne, MGR
+Notre Dame,9–1,Frank Leahy, DuS
+Tennessee,11–0,Robert Neyland, B(QPRS)
+Yale,1–0,NaN,PD
+Penn State,8–0,Bill Hollenback,NCF
+Nebraska,11–0–1,Bob Devaney, FWAA
+Florida State,12–0,Bobby Bowden, ERS
+Yale,9–0–1,NaN, NCF
+Clemson,12–0,Danny Ford, UPI
+Michigan,8–0,Harry Kipke, PD
+Ohio State,14–0,Jim Tressel, W
+Ohio State,14–0,Jim Tressel, CM
+Notre Dame,9–0–1,Frank Leahy, DeS
+Florida State,14–0,Jimbo Fisher, CM
+Auburn,14–0,Gene Chizik, FWAA
+Texas,10–1,Darrell Royal, UPI
+USC,12–0,John McKay, BR
+Nebraska,12–1,Tom Osborne, R(FACT)
+USC,10–1,Howard Jones, WS
+Army,9–0,Earl Blaik, BR
+Michigan,9–0,Bennie Oosterbaan, SR
+Syracuse,11–0,Ben Schwartzwalder, DeS
+Notre Dame,10–0,Knute Rockne, PS
+Notre Dame,12–0,Lou Holtz, DuS
+Alabama,10–0,Frank Thomas, WS
+Notre Dame,11–0,Ara Parseghian, FN
+Oklahoma,11–1,Barry Switzer, SN
+Alabama,11–0,"Paul ""Bear"" Bryant", DeS
+Michigan State,9–0,Biggie Munn, HAF
+Oklahoma,13–0,Bob Stoops, SN
+Arkansas,11–0,Frank Broyles, SR
+Miami (FL),12–0,Larry Coker, W
+Oklahoma,13–0,Bob Stoops, MCFR
+Florida State,12–0,Bobby Bowden, SN
+Nebraska,13–0,Tom Osborne, MGR
+Notre Dame,9–0,Knute Rockne, NCF
+Yale,16–0,William Rhodes, HAF
+Minnesota,8–2,Murray Warmath, UPI
+LSU,11–0,Paul Dietzel, L
+Texas,11–0,Darrell Royal, PS
+Alabama,12–1,Nick Saban, MCFR
+California,9–0,Andy Smith, SR
+Texas,11–0,Darrell Royal, DeS
+Illinois,8–0,Robert Zuppke, B(QPRS)
+Vanderbilt,7–0–1,Dan McGugin,B(QPRS)
+Texas,11–0,Darrell Royal, CFRA
+Army,9–0,Earl Blaik, CFRA
+Pittsburgh,12–0,Johnny Majors, PS
+Miami (FL),12–0,Jimmy Johnson, SN
+Army,9–0,Earl Blaik, B(QPRS)
+USC,12–1,Pete Carroll, ERS
+Notre Dame,10–0,Knute Rockne, HAF
+Florida State,12–0,Bobby Bowden, NCF
+Oklahoma,13–0,Bob Stoops, SR
+Washington,11–1,Don James, NCF
+Florida,12–1,Steve Spurrier, BR
+Georgia,12–0,Vince Dooley, SR
+Penn State,11–1,Joe Paterno, DuS
+Notre Dame,10–0,Knute Rockne, DuS
+Notre Dame,9–0–1,Ara Parseghian, BR
+USC,10–1,John McKay, B(QPRS)
+Texas,11–0,Darrell Royal, NFF
+Penn State,11–1,Joe Paterno, UPI
+Cornell,9–0,Albert Sharpe, HS
+Auburn,11–1,Pat Dye, CFRA
+Ohio State,14–0,Jim Tressel, CCR
+Nebraska,12–0,Tom Osborne, FWAA
+SMU,12–1,Matty Bell, B(QPRS)
+Minnesota,8–0,Bernie Bierman, HAF
+Oklahoma,11–1,Barry Switzer, CFRA
+Tennessee,13–0,Phillip Fulmer, NYT
+Miami (FL),11–1,Howard Schnellenberger, SN
+Ohio State,10–0–1,Woody Hayes, R(FACT)
+USC,11–2,Pete Carroll, MGR
+California,10–0–1,Stub Allison,DuS
+USC,10–1,Howard Jones, NCF
+Princeton,2–0–1,NaN,BR
+Miami (FL),12–0,Jimmy Johnson, SR
+Oklahoma,10–0,Bud Wilkinson, DuS
+Florida State,14–0,Jimbo Fisher, AP
+Minnesota,8–0,Bernie Bierman, DuS
+Florida State,12–1,Bobby Bowden, NYT
+SMU,12–1,Matty Bell, SR
+Texas,13–0,Mack Brown, AP
+Chicago,10–0,Amos Alonzo Stagg,BR
+Iowa,8–1,Forest Evashevski, L
+Oklahoma,11–0,Barry Switzer, CFRA
+Minnesota,8–0,Bernie Bierman, L
+LSU,11–0,Paul Dietzel, HAF
+Texas A&M,11–0,Homer Norton, HS
+Oklahoma,11–1,Barry Switzer, NCF
+Princeton,10–0–1,Franklin Morse, HAF
+Alabama,12–1,Nick Saban, NFF
+Pittsburgh,8–0,"Glenn ""Pop"" Warner", HAF
+Yale,8–0,NaN, PD
+Georgia Tech,10–1,Bobby Dodd, SR
+Ole Miss,10–1,Johnny Vaught, SR
+UCLA,9–0,Henry Sanders,CFRA
+Yale,8–0–1,NaN,HAF
+Princeton,2–0,NaN,BR
+Penn,12–0,Carl S. Williams,HAF
+Princeton,2–0,NaN,BR
+Iowa,8–1,Forest Evashevski, BS
+Oklahoma,11–1,Barry Switzer, FN
+Pittsburgh,9–0–1,Jock Sutherland, PS
+Oklahoma,11–0,Barry Switzer, NCF
+Texas,11–0,Darrell Royal, CFRA
+Army,9–0,Earl Blaik, PS
+Notre Dame,11–1,Dan Devine, FWAA
+Syracuse,11–0,Ben Schwartzwalder, NFF
+USC,12–0,John McKay, SR
+Georgia,11–1,Wally Butts, BR
+Notre Dame,9–0,Knute Rockne, PD
+Nebraska,12–0,Tom Osborne, CCR
+Ohio State,14–1,Urban Meyer, FWAA/NFF
+Notre Dame,10–0,Frank Leahy, L
+Yale,3–0–2,NaN,PD
+Washington,12–0,Don James, FN
+Syracuse,11–0,Ben Schwartzwalder, CFRA
+USCc,11–0d,Pete Carroll, SR
+Nebraska,12–1,Tom Osborne,B(QPRS)
+Ohio State,10–0,Woody Hayes, BS

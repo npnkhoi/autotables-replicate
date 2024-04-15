@@ -1,0 +1,10 @@
+LC Stage,Process,Release
+Producer,0,0.0
+,1,2.0
+,Batch production in dedicated equipment and frequent cleaning operations,0.0
+User,Non-dispersive use (industrial point sources),1.0
+,2,
+Supplier,0,0.0
+Producer,2,
+Supplier,Other,2.0
+User,Wide dispersive use (many small point sources or diffuse releases),2.0

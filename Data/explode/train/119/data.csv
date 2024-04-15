@@ -1,0 +1,46 @@
+First Name,Last Name,Organization/ Consultant,Address,City,Zip,Phone,Approved Services
+Andrew M.,"Hayes, AIA ",Hayes Cumming Architects ,2210 Central Ave.,4,33712.0,727.321.0900,"P, N, M, O, H, I"
+Brad,"Cornelius, AICP","Wade Trim, Inc. ",8745 Henderson Road,Tampa,33634.0,813.882.8366,"P , H, M, I"
+Charlie,Johnson,Wood + Partners,612 South Copeland Street,1,32304.0,850.391.0371,"M, P, H"
+Chuck ,D'Aprix,NaN,1701 The Green Way ,3,32250.0,202.386.6404,"D, F, G"
+Dan ,Burden ,Walkable and Livable Communities Institute ,1215 Lawrence St.,Port Townsend,98368.0,614.595.0976,"P , I, N, M, H"
+David,"Driapsa, ALSA  ","Florida Chapter, The American Society of Landscapes",725 103rd Avenue North,Naples,34108.0,239.591.2321,"P, Q, I, H, N, M"
+David ,Quinn,TMQ Consulting Services,112 Ballantree Drive,Asheville,28803.0,828.274.0716,"Q, K"
+David P.,"Godwin, AIA",Design Sequence,204 Freddie Street,Indian Harbor Beach,32937.0,321.779.0006,"M, E, Q , O, I"
+Donna Ann,Harris ,"Heritage Consulting, Inc.",422 South Camac Street,Philadelphia,19147.0,267.251.5444," K, C, A, B, Q"
+Donovan ,Rypkema,Place Economics,NaN,NaN,NaN,202.588.6258,NaN
+Doris,Tillman,NaN,18951 Okeechobee Road ,Fort Pierce,34945.0,772.216.2337,"G, K, C"
+G. Brian,"Wheeler, RLA",Genesis Group ,9822 Tapestry Park Circle,3,32246.0,904.730.9360,"M, I, P, H, N, D"
+Hilary ,Greenberg,Greenberg Development Services ,3015 Clarendon Rd. ,Charlotte ,28211.0,407.366.1541,"D, G, J "
+James G.,"LaRue, AICP",LaRue Planning & Management Services,1375 Jackson St.,Fort Myers,33901.0,239.334.3366,P
+Jeannette,Peters,Nonprofit Management Consulting,5015 NW 4th Drive,0,32605.0,352.371.7412,"B , A"
+Joan,Jefferson,NaN,2309 Hampshire Way,1,32309.0,850.942.0286,"C, I, P,  Q, K,  J, G, A, H, O, E"
+John M.,"Jones, AICP",Littlejohn Engineering Associates,1615 Edgewater Drive,2,32804.0,407.975.1273,"N, I, L, D, G, M, P, J, Q, H"
+John R.,Barrow,NaN,503 Southwest 23rd Place,0,32601.0,352.317.8282,Q
+Juan S.,"Calderon, PE","Caltran Engineering Group, Inc.",1400 NW 107th Ave.,Miami,33172.0,786.456.7700,N
+Kathy ,La Plante,0,408 Grandview Road,Pembroke,3275.0,202.297.2893,"K, A, C, B"
+Keith ,Tianen,Downtown Solutions ,11572 Riverbank Lane,Pickney,48169.0,734.878.0161,"I, H, P, N"
+Kennedy ,Smith,Clue Group,P.O. Box 2345,Arlington,22202.0,202.657.5232,"D, H, G, J "
+Kim ,Walsh-Phillips ,IO Creative Group,14 West King Street,York,17401.0,717.848.9339,"O , K"
+Laura Lee,Corbett,Laura Lee Corbett Consulting ,1422 Devils Dip,1,32308.0,850.264.4611,"Q , C, I, A, K"
+Linda D.,"Stevenson, AIA",Stevenson Architects,417 12th Street West,Bradenton,34205.0,941.747.3696,"Q , P"
+Marjorie ,Ferrer,Delray Beach Downtown Development,85 SE 4th Ave.,Delray Beach,33483.0,561.243.1077,NaN
+Nancy L.,"Brown, MBA",Designs in Development,P.O. Box 4460,Seminole,33775.0,727.398.5997,"D, C, A, B"
+Norma ,Ramirez de Miess,0,3457 Rock Hill View,Schertz,78154.0,202.213.6720,"K, C, J"
+Paula,Stark,NaN,109 Orange Ave.,St.Cloud ,34769.0,321.442.3191,"K, A"
+Pauline,Eaton,Orlando Main Street Program Coordinator,5136 Stratemeyer Drive,2,32839.0,407.246.3259,"O, J, Q , K, C, A"
+Raul,"Ocampo, Jr., AIA",Ocampo & Associates ,417 SW California Ave.,Stuart,34994.0,772.286.9004,"I, P, A, Q , H, M, O, E"
+Rick ,Segel,Rick Segel & Associates ,268 Hamrick Drive,Kissimmee,34759.0,781.272.9995,"F, E, K , J"
+Robert,Jeffrey,NaN,2302 1st. Avenue N,4,33713.0,727.542.4780,0
+Robert M.,Field,"PLACE Planning & Design, Inc.",700 Rte.1,North Palm Beach ,33408.0,561.379.4495,"I, E, H, P, Q "
+Rochelle W.,"Lawandales, AICP","Lawandales Planning Affiliates, Inc. ",335 Sherwood Ave. ,Satelite Beach ,32937.0,321.223.4664,"Q , H, I, C, A"
+Ronald,"Rollins, RLA",Miller Legg,5747 N. Andrews Way ,Fort Lauderdale ,33309.0,954.436.7000,"M, I, N, P "
+Ronald H. ,"Frantz Jr., AIA ","The Frantz Alliance, LLC",12200 Camelot Drive,Oklahoma City ,73120.0,405.740.0854,"P, A, Q "
+Ronald J.,"Treharne, AIA",Ark1Tek,446 Carmel Drive ,Melbourne ,32840.0,321.698.57.39,0
+Ruth C.,"Hamberg, RLA","Green Town Planning, Land Planning, Urban Design",1573 George Street,2,32806.0,407.896.9656,"P, N, Q, H, I"
+Scott W. ,Day,Urban Development Services ,354 Thorman Place ,San Antonio ,78209.0,210.930.3866,"E, G, P, M, Q , I"
+Sharlene W,Cannon,NaN,422 Lakeshore Way,Cordele,31015.0,229.224.4095,"H, E, C, G, O, J, A, P, K"
+Teresa ,Lynch ,NaN,116 Old Hickory Lane,Versialles,40383.0,859.873.0234,"C, K , A, G"
+Thomas ,Guzman ,NaN,886 Polk Boulevard,Des Moines ,50312.0,515.724.3058,"K, Q , A, O, C"
+Todd J. ,Barman,"Barman Development Strategies, LLC",308 South Monroe Street,Stoughton,53589.0,608.332.9565,"J, D, M"
+Virginia (Ginger),"Corless, AICP","Herbert - Halback, Inc. (d.b.a. HHI Design",1021 E. Robinson Street,2,32810.0,407.422.1449,"P, L, M, Q , K"

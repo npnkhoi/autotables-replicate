@@ -1,0 +1,483 @@
+Index,City,Latitude,Country
+501,sainte-thecle,46.82,CA
+71,bluff,-46.6,NZ
+261,hay river,60.82,CA
+507,ontario,34.06,US
+258,kyabe,9.45,TD
+324,broome,42.25,US
+231,meulaboh,4.14,ID
+488,divnomorskoye,44.5,RU
+270,khor,47.89,RU
+391,sovetskiy,61.36,RU
+134,niimi,34.98,JP
+486,ulaangom,49.98,MN
+579,luanda,-8.84,AO
+347,ponta delgada,37.73,PT
+268,vaitape,-16.52,PF
+362,vieux-habitants,16.06,GP
+297,benghazi,32.12,LY
+459,mersing,2.43,MY
+184,rochester,43.15,US
+342,paombong,14.83,PH
+434,ewa beach,21.32,US
+8,puerto ayora,-0.74,EC
+536,biak,-0.91,ID
+160,lunenburg,44.38,CA
+530,kieta,-6.22,PG
+83,rafaela,-31.25,AR
+345,alugan,12.22,PH
+538,nokaneng,-19.67,BW
+527,jalu,29.03,LY
+289,aksu,41.12,CN
+378,petatlan,17.52,MX
+438,chapais,49.78,CA
+407,wadi musa,30.32,JO
+402,ormond beach,29.29,US
+277,vostok,46.49,RU
+143,kavieng,-2.57,PG
+245,bayangol,50.7,RU
+240,staryy nadym,65.61,RU
+112,klaksvik,62.23,FO
+50,jamestown,42.1,US
+320,guerrero negro,27.98,MX
+425,maniitsoq,65.42,GL
+187,torbay,47.67,CA
+430,progress,40.29,US
+60,mar del plata,-38.0,AR
+221,falmouth,50.15,GB
+3,xichang,27.9,CN
+21,tasiilaq,65.61,GL
+78,shieli,44.17,KZ
+164,tura,25.52,IN
+366,mananjary,-21.22,MG
+311,durres,41.32,AL
+274,upington,-28.45,ZA
+147,letpadan,17.78,MM
+308,margate,51.38,GB
+19,warmbad,-28.45,
+276,conceicao da barra,-18.59,BR
+448,poum,-20.23,NC
+238,kongolo,-5.38,CD
+42,illapel,-31.63,CL
+445,doha,25.29,QA
+148,shache,38.42,CN
+204,esperance,-33.87,AU
+417,opuwo,-18.06,
+195,dire dawa,9.59,ET
+558,nouakchott,18.09,MR
+354,tateyama,34.98,JP
+173,nizwa,22.93,OM
+427,fort oglethorpe,34.95,US
+162,henties bay,-22.12,
+73,mantua,45.17,IT
+6,punta arenas,-53.15,CL
+211,taunggyi,20.78,MM
+569,terrak,65.09,NO
+431,sur,22.57,OM
+409,almeirim,-1.52,BR
+153,ponta do sol,32.67,PT
+522,camacari,-12.7,BR
+562,chabahar,25.29,IR
+340,moron,-34.65,AR
+521,kiama,-34.68,AU
+172,atasu,48.68,KZ
+214,baherden,38.44,TM
+495,matera,40.5,IT
+54,katsuura,35.13,JP
+23,vao,-22.67,NC
+275,williams lake,52.14,CA
+113,magalia,39.81,US
+466,lorca,37.67,ES
+473,olinda,-8.01,BR
+259,bambanglipuro,-7.95,ID
+535,gwadar,25.12,PK
+140,rockland,41.17,US
+149,sinnamary,5.38,GF
+414,vila franca do campo,37.72,PT
+75,lamar,33.67,US
+585,benjamin aceval,-24.97,PY
+446,jalingo,8.88,NG
+180,pevek,69.7,RU
+103,ushumun,52.78,RU
+348,ambam,2.38,CM
+284,duzce,40.84,TR
+528,coquimbo,-29.95,CL
+436,valparaiso,-33.04,CL
+76,sambava,-14.27,MG
+531,nola,40.92,IT
+68,son la,21.32,VN
+335,okato,-39.2,NZ
+496,ayan,56.45,RU
+97,orange cove,36.62,US
+355,quang ngai,15.12,VN
+584,black forest,39.01,US
+411,boyolangu,-8.12,ID
+560,jiwani,25.05,PK
+174,kommunisticheskiy,61.68,RU
+87,wewak,-3.55,PG
+397,sawakin,19.11,SD
+413,talnakh,69.49,RU
+482,bonfim,3.08,BR
+281,san pedro,14.35,PH
+343,srednekolymsk,67.45,RU
+234,dicabisagan,17.08,PH
+467,mirabad,30.44,AF
+61,dikson,73.51,RU
+296,fortuna,40.6,US
+90,san policarpo,12.18,PH
+317,jacareacanga,-6.22,BR
+133,castro,-24.79,BR
+31,itapirapua,-15.82,BR
+435,santa clara,22.4,CU
+444,kaili,-3.46,ID
+336,kodinsk,58.69,RU
+186,hami,42.8,CN
+394,uthal,25.81,PK
+299,luwuk,-0.95,ID
+380,benemerito de las americas,16.52,MX
+28,quatre cocos,-20.21,MU
+506,galveston,29.37,US
+2,kodiak,57.79,US
+410,bolu,40.67,TR
+32,arraial do cabo,-22.97,BR
+222,dehloran,32.69,IR
+356,saint-philippe,-21.36,RE
+213,labuhan,-6.88,ID
+53,san quintin,30.48,MX
+209,fairbanks,64.84,US
+512,tessalit,20.2,ML
+192,severo-kurilsk,50.68,RU
+363,davila,18.47,PH
+249,kosh-agach,50.0,RU
+198,alofi,-19.06,NU
+328,caravelas,-17.71,BR
+549,zapolyarnyy,69.42,RU
+137,ler,8.3,SS
+117,narsaq,60.92,GL
+0,kapaa,22.08,US
+295,yei,4.09,SS
+518,nantucket,41.28,US
+439,bukama,-9.2,CD
+449,tucuman,-26.82,AR
+266,soure,-0.72,BR
+440,shenjiamen,29.96,CN
+9,hilo,19.73,US
+326,geraldton,-28.77,AU
+167,cabedelo,-6.98,BR
+290,toktogul,41.87,KG
+511,uyemskiy,64.47,RU
+539,vestmannaeyjar,63.44,IS
+561,carbonia,39.17,IT
+63,khatanga,71.97,RU
+57,souillac,-20.52,MU
+151,macklin,52.33,CA
+116,pangkalanbuun,-2.68,ID
+199,borogontsy,62.67,RU
+58,hithadhoo,-0.6,MV
+453,cunha,-23.07,BR
+576,sabang,5.89,ID
+263,yaan,7.38,NG
+41,husavik,66.04,IS
+372,ust-nera,64.57,RU
+178,apac,1.98,UG
+251,san carlos de bariloche,-41.15,AR
+129,fonte boa,-2.5,BR
+384,marzuq,14.4,YE
+373,menongue,-14.66,AO
+565,alta floresta,-9.88,BR
+166,lucapa,-8.42,AO
+155,radovitskiy,55.13,RU
+14,yellowknife,62.46,CA
+571,lasa,46.62,IT
+264,urumqi,43.8,CN
+415,waipawa,-41.41,NZ
+10,asyut,27.18,EG
+580,yarmouth,41.71,US
+196,saskylakh,71.92,RU
+429,arkhangelsk,64.54,RU
+403,la ronge,55.1,CA
+556,royal tunbridge wells,51.13,GB
+216,komsomolskiy,40.43,UZ
+525,beira,-19.84,MZ
+279,tuatapere,-46.13,NZ
+107,neryungri,56.67,RU
+29,cape town,-33.93,ZA
+312,atyrau,47.12,KZ
+74,carnarvon,-24.87,AU
+229,yar-sale,66.83,RU
+220,mogadishu,2.04,SO
+253,esna,25.29,EG
+256,lavrentiya,65.58,RU
+84,madison,34.73,US
+185,luderitz,-26.65,
+375,elizabeth city,36.29,US
+280,timra,62.49,SE
+59,bredasdorp,-34.53,ZA
+255,qasigiannguit,68.82,GL
+288,amahai,-3.33,ID
+64,ichinoseki,38.92,JP
+115,isangel,-19.55,VU
+497,gravdal,68.12,NO
+544,indapur,18.3,IN
+257,chuy,-33.7,UY
+543,grakhovo,56.05,RU
+519,ambilobe,-13.2,MG
+540,najran,17.49,SA
+485,black river,18.03,JM
+79,avarua,-21.21,CK
+492,obodivka,48.41,UA
+207,ziro,27.63,IN
+262,ca mau,9.18,VN
+157,mount isa,-20.73,AU
+127,cururupu,-1.83,BR
+382,puerto baquerizo moreno,-0.9,EC
+20,lebu,-37.62,CL
+346,ajaccio,42.0,FR
+136,ruteng,-8.61,ID
+572,palana,59.12,RU
+513,jibuti,11.5,DJ
+338,asau,46.43,RO
+267,stepnyak,52.83,KZ
+419,durango,24.83,MX
+218,norsup,-16.07,VU
+524,saint-leu,-21.15,RE
+69,ostrovnoy,68.05,RU
+534,rawson,-43.3,AR
+557,muros,42.78,ES
+323,tromso,69.65,NO
+465,kanniyakumari,8.08,IN
+310,jutai,-5.18,BR
+163,leshukonskoye,64.9,RU
+568,salalah,17.02,OM
+548,guca,43.78,RS
+49,shubarshi,48.59,KZ
+94,thompson,55.74,CA
+398,brazzaville,-4.27,CG
+152,saint-denis,48.92,FR
+146,lakkion,37.13,GR
+18,sicuani,-14.27,PE
+368,marawi,8.0,PH
+374,panguna,-6.32,PG
+381,hlotse,-28.87,LS
+424,nouadhibou,20.93,MR
+337,ouadda,8.08,CF
+385,abilene,32.45,US
+108,barrow,71.29,US
+144,takoradi,4.88,GH
+392,bekwai,6.45,GH
+181,walvis bay,-22.96,
+461,bunia,1.57,CD
+45,vaini,-21.2,TO
+350,kirovo-chepetsk,58.55,RU
+483,pacific grove,36.62,US
+244,cabinda,-5.55,AO
+92,mamallapuram,12.63,IN
+387,yokadouma,3.52,CM
+447,londa,15.47,IN
+85,nome,64.5,US
+505,la pena,43.28,FR
+471,bubaque,11.28,GW
+321,kasrawad,22.13,IN
+421,high level,58.52,CA
+408,bandarbeyla,9.49,SO
+400,urengoy,65.97,RU
+212,leningradskiy,69.38,RU
+156,okhotsk,59.38,RU
+508,avera,33.19,US
+302,vikulovo,56.82,RU
+542,general pico,-35.66,AR
+329,soeng sang,14.43,TH
+239,hamilton,39.18,US
+361,chokwe,-24.53,MZ
+405,cascavel,-24.96,BR
+520,krasnogorskoye,52.3,RU
+67,butaritari,3.07,KI
+545,flinders,-34.58,AU
+442,znamenskoye,57.13,RU
+46,upernavik,72.79,GL
+526,marsabit,2.33,KE
+278,hervey bay,-25.3,AU
+443,poopo,-18.37,BO
+575,oktyabrskoye,43.06,RU
+460,barguzin,53.62,RU
+101,whitehorse,60.72,CA
+96,westport,41.14,US
+82,longyearbyen,78.22,SJ
+215,villa bruzual,9.33,VE
+236,maceio,-9.67,BR
+241,yulara,-25.24,AU
+102,havoysund,71.0,NO
+110,qaanaaq,77.48,GL
+503,ostrovskoye,57.81,RU
+490,churapcha,62.0,RU
+232,piacabucu,-10.41,BR
+566,chongwe,-15.33,ZM
+406,edd,13.93,ER
+493,babynino,54.39,RU
+458,kulhudhuffushi,6.62,MV
+51,ampanihy,-24.7,MG
+189,pisco,-13.7,PE
+574,lensk,60.73,RU
+126,adrar,20.5,MR
+567,chernyshevsk,52.52,RU
+193,kaitangata,-46.28,NZ
+476,monrovia,6.3,LR
+437,taos,36.41,US
+182,florida,28.75,US
+475,bowen,-20.02,AU
+331,mecca,21.43,SA
+433,beringovskiy,63.05,RU
+273,ancud,-41.87,CL
+581,hailar,49.2,CN
+303,sibolga,1.74,ID
+121,tual,-5.67,ID
+98,gat,31.61,IL
+52,kholtoson,50.3,RU
+118,ribeira grande,38.52,PT
+62,baculin,7.45,PH
+106,borba,-4.39,BR
+246,moose factory,51.26,CA
+412,clonakilty,51.62,IE
+351,namatanai,-3.67,PG
+477,tiarei,-17.53,PF
+171,grindavik,63.84,IS
+242,huarmey,-10.07,PE
+142,bumba,2.18,CD
+122,roald,62.58,NO
+515,summerville,33.02,US
+86,hobart,-42.88,AU
+194,kruisfontein,-34.0,ZA
+455,lermontovka,47.15,RU
+379,swan river,52.11,CA
+300,the valley,18.22,AI
+365,tabuk,17.42,PH
+89,mangai,-4.05,CD
+422,sibut,5.72,CF
+367,kamuli,0.95,UG
+206,naze,28.37,JP
+499,nuuk,64.18,GL
+352,lillooet,50.69,CA
+131,changping,40.22,CN
+202,oliveira,-20.7,BR
+235,mackay,-21.15,AU
+537,novozavidovskiy,56.55,RU
+44,ambanja,-13.68,MG
+22,beian,63.66,NO
+307,saldanha,-33.01,ZA
+191,nicoya,10.15,CR
+546,imeni vorovskogo,55.72,RU
+553,sao miguel do guama,-1.63,BR
+573,redmond,47.67,US
+81,gigmoto,13.78,PH
+341,ous,60.91,RU
+226,celestun,20.87,MX
+315,ilulissat,69.22,GL
+298,ishinomaki,38.42,JP
+396,rocha,-34.48,UY
+250,saint george,37.1,US
+514,turukhansk,65.82,RU
+304,esmeraldas,-19.76,BR
+130,cortez,37.35,US
+35,nikolskoye,59.7,RU
+175,mount gambier,-37.83,AU
+123,pangnirtung,66.15,CA
+124,sao joao da barra,-21.64,BR
+125,zhoucheng,35.91,CN
+301,deogarh,21.53,IN
+40,hermanus,-34.42,ZA
+423,itaperuna,-21.2,BR
+577,charters towers,-20.1,AU
+260,cabo san lucas,22.89,MX
+339,chilakalurupet,16.08,IN
+395,ushtobe,45.25,KZ
+287,uddevalla,58.35,SE
+487,tautira,-17.73,PF
+559,tazovskiy,67.47,RU
+452,padang,-0.95,ID
+225,buston,40.52,TJ
+462,mandalgovi,45.76,MN
+254,dossor,47.53,KZ
+432,pontianak,-0.03,ID
+33,conceicao do araguaia,-8.26,BR
+319,kavaratti,10.57,IN
+426,hasaki,35.73,JP
+139,faanui,-16.48,PF
+269,el sauzal,31.9,MX
+371,rio gallegos,-51.62,AR
+168,boende,-0.22,CD
+292,floro,61.6,NO
+120,sumbe,-11.21,AO
+551,gamba,-2.65,GA
+313,marystown,47.17,CA
+500,san cristobal,7.77,VE
+293,sao gabriel da cachoeira,-0.13,BR
+24,abong mbang,3.98,CM
+105,point pedro,9.82,LK
+227,lompoc,34.64,US
+516,horta,38.53,PT
+128,kapan,39.21,AM
+247,liepaja,56.54,LV
+25,reforma,18.1,MX
+478,mocuba,-16.84,MZ
+88,san patricio,19.22,MX
+170,dunedin,-45.87,NZ
+5,yicheng,31.37,CN
+188,tiksi,71.69,RU
+509,redding,40.59,US
+230,north bend,43.41,US
+291,kahului,20.89,US
+523,amapa,1.0,BR
+43,tiznit,29.58,MA
+481,kaeo,-35.1,NZ
+30,araouane,18.9,ML
+161,taltal,-25.4,CL
+138,bima,-8.47,ID
+555,montalvo,-1.8,EC
+47,uige,-7.61,AO
+243,miandrivazo,-19.52,MG
+197,balgazyn,51.0,RU
+16,muroto,33.28,JP
+334,ahipara,-35.17,NZ
+27,namibe,-15.2,AO
+282,iqaluit,63.75,CA
+55,new norfolk,-42.78,AU
+370,miraflores,19.22,MX
+472,te anau,-45.42,NZ
+401,basco,20.45,PH
+158,jurmala,56.97,LV
+210,domna,51.9,RU
+34,port alfred,-33.59,ZA
+4,dingle,11.0,PH
+200,port elizabeth,-33.92,ZA
+318,port hardy,50.7,CA
+217,vardo,70.37,NO
+314,touros,-5.2,BR
+316,aranos,-24.13,
+353,savannah bight,16.45,HN
+12,tuktoyaktuk,69.45,CA
+119,millau,44.08,FR
+322,tagusao,9.19,PH
+386,borinskoye,52.46,RU
+169,bengkulu,-3.8,ID
+48,juneau,58.3,US
+248,acari,-15.43,PE
+583,roberval,48.52,CA
+26,bathsheba,13.22,BB
+582,skelleftea,64.75,SE
+369,midland,32.0,US
+183,kurkino,53.43,RU
+451,wagar,16.15,SD
+502,yuxia,34.06,CN
+271,mehamn,71.04,NO
+208,bambous virieux,-20.34,MU
+99,yerbogachen,61.28,RU
+510,impfondo,1.64,CG
+541,anadyr,64.75,RU
+176,inhambane,-23.86,MZ
+550,haines junction,60.75,CA
+418,valleyview,55.07,CA
+399,todos santos,23.45,MX
+203,whakatane,-37.96,NZ
+480,birin,26.89,NP
+344,norman wells,65.28,CA
+111,cherskiy,68.75,RU

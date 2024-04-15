@@ -1,0 +1,30 @@
+Subpart,Material group,Substances,Mass(mg),Mass(%) of subpart,Mass(%) of total product
+Wire,Pure metal,total,5.53686,100.0,100.0
+Mould Compound,Pigment,Carbon black,0.01011,0.3,0.18259
+Die,Doped silicon,subTotal,0.04,100.0,0.72243
+Lead Frame,Iron-nickel alloy,Phosphorous (P),0.00037999999999999997,0.0199,0.00686
+Post-plating,Tin solder,Bismuth (Bi),1e-05,0.00476,0.00018
+Post-plating,Tin solder,Copper (Cu),1e-05,0.00476,0.00018
+Lead Frame,Iron-nickel alloy,Nickel (Ni),0.65971,34.54015,11.91488
+Mould Compound,Polymer,Epichlorohydrin/o-Cresol/Formaldehyde polymer 1,0.58975,17.5,10.65134
+Lead Frame,Iron-nickel alloy,Manganese (Mn),0.01318,0.69006,0.23804
+Wire,Pure metal,Copper (Cu),0.00688,100.0,0.12426
+Lead Frame,Iron-nickel alloy,Sulphur (S),0.00037999999999999997,0.0199,0.00686
+Post-plating,Tin solder,Tin (Sn),0.20995,99.9762,3.79186
+Mould Compound,Polymer,Phenol Formaldehyde resin 1,0.23926999999999998,7.1,4.3214
+Lead Frame,Pure metal layer,subTotal,1.90998,100.0,34.495709999999995
+Lead Frame,Pure metal layer,Silver (Ag),0.04431,2.31992,0.80027
+Lead Frame,Iron-nickel alloy,Aluminium (Al),0.00172,0.09005,0.03106
+Lead Frame,Iron-nickel alloy,Cobalt (Co),0.00821,0.42985,0.14828
+Wire,Pure metal,subTotal,0.00688,100.0,0.12426
+Post-plating,Tin solder,subTotal,0.21,100.0,3.79276
+Mould Compound,Polymer,subTotal,3.37,100.0,60.86484
+Die,Doped silicon,Silicon (Si),0.04,100.0,0.72243
+Mould Compound,Filler,Silica fused,2.53087,75.1,45.709509999999995
+Lead Frame,Iron-nickel alloy,Silicon (Si),0.0049700000000000005,0.26021,0.08976
+Lead Frame,Iron-nickel alloy,Iron (Fe),0.8528100000000001,44.650209999999994,15.40241
+Lead Frame,Pure metal layer,Copper (Cu),0.32183,16.84991,5.8125
+Lead Frame,Iron-nickel alloy,Chromium (Cr),0.00172,0.09005,0.03106
+Post-plating,Tin solder,Antimony (Sb),1e-05,0.00476,0.00018
+Lead Frame,Iron-nickel alloy,Carbon (C),0.0007599999999999999,0.03979,0.013730000000000001
+Post-plating,Tin solder,Lead (Pb),2e-05,0.00952,0.00036

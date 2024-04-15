@@ -1,0 +1,52 @@
+Activities,Y/N,Delivery Type
+3. Project Dependent,,
+2. Usually Required,,
+3. Project Dependent,,
+New Vendor(s) involved,,Vendor Management
+New contract(s),,Document
+New Hardware,,Development
+New Operations document(s),,Document
+2. Usually Required,,
+3. Project Dependent,,
+Modify non-IT service,,Development
+2. Usually Required,,
+3. Project Dependent,,
+Change in Technology Architecture,,Development
+Modify database,,Development
+2. Usually Required,,
+Systems Design,Y,Document
+In house Design Workshops,Y,Workshop
+1. Approvals,,
+3. Project Dependent,,
+Modify online service,,Development
+New database Design,,Document
+Hardware Upgrade,,Development
+2. Usually Required,,
+Schedule,Y,Document
+3. Project Dependent,,
+2. Usually Required,,
+Project Status Reports,Y,Document
+3. Project Dependent,,
+1. Approvals,,
+3. Project Dependent,,
+French Translation,,Document
+2. Usually Required,,
+Test Cases,Y,Document
+1. Approvals,,
+3. Project Dependent,,
+New SLA,,Document
+Software Upgrade,,Development
+1. Approvals,,
+2. Usually Required,,
+Implementation Plan,Y,Document
+3. Project Dependent,,
+Implement new online service,,Development
+New database,,Development
+Implement new packaged solution,,Development
+2. Usually Required,,
+3. Project Dependent,,
+Modify SLA,,Document
+2. Usually Required,,
+Project Plan,Y,Document
+3. Project Dependent,,
+Update Disaster Recovery Plan,,Document

@@ -1,0 +1,888 @@
+Restaurant_id,City,Ranking,Rating,Price Range,Number of Reviews,ID_TA,Cuisine Style
+id_1,Zurich,2,4.5,$$ - $$$,418.0,d10169867,"  Asian,   Gluten Free Options,   Vegan Options,   Vegetarian Friendly, Indian"
+id_1000,Oporto,1001,4.5,NaN,5.0,d12336001,Other
+id_10032,Paris,10034,4.5,NaN,2.0,d1035491,Other
+id_1004,Budapest,1005,5.0,NaN,17.0,d3685490,"European,   Central European"
+id_10057,Paris,10059,4.5,NaN,4.0,d2040769,Other
+id_101,Helsinki,102,4.0,$$ - $$$,231.0,d3456729,"Italian,   European,   Vegetarian Friendly"
+id_1010,Berlin,1012,3.5,$$ - $$$,440.0,d1507237,"  Thai,   Gluten Free Options,   Vietnamese,   Vegan Options,   Vegetarian Friendly, Asian"
+id_1010,Hamburg,1012,4.5,NaN,9.0,d1347837,Other
+id_1012,Helsinki,1013,3.0,NaN,19.0,d3345223,"  Sushi,   Asian"
+id_10142,London,10151,4.0,NaN,5.0,d12391114,Other
+id_10157,London,10166,5.0,$$ - $$$,4.0,d9602787,"Lebanese,   Mediterranean"
+id_10177,Paris,10179,4.0,NaN,9.0,d1336101,Italian
+id_1018,Brussels,1019,4.5,NaN,45.0,d5599563,Other
+id_1025,Warsaw,1026,4.5,NaN,3.0,d12685574,Other
+id_10299,Paris,10301,4.0,NaN,4.0,d7147205,Mediterranean
+id_10305,London,10314,4.0,$,13.0,d8463851,"Japanese,   Sushi"
+id_1033,Dublin,1035,3.5,$$ - $$$,230.0,d1553821,"  International, Irish"
+id_1033,London,1035,4.5,$$ - $$$,193.0,d8599829,"  Middle Eastern,   Gluten Free Options,   European"
+id_10343,Paris,10345,3.5,NaN,6.0,d12681857,Other
+id_10356,London,10365,3.5,$$ - $$$,65.0,d2001507,"Fast Food,   Portuguese"
+id_10381,Paris,10383,4.0,$$ - $$$,3.0,d12571297,Bar
+id_1040,Budapest,1041,4.5,$,14.0,d10354665,"  European, Fast Food"
+id_1041,Stockholm,1042,4.0,NaN,37.0,d3529487,"  Swedish, Cafe"
+id_1048,Paris,1049,4.5,$$$$,281.0,d719083,"  European, French"
+id_10665,London,10675,4.0,NaN,7.0,d10677156,Other
+id_1069,Dublin,1072,4.5,$$ - $$$,17.0,d5536153,"  Sushi,   Asian, Japanese"
+id_1076,Warsaw,1077,5.0,$,2.0,d12018194,"  Fusion, Polish,   European"
+id_10781,London,10791,4.5,$$ - $$$,17.0,d787024,"  Halal, Turkish,   Middle Eastern"
+id_1079,Lisbon,1080,4.0,$$ - $$$,167.0,d2703359,"  Portuguese, Seafood,   European"
+id_108,Hamburg,109,4.0,$$ - $$$,371.0,d1353540,"  Gastropub,   Bar,   Central European"
+id_10876,London,10886,4.0,$$ - $$$,20.0,d4185485,"  Balti,   Asian, Indian"
+id_1089,Lyon,1090,4.0,$$ - $$$,22.0,d10389470,French
+id_11082,Paris,11084,3.5,$$ - $$$,36.0,d1327268,American
+id_111,Edinburgh,112,4.5,$$ - $$$,1951.0,d1186842,"  Vegetarian Friendly, Bar,   British,   European,   Vegan Options"
+id_111,Ljubljana,112,4.5,$,30.0,d5965027,"  Vegetarian Friendly,   Asian"
+id_11121,London,11131,4.5,$$ - $$$,7.0,d8659568,"Bar,   Pub"
+id_11134,London,11144,4.5,$,8.0,d2225278,"  Mediterranean,   British, Turkish"
+id_1115,Rome,1116,4.5,$$ - $$$,87.0,d7359557,"Pizza,   Vegan Options"
+id_11266,London,11276,4.0,$$ - $$$,10.0,d9740703,"  Chilean, Latin,   Spanish"
+id_11291,Paris,11293,4.5,$$ - $$$,10.0,d3543081,French
+id_11299,Paris,11301,4.0,NaN,7.0,d10336129,Other
+id_11306,London,11316,3.5,$$ - $$$,47.0,d2643319,"Mediterranean,   European,   Bar,   Spanish"
+id_1132,Paris,1133,4.5,$$$$,255.0,d1877226,"  Asian, Japanese"
+id_1133,Brussels,1134,3.5,$$ - $$$,61.0,d1082420,"  Pizza,   European"
+id_1135,Zurich,1140,4.5,NaN,4.0,d6620235,"Chinese,   Vietnamese"
+id_11407,London,11417,4.5,NaN,3.0,d10109314,Other
+id_1141,Milan,1143,4.5,$$ - $$$,28.0,d12710453,"Indian,   Vegetarian Friendly"
+id_11432,Paris,11434,4.0,NaN,15.0,d1074698,Other
+id_1144,Warsaw,1146,5.0,NaN,NaN,d12404527,Other
+id_1149,Madrid,1150,4.5,$$ - $$$,53.0,d12099376,"  Gluten Free Options, Steakhouse"
+id_1151,Milan,1153,4.5,NaN,143.0,d2697097,Other
+id_11560,Paris,11562,3.5,NaN,129.0,d4227711,Other
+id_11602,London,11612,4.0,NaN,16.0,d10392913,Other
+id_1167,Brussels,1168,4.0,$$ - $$$,26.0,d11962971,"  Delicatessen, European"
+id_1168,Lisbon,1169,4.0,$$ - $$$,67.0,d6883153,"  Mediterranean, Seafood"
+id_1182,Copenhagen,1176,5.0,NaN,3.0,d6813236,Japanese
+id_1188,Rome,1189,4.0,$$ - $$$,173.0,d11895495,"  Brazilian,   Sushi, Japanese,   Vegan Options,   Vegetarian Friendly,   Gluten Free Options"
+id_1200,London,1202,4.0,$$ - $$$,278.0,d719718,"  Vegetarian Friendly,   British, European,   Gluten Free Options"
+id_12014,Paris,12016,3.5,NaN,16.0,d3735127,Seafood
+id_1208,Vienna,1209,4.5,$$ - $$$,8.0,d12995806,Vietnamese
+id_12089,Paris,12091,3.5,NaN,15.0,d1035596,Other
+id_1213,Dublin,1216,5.0,NaN,NaN,d7246537,Other
+id_12247,Paris,12249,3.0,NaN,2.0,d12112547,Other
+id_1225,Dublin,1228,5.0,NaN,NaN,d12873448,Other
+id_12273,London,12283,4.5,NaN,2.0,d1044726,"Bar,   Pub"
+id_1228,Barcelona,1229,4.0,$$ - $$$,277.0,d790369,"  Spanish,   Vegan Options, Mediterranean,   Vegetarian Friendly,   International"
+id_1228,Madrid,1230,4.0,$$ - $$$,78.0,d10331391,"  Spanish,   Gluten Free Options"
+id_12287,Paris,12289,3.0,NaN,8.0,d11666969,Other
+id_12302,Paris,12304,3.5,NaN,15.0,d8261215,Italian
+id_12304,Paris,12306,4.0,$$$$,7.0,d719518,French
+id_12307,London,12317,3.5,$$ - $$$,63.0,d1018974,"  Thai,   Chinese, Asian,   Vegetarian Friendly"
+id_12381,Paris,12383,3.5,NaN,3.0,d715001,French
+id_1239,Rome,1240,4.0,$$ - $$$,302.0,d4023512,"  Seafood,   Gluten Free Options,   Soups,   Mediterranean"
+id_12392,London,12402,4.0,$$ - $$$,NaN,d13153300,"  Cafe, Italian,   Pizza"
+id_1244,Munich,1256,3.5,$$ - $$$,45.0,d2524764,"  Vegetarian Friendly, Asian"
+id_12449,London,12459,4.0,NaN,NaN,d12114896,Other
+id_1247,Dublin,1250,5.0,NaN,3.0,d7805333,Other
+id_12473,Paris,12475,3.5,NaN,13.0,d4185793,South American
+id_12475,London,12485,4.0,NaN,NaN,d5583335,Indian
+id_12495,Paris,12497,3.0,NaN,8.0,d10478105,Other
+id_1257,Budapest,1258,5.0,$$ - $$$,14.0,d10613140,"  Vegetarian Friendly,   Vegan Options,   Healthy, Eastern European,   Central European,   Hungarian"
+id_1257,Madrid,1259,4.0,$$ - $$$,121.0,d2096546,"  Asian, Chinese"
+id_12587,London,12597,4.0,$$ - $$$,2.0,d10333393,French
+id_1261,Rome,1262,4.0,$,822.0,d4811912,"  Vegetarian Friendly,   Fast Food, Brew Pub"
+id_12622,London,12632,4.0,$$ - $$$,NaN,d12175079,Indian
+id_1268,Lyon,1269,4.0,$,37.0,d4585716,French
+id_12703,Paris,12705,3.0,$$ - $$$,121.0,d2011853,"  Pub, Bar"
+id_1272,Barcelona,1273,4.0,$$$$,554.0,d1080720,"  Vegetarian Friendly,   Gluten Free Options,   Vegan Options,   Spanish"
+id_1275,Rome,1276,4.0,$$ - $$$,377.0,d2439603,"  Pub,   Brew Pub,   Bar, Italian"
+id_128,Stockholm,129,4.5,$$ - $$$,183.0,d5949148,"  Mediterranean,   Vegetarian Friendly, Italian"
+id_12901,London,12911,3.5,$$ - $$$,4.0,d12996130,  British
+id_12906,London,12916,3.0,NaN,8.0,d5080700,Other
+id_1293,Stockholm,1294,4.0,NaN,6.0,d12335302,"Lebanese,   Mediterranean"
+id_130,Edinburgh,131,4.5,$$ - $$$,448.0,d752894,"  Gluten Free Options,   Vegetarian Friendly, American,   Pub,   British"
+id_1300,Lisbon,1301,4.5,$,32.0,d8008981,  European
+id_13016,London,13026,3.5,$$ - $$$,52.0,d2508041,"Bar,   British"
+id_131,Dublin,132,4.5,$$ - $$$,404.0,d3859070,"  Vegan Options,   European,   Gluten Free Options,   Bar,   International"
+id_13122,London,13132,3.5,$$ - $$$,28.0,d4040052,"  Asian, Indian"
+id_1313,Zurich,1318,4.0,NaN,6.0,d8736586,Other
+id_13175,Paris,13177,3.0,$$ - $$$,121.0,d3405673,"French,   European,   International,   Vegetarian Friendly"
+id_13199,London,13209,3.0,$$ - $$$,11.0,d718909,Italian
+id_1322,Edinburgh,1323,4.0,NaN,18.0,d10146454,Other
+id_1323,Dublin,1326,3.5,$,113.0,d3431140,"  Gluten Free Options,   Delicatessen,   Vegetarian Friendly"
+id_1328,Milan,1330,4.0,NaN,237.0,d1226617,Other
+id_13337,Paris,13339,2.5,$$ - $$$,13.0,d4129187,Italian
+id_1334,Hamburg,1336,5.0,$,NaN,d12384552,  Pub
+id_13354,London,13364,4.0,$,34.0,d3192609,"  Thai, Asian"
+id_13389,London,13399,4.0,$$ - $$$,16.0,d4872826,  British
+id_1339,London,1341,4.0,$$ - $$$,1495.0,d3181518,"American,   Bar,   Central American,   Vegetarian Friendly,   Gluten Free Options"
+id_134,Geneva,135,4.0,$$ - $$$,191.0,d7687905,"French,   European"
+id_1341,Vienna,1342,3.5,$,110.0,d941095,"Italian,   European,   Pizza"
+id_13419,London,13429,3.5,$$ - $$$,35.0,d3242247,"Bar,   Pub"
+id_1346,London,1348,4.5,$,156.0,d8125299,"  Vegan Options,   Vegetarian Friendly"
+id_13478,London,13488,2.5,NaN,8.0,d1097059,Other
+id_1349,Athens,1351,4.5,NaN,3.0,d8810157,Other
+id_13563,London,13573,3.5,$,6.0,d8401717,Seafood
+id_1359,Barcelona,1360,4.5,$,59.0,d9765679,"  Mediterranean,   Pizza,   Vegetarian Friendly"
+id_1365,Zurich,1370,3.5,$$ - $$$,25.0,d1125197,Italian
+id_1368,Warsaw,1370,4.5,NaN,2.0,d8596967,Other
+id_13695,London,13705,3.5,NaN,5.0,d4961398,Steakhouse
+id_1372,Prague,1373,5.0,NaN,7.0,d9745343,Other
+id_1374,Copenhagen,1376,3.5,$$ - $$$,66.0,d6618276,"  Scandinavian, European,   Danish"
+id_13747,London,13757,3.5,$$ - $$$,39.0,d4919283,"  British, Bar"
+id_13815,London,13825,3.5,$,28.0,d2176100,"  South American,   Central American,   Vegetarian Friendly,   Fast Food, Mexican"
+id_13830,Paris,13832,2.0,$$ - $$$,3.0,d10784629,French
+id_13850,London,13860,3.5,$$ - $$$,32.0,d7949523,"Pizza,   Italian,   Vegan Options"
+id_13892,Paris,13894,5.0,$$ - $$$,NaN,d8660001,"  Delicatessen,   Healthy,   Street Food"
+id_1391,Budapest,1392,5.0,NaN,NaN,d7724601,"  International, American,   European"
+id_1394,Dublin,1398,4.5,NaN,2.0,d5812483,Chinese
+id_1398,Geneva,1405,1.5,NaN,2.0,d12414220,Other
+id_14,Helsinki,15,4.0,$$ - $$$,1488.0,d850178,"  European,   Scandinavian,   Gluten Free Options,   Soups,   Vegan Options, Cafe,   Vegetarian Friendly"
+id_1401,Amsterdam,1404,3.5,$$ - $$$,142.0,d3191953,  Brazilian
+id_1401,Dublin,1405,4.0,$$ - $$$,28.0,d6633059,Cafe
+id_1403,Geneva,1411,1.0,NaN,NaN,d7996902,Other
+id_1409,Budapest,1410,5.0,NaN,NaN,d13197631,"French,   Hungarian,   European"
+id_14134,London,14144,3.5,$$ - $$$,52.0,d734267,"  Pizza,   Vegetarian Friendly,   Gluten Free Options"
+id_1414,Milan,1416,4.0,$,252.0,d3773630,Pizza
+id_1418,Athens,1420,4.5,$,7.0,d10122352,  Mediterranean
+id_1418,Oporto,1419,3.0,NaN,2.0,d12503536,Other
+id_1430,Oporto,1431,3.5,NaN,3.0,d7992689,Other
+id_14346,London,14357,3.5,$,14.0,d5081096,Fast Food
+id_1435,Munich,1447,4.0,$,21.0,d4597916,  Pizza
+id_14351,London,14362,3.0,NaN,3.0,d5081396,Other
+id_14386,London,14397,3.5,$$ - $$$,53.0,d731210,Indian
+id_14403,London,14414,4.0,NaN,4.0,d10760580,Turkish
+id_1441,Paris,1442,5.0,$$ - $$$,49.0,d12947099,"  Vegetarian Friendly,   Pakistani,   Middle Eastern, Indian"
+id_1457,Oporto,1458,4.5,$,2.0,d12147644,"Brazilian,   Portuguese,   Contemporary,   Fusion"
+id_1461,Milan,1463,3.5,$,283.0,d2589168,"  Sushi, Chinese,   Vegetarian Friendly,   Japanese"
+id_1464,Rome,1465,4.0,$$ - $$$,678.0,d1953294,"Italian,   European,   Mediterranean"
+id_1466,Vienna,1467,4.0,$$ - $$$,21.0,d2632522,Middle Eastern
+id_1468,Zurich,1473,3.5,$$ - $$$,24.0,d1887046,"  Pub, Bar,   Irish,   British,   Fast Food"
+id_147,Prague,148,4.5,$,105.0,d10389421,"  Gluten Free Options, Cafe,   European,   International"
+id_1473,Stockholm,1474,4.0,$,15.0,d1079439,Thai
+id_1475,London,1477,4.5,$$ - $$$,313.0,d733450,"  Gluten Free Options, Indian,   Vegan Options"
+id_1478,Madrid,1480,4.0,$$ - $$$,215.0,d8123141,"  Grill, Mediterranean,   Spanish,   European"
+id_1482,Amsterdam,1485,5.0,NaN,12.0,d10027275,Other
+id_14925,London,14936,3.0,$$ - $$$,319.0,d2361013,"  Vegetarian Friendly, Bar,   British"
+id_14953,London,14964,3.5,NaN,11.0,d5122174,Sushi
+id_14973,London,14984,3.0,$,18.0,d7617571,  British
+id_1498,Zurich,1503,3.0,NaN,5.0,d9729580,Other
+id_14996,London,15007,3.0,$$ - $$$,85.0,d6403079,"  Bar, British,   European"
+id_150,Budapest,151,4.5,$,1317.0,d813990,"  Mediterranean, Healthy,   Vegetarian Friendly"
+id_1501,Barcelona,1502,4.0,$$ - $$$,144.0,d8737446,"  Mediterranean,   Spanish"
+id_1504,Rome,1505,4.0,$,403.0,d7208833,  Italian
+id_1508,Lyon,1490,5.0,NaN,2.0,d1328183,Other
+id_1512,Warsaw,1514,4.0,$$ - $$$,34.0,d2271370,"Chinese,   Asian"
+id_1516,Warsaw,1518,4.0,NaN,6.0,d11793939,Other
+id_152,Luxembourg,153,4.0,$$ - $$$,80.0,d743790,"  Sushi, Japanese,   Asian"
+id_1524,Athens,1526,3.5,NaN,3.0,d13001826,"  Greek,   Fast Food,   Street Food"
+id_15279,London,15291,3.5,$$ - $$$,16.0,d5795578,  Halal
+id_1530,Prague,1533,4.5,$$ - $$$,34.0,d4768479,"  Czech, European"
+id_15306,London,15318,3.5,NaN,2.0,d8853180,Other
+id_1533,Paris,1534,4.5,$$ - $$$,105.0,d4697825,French
+id_1535,Stockholm,1537,4.0,NaN,10.0,d7992032,Other
+id_1536,Brussels,1537,4.0,$,20.0,d7336387,Asian
+id_1536,Vienna,1537,4.0,$,27.0,d2140541,"Austrian,   Contemporary"
+id_1539,Brussels,1540,4.5,$$ - $$$,4.0,d13206789,Italian
+id_1539,Dublin,1543,3.5,$$ - $$$,44.0,d811284,"Chinese,   Asian"
+id_1539,Stockholm,1541,3.5,$$ - $$$,8.0,d12516525,"  Pub, American,   Bar,   Steakhouse"
+id_1541,Lisbon,1542,4.5,$$ - $$$,17.0,d3729391,"  Sushi, Japanese"
+id_1545,Lisbon,1546,4.5,$$ - $$$,7.0,d13171584,"  Portuguese, European"
+id_1547,Amsterdam,1550,3.5,$$ - $$$,91.0,d10488468,"  Japanese,   Korean,   Seafood,   Vegetarian Friendly,   Asian,   Street Food"
+id_155,Amsterdam,156,4.5,$$ - $$$,482.0,d4588301,"Steakhouse,   Vegetarian Friendly,   South American,   Latin,   Barbecue,   European,   Argentinean"
+id_1556,Rome,1557,4.5,$$ - $$$,287.0,d1095455,"  Gluten Free Options,   Wine Bar,   Italian, Seafood,   Mediterranean,   Vegetarian Friendly"
+id_156,Budapest,157,4.0,$$ - $$$,438.0,d1648922,"  Vegetarian Friendly,   Pub"
+id_15646,London,15658,2.5,NaN,3.0,d5440481,Other
+id_15679,London,15691,2.5,$,25.0,d8505654,Fast Food
+id_1571,Barcelona,1572,4.0,$$ - $$$,105.0,d8774881,"  Asian, Japanese"
+id_15748,London,15760,3.0,$,31.0,d4584798,  American
+id_1579,Rome,1580,4.5,$$ - $$$,64.0,d10744198,"  Vegan Options,   International,   Vegetarian Friendly"
+id_158,Warsaw,159,4.0,$$ - $$$,187.0,d6369030,"  Gluten Free Options,   European,   Vegan Options, French"
+id_1583,Prague,1586,4.0,$$ - $$$,14.0,d4769401,European
+id_1585,Lyon,1586,4.0,$$ - $$$,25.0,d4295258,Italian
+id_159,Oporto,160,4.5,$$ - $$$,264.0,d1027670,  Gluten Free Options
+id_16034,London,16046,2.0,NaN,NaN,d7243246,Other
+id_1608,Athens,1610,4.0,NaN,9.0,d4591733,Pizza
+id_1611,Rome,1612,4.0,$$ - $$$,621.0,d803842,"  Pizza,   Seafood"
+id_1615,Barcelona,1616,4.0,$$ - $$$,83.0,d10339269,"Mediterranean,   Vegetarian Friendly,   Vegan Options"
+id_1619,Madrid,1621,4.5,$$ - $$$,107.0,d3218566,Italian
+id_16199,London,16211,2.0,NaN,2.0,d5122657,Other
+id_16215,London,16227,2.0,$,11.0,d5667751,Pizza
+id_163,Stockholm,164,4.5,$,99.0,d3478764,"  Vegetarian Friendly, Mediterranean"
+id_1630,Lisbon,1631,4.5,$$ - $$$,9.0,d12081682,"Italian,   Vegetarian Friendly"
+id_1639,Berlin,1641,4.0,$,64.0,d6494498,"  Vegetarian Friendly, Cafe"
+id_164,Hamburg,165,4.5,$$ - $$$,73.0,d6031001,"  Vegetarian Friendly,   Vegan Options, Soups,   Gluten Free Options"
+id_1646,Athens,1648,3.5,NaN,17.0,d3709334,Other
+id_1651,Copenhagen,1654,3.5,NaN,3.0,d11749991,Other
+id_1651,Lyon,1652,4.5,NaN,2.0,d13279636,Other
+id_1655,Madrid,1657,5.0,$$$$,11.0,d13174390,"  South American, Peruvian"
+id_1665,Athens,1667,3.5,NaN,8.0,d8627732,Other
+id_1674,Amsterdam,1679,4.0,$$ - $$$,26.0,d3610708,"Mediterranean,   International"
+id_1675,Lisbon,1676,4.0,$$ - $$$,41.0,d10170180,"  Mexican,   Delicatessen,   Greek, Mediterranean"
+id_1678,Athens,1680,3.0,NaN,NaN,d12883544,Other
+id_1684,Dublin,1688,3.0,NaN,8.0,d11958324,Other
+id_1686,Rome,1687,4.5,$,38.0,d12538734,"  Vegetarian Friendly, Mexican"
+id_1696,Paris,1697,4.0,$$$$,519.0,d942290,"French,   European"
+id_1698,Berlin,1700,4.0,$$ - $$$,19.0,d11888740,Vegetarian Friendly
+id_1698,Paris,1699,4.5,$$ - $$$,135.0,d1069513,French
+id_17,Rome,18,4.5,$,281.0,d8516817,"  Mediterranean, Italian,   Vegan Options"
+id_1705,Budapest,1706,4.0,NaN,6.0,d9747453,Other
+id_1714,Hamburg,1717,4.0,NaN,5.0,d1038938,Chinese
+id_1716,Dublin,1720,3.5,$,20.0,d3544710,"  Diner, Fast Food"
+id_1718,Edinburgh,1725,2.5,$,18.0,d5425608,"  Fast Food,   Asian, Chinese"
+id_1720,Milan,1722,4.0,$,50.0,d5808504,"  Pizza, Italian"
+id_1721,Edinburgh,1728,2.0,$$ - $$$,26.0,d11688138,"  Bar, Pub"
+id_1722,Hamburg,1725,4.0,$$ - $$$,3.0,d12867794,"Asian,   Tibetan"
+id_173,Hamburg,174,4.0,$$ - $$$,142.0,d1340332,"Seafood,   Barbecue,   European,   Mediterranean"
+id_1741,Hamburg,1744,3.0,NaN,12.0,d959162,Other
+id_1745,Lisbon,1747,4.0,$$ - $$$,11.0,d13150829,"  Contemporary,   Portuguese, European"
+id_1746,Munich,1760,4.0,$$ - $$$,55.0,d1912599,"  Mediterranean,   Vegetarian Friendly,   Contemporary,   International,   European, Diner"
+id_1748,Berlin,1750,3.5,$,90.0,d6280580,  Fast Food
+id_1751,Paris,1752,4.5,$$$$,114.0,d3327962,  European
+id_1753,Stockholm,1756,4.0,NaN,NaN,d7160467,Italian
+id_1754,Rome,1755,4.0,$$ - $$$,382.0,d4930739,"  Vegan Options, Italian,   Pizza,   Vegetarian Friendly"
+id_1760,Paris,1761,4.5,$,86.0,d8384800,"  Vegan Options,   Vegetarian Friendly, Cafe"
+id_1762,Warsaw,1764,3.5,NaN,6.0,d6673365,  Pizza
+id_1767,Milan,1769,4.0,$$ - $$$,25.0,d12927216,"  Vegetarian Friendly, Japanese"
+id_1776,Brussels,1777,4.5,$,3.0,d11445075,"Polish,   European"
+id_1780,Barcelona,1781,4.5,$,31.0,d10230660,Italian
+id_1789,Madrid,1791,4.0,$$ - $$$,35.0,d11978912,"  Vegetarian Friendly, Thai"
+id_18,Dublin,19,4.5,$$ - $$$,670.0,d6482548,"  European,   Vegetarian Friendly, Gastropub,   Irish"
+id_1801,Amsterdam,1806,5.0,$,8.0,d8656639,"  Vegan Options,   Vegetarian Friendly"
+id_1808,Hamburg,1811,3.5,NaN,16.0,d5506292,Other
+id_1810,Berlin,1812,4.0,$,68.0,d5532050,"  Vietnamese, Asian,   Vegan Options"
+id_1811,Hamburg,1814,4.0,$$ - $$$,2.0,d10250368,"  German, Chinese,   Delicatessen,   Minority Chinese"
+id_1815,Berlin,1817,3.5,$$ - $$$,1067.0,d1119896,"Italian,   Gluten Free Options,   Vegetarian Friendly,   Vegan Options,   European,   Pizza,   Mediterranean"
+id_182,Lisbon,183,4.0,$,825.0,d1852620,"  European, Steakhouse"
+id_1820,Milan,1822,3.5,$,567.0,d1100325,"  Vegetarian Friendly, Italian,   Mediterranean"
+id_1827,Rome,1828,4.0,$$ - $$$,274.0,d2374918,"  Pub, Bar"
+id_1831,Paris,1832,4.5,$$ - $$$,111.0,d4212687,"Mediterranean,   Vegetarian Friendly,   Italian,   Vegan Options"
+id_1841,Copenhagen,1846,3.0,NaN,16.0,d11841754,Other
+id_1842,Paris,1843,4.5,$$ - $$$,132.0,d9746677,"French,   European"
+id_1850,Lisbon,1853,5.0,NaN,3.0,d10734451,Other
+id_1856,Hamburg,1859,3.5,NaN,4.0,d2722599,"Cafe,   Contemporary"
+id_1856,Munich,1871,4.0,NaN,23.0,d7211474,Other
+id_1857,Budapest,1858,4.0,NaN,2.0,d12359266,Other
+id_1862,Rome,1863,4.5,$$ - $$$,89.0,d9603011,  Seafood
+id_1877,Budapest,1878,4.0,NaN,NaN,d9752550,Other
+id_1879,Lisbon,1882,4.0,$,33.0,d9739262,  Gluten Free Options
+id_1889,Barcelona,1890,4.5,$$ - $$$,24.0,d11679759,"  Fusion, Mediterranean"
+id_1897,Rome,1898,4.0,$$ - $$$,181.0,d1674503,"  Pizza,   Mediterranean"
+id_1905,Barcelona,1906,4.0,$$ - $$$,250.0,d8602690,"  Gluten Free Options,   European, Mediterranean"
+id_1907,Munich,1923,3.5,NaN,46.0,d1356624,Other
+id_191,Oslo,192,4.0,$$ - $$$,53.0,d3385038,"  Pub,   European"
+id_1921,Barcelona,1922,4.0,$$ - $$$,94.0,d8661176,"  Vegetarian Friendly, Mediterranean,   Vegan Options"
+id_1925,Berlin,1927,4.0,$,42.0,d4748988,"  European,   Contemporary"
+id_194,Munich,196,4.0,$$ - $$$,106.0,d4818393,"Cafe,   European,   Gluten Free Options"
+id_194,Warsaw,195,4.0,$$ - $$$,143.0,d779167,"  European, Russian,   Eastern European"
+id_1940,Lyon,1941,3.0,$$ - $$$,354.0,d1324029,"  Seafood, European"
+id_1941,Milan,1943,4.0,NaN,47.0,d10701333,Other
+id_1945,Vienna,1947,4.0,NaN,5.0,d12556149,Other
+id_1952,Budapest,1953,3.5,$$ - $$$,39.0,d12410110,"Cafe,   Vegetarian Friendly"
+id_1958,Munich,1974,3.5,$$ - $$$,95.0,d1342155,"German,   Vegetarian Friendly"
+id_1968,Vienna,1970,4.0,$$ - $$$,39.0,d7920021,"Cafe,   European"
+id_197,Bratislava,198,4.5,$$ - $$$,6.0,d13203526,"American,   International"
+id_197,Lyon,198,4.0,$$ - $$$,370.0,d918784,French
+id_1971,Vienna,1973,4.0,NaN,9.0,d12630204,Other
+id_1974,Paris,1975,4.0,$$ - $$$,152.0,d6385547,  Vegetarian Friendly
+id_1976,Paris,1977,4.0,$$ - $$$,345.0,d807906,"French,   European"
+id_198,Zurich,200,4.0,$$$$,211.0,d797737,"  European, Italian,   Vegetarian Friendly"
+id_1981,Budapest,1982,3.5,NaN,8.0,d10073699,Other
+id_1986,Prague,1989,5.0,NaN,NaN,d4768291,"  Czech, European"
+id_1989,Munich,2005,4.0,NaN,15.0,d1820729,Other
+id_199,Luxembourg,200,4.0,$$ - $$$,145.0,d3675106,"  Gluten Free Options, European"
+id_1993,Amsterdam,1998,4.5,NaN,12.0,d9832010,Other
+id_1994,Munich,2010,3.5,$,50.0,d2517446,"  Healthy,   Vegetarian Friendly"
+id_20,Budapest,21,4.5,$$$$,956.0,d696038,"European,   Vegan Options,   Vegetarian Friendly,   Gluten Free Options,   Hungarian"
+id_2006,Amsterdam,2011,4.5,$$ - $$$,15.0,d3591150,Dutch
+id_2016,Munich,2032,4.0,NaN,5.0,d5818174,Other
+id_2024,Paris,2025,4.5,$$ - $$$,93.0,d780204,"Bar,   French"
+id_2040,Madrid,2042,3.5,$$ - $$$,339.0,d1109944,"  Spanish, Mediterranean"
+id_2041,Madrid,2043,3.5,$$ - $$$,172.0,d6868018,"  Spanish, Mediterranean,   Vegetarian Friendly"
+id_2042,Stockholm,2045,3.5,NaN,2.0,d5936523,Pub
+id_2044,Barcelona,2045,4.5,$$ - $$$,89.0,d8118086,  Mediterranean
+id_2044,Budapest,2045,3.5,NaN,5.0,d10498197,Italian
+id_2045,Madrid,2047,4.5,$$ - $$$,20.0,d10302313,"  South American,   Mexican, Italian"
+id_2047,Prague,2050,5.0,$$ - $$$,NaN,d12243659,  Mediterranean
+id_205,Barcelona,206,4.5,$$ - $$$,613.0,d3499028,"  International, Brew Pub,   Cafe,   Vegan Options,   Gluten Free Options"
+id_2055,Amsterdam,2060,4.5,NaN,8.0,d10488130,Other
+id_206,Vienna,207,4.5,$$ - $$$,55.0,d10395526,"  Vegetarian Friendly, Japanese,   Vegan Options,   Fusion"
+id_2068,Barcelona,2069,4.0,$$ - $$$,112.0,d797017,"  Spanish,   Mediterranean"
+id_2073,Paris,2074,4.0,$$ - $$$,128.0,d1048529,"  Bar,   Pub,   European,   Cafe"
+id_2074,Amsterdam,2079,4.5,NaN,5.0,d11909263,Other
+id_2074,Prague,2077,5.0,NaN,NaN,d7124393,Vietnamese
+id_2089,Milan,2091,4.5,$$ - $$$,103.0,d2701946,"  Seafood, Italian"
+id_2098,Barcelona,2099,4.0,$,41.0,d7952588,"  Vegetarian Friendly,   Mediterranean,   Spanish, Cafe"
+id_2108,Budapest,2109,3.5,NaN,2.0,d11616946,Other
+id_211,Barcelona,212,4.5,$$ - $$$,773.0,d2470800,"American,   Vegetarian Friendly,   Contemporary"
+id_2111,Paris,2112,4.0,$$ - $$$,121.0,d695083,  Vegan Options
+id_213,Helsinki,214,4.5,$,100.0,d784491,"Soups,   International"
+id_2137,Lisbon,2140,5.0,NaN,2.0,d3193915,"  Portuguese, European"
+id_214,Dublin,215,4.0,$$ - $$$,1774.0,d4236147,"  British,   Soups, Irish,   Pub"
+id_214,Milan,215,4.0,$$$$,1613.0,d5264429,"  Vegetarian Friendly,   Gluten Free Options,   Mediterranean, Italian,   Vegan Options"
+id_2155,Lyon,2156,3.5,NaN,20.0,d1324782,Other
+id_216,Copenhagen,217,4.5,$$ - $$$,125.0,d8121703,"  Vegan Options, Bar,   European,   Vegetarian Friendly,   Cafe"
+id_2170,Lyon,2171,4.0,NaN,5.0,d5962368,Other
+id_2171,Berlin,2173,3.5,$$ - $$$,130.0,d1359957,"Mediterranean,   Grill,   German,   Italian,   Vegetarian Friendly"
+id_2171,Lyon,2172,3.0,$,52.0,d4098079,Steakhouse
+id_2173,Madrid,2175,4.0,$$ - $$$,33.0,d8811850,Spanish
+id_2177,Lisbon,2180,3.5,$$ - $$$,110.0,d7247750,"  Mediterranean,   Portuguese,   European, Seafood"
+id_2185,Amsterdam,2190,5.0,NaN,NaN,d12049003,Other
+id_2188,Hamburg,2192,3.5,NaN,4.0,d4553147,Other
+id_2192,Lisbon,2195,4.0,NaN,7.0,d5981466,Japanese
+id_2198,Milan,2200,4.0,$,75.0,d4909559,"  Pub, Bar,   Brew Pub"
+id_2224,Paris,2225,4.5,$$ - $$$,140.0,d782237,"  Wine Bar, French"
+id_2228,Prague,2233,4.0,$$ - $$$,11.0,d10412920,Cafe
+id_2233,Stockholm,2236,3.0,NaN,21.0,d10769792,Other
+id_2236,Lisbon,2239,3.5,$$ - $$$,185.0,d2091250,"  European,   Portuguese"
+id_2243,Stockholm,2247,3.0,$$ - $$$,86.0,d1043439,"Pub,   Scandinavian"
+id_2256,London,2261,4.5,$$ - $$$,273.0,d3253550,"Italian,   Vegan Options"
+id_2259,Vienna,2261,4.5,NaN,3.0,d7097810,Other
+id_2265,Stockholm,2269,3.5,NaN,6.0,d5972350,Sushi
+id_2273,Paris,2274,4.0,$$ - $$$,157.0,d1019904,Chinese
+id_2273,Vienna,2275,4.5,NaN,2.0,d11903856,Other
+id_229,Helsinki,230,4.0,$$ - $$$,47.0,d4476199,"  Bar, Cafe,   Gluten Free Options,   Vegetarian Friendly,   Pub"
+id_230,Oporto,231,4.0,$$ - $$$,352.0,d4007924,"  Gluten Free Options,   Asian,   Sushi"
+id_2309,Madrid,2311,3.5,$$ - $$$,307.0,d1172837,  Spanish
+id_2355,Barcelona,2356,4.5,$$$$,15.0,d12254437,"Mediterranean,   European,   Fusion,   Contemporary,   Diner"
+id_2356,Berlin,2358,4.5,$,19.0,d4342126,German
+id_2361,Brussels,2362,4.0,$$ - $$$,23.0,d4506544,"Spanish,   Wine Bar"
+id_237,Stockholm,238,4.5,$$ - $$$,154.0,d1496204,"Swedish,   Scandinavian,   Gluten Free Options,   Vegetarian Friendly"
+id_2387,Prague,2392,4.5,NaN,3.0,d1971797,European
+id_239,Athens,240,4.5,$,62.0,d6513977,"  Fast Food,   Fusion,   Vegan Options,   Vegetarian Friendly"
+id_2393,Paris,2394,4.0,$$ - $$$,142.0,d1071288,"  European, French"
+id_2406,Milan,2408,4.0,$$ - $$$,184.0,d813925,  Seafood
+id_241,Munich,243,4.5,$$ - $$$,152.0,d1178760,"  Vegetarian Friendly,   Central European"
+id_2410,Lisbon,2413,4.0,NaN,2.0,d3393987,"European,   Portuguese"
+id_2423,Rome,2424,3.5,$$ - $$$,481.0,d5504724,"  Vegetarian Friendly,   Mediterranean, Italian,   Delicatessen"
+id_2434,Lyon,2435,3.0,NaN,4.0,d3543959,Vietnamese
+id_2443,Amsterdam,2449,4.0,$$ - $$$,12.0,d7283420,International
+id_245,Stockholm,246,4.0,$$ - $$$,92.0,d8774485,"  Vegan Options,   Vegetarian Friendly,   European,   Cafe"
+id_2458,Amsterdam,2464,4.5,$$ - $$$,12.0,d3671977,"Cafe,   Contemporary"
+id_246,Rome,247,4.5,$$ - $$$,537.0,d6988362,"  Mediterranean,   Seafood"
+id_2460,Milan,2462,3.5,$,170.0,d3738693,"  Sushi,   Seafood"
+id_2469,Brussels,2470,4.0,NaN,7.0,d8073030,Other
+id_2473,Rome,2474,4.5,$,102.0,d7707930,Pizza
+id_2476,Barcelona,2477,5.0,$,17.0,d10445344,"Italian,   Street Food"
+id_2480,Paris,2481,4.5,$$ - $$$,151.0,d1208595,"French,   European"
+id_2484,Madrid,2486,4.0,$$ - $$$,55.0,d6701548,"  European, Mediterranean"
+id_249,Ljubljana,250,3.5,$$ - $$$,101.0,d4068550,"  Mediterranean,   European,   Vegetarian Friendly, Seafood"
+id_2502,Rome,2503,4.5,$$ - $$$,138.0,d795704,  Vegetarian Friendly
+id_2512,Vienna,2514,3.5,$$ - $$$,65.0,d947018,"Japanese,   Sushi,   Asian"
+id_252,Bratislava,253,4.0,NaN,10.0,d12111665,Other
+id_253,Prague,254,4.5,$$ - $$$,307.0,d3192062,"Bar,   European,   Eastern European,   Czech,   Central European"
+id_254,Lyon,255,4.0,$,233.0,d7596737,"French,   Vegetarian Friendly,   European"
+id_2540,Hamburg,2545,3.0,NaN,2.0,d1039067,Other
+id_2556,Barcelona,2557,4.0,$$ - $$$,24.0,d11795167,  Spanish
+id_2561,Prague,2567,3.5,$$ - $$$,89.0,d2175380,"  European,   Czech,   Central European, Bar"
+id_257,Copenhagen,258,4.5,$$ - $$$,92.0,d10292470,"  European, Italian,   Vegetarian Friendly"
+id_2575,Paris,2576,4.0,$$ - $$$,205.0,d719805,"  Vegetarian Friendly,   Thai, Asian"
+id_2599,Milan,2601,4.5,$$ - $$$,15.0,d5264440,  Gastropub
+id_2601,Paris,2602,4.5,$$ - $$$,76.0,d1503730,"  Vegetarian Friendly,   Pizza"
+id_2608,Hamburg,2615,4.5,NaN,7.0,d8517072,Italian
+id_2614,Munich,2633,3.0,$$ - $$$,110.0,d2267111,"  Vegetarian Friendly, Chinese,   Asian"
+id_2617,Lisbon,2620,4.0,NaN,2.0,d12999507,Other
+id_2620,London,2625,4.0,$$ - $$$,372.0,d3192453,"  Gluten Free Options,   Vegetarian Friendly,   International, European"
+id_2622,Prague,2628,4.5,$,4.0,d7123553,Cafe
+id_2647,Madrid,2649,5.0,NaN,19.0,d8362902,Other
+id_266,Oporto,267,4.0,$$$$,129.0,d10878563,"  European,   Portuguese, Mediterranean"
+id_2660,Madrid,2662,4.0,NaN,39.0,d9562461,Other
+id_2663,Vienna,2665,4.0,NaN,2.0,d12233546,Other
+id_2664,Berlin,2666,4.0,$$ - $$$,32.0,d2208132,"  Central European,   European"
+id_268,Dublin,269,4.0,$$ - $$$,637.0,d4580777,"  Vegetarian Friendly,   European"
+id_2694,Hamburg,2702,3.0,NaN,5.0,d938657,International
+id_270,Vienna,271,4.0,$$ - $$$,384.0,d2021717,"  Italian,   Gluten Free Options,   Pizza,   European,   Vegan Options, Mediterranean"
+id_270,Warsaw,271,4.0,$$ - $$$,85.0,d8797372,"  Polish,   Pub, Bar,   Steakhouse,   European"
+id_2711,Madrid,2713,4.5,$,9.0,d12354572,"  Mediterranean,   Cafe"
+id_2711,Milan,2713,5.0,$,6.0,d12078773,"Italian,   Pub"
+id_2734,Milan,2736,4.5,NaN,13.0,d9984284,Other
+id_2753,Milan,2755,4.0,$,60.0,d4424572,Bar
+id_2763,Madrid,2765,5.0,NaN,11.0,d10060659,Other
+id_2769,Milan,2771,3.5,$$ - $$$,346.0,d1097475,  Pizza
+id_2778,Madrid,2780,4.5,NaN,7.0,d12548187,Other
+id_2783,Rome,2784,4.0,$,161.0,d3567816,"  Vegetarian Friendly,   Pizza,   International, Italian"
+id_279,Dublin,280,4.0,$$ - $$$,257.0,d1785149,"Italian,   Gluten Free Options,   Pizza,   European"
+id_2791,Brussels,2792,3.0,$$ - $$$,12.0,d8155327,Chinese
+id_2792,Prague,2798,4.5,NaN,3.0,d4768668,"European,   Czech"
+id_2792,Rome,2793,4.0,$$ - $$$,157.0,d2437956,"  Seafood, Italian"
+id_2793,Rome,2794,4.5,$,82.0,d7803810,Pizza
+id_2802,Prague,2808,3.5,$$ - $$$,19.0,d4769349,  Czech
+id_2806,Rome,2807,3.5,$$ - $$$,1079.0,d1182786,"  Seafood,   Gluten Free Options,   Vegetarian Friendly,   Vegan Options, Japanese"
+id_2825,Brussels,2826,3.0,$$ - $$$,113.0,d1093016,"  Asian,   Fast Food,   Sushi"
+id_283,Ljubljana,284,4.0,$$ - $$$,11.0,d8841562,Cafe
+id_284,Milan,285,4.0,$$ - $$$,905.0,d1926746,"  Asian,   Seafood,   Gluten Free Options,   Fusion,   Sushi, Japanese"
+id_284,Paris,285,5.0,$,93.0,d11929974,"  Vegetarian Friendly, Lebanese,   Middle Eastern,   Vegan Options"
+id_2851,Berlin,2853,5.0,NaN,4.0,d12417709,Other
+id_2858,London,2863,4.0,$$ - $$$,459.0,d4052905,"  Vegetarian Friendly, Italian,   Mediterranean"
+id_2866,Barcelona,2867,4.5,$,35.0,d5865146,"  Asian, Chinese,   Vegetarian Friendly"
+id_2882,Brussels,2883,2.5,$$ - $$$,393.0,d802232,"  Belgian,   European"
+id_2889,Rome,2890,4.5,$,15.0,d12323685,"  Argentinean, Italian"
+id_29,Ljubljana,30,4.5,$$ - $$$,87.0,d12089348,"  Vegetarian Friendly,   Gluten Free Options, Cafe"
+id_2926,Milan,2928,4.0,NaN,28.0,d6632829,Other
+id_293,Madrid,294,4.0,$$ - $$$,754.0,d4410180,"  Spanish,   European,   Vegan Options"
+id_2940,Brussels,2938,2.0,NaN,NaN,d7205059,Cafe
+id_2944,Berlin,2946,5.0,NaN,4.0,d11958431,Other
+id_2946,Vienna,2948,4.0,NaN,6.0,d8319709,Other
+id_2961,Berlin,2963,3.5,$$ - $$$,59.0,d5822584,"  Fusion,   Cafe,   Vegetarian Friendly,   European,   Vegan Options, German"
+id_2982,Milan,2984,3.5,$$ - $$$,132.0,d2620190,Pizza
+id_299,Amsterdam,300,4.0,$$ - $$$,1103.0,d779071,"  Asian,   Vegan Options, Chinese,   Vegetarian Friendly"
+id_30,Geneva,31,4.5,$$$$,142.0,d2618233,  European
+id_3005,London,3011,4.5,$$ - $$$,91.0,d2516361,"Asian,   Vegan Options,   Thai"
+id_301,Berlin,302,4.5,$$$$,132.0,d7908111,"  Asian,   Vegetarian Friendly, Japanese"
+id_3015,Rome,3016,3.0,$$ - $$$,1012.0,d2226584,"  Mediterranean,   Vegetarian Friendly, Italian"
+id_3031,Milan,3033,4.5,$$ - $$$,4.0,d13198202,"  Seafood,   Healthy,   Mediterranean"
+id_3038,Lisbon,3041,3.5,$$ - $$$,15.0,d4225439,"European,   Portuguese"
+id_304,Oporto,305,4.5,$,70.0,d6946964,"  Mediterranean,   European,   Soups, Seafood"
+id_3053,Rome,3054,4.0,$$ - $$$,177.0,d7214349,"Italian,   European"
+id_3069,Prague,3076,4.0,NaN,2.0,d11799782,Vietnamese
+id_307,Oslo,308,4.5,$,31.0,d6727449,"  Asian, Japanese"
+id_31,Paris,32,4.5,$$ - $$$,548.0,d785995,"Lebanese,   Vegan Options,   Middle Eastern"
+id_311,Warsaw,312,4.5,$$ - $$$,34.0,d9863670,"  Vegan Options,   Asian,   Soups, Japanese,   Sushi"
+id_3127,Berlin,3129,4.0,$$ - $$$,12.0,d3702312,German
+id_313,Luxembourg,314,4.5,NaN,14.0,d4844610,Sushi
+id_3131,Milan,3133,4.0,NaN,7.0,d12447161,Other
+id_3150,Vienna,3152,3.0,NaN,NaN,d10818786,Other
+id_317,Lisbon,318,4.5,$$ - $$$,372.0,d1224146,"  Portuguese,   European"
+id_317,Paris,318,4.5,$$ - $$$,523.0,d780485,"  Vegetarian Friendly, French"
+id_318,Copenhagen,319,4.5,$$ - $$$,88.0,d4093614,"  Vegan Options, European,   Vegetarian Friendly,   Gluten Free Options"
+id_319,Warsaw,320,4.0,$,37.0,d10474731,Asian
+id_3191,London,3197,4.5,$$ - $$$,123.0,d3970522,"  Sushi,   Vegetarian Friendly, Japanese,   Gluten Free Options"
+id_3196,Berlin,3198,4.0,$,30.0,d5519810,"  Mediterranean,   European"
+id_3198,Amsterdam,3209,5.0,$,NaN,d10587448,"  European, Dutch"
+id_321,Bratislava,322,4.0,NaN,15.0,d4770035,Other
+id_322,Dublin,323,4.5,$$ - $$$,55.0,d12564018,"  Vegetarian Friendly,   Vegan Options"
+id_322,Milan,323,4.0,$$ - $$$,590.0,d781928,"  Mediterranean, Italian,   Seafood"
+id_3221,Milan,3223,3.5,$$ - $$$,87.0,d2320137,  Seafood
+id_323,Lisbon,324,5.0,$$ - $$$,41.0,d12900896,"European,   Wine Bar,   Vegetarian Friendly,   Bar,   Mediterranean"
+id_3233,Rome,3234,3.5,$$ - $$$,209.0,d11998026,"  Mediterranean,   Gluten Free Options, Italian"
+id_3243,Milan,3245,4.0,NaN,16.0,d7734583,Pizza
+id_3244,London,3251,4.0,$$ - $$$,123.0,d1774775,"  Pub,   European, Belgian"
+id_3260,London,3267,5.0,$$ - $$$,16.0,d12947166,"Italian,   Gluten Free Options"
+id_3260,Prague,3267,4.0,NaN,4.0,d5308351,"  Czech, European"
+id_3270,Rome,3271,4.0,$$ - $$$,85.0,d6981542,  Pizza
+id_3278,Berlin,3280,5.0,NaN,2.0,d7966501,Contemporary
+id_3287,Rome,3288,4.5,$,44.0,d9710052,"Italian,   Mediterranean,   Vegan Options"
+id_330,Krakow,331,4.0,$$ - $$$,59.0,d12875225,"  Mediterranean, European"
+id_3302,Paris,3303,4.0,$$ - $$$,245.0,d6949479,  Vegetarian Friendly
+id_3303,Barcelona,3304,4.0,$$ - $$$,61.0,d997616,"  European, Mediterranean,   Vegetarian Friendly"
+id_3308,Milan,3310,4.0,$$ - $$$,243.0,d1746716,"  Mediterranean, Italian"
+id_332,Rome,333,4.5,$$ - $$$,153.0,d12423010,"  Vegetarian Friendly,   Vegan Options,   Mediterranean"
+id_3327,London,3334,4.0,$$ - $$$,143.0,d953657,"  Vegetarian Friendly,   Pakistani, Indian"
+id_3341,Lisbon,3345,3.5,NaN,3.0,d8772965,"European,   Portuguese"
+id_3360,Rome,3361,4.0,$,61.0,d7274833,"Chinese,   Japanese"
+id_3365,Paris,3366,5.0,$$ - $$$,18.0,d10737035,"French,   Wine Bar"
+id_3412,Prague,3419,3.5,NaN,27.0,d4768085,Other
+id_342,Oporto,343,4.5,$$ - $$$,72.0,d9741389,"American,   Vegetarian Friendly,   Diner"
+id_3436,Barcelona,3437,4.0,$,26.0,d8536895,Italian
+id_344,Milan,345,4.0,$$ - $$$,732.0,d2648160,"  Mediterranean, Italian,   Vegan Options,   Vegetarian Friendly"
+id_3456,Berlin,3458,5.0,NaN,3.0,d1358776,Other
+id_3462,Barcelona,3463,4.5,NaN,11.0,d10039662,Other
+id_3479,Berlin,3481,5.0,NaN,NaN,d1354477,Other
+id_3492,Barcelona,3493,4.5,NaN,5.0,d12906918,Spanish
+id_35,Budapest,36,4.5,$$ - $$$,2340.0,d696117,"  Vegan Options,   Mediterranean,   Soups"
+id_3501,Berlin,3503,5.0,NaN,2.0,d11999809,"  Cafe,   International, French"
+id_352,London,353,4.5,$$$$,688.0,d8632781,"  Grill,   Vegan Options,   Asian,   Gluten Free Options, Japanese,   Vegetarian Friendly,   Sushi"
+id_3552,Lisbon,3556,2.5,NaN,19.0,d10520643,Other
+id_3556,Madrid,3558,4.0,$$ - $$$,24.0,d8857488,Indian
+id_357,Milan,358,4.0,$$ - $$$,472.0,d8076891,"  Vegan Options,   Vegetarian Friendly,   Mediterranean,   Contemporary"
+id_3582,Barcelona,3583,5.0,$$ - $$$,9.0,d4814839,Spanish
+id_36,Lyon,37,4.5,$$$$,419.0,d1898848,French
+id_360,Budapest,361,5.0,$$ - $$$,49.0,d8654533,"  Vegetarian Friendly, Italian,   Vegan Options"
+id_361,Rome,362,4.5,$$ - $$$,288.0,d7361724,"  Mediterranean,   Vegetarian Friendly,   Pizza,   Barbecue, Italian"
+id_3625,Barcelona,3626,3.5,$$ - $$$,258.0,d1385082,"  European, Mediterranean,   Spanish,   Gluten Free Options"
+id_3649,Prague,3658,3.5,$$ - $$$,19.0,d5942142,"  Central European, European"
+id_3652,Lisbon,3657,2.0,$$ - $$$,292.0,d1096951,"  Portuguese,   European"
+id_3658,Lisbon,3663,2.5,NaN,7.0,d1093837,Other
+id_3662,Barcelona,3663,4.0,$,26.0,d5587837,Spanish
+id_368,Munich,370,5.0,$$ - $$$,27.0,d10524693,"German,   Vegetarian Friendly"
+id_3695,Barcelona,3696,3.5,$$ - $$$,127.0,d2179945,"Mediterranean,   Spanish"
+id_3703,Paris,3704,3.5,$$ - $$$,1135.0,d5943832,"  Seafood, French,   European"
+id_3705,London,3712,4.0,$$ - $$$,187.0,d1016160,"  Spanish,   Vegetarian Friendly"
+id_373,Ljubljana,374,4.0,NaN,NaN,d8602510,Other
+id_374,Lisbon,375,4.0,$$ - $$$,497.0,d697259,"  Vegan Options,   Vegetarian Friendly, Mediterranean"
+id_3753,Berlin,3755,4.5,NaN,7.0,d7772581,Middle Eastern
+id_377,Warsaw,378,4.0,$$ - $$$,98.0,d4211999,"  Thai,   Vegetarian Friendly,   Asian"
+id_3803,London,3810,4.5,$,25.0,d11721387,"  Vegan Options,   Pub,   Vegetarian Friendly,   Bar"
+id_384,Copenhagen,385,4.5,$$ - $$$,40.0,d10072291,"  European,   Mediterranean"
+id_387,Ljubljana,388,3.5,$,10.0,d806051,"  Central European, European,   Slovenian"
+id_3891,Milan,3893,3.5,NaN,6.0,d1901926,Italian
+id_3909,Paris,3910,5.0,$$ - $$$,11.0,d12563331,Italian
+id_3914,Berlin,3916,4.0,$$ - $$$,19.0,d7146900,Italian
+id_3917,Rome,3918,3.5,$$ - $$$,197.0,d3454924,"  Grill,   Italian"
+id_393,Hamburg,394,4.0,$$ - $$$,77.0,d1873223,"Cafe,   Kosher,   European,   Central European"
+id_393,Warsaw,394,4.0,$$ - $$$,141.0,d4323006,  Grill
+id_395,Oporto,396,4.5,$$ - $$$,95.0,d1081959,"Mediterranean,   Soups,   African,   Portuguese"
+id_396,Barcelona,397,5.0,$$ - $$$,45.0,d12384001,"  Vegetarian Friendly, Japanese,   Korean,   Sushi"
+id_3966,Barcelona,3967,4.0,$$ - $$$,39.0,d1926325,  European
+id_3991,London,3998,4.5,$$ - $$$,48.0,d7312499,"  Vegan Options,   Vegetarian Friendly, Cafe"
+id_3995,Paris,3996,4.5,$,26.0,d10840545,"  Mediterranean, Lebanese,   Vegetarian Friendly"
+id_3998,Rome,3999,4.0,$$ - $$$,137.0,d2323613,"  Pizza,   Mediterranean"
+id_4,Barcelona,5,5.0,$$ - $$$,1078.0,d11906544,"Mediterranean,   European,   Vegetarian Friendly,   Vegan Options"
+id_40,Edinburgh,41,4.5,$$ - $$$,834.0,d1871954,"  Gluten Free Options,   Vegan Options,   Vegetarian Friendly,   Spanish"
+id_400,London,401,4.5,$$$$,1084.0,d1029286,"  Gluten Free Options, Vegetarian Friendly"
+id_400,Madrid,401,4.0,$$ - $$$,774.0,d8415205,"  European,   Vegan Options"
+id_402,Rome,403,4.0,$$ - $$$,1133.0,d1488977,"Italian,   Vegetarian Friendly,   Pizza"
+id_4021,Rome,4022,5.0,$,11.0,d11885698,Italian
+id_403,Dublin,404,4.5,$$ - $$$,275.0,d5533891,"  Vegetarian Friendly,   Asian, Indian"
+id_4049,Rome,4050,3.5,$$ - $$$,181.0,d795687,"  Vegan Options,   Asian, Indian,   Vegetarian Friendly"
+id_4062,Madrid,4064,5.0,NaN,NaN,d11812785,Other
+id_4066,London,4073,3.5,$$ - $$$,286.0,d2259559,Italian
+id_4073,Barcelona,4074,3.5,$$ - $$$,26.0,d12441400,Mediterranean
+id_4082,Berlin,4084,4.0,$$ - $$$,18.0,d7804627,"  Vegan Options, Healthy"
+id_4090,Berlin,4092,4.0,$$ - $$$,20.0,d2046169,Italian
+id_4092,Rome,4093,4.0,$$ - $$$,35.0,d8092415,"  Mediterranean, Italian"
+id_4110,Madrid,4112,5.0,NaN,2.0,d4600226,Spanish
+id_412,Rome,413,4.0,$$ - $$$,486.0,d795702,"  Vegetarian Friendly,   Gluten Free Options,   Asian,   Vegan Options"
+id_415,Milan,416,4.0,$$ - $$$,615.0,d2263352,"Italian,   Mediterranean,   Pizza,   Barbecue"
+id_4157,Rome,4158,4.0,$$ - $$$,182.0,d2321047,Italian
+id_4166,London,4173,3.5,$$ - $$$,3135.0,d779012,"  Pakistani, Indian,   Vegetarian Friendly,   Asian"
+id_4180,London,4187,4.5,$$ - $$$,26.0,d10903502,"  Vegetarian Friendly, Bar"
+id_4196,Barcelona,4197,5.0,$$ - $$$,NaN,d12572658,"  Pub, Bar"
+id_4208,Berlin,4210,3.5,$$ - $$$,23.0,d7624770,Mexican
+id_4209,Rome,4210,4.0,$,55.0,d8020681,"Italian,   Pizza,   Fast Food"
+id_4217,London,4224,4.0,$$ - $$$,169.0,d1019284,"  Gluten Free Options,   Vegetarian Friendly, Lebanese,   Mediterranean"
+id_4230,Paris,4231,4.0,$$ - $$$,45.0,d10841012,"  American, Bar"
+id_4232,London,4239,4.0,$$ - $$$,177.0,d718937,"  Gluten Free Options,   Middle Eastern,   Halal,   Mediterranean"
+id_4238,Barcelona,4239,5.0,NaN,2.0,d11911250,Other
+id_427,Luxembourg,428,3.5,NaN,19.0,d12407347,Other
+id_4288,Milan,4291,3.5,NaN,13.0,d4875639,"Italian,   Cafe,   Pub,   Gastropub"
+id_4289,Rome,4290,4.0,$,73.0,d5825135,  Japanese
+id_4293,Rome,4294,5.0,$,14.0,d10595133,"  Pub,   Street Food,   Fast Food, Brew Pub"
+id_4294,Paris,4295,4.0,$$ - $$$,69.0,d798936,  European
+id_430,Krakow,431,4.5,$,38.0,d8425435,"  Central European, Bar,   European,   Czech,   Pub"
+id_430,London,431,4.5,$,907.0,d719237,"  European, Seafood"
+id_4310,London,4317,4.0,$$ - $$$,122.0,d3661709,"  Cafe,   Vegetarian Friendly, Italian"
+id_4348,London,4355,4.5,$$ - $$$,120.0,d4324139,"  Pub,   Bar,   Gluten Free Options,   Spanish,   Vegetarian Friendly,   Mediterranean"
+id_4367,London,4374,4.5,$$ - $$$,87.0,d6206971,"  Pub,   Vegetarian Friendly,   Gluten Free Options, Bar,   British"
+id_4368,Madrid,4370,4.0,$,24.0,d2712118,  South American
+id_438,Oporto,439,4.5,$,51.0,d3537392,"  Portuguese, Cafe"
+id_4406,Milan,4409,4.5,NaN,3.0,d4593810,"Brew Pub,   Wine Bar"
+id_4429,London,4436,4.5,$$ - $$$,19.0,d10619071,  Vegetarian Friendly
+id_443,Copenhagen,444,4.0,$$ - $$$,104.0,d805464,  Scandinavian
+id_4432,Rome,4433,4.5,NaN,56.0,d7097337,"Italian,   Pizza"
+id_4452,Rome,4453,4.0,$$ - $$$,171.0,d7995957,"  Bar,   European,   Cafe, Italian,   Vegetarian Friendly,   Pub,   Mediterranean"
+id_4455,Berlin,4457,4.5,NaN,5.0,d7189024,"  Pizza, Italian"
+id_4463,Paris,4464,3.5,$$ - $$$,396.0,d742407,"Italian,   Pizza"
+id_4477,Madrid,4479,4.0,NaN,14.0,d10028124,Other
+id_4481,Milan,4484,3.0,$$ - $$$,1063.0,d2204143,"Italian,   Mediterranean,   Pizza"
+id_45,Vienna,46,4.5,$$ - $$$,2490.0,d813285,Austrian
+id_4501,Barcelona,4502,4.0,$,9.0,d3538769,Spanish
+id_4505,Paris,4506,4.0,NaN,57.0,d3612769,Other
+id_451,Bratislava,452,3.0,$$ - $$$,178.0,d2085183,"  Pub,   International,   European, American,   Bar"
+id_451,Lisbon,452,5.0,$,78.0,d8591395,"  Portuguese, European"
+id_4519,London,4527,3.5,$$ - $$$,1352.0,d680500,"  Vegetarian Friendly,   Asian, Chinese"
+id_452,Hamburg,453,4.0,$$ - $$$,41.0,d4083721,"  Cafe, Bar,   Pizza,   Middle Eastern"
+id_4526,Paris,4527,3.5,$$ - $$$,154.0,d952068,"  Bar, French"
+id_4549,Rome,4550,4.5,NaN,5.0,d12997561,Other
+id_456,Rome,457,4.5,$$ - $$$,1237.0,d3134650,"  Mediterranean,   Gluten Free Options,   Pizza,   Vegan Options,   Italian"
+id_459,Budapest,460,4.5,$,77.0,d8362340,"  Vegan Options,   Vegetarian Friendly"
+id_459,Milan,460,4.0,$$$$,484.0,d1231908,"  Mediterranean,   European,   Vegetarian Friendly"
+id_4591,Berlin,4593,4.0,$$ - $$$,29.0,d2445499,German
+id_4598,Milan,4601,4.0,NaN,NaN,d4946996,Other
+id_460,Munich,464,4.5,$$ - $$$,47.0,d1039687,"  Mediterranean,   European"
+id_4633,Paris,4634,4.0,$,62.0,d1331796,"  Middle Eastern, Indian,   Pakistani"
+id_4637,Berlin,4639,4.5,$$ - $$$,10.0,d12107166,  Gluten Free Options
+id_4653,Madrid,4656,4.0,$,18.0,d11754798,Spanish
+id_4670,London,4678,5.0,$$ - $$$,19.0,d10070252,"  Pizza,   Vegetarian Friendly,   Mediterranean,   Vegan Options"
+id_4681,Rome,4682,5.0,$,12.0,d7197803,Italian
+id_469,Berlin,470,4.5,$$ - $$$,69.0,d8429273,"  Vegetarian Friendly,   Vegan Options"
+id_4693,London,4701,4.0,$$ - $$$,185.0,d1906552,"  Mexican, American,   British"
+id_4706,London,4714,3.5,$$ - $$$,376.0,d1388962,"Chinese,   Japanese,   Vegetarian Friendly"
+id_4742,Berlin,4744,4.0,NaN,8.0,d8401819,Other
+id_4746,Berlin,4748,4.0,NaN,7.0,d1360884,Other
+id_4773,Madrid,4776,4.0,$$ - $$$,7.0,d10859423,"Mediterranean,   Spanish"
+id_4777,London,4786,4.5,$$ - $$$,85.0,d2188472,Bar
+id_4780,Rome,4781,5.0,$,3.0,d12842559,"  Asian,   Fast Food,   American"
+id_48,Rome,49,4.5,$$ - $$$,1724.0,d8511258,"  Gluten Free Options, Italian,   Vegetarian Friendly,   Fast Food"
+id_482,Geneva,485,4.5,$$$$,12.0,d10288341,"  European,   Swiss"
+id_482,Oslo,483,4.0,$$ - $$$,36.0,d2328380,"Indian,   Pakistani"
+id_483,Madrid,484,4.5,$$ - $$$,166.0,d7310999,"Spanish,   Gluten Free Options,   Vegetarian Friendly"
+id_4845,London,4854,4.0,$$ - $$$,206.0,d3400459,"European,   Portuguese"
+id_486,Zurich,489,4.0,$$ - $$$,90.0,d1139366,"  Vegetarian Friendly, Italian,   Mediterranean,   Bar"
+id_4885,Madrid,4888,3.0,NaN,3.0,d3785147,Other
+id_492,Brussels,493,4.0,$,95.0,d2719603,"British,   Vegan Options,   Cafe,   Vegetarian Friendly"
+id_4920,Madrid,4923,4.5,NaN,3.0,d12488103,International
+id_4974,Milan,4977,3.5,$$ - $$$,11.0,d8339929,"  Nepali,   Vegan Options, Italian,   American,   Tibetan"
+id_499,Lyon,500,4.5,NaN,45.0,d7623654,Other
+id_4999,Paris,5000,4.0,$$ - $$$,128.0,d2258959,"  Vegetarian Friendly,   Vietnamese"
+id_5,Geneva,6,4.5,$$ - $$$,1222.0,d751711,"  Swiss,   European,   Gluten Free Options,   Vegetarian Friendly"
+id_50,Rome,51,4.5,$,1068.0,d6603135,Italian
+id_5013,Paris,5014,4.0,$$$$,116.0,d719923,"  Vietnamese,   Vegetarian Friendly, Asian"
+id_5023,Berlin,5025,4.0,NaN,NaN,d12068247,Other
+id_5042,Paris,5043,4.5,$,39.0,d5264177,"  South American, Argentinean"
+id_5055,Milan,5058,3.5,NaN,4.0,d6278406,Other
+id_5066,Paris,5067,4.0,$$ - $$$,288.0,d1025147,"  Vegan Options, Indian,   Vegetarian Friendly"
+id_5080,Barcelona,5081,3.5,$$$$,32.0,d10226097,Italian
+id_5098,Berlin,5100,4.0,NaN,NaN,d12875617,Other
+id_5131,Madrid,5134,3.5,$,35.0,d3780762,Spanish
+id_5137,Paris,5138,4.0,NaN,16.0,d12571607,Other
+id_5139,Berlin,5141,4.0,$,NaN,d12098434,"  Contemporary,   Healthy, International"
+id_514,Madrid,515,4.0,$$ - $$$,231.0,d4473807,"  Vegetarian Friendly,   Gluten Free Options, Mediterranean,   Spanish"
+id_5169,Madrid,5172,4.0,NaN,8.0,d8657804,Other
+id_5177,Milan,5180,4.0,$,18.0,d3266560,"Mediterranean,   Egyptian"
+id_5183,Barcelona,5184,4.5,NaN,6.0,d11914515,Other
+id_52,Dublin,53,4.5,$$ - $$$,1820.0,d2259146,"  Seafood,   European, Irish"
+id_5206,Barcelona,5207,4.5,NaN,7.0,d5867903,Other
+id_5209,Rome,5210,5.0,$$ - $$$,2.0,d13322935,"Japanese,   Asian"
+id_522,Budapest,523,4.5,$$ - $$$,40.0,d9710368,"  Hungarian,   Bar,   Vegetarian Friendly,   Cafe,   Pub,   Central European,   European, International"
+id_5257,Berlin,5259,4.0,NaN,3.0,d10266473,"  Thai,   Asian"
+id_526,Copenhagen,527,4.5,$$ - $$$,13.0,d12936186,Vietnamese
+id_528,Berlin,529,4.0,$$ - $$$,97.0,d7905491,Asian
+id_529,Milan,530,4.5,$$ - $$$,233.0,d3691545,"  Mediterranean,   Seafood,   Vegetarian Friendly,   Pizza, Italian"
+id_5296,Rome,5298,4.0,NaN,9.0,d11951657,Italian
+id_53,Bratislava,54,4.0,$$$$,313.0,d1112673,"  Mediterranean,   Central European,   European, Italian"
+id_530,Paris,531,4.5,$$ - $$$,256.0,d5872756,"  Vegetarian Friendly, French"
+id_532,Barcelona,533,4.0,$$ - $$$,744.0,d3179219,"  Vegetarian Friendly,   Gluten Free Options, Mediterranean"
+id_533,Barcelona,534,4.0,$$$$,1060.0,d1099373,"  Asian,   Fusion,   Vegetarian Friendly,   Gluten Free Options, Japanese"
+id_5357,Madrid,5360,3.5,$$ - $$$,60.0,d6703191,"Sushi,   Asian"
+id_537,Madrid,538,4.0,$$ - $$$,515.0,d991104,"  Vegetarian Friendly, Spanish"
+id_538,Munich,542,4.5,$,59.0,d2255569,"  Vegetarian Friendly, Healthy"
+id_538,Stockholm,539,4.0,$$ - $$$,82.0,d780673,"  Bar,   Barbecue,   Steakhouse, American"
+id_540,Bratislava,541,3.5,NaN,3.0,d4770088,Other
+id_541,Lyon,542,4.0,$$ - $$$,138.0,d2641947,"  Vietnamese, Asian"
+id_543,Krakow,544,4.5,$,20.0,d8049985,"  Bar, Polish"
+id_5459,Paris,5460,3.5,$$ - $$$,132.0,d953033,"  Vegetarian Friendly, Asian,   Thai"
+id_547,Milan,548,4.0,$$ - $$$,554.0,d4353632,"Japanese,   Vegetarian Friendly"
+id_547,Stockholm,548,4.0,$$ - $$$,97.0,d3898172,"  Bar,   Belgian, European,   Vegetarian Friendly"
+id_550,Dublin,551,4.0,$$ - $$$,118.0,d3153451,"Irish,   Gluten Free Options,   European"
+id_5503,Madrid,5506,3.5,NaN,3.0,d990817,Other
+id_5510,Madrid,5513,4.5,NaN,6.0,d697485,Other
+id_5524,Madrid,5527,3.5,NaN,14.0,d9742180,Other
+id_553,Lisbon,554,4.5,$$ - $$$,66.0,d10266436,"  Mediterranean, Italian,   Vegetarian Friendly"
+id_5560,Paris,5561,4.0,$$ - $$$,76.0,d2494164,"Mediterranean,   Middle Eastern"
+id_5569,Paris,5570,3.5,$$ - $$$,194.0,d1912643,"European,   French,   International"
+id_557,Hamburg,558,4.0,$$ - $$$,46.0,d2489872,"  European, Mediterranean"
+id_559,Athens,560,3.5,$$ - $$$,304.0,d1070166,"Mediterranean,   Greek"
+id_56,Dublin,57,4.5,$$ - $$$,3491.0,d1884058,"  Pub, Irish,   Bar"
+id_5604,Madrid,5607,3.0,$,83.0,d2149251,"  Halal, Moroccan,   Middle Eastern,   Vegan Options"
+id_5611,London,5620,5.0,$$ - $$$,8.0,d12971996,"  European,   Greek, Mediterranean,   Cafe"
+id_5624,Berlin,5626,4.0,NaN,6.0,d3805143,Spanish
+id_565,Brussels,566,4.0,$$ - $$$,35.0,d3622799,"Mediterranean,   European,   Wine Bar,   Portuguese"
+id_5673,Rome,5675,5.0,$,NaN,d12322989,"  Healthy,   South American, Italian,   International,   Peruvian"
+id_573,Barcelona,574,4.0,$$$$,604.0,d986276,"  Contemporary,   European,   Spanish,   Vegetarian Friendly, Mediterranean,   Gluten Free Options"
+id_5738,Madrid,5741,3.5,$$ - $$$,51.0,d2098938,"Japanese,   Asian"
+id_5767,London,5776,5.0,$$ - $$$,8.0,d12219822,Cafe
+id_580,Bratislava,581,4.5,NaN,3.0,d951933,"European,   Eastern European"
+id_580,Copenhagen,581,4.5,NaN,14.0,d10811036,Other
+id_5817,Paris,5818,4.0,$$$$,52.0,d1020592,"  Korean, Asian"
+id_5842,Milan,5845,3.0,$$ - $$$,104.0,d3267260,Italian
+id_5844,Madrid,5847,4.0,NaN,NaN,d10058810,Other
+id_5889,London,5898,4.0,$$ - $$$,41.0,d6826426,"  Vegan Options, Cafe,   Vegetarian Friendly,   British"
+id_5908,Berlin,5910,3.5,$$ - $$$,3.0,d9456227,Italian
+id_592,Copenhagen,593,4.0,$$ - $$$,106.0,d1526719,"  Thai,   Vegetarian Friendly"
+id_5925,Madrid,5928,4.0,NaN,3.0,d10041332,Other
+id_5926,Paris,5927,4.0,$$ - $$$,52.0,d4182633,Asian
+id_5990,Berlin,5992,2.5,NaN,5.0,d1037163,Other
+id_6004,Milan,6007,4.5,NaN,4.0,d2407506,Other
+id_6011,Madrid,6014,3.5,$$ - $$$,48.0,d3902868,"  Pizza, Italian"
+id_6016,Berlin,6018,3.5,NaN,3.0,d4156673,German
+id_602,Dublin,603,4.0,$$ - $$$,135.0,d7591680,"  Vegetarian Friendly,   Gluten Free Options, Asian"
+id_6025,Madrid,6028,3.5,$,20.0,d4600249,"Spanish,   Cafe"
+id_6029,Milan,6032,2.5,NaN,2.0,d12911907,Other
+id_6032,Berlin,6034,3.5,$$ - $$$,16.0,d2465469,International
+id_605,Helsinki,606,4.0,$$ - $$$,8.0,d6663062,Cafe
+id_6069,Berlin,6071,3.0,NaN,6.0,d10179197,Other
+id_6074,Madrid,6077,3.5,$,18.0,d8427291,Pizza
+id_6090,London,6099,3.5,$$ - $$$,136.0,d731204,"  Asian,   Vegetarian Friendly, Indian"
+id_6092,Barcelona,6093,3.5,$,32.0,d8580982,"  South American, Peruvian"
+id_6114,Madrid,6117,4.0,NaN,5.0,d5795989,Other
+id_6135,Berlin,6137,3.0,$,11.0,d8673833,Indian
+id_6149,Barcelona,6150,3.5,NaN,34.0,d1417391,Other
+id_615,Hamburg,616,5.0,$$ - $$$,16.0,d10302492,"Bar,   Pub,   Grill,   Mediterranean"
+id_615,Munich,621,4.0,$$ - $$$,84.0,d6864963,German
+id_6183,Paris,6184,3.5,$$ - $$$,155.0,d5522488,"French,   European,   Bar"
+id_6193,Berlin,6195,3.5,NaN,3.0,d7360304,Other
+id_6207,Madrid,6210,3.5,$$ - $$$,9.0,d1519258,Spanish
+id_6234,Paris,6235,4.0,$$ - $$$,20.0,d5928128,"  Pub,   Cafe,   Bar,   European, French,   Vegetarian Friendly"
+id_6315,Madrid,6318,4.0,$,16.0,d7792070,Mediterranean
+id_633,Milan,635,3.5,$$ - $$$,743.0,d7660183,"  Vegan Options,   Vegetarian Friendly, Italian,   Pizza,   Mediterranean"
+id_6338,Paris,6339,4.0,$$ - $$$,83.0,d1904460,  European
+id_636,Hamburg,637,4.0,$$ - $$$,23.0,d12181566,"Peruvian,   Vegetarian Friendly"
+id_6382,Paris,6383,4.0,$$ - $$$,35.0,d6519298,French
+id_639,Budapest,640,4.0,$$ - $$$,93.0,d1489269,"American,   Bar,   Vegetarian Friendly,   European,   Pub"
+id_64,Amsterdam,65,4.5,$$ - $$$,2428.0,d697036,"Dutch,   Vegan Options"
+id_640,Oporto,641,4.0,$,27.0,d8143898,"  Portuguese, European"
+id_643,Oslo,644,4.0,$,19.0,d4043773,  Pizza
+id_6492,Madrid,6495,3.5,NaN,6.0,d5614471,Other
+id_6536,Barcelona,6537,3.5,$$ - $$$,122.0,d4436498,"  Vegetarian Friendly, Seafood,   Mediterranean,   Spanish,   European"
+id_655,Paris,656,4.5,$$ - $$$,187.0,d2044612,"  Singaporean,   Vegan Options,   Thai,   Vegetarian Friendly,   Asian"
+id_6578,Barcelona,6579,3.0,NaN,6.0,d10696479,Other
+id_6583,London,6592,4.5,$,29.0,d2524119,"Cafe,   British"
+id_66,Ljubljana,67,5.0,$$ - $$$,32.0,d12495979,"  European,   Pub,   Slovenian"
+id_6607,Barcelona,6608,3.5,$$ - $$$,19.0,d3319308,"Bar,   Spanish"
+id_661,Barcelona,662,3.5,$$ - $$$,1332.0,d1137212,"  Gluten Free Options,   European, Seafood,   Spanish,   Soups,   Mediterranean,   Vegetarian Friendly"
+id_6610,Paris,6611,4.5,NaN,5.0,d12945640,  Seafood
+id_6624,Barcelona,6625,3.0,$$ - $$$,169.0,d3292870,"  Mediterranean,   European, Bar,   Cafe,   Spanish"
+id_6678,Madrid,6681,3.5,$$ - $$$,13.0,d10383695,"  Spanish, Mediterranean"
+id_6690,Barcelona,6691,3.0,$$ - $$$,37.0,d3242259,"  Mediterranean,   European, Spanish"
+id_6720,Madrid,6723,3.5,$$ - $$$,2.0,d4093995,"  European,   Spanish"
+id_675,Bratislava,676,3.5,$$ - $$$,13.0,d4769810,Italian
+id_678,Madrid,679,4.5,$$ - $$$,95.0,d5487718,  Vegetarian Friendly
+id_6803,Barcelona,6804,3.5,NaN,13.0,d7092943,"Pizza,   Spanish"
+id_6811,Paris,6812,4.0,$$$$,34.0,d12170386,"  Mediterranean,   Vegetarian Friendly"
+id_683,Budapest,684,5.0,$,9.0,d12902522,  American
+id_6836,Madrid,6839,3.0,NaN,20.0,d5776307,Other
+id_684,Prague,685,4.0,$$ - $$$,75.0,d944247,"  International, Bar"
+id_685,Warsaw,686,4.0,$$ - $$$,78.0,d6453074,"  Gastropub,   Arabic"
+id_6852,Madrid,6855,3.5,NaN,12.0,d5971427,Other
+id_6874,Barcelona,6875,3.0,NaN,NaN,d11958460,Other
+id_689,Vienna,690,4.5,$$ - $$$,29.0,d10485816,"South American,   Latin,   Central American,   Venezuelan"
+id_6936,London,6945,3.5,$$ - $$$,28.0,d12536774,"  Australian,   Cafe,   Vegetarian Friendly"
+id_697,Prague,698,4.5,$$ - $$$,68.0,d694885,"European,   Czech"
+id_70,Copenhagen,71,4.0,$$ - $$$,879.0,d7986173,"  Pub,   Bar, American,   Barbecue"
+id_7003,Paris,7004,4.5,$$ - $$$,4.0,d12447984,"  Asian, European"
+id_7011,Barcelona,7012,3.0,$$ - $$$,83.0,d3692741,"  Bar, Mediterranean,   Pub,   European"
+id_702,Lyon,703,4.5,NaN,35.0,d9456607,Other
+id_702,Oporto,703,4.5,$$ - $$$,17.0,d10678700,"  European, African,   Contemporary,   Portuguese"
+id_7028,Barcelona,7029,3.0,$$ - $$$,125.0,d3535931,"  Middle Eastern, Moroccan,   Halal"
+id_7038,London,7047,4.0,$$ - $$$,97.0,d5414878,"  Pub, Bar,   Vegetarian Friendly"
+id_707,Edinburgh,708,4.0,$$ - $$$,121.0,d2390091,"  Vegetarian Friendly, Bar,   Vegan Options"
+id_7075,Madrid,7079,3.0,NaN,22.0,d5796187,Other
+id_7122,London,7131,4.0,$$ - $$$,79.0,d3322305,"Bar,   International"
+id_713,Lisbon,714,3.5,$$ - $$$,750.0,d2084827,"  European,   Portuguese,   Contemporary,   Vegetarian Friendly,   Mediterranean"
+id_714,Edinburgh,715,4.5,$,42.0,d8713635,"  Vegan Options,   British,   Vegetarian Friendly, Cafe,   European"
+id_7153,Barcelona,7154,3.5,$$ - $$$,5.0,d8804386,"Russian,   Mediterranean"
+id_716,Budapest,717,5.0,$,9.0,d12667708,"Fast Food,   European,   Vegetarian Friendly,   Healthy"
+id_717,Copenhagen,718,4.0,$$ - $$$,68.0,d6780578,"  Vegetarian Friendly,   European"
+id_7183,Paris,7184,3.5,$,115.0,d1013511,"  Bar, Moroccan,   Mediterranean,   European,   Pub"
+id_719,Berlin,720,4.0,$$ - $$$,175.0,d1341738,"  German, French"
+id_72,Brussels,73,4.0,$$ - $$$,779.0,d4014123,  European
+id_72,Zurich,73,4.0,$$ - $$$,371.0,d1018940,"  Vegetarian Friendly, Asian,   Vegan Options,   Thai"
+id_7226,London,7235,4.5,$,16.0,d3191302,"Portuguese,   European"
+id_724,Brussels,725,4.5,NaN,15.0,d12428801,Other
+id_7270,Paris,7271,4.0,$$ - $$$,65.0,d783430,"French,   Wine Bar"
+id_7272,London,7281,4.0,$$ - $$$,72.0,d7002116,"  Gastropub,   British, Bar,   Pub"
+id_729,Lyon,730,4.5,$$ - $$$,50.0,d4956063,"  Sushi, Japanese"
+id_73,Edinburgh,74,4.5,$$ - $$$,1806.0,d1545969,"  Vegetarian Friendly,   Asian, Indian,   Vegan Options"
+id_7335,London,7344,4.0,$$ - $$$,50.0,d4600862,"Bar,   Pub"
+id_7359,London,7368,4.5,$,17.0,d8017581,"Seafood,   Fast Food"
+id_7385,Madrid,7391,3.0,NaN,NaN,d4173077,South American
+id_739,Budapest,740,4.0,$$ - $$$,98.0,d2171461,"  Hungarian,   Central European,   Eastern European,   Bar"
+id_741,Copenhagen,742,4.5,$,20.0,d8284781,Fast Food
+id_7415,Paris,7416,5.0,NaN,9.0,d2614607,"Moroccan,   Mediterranean"
+id_7423,Barcelona,7424,2.5,NaN,44.0,d2100338,"  Spanish,   European"
+id_7425,Barcelona,7426,2.5,$,55.0,d3308325,"Mediterranean,   Spanish"
+id_7453,Barcelona,7454,3.5,NaN,3.0,d5077935,Spanish
+id_746,Lisbon,747,4.5,$$ - $$$,42.0,d10064175,  Vegetarian Friendly
+id_7470,Madrid,7476,4.0,$,5.0,d11931682,"Chinese,   Fast Food"
+id_75,Brussels,76,4.0,$$ - $$$,484.0,d4150215,"Belgian,   Vegan Options"
+id_7510,Barcelona,7511,2.5,$$ - $$$,13.0,d4133931,Spanish
+id_7534,Madrid,7541,3.0,$$ - $$$,174.0,d990664,"  Pub,   European,   Mediterranean"
+id_7542,Barcelona,7543,2.5,$$ - $$$,129.0,d1929118,"  Spanish, Seafood,   European,   Mediterranean"
+id_758,Berlin,759,4.5,$,44.0,d10698854,"  Vegetarian Friendly,   Vegan Options, Asian,   Vietnamese,   Sushi"
+id_7608,Madrid,7615,3.0,$$ - $$$,27.0,d3853544,"  Spanish, International"
+id_7646,Paris,7647,4.0,NaN,30.0,d10040334,Other
+id_7657,Barcelona,7659,2.0,$,32.0,d3179035,Spanish
+id_7665,London,7674,3.5,$$ - $$$,200.0,d1992130,"  Pizza, Italian"
+id_7667,Paris,7668,4.5,$$ - $$$,21.0,d8276525,  South American
+id_7672,Paris,7673,4.0,$$ - $$$,65.0,d3316640,"Japanese,   Sushi,   Asian"
+id_7686,Madrid,7693,4.0,$,4.0,d4054080,Mexican
+id_770,Oporto,771,5.0,$,3.0,d13087286,"  Barbecue,   Southwestern"
+id_7701,Paris,7702,3.5,$$ - $$$,51.0,d789885,"Japanese,   Sushi"
+id_771,Paris,772,4.0,$$$$,926.0,d695264,"  Gluten Free Options,   European,   Vegetarian Friendly"
+id_773,Amsterdam,775,4.0,$$ - $$$,138.0,d2478316,"  Gluten Free Options, Italian"
+id_773,Munich,781,4.0,$$ - $$$,37.0,d5520230,Italian
+id_773,Paris,774,4.0,$$ - $$$,1024.0,d3547447,"  European, French"
+id_773,Vienna,774,4.0,$$$$,67.0,d5976718,"Austrian,   Central European"
+id_7752,Barcelona,7759,1.0,$$ - $$$,NaN,d11950716,Mediterranean
+id_7756,Madrid,7763,3.0,NaN,18.0,d10784649,Other
+id_778,Lisbon,779,4.5,$,45.0,d8729508,"  Vegan Options,   Nepali"
+id_7809,Paris,7810,4.0,NaN,15.0,d4953429,Other
+id_781,Barcelona,782,4.5,$$ - $$$,88.0,d9769328,"  Healthy, Mediterranean,   European"
+id_7814,London,7823,4.0,$$ - $$$,21.0,d7332678,Fast Food
+id_788,Krakow,789,4.0,$,29.0,d4560491,"Mexican,   Spanish,   Fast Food"
+id_791,Stockholm,792,5.0,NaN,4.0,d10789401,Other
+id_792,London,793,4.0,$$ - $$$,381.0,d8419110,"  Vegan Options,   Gluten Free Options"
+id_793,Dublin,794,5.0,$$ - $$$,8.0,d13172414,"  European, French"
+id_7986,London,7995,4.0,$,24.0,d1874776,"Cafe,   British"
+id_7992,Madrid,7999,3.0,NaN,9.0,d10430050,Other
+id_7996,Madrid,8003,2.5,NaN,2.0,d10735345,Spanish
+id_8,Ljubljana,9,4.5,$$ - $$$,816.0,d8124300,European
+id_8,Oslo,9,4.5,$$ - $$$,956.0,d9459585,"Indian,   Vegan Options,   Vegetarian Friendly,   Gluten Free Options"
+id_8019,London,8028,4.0,$$ - $$$,49.0,d8677313,Seafood
+id_802,Lisbon,803,5.0,$$ - $$$,25.0,d12611007,Portuguese
+id_810,Madrid,811,4.5,$,79.0,d9714837,"  Healthy,   Barbecue,   Vegetarian Friendly,   Vietnamese, Fast Food"
+id_8120,London,8129,5.0,NaN,3.0,d11842481,Other
+id_8121,Madrid,8128,2.5,$$ - $$$,1768.0,d697526,"  Spanish,   Mediterranean"
+id_813,Oslo,814,3.5,$$ - $$$,16.0,d13064730,"Asian,   Vegetarian Friendly,   Thai"
+id_815,Budapest,816,5.0,NaN,7.0,d12598682,Other
+id_8166,London,8175,5.0,NaN,3.0,d12709936,Other
+id_820,Milan,822,4.0,$,186.0,d2486144,"  Pizza,   Seafood,   Mediterranean"
+id_820,Rome,821,5.0,$,134.0,d4085056,"  Vegetarian Friendly,   Pizza"
+id_820,Vienna,821,4.0,$$ - $$$,130.0,d1963456,"European,   Delicatessen"
+id_822,Hamburg,823,4.0,$$ - $$$,34.0,d878520,"  Spanish, Latin"
+id_8222,London,8231,5.0,NaN,7.0,d9781450,Other
+id_8227,Madrid,8234,3.0,NaN,2.0,d5869951,Other
+id_8229,Madrid,8236,2.5,$$ - $$$,55.0,d4731719,  Diner
+id_8235,Paris,8236,5.0,NaN,NaN,d11861153,Other
+id_8307,London,8316,4.5,NaN,10.0,d7850012,Other
+id_8349,Madrid,8356,2.5,NaN,16.0,d5776152,Other
+id_8449,Madrid,8456,2.5,$$ - $$$,566.0,d7241440,"Mediterranean,   Spanish"
+id_8453,Paris,8455,4.5,$$ - $$$,11.0,d8090662,Bar
+id_846,Copenhagen,847,3.5,$,74.0,d1081584,"  Vegetarian Friendly,   Sushi, Chinese,   Asian"
+id_846,Stockholm,847,4.5,$$ - $$$,8.0,d7819194,  Sushi
+id_8460,Madrid,8467,2.0,NaN,4.0,d12550964,Italian
+id_8464,Paris,8466,4.0,NaN,7.0,d12113037,Other
+id_85,Barcelona,86,4.5,$$ - $$$,2186.0,d697571,"  Vegan Options, Spanish,   Gluten Free Options,   Vegetarian Friendly"
+id_85,Paris,86,4.5,$$ - $$$,441.0,d783281,"Thai,   Vegetarian Friendly,   Vegan Options"
+id_850,London,852,4.0,$$ - $$$,1322.0,d2216928,"  European,   Portuguese,   Barbecue, Fast Food,   Vegetarian Friendly"
+id_851,Zurich,855,4.5,$,12.0,d4226084,"  European, Swiss"
+id_8523,London,8532,4.5,NaN,4.0,d4924798,Other
+id_8524,Madrid,8531,2.0,$$ - $$$,NaN,d12842987,"Italian,   Pizza"
+id_8559,London,8568,3.5,$$ - $$$,329.0,d733353,"  British,   Vegetarian Friendly"
+id_8562,Paris,8564,4.0,NaN,20.0,d1327141,Other
+id_8588,London,8597,4.0,$,49.0,d5322631,"  Mexican, Fast Food"
+id_8593,London,8602,3.5,$$ - $$$,110.0,d1019955,"  Pizza,   Vegetarian Friendly, Italian"
+id_86,Budapest,87,4.5,$$ - $$$,1256.0,d779921,"  Vegetarian Friendly,   Eastern European,   Contemporary,   Central European,   Hungarian,   Wine Bar"
+id_862,Milan,864,4.0,$$ - $$$,253.0,d1097463,"Italian,   Seafood,   Mediterranean,   Pizza"
+id_863,Edinburgh,864,3.5,$$ - $$$,165.0,d1136782,"  Vegan Options,   Middle Eastern,   Turkish,   Vegetarian Friendly, Mediterranean"
+id_8648,Paris,8650,4.5,NaN,3.0,d11687952,Other
+id_866,Athens,868,4.5,NaN,12.0,d7690496,Other
+id_866,Brussels,867,4.0,$$ - $$$,52.0,d7347239,"Asian,   Thai"
+id_871,Milan,873,4.5,$$ - $$$,69.0,d8277124,"Chinese,   Vegetarian Friendly,   Seafood"
+id_873,Bratislava,874,3.0,NaN,3.0,d4770241,Greek
+id_874,Athens,876,3.5,$$ - $$$,78.0,d2637154,Mediterranean
+id_874,Krakow,875,4.5,NaN,4.0,d10477806,Pizza
+id_8755,London,8764,4.5,NaN,4.0,d12676684,Other
+id_8811,London,8820,3.5,$$ - $$$,31.0,d4268309,American
+id_883,Amsterdam,885,4.5,$$ - $$$,47.0,d12557535,"  Pub, Spanish,   Vegetarian Friendly,   Bar,   European"
+id_885,Dublin,886,3.5,$$ - $$$,250.0,d1771808,"  Pub, Irish,   Bar,   European"
+id_886,Bratislava,888,1.0,NaN,3.0,d7995801,Other
+id_887,Lisbon,888,4.5,$$ - $$$,66.0,d6432242,"European,   Mediterranean,   Contemporary,   Portuguese"
+id_890,Zurich,894,4.5,NaN,4.0,d12206760,Other
+id_8993,Paris,8995,4.5,NaN,9.0,d5058767,"  Korean, Asian"
+id_900,Prague,901,4.0,$,139.0,d4769383,"Bar,   Central European,   Eastern European,   European,   Pub"
+id_9009,Paris,9011,4.5,NaN,2.0,d13094972,Other
+id_9010,Paris,9012,3.5,NaN,17.0,d12321528,Other
+id_903,Madrid,904,4.5,$,28.0,d12500357,"Spanish,   Vegetarian Friendly,   South American"
+id_908,Barcelona,909,4.5,$$ - $$$,51.0,d11923374,"Mediterranean,   Spanish,   European"
+id_9121,Paris,9123,4.0,NaN,22.0,d4091909,Other
+id_914,Brussels,915,4.0,$,40.0,d2477240,"  Italian,   Pizza, European"
+id_918,Helsinki,919,3.5,NaN,2.0,d904707,"Bar,   Pub"
+id_9231,Paris,9233,4.0,NaN,25.0,d7332770,French
+id_925,Oporto,926,5.0,NaN,3.0,d7644937,Other
+id_926,Barcelona,927,4.5,$$ - $$$,133.0,d8264568,"Italian,   Gluten Free Options,   Vegetarian Friendly,   Mediterranean"
+id_933,Geneva,938,4.0,NaN,15.0,d8414125,Other
+id_934,Athens,936,4.5,$$ - $$$,28.0,d3654659,  Greek
+id_936,Athens,938,4.0,$,11.0,d6882587,  Greek
+id_939,Stockholm,940,5.0,NaN,2.0,d13001385,Chinese
+id_941,Oslo,942,3.0,NaN,25.0,d8293300,Other
+id_944,Dublin,946,4.5,$,25.0,d4324827,"Cafe,   Delicatessen"
+id_945,Berlin,946,4.0,$,164.0,d4823847,"  Pizza,   Mediterranean,   Vegetarian Friendly,   European, Italian"
+id_9466,London,9475,5.0,NaN,NaN,d1043805,Other
+id_9466,Paris,9468,4.5,$,10.0,d7933036,Vietnamese
+id_948,Copenhagen,950,4.5,NaN,7.0,d10301071,Other
+id_956,Helsinki,957,3.5,$$ - $$$,8.0,d12310002,Spanish
+id_9572,Paris,9574,4.0,NaN,6.0,d4293803,French
+id_960,Athens,962,4.5,$,4.0,d12598141,Greek
+id_961,Lyon,962,4.0,$$ - $$$,64.0,d804943,"Moroccan,   Mediterranean"
+id_963,Milan,965,4.0,$$ - $$$,306.0,d3181841,"  Vegetarian Friendly, Italian"
+id_9638,London,9647,3.5,$$ - $$$,64.0,d1013794,"  Vegetarian Friendly, British"
+id_972,Hamburg,974,4.0,NaN,15.0,d5518556,Other
+id_977,Munich,986,4.0,$$ - $$$,16.0,d11631425,Vietnamese
+id_9772,London,9781,4.5,NaN,7.0,d7599401,Pakistani
+id_9780,London,9789,3.5,$$ - $$$,162.0,d3613533,  British
+id_981,Helsinki,982,3.5,$,12.0,d2484423,American
+id_9835,Paris,9837,3.5,$,71.0,d813958,"  Halal, Lebanese,   Mediterranean,   Middle Eastern,   Vegetarian Friendly"
+id_984,Berlin,986,5.0,$$ - $$$,22.0,d10859217,"Italian,   Mediterranean"
+id_984,London,986,4.0,$$$$,928.0,d793183,"  Gluten Free Options,   Mediterranean,   Vegan Options,   European,   Vegetarian Friendly"
+id_986,Madrid,987,4.0,$$ - $$$,274.0,d775579,"  Vegetarian Friendly,   Mediterranean, Italian"
+id_987,Milan,989,4.0,$$ - $$$,88.0,d10385156,"  Seafood, Italian,   Mediterranean"
+id_987,Warsaw,988,4.5,$$ - $$$,12.0,d6732811,Pizza
+id_9877,Paris,9879,3.5,$$ - $$$,47.0,d6530816,  Sushi
+id_991,Dublin,993,4.5,$$ - $$$,31.0,d8524256,"  Asian, Japanese,   Vegetarian Friendly,   Sushi"
+id_9935,Paris,9937,3.5,$$$$,16.0,d7047167,  Spanish
+id_994,Warsaw,995,4.5,$,12.0,d11947459,"  European,   Ukrainian, Polish,   Eastern European,   Vegetarian Friendly"
+id_997,Rome,998,4.0,$$ - $$$,367.0,d2042134,"  Vegetarian Friendly,   Mediterranean,   Pizza, Italian"
