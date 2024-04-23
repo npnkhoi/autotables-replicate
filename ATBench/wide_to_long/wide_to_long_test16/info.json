@@ -4,7 +4,7 @@
         {
             "operator": "wide_to_long",
             "wide_to_long_start_idx": 1,
-            "wide_to_long_end_idx": 43
+            "wide_to_long_end_idx": 44
         }
     ],
     "alternative_label": null

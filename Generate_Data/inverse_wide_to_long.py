@@ -22,7 +22,6 @@ def inverse_wide_to_long(df, label_info):
     id_vars = df.columns[:start_idx].tolist()
     value_vars = df.columns[start_idx+1:].tolist()
     no_groups = (end_idx - start_idx + 1)//len(value_vars)
-
     rows = df.values.tolist()
     l = 0
     new_rows = []
