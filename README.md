@@ -15,3 +15,48 @@ Operations we used:
 - ffill
 - subtitle
 
+##### Directory Structure:
+.
++-- Data
+|   +-- operation1
+|       +-- train
+|           +-- Folder(x)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           +-- Folder(x+1)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           .
+|           .
+|           .
+|       +-- test
+|           +-- Folder(x)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           +-- Folder(x+1)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           .
+|           .
+|           .
+|   +-- operation2
+|       +-- train
+|           +-- Folder(x)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           +-- Folder(x+1)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           .
+|           .
+|           .
+|       +-- test
+|           +-- Folder(x)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           +-- Folder(x+1)
+|               +-- data.csv (input)
+|               +-- gt.csv (output)
+|           .
+|           .
+|           .
