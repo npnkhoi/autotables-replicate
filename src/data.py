@@ -1,15 +1,18 @@
-import pandas as pd
-import os
-import json
-
 """
 list the path of all the testcases
 """
 
-base_path = 'ATBench'
-data = []
+import pandas as pd
+import os
+import json
+from torch.utils.data import Dataset
 
-cnt = 0
+CLASSES = ['explode', 'ffill', 'pivot', 'stack', 'subtitle', 'transpose', 'wide_to_long']
+operator2idx = {op: i for i, op in enumerate(CLASSES)}
+
+# Load test data
+base_path = 'ATBench'
+test_data = []
 for root, dirs, files in os.walk(base_path):
     ancestors = root.split('/')
     if len(ancestors) != 2:
@@ -27,5 +30,42 @@ for root, dirs, files in os.walk(base_path):
         assert operator == ancestors[-1]
 
         input_path = os.path.join(root, dir, 'data.csv')
-        data.append((input_path, operator))
-        cnt += 1
+        test_data.append((input_path, operator2idx[operator]))
+
+# Load train & val data
+base_path = 'Data'
+train_data = []
+val_data = []
+
+for root, dirs, files in os.walk(base_path):
+    ancestors = root.split('/')
+    if len(ancestors) != 4 or 'data.csv' not in files:
+        continue
+    
+    operator = ancestors[1]
+    input_path = os.path.join(root, 'data.csv')
+    split = ancestors[2]
+    if split == 'train':
+        train_data.append((input_path, operator2idx[operator]))
+    elif split == 'test':
+        val_data.append((input_path, operator2idx[operator]))
+    else:
+        raise ValueError(f'Invalid split: {split}')
+
+class TableDataset(Dataset):
+    def __init__(self, data):
+        self.data = data
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        path, operator = self.data[idx]
+        # table = pd.read_csv(path)
+        return path, operator
+
+
+if __name__ == "__main__":
+    dataset = TableDataset(test_data)
+    print(len(dataset))
+    print(dataset[0])
