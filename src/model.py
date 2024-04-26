@@ -8,7 +8,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from src.data import test_data
+# from src.data import test_data
 from sentence_transformers import SentenceTransformer
 
 """
