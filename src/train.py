@@ -1,5 +1,13 @@
 """
 Train the model
+
+python -m src.train \
+    --outdir logs/test2 \
+    --batch_size 8 \
+    --epochs 10 \
+    --device cuda \
+    --embedding_model_path logs/test2 \
+    --lr 4e-3
 """
 
 from src.model import Embedding, TableClassifier
@@ -24,6 +32,7 @@ def train(args):
     batch_size = args.batch_size
     epochs = args.epochs
     device = args.device
+    embedding_model_path = args.embedding_model_path
 
     # Set device
     device = torch.device(device)
@@ -38,20 +47,23 @@ def train(args):
     print(f'Train set size: {len(train_set)}, Val set size: {len(val_set)}')
 
     # Initialize the model
-    embedding = Embedding().to(device)
+    embedding = Embedding(embedding_model_path).to(device)
     model = TableClassifier().to(device)
+    if args.classifier_model_path is not None:
+        model.load_state_dict(torch.load(args.classifier_model_path))
     optimizer = optim.Adam(model.parameters(), lr=1e-3)
 
     logs = {
+        'args': args.__dict__,
         'train_loss': [],
         'val_loss': [],
-        'train_accuracy': [],
         'val_accuracy': []
     }
     best_val_accuracy = 0
 
-    # Train the model
     for epoch in range(epochs):
+        # Train the model
+        train_loss = 0
         for i, (Xs, ys) in enumerate(train_loader):
             model.train()
             dfs = [pd.read_csv(path) for path in Xs]
@@ -61,32 +73,20 @@ def train(args):
             optimizer.zero_grad()
             output = model(Xs)
             loss = F.cross_entropy(output, ys)
+            train_loss += loss.item()
             loss.backward()
             optimizer.step()
 
-            print(f'Epoch {epoch}, Iter {i}, Loss: {loss.item()}')
+            if i % 20 == 0:
+                print(f'Epoch {epoch}, Iter {i}, Loss: {loss.item()}')
+        
+        train_loss /= len(train_loader)
 
         # Evaluate the model
         model.eval()
-        train_loss = 0
         val_loss = 0
-        train_preds = []
         val_preds = []
-        train_true = []
         val_true = []
-
-        for i, (Xs, ys) in enumerate(train_loader):
-            dfs = [pd.read_csv(path) for path in Xs]
-            Xs = embedding(dfs).float().to(device)
-            ys = ys.clone().detach().to(device)
-
-            output = model(Xs)
-            loss = F.cross_entropy(output, ys)
-            train_loss += loss.item()
-
-            train_preds += output.argmax(dim=1).tolist()
-            train_true += ys.tolist()
-        
         for i, (Xs, ys) in enumerate(val_loader):
             dfs = [pd.read_csv(path) for path in Xs]
             Xs = embedding(dfs).float().to(device)
@@ -99,15 +99,12 @@ def train(args):
             val_preds += output.argmax(dim=1).tolist()
             val_true += ys.tolist()
         
-        train_loss /= len(train_loader)
         val_loss /= len(val_loader)
-        train_accuracy = accuracy_score(train_true, train_preds)
         val_accuracy = accuracy_score(val_true, val_preds)
-
-        print(f'Epoch {epoch}, Train Loss: {train_loss}, Val Loss: {val_loss}, Train Accuracy: {train_accuracy}, Val Accuracy: {val_accuracy}')
+        
+        print(f'Epoch {epoch}, Train Loss: {train_loss}, Val Loss: {val_loss}, Val Accuracy: {val_accuracy}')
         logs['train_loss'].append(train_loss)
         logs['val_loss'].append(val_loss)
-        logs['train_accuracy'].append(train_accuracy)
         logs['val_accuracy'].append(val_accuracy)
 
         if val_accuracy > best_val_accuracy:
@@ -115,7 +112,8 @@ def train(args):
             best_val_accuracy = val_accuracy
     
     # save logs
-    json.dump(logs, open(f'{outdir}/logs.json', 'w'))
+    json.dump(logs, open(f'{outdir}/logs.json', 'w'), indent=2)
+    print(f'Best val accuracy: {best_val_accuracy}')
 
 
 # def force_cudnn_initialization():
@@ -131,6 +129,10 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default=4)
     parser.add_argument('--epochs', type=int, default=3)
     parser.add_argument('--device', type=str, default='cpu')
+    parser.add_argument('--lr', type=float, default=1e-3)
+    parser.add_argument('--embedding_model_path', type=str, default='sentence-transformers/paraphrase-MiniLM-L3-v2')
+    parser.add_argument('--classifier_model_path', type=str, default=None, help='path to the classifier model\'s state dict FILE. None means training from scratch.')
     args = parser.parse_args()
-
+    
+    print(args)
     train(args)

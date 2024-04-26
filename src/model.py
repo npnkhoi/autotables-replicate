@@ -35,11 +35,11 @@ NAN_STRING = 'N/A'
 Embedding layer for pandas dataframe
 """
 class Embedding(nn.Module):
-    def __init__(self):
+    def __init__(self, embedding_model_path):
         super(Embedding, self).__init__()
         # self.model = SentenceTransformer('bert-base-nli-mean-tokens')
         # self.model = SentenceTransformer('efederici/sentence-bert-base')
-        self.model = SentenceTransformer('sentence-transformers/paraphrase-MiniLM-L3-v2')
+        self.model = SentenceTransformer(embedding_model_path)
     """
     encode each cell of a table into a vector, return a tensor of shape (batch_size, num_rows, num_columns, embedding_size)
     """
