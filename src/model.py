@@ -1,5 +1,7 @@
 """
-WARNING: non-functional code
+Code for the model architecture, replicating that in the paper
+
+Author: Khoi Nguyen
 """
 # Create a pytorch model to classify tables
 

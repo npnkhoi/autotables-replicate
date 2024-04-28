@@ -1,6 +1,16 @@
-# autotables-replicate
+# Replicating AutoTables
 
 Replication code of the paper [Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples](https://arxiv.org/abs/2307.14565).
+
+## Overview
+
+AutoTables is an algorithm to automatically transform tables from non-relational form to the relational one.
+
+In this repo, we only replicate the transformation predictor, which is a 7-class classifier: `explode`, `ffill`, `pivot`, `stack`, `subtitle`, `transpose`, and `wide_to_long`. For simplicity, we excluded `multistep` operator and do not predict the arguments for the transformation functions.
+
+While the original model was trained on more than 100K tables, the training data was not released. Therefore, we synthesized the data ourselves using "inverse operators", resulting in over 1K tables.
+
+Full technical report that includes evaluation results will be updated later.
 
 ## Install
 

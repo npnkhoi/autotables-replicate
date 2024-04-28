@@ -1,13 +1,15 @@
 """
 Train the model
 
-python -m src.train \
+Usage: python -m src.train \
     --outdir logs/test2 \
     --batch_size 8 \
     --epochs 10 \
     --device cuda \
     --embedding_model_path logs/test2 \
     --lr 4e-3
+
+Author: Khoi Nguyen
 """
 
 from src.model import Embedding, TableClassifier

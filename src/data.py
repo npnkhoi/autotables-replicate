@@ -1,5 +1,7 @@
 """
-list the path of all the testcases
+Utilities for loading data
+
+Author: Khoi Nguyen
 """
 
 import pandas as pd

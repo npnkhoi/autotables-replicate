@@ -2,6 +2,8 @@
 Get a saved model, get accuracy on test set
 
 python -m src.eval [MODEL_PATH] ...
+
+Author: Khoi Nguyen
 """
 
 from src.model import Embedding, TableClassifier
