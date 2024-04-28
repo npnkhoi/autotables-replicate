@@ -1,17 +1,27 @@
 # autotables-replicate
 
+Replication code of the paper [Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples](https://arxiv.org/abs/2307.14565).
+
 ## Install
-- pandas
-- torch (with appropriate version for your CUDA)
+
+See `requirements.txt`
 
 ## Train
 
 Run
 ```bash
 python -m src.train \
-    --outdir logs/test2 \
+    --outdir logs/result \
     --batch_size 8 \
     --epochs 10 \
+    --device cuda
+```
+
+## Evaluation
+After training, run
+```bash
+python -m src.eval \
+    logs/result/model.pth
     --device cuda
 ```
 

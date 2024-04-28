@@ -1,7 +1,7 @@
 """
 Get a saved model, get accuracy on test set
 
-python -m src.eval --outdir ...
+python -m src.eval [MODEL_PATH] ...
 """
 
 from src.model import Embedding, TableClassifier
@@ -17,6 +17,7 @@ from src.data import get_test_data
 from argparse import ArgumentParser
 import json
 import os
+from sklearn.metrics import confusion_matrix
 
 def eval(args):
     # Get args
@@ -50,6 +51,10 @@ def eval(args):
             y_pred.extend(torch.argmax(logits, dim=1).cpu().numpy())
     accuracy = accuracy_score(y_true, y_pred)
     print(f'Test accuracy: {accuracy}')
+
+    # confusion matrix
+    cm = confusion_matrix(y_true, y_pred)
+    print(cm)
 
 if __name__ == '__main__':
     parser = ArgumentParser()

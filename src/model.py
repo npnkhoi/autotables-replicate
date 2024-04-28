@@ -35,7 +35,7 @@ NAN_STRING = 'N/A'
 Embedding layer for pandas dataframe
 """
 class Embedding(nn.Module):
-    def __init__(self, embedding_model_path):
+    def __init__(self, embedding_model_path='sentence-transformers/paraphrase-MiniLM-L3-v2'):
         super(Embedding, self).__init__()
         # self.model = SentenceTransformer('bert-base-nli-mean-tokens')
         # self.model = SentenceTransformer('efederici/sentence-bert-base')
