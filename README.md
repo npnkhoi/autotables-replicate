@@ -14,7 +14,11 @@ Full technical report that includes evaluation results will be updated later.
 
 ## Install
 
-See `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
+
+Important notice: Our training code requires GPU. Consequently, the PyTorch version needs to match with the CUDA version on your machine. Our specified Pytorch was compiled with CUDA 11.8.
 
 ## Train
 
@@ -31,8 +35,16 @@ python -m src.train \
 After training, run
 ```bash
 python -m src.eval \
-    logs/result/model.pth
+    logs/result/model.pth \
     --device cuda
+```
+
+However, if you just want to run our final model on CPU, run:
+```
+python -m src.eval \
+    logs/final/model.pth \
+    --batch_size 4 \
+    --device cpu
 ```
 
 ## Datasets
