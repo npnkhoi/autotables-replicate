@@ -1,4 +1,4 @@
-# Replicating AutoTables
+# Replicating AutoTable s
 
 Replication code of the paper - [Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples](https://arxiv.org/abs/2307.14565).
 
